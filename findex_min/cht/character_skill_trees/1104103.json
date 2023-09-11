@@ -1,0 +1,1 @@
+{"id":"1104103","name":"戰意","max_level":1,"desc":"傑帕德提高等同於自身當下防禦力#1[i]%的攻擊力，每回合開始時更新。","params":[[0.35]],"anchor":"Point08","pre_points":[],"level_up_skills":[],"levels":[{"promotion":6,"properties":[],"materials":[{"id":"2","num":160000},{"id":"110143","num":8},{"id":"241","num":1},{"id":"110502","num":1}]}],"icon":"icon/skill/1104_skilltree3.png"}

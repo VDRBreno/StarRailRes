@@ -1,0 +1,1 @@
+{"id":"110207","name":"환신(幻身)","max_level":1,"element":"","type":"Maze","type_text":"비술","effect":"Enhance","effect_text":"강화","simple_desc":"","desc":"비술 사용 후 #1[i]초 동안 은신 상태에 진입한다. 은신 상태에선 적에게 들키지 않으며, 선공을 가해 적과의 전투 진입 시 제레는 즉시 증폭 상태에 진입한다","params":[[20]],"icon":"icon/skill/1102_technique.png"}

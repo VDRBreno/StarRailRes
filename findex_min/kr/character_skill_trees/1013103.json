@@ -1,0 +1,1 @@
+{"id":"1013103","name":"빙결","max_level":1,"desc":"필살기 발동 시 빙결 상태의 적에게 가하는 피해가 #1[i]% 증가한다","params":[[0.2]],"anchor":"Point08","pre_points":[],"level_up_skills":[],"levels":[{"promotion":6,"properties":[],"materials":[{"id":"2","num":128000},{"id":"110133","num":6},{"id":"241","num":1},{"id":"110501","num":1}]}],"icon":"icon/skill/1013_skilltree3.png"}

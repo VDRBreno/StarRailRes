@@ -1,0 +1,1 @@
+{"id":"1202102","name":"Knell Subdual","max_level":1,"desc":"Increases Basic ATK DMG by #1[i]%.","params":[[0.4]],"anchor":"Point07","pre_points":[],"level_up_skills":[],"levels":[{"promotion":4,"properties":[],"materials":[{"id":"2","num":16000},{"id":"110162","num":4},{"id":"241","num":1},{"id":"110501","num":1}]}],"icon":"icon/skill/1202_skilltree2.png"}

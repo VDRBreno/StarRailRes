@@ -1,0 +1,1 @@
+{"id":"1101102","name":"阵地","max_level":1,"desc":"战斗开始时，我方全体的防御力提高#2[i]%，持续#1[i]回合。","params":[[2,0.2]],"anchor":"Point07","pre_points":[],"level_up_skills":[],"levels":[{"promotion":4,"properties":[],"materials":[{"id":"2","num":20000},{"id":"110162","num":5},{"id":"241","num":1},{"id":"110502","num":1}]}],"icon":"icon/skill/1101_skilltree2.png"}

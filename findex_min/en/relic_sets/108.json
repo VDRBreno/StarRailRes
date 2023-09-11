@@ -1,0 +1,1 @@
+{"id":"108","name":"Genius of Brilliant Stars","desc":["Increases Quantum DMG by 10%.","When the wearer deals DMG to the target enemy, ignores 10% DEF. If the target enemy has Quantum Weakness, the wearer additionally ignores 10% DEF."],"properties":[[{"type":"QuantumAddedRatio","value":0.1}],[]],"icon":"icon/relic/108.png","guide_overview":[]}

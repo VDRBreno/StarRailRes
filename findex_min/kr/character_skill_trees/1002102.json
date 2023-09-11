@@ -1,0 +1,1 @@
+{"id":"1002102","name":"절영","max_level":1,"desc":"공격 발동 후 #1[i]%의 고정 확률로 자신의 속도가 #2[i]% 증가한다. 지속 시간: #3[i]턴","params":[[0.5,0.2,2]],"anchor":"Point07","pre_points":[],"level_up_skills":[],"levels":[{"promotion":4,"properties":[],"materials":[{"id":"2","num":16000},{"id":"110122","num":4},{"id":"241","num":1},{"id":"110501","num":1}]}],"icon":"icon/skill/1002_skilltree2.png"}

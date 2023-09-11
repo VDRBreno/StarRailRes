@@ -1,0 +1,1 @@
+{"id":"1202202","name":"Cường Hóa Phòng Thủ","max_level":1,"desc":"","params":[],"anchor":"Point10","pre_points":["1202101"],"level_up_skills":[],"levels":[{"promotion":2,"properties":[{"type":"DefenceAddedRatio","value":0.05}],"materials":[{"id":"2","num":4000},{"id":"110161","num":2},{"id":"113001","num":4}]}],"icon":"icon/property/IconDefence.png"}

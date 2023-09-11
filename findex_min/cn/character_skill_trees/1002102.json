@@ -1,0 +1,1 @@
+{"id":"1002102","name":"绝影","max_level":1,"desc":"施放攻击后有#1[i]%的固定概率使自身速度提高#2[i]%，持续#3[i]回合。","params":[[0.5,0.2,2]],"anchor":"Point07","pre_points":[],"level_up_skills":[],"levels":[{"promotion":4,"properties":[],"materials":[{"id":"2","num":16000},{"id":"110122","num":4},{"id":"241","num":1},{"id":"110501","num":1}]}],"icon":"icon/skill/1002_skilltree2.png"}

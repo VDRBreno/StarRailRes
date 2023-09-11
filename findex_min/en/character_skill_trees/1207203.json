@@ -1,0 +1,1 @@
+{"id":"1207203","name":"DMG Boost: Imaginary","max_level":1,"desc":"","params":[],"anchor":"Point11","pre_points":["1207202"],"level_up_skills":[],"levels":[{"promotion":3,"properties":[{"type":"ImaginaryAddedRatio","value":0.032}],"materials":[{"id":"2","num":8000},{"id":"110162","num":2},{"id":"113012","num":2}]}],"icon":"icon/property/IconImaginaryAddedRatio.png"}

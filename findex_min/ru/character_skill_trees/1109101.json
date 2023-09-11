@@ -1,0 +1,1 @@
+{"id":"1109101","name":"Невинность","max_level":1,"desc":"Хук восстанавливает #1[i]% HP каждый раз, когда срабатывает её талант.","params":[[0.05]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"properties":[],"materials":[{"id":"2","num":4000},{"id":"110111","num":2},{"id":"110502","num":1}]}],"icon":"icon/skill/1109_skilltree1.png"}

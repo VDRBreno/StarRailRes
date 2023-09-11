@@ -1,0 +1,1 @@
+{"id":"1107101","name":"家族","max_level":1,"desc":"攻撃を受けた時、#1[i]%の固定確率で自身のデバフを1つ解除する。","params":[[0.35]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110111","num":3},{"id":"110502","num":1}]}],"icon":"icon/skill/1107_skilltree1.png"}

@@ -1,0 +1,1 @@
+{"id":"110407","name":"有情之证","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Defence","effect_text":"防御","simple_desc":"使用秘技，下一次战斗开始时我方全体获得护盾。","desc":"使用秘技后，下一次战斗开始时为我方全体提供能够抵消等同于杰帕德#1[i]%防御力+#3[i]伤害的护盾，持续#2[i]回合。","params":[[0.24,2,150]],"icon":"icon/skill/1104_technique.png"}

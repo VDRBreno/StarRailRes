@@ -1,0 +1,1 @@
+{"id":"111","name":"流星追跡的怪盜","desc":["擊破特攻提高16%。","使裝備者的擊破特攻提高16%。當裝備者擊破敵方目標弱點後，恢復3點能量。"],"properties":[[{"type":"BreakDamageAddedRatioBase","value":0.16}],[{"type":"BreakDamageAddedRatioBase","value":0.16}]],"icon":"icon/relic/111.png","guide_overview":[]}

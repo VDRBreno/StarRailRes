@@ -1,0 +1,1 @@
+{"id":"21000","skill":"상호 치유","desc":"장착한 캐릭터의 에너지 회복효율이 #1[i]% 증가하고, 필살기 발동 시 치유량이 #2[i]% 증가한다","params":[[0.08,0.12],[0.1,0.15],[0.12,0.18],[0.14,0.21],[0.16,0.24]],"properties":[[{"type":"SPRatioBase","value":0.08}],[{"type":"SPRatioBase","value":0.1}],[{"type":"SPRatioBase","value":0.12}],[{"type":"SPRatioBase","value":0.14}],[{"type":"SPRatioBase","value":0.16}]]}

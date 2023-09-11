@@ -1,0 +1,1 @@
+{"id":"100605","name":"Fuerza bruta","rank":5,"desc":"Niv. de habilidad definitiva +2 (máximo: nivel 15). Niv. de ATQ básico +1 (máximo: nivel 10).","materials":[{"id":"11006","num":1}],"level_up_skills":[{"id":"100603","num":2},{"id":"100601","num":1}],"icon":"icon/skill/1006_ultimate.png"}

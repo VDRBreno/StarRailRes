@@ -1,0 +1,1 @@
+{"id":"1202209","name":"Bonificación de DEF","max_level":1,"desc":"","params":[],"anchor":"Point17","pre_points":["1202208"],"level_up_skills":[],"levels":[{"promotion":0,"properties":[{"type":"DefenceAddedRatio","value":0.1}],"materials":[{"id":"2","num":128000},{"id":"110163","num":6},{"id":"113003","num":6}]}],"icon":"icon/property/IconDefence.png"}

@@ -1,0 +1,1 @@
+{"id":"105","name":"스트리트 격투왕","desc":["물리 속성 피해 10% 증가","장착한 캐릭터는 공격 발동 혹은 피격 후 해당 전투에서 공격력이 5% 증가한다. 최대 중첩수: 5스택"],"properties":[[{"type":"PhysicalAddedRatio","value":0.1}],[]],"icon":"icon/relic/105.png","guide_overview":[]}

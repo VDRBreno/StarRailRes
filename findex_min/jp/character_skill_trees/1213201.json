@@ -1,0 +1,1 @@
+{"id":"1213201","name":"ダメージ強化・虚数","max_level":1,"desc":"","params":[],"anchor":"Point09","pre_points":[],"level_up_skills":[],"levels":[{"promotion":0,"properties":[{"type":"ImaginaryAddedRatio","value":0.032}],"materials":[{"id":"2","num":2500},{"id":"113001","num":2}]}],"icon":"icon/property/IconImaginaryAddedRatio.png"}

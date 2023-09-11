@@ -1,0 +1,1 @@
+{"id":"1111101","name":"Động Năng Quá Tải","max_level":1,"desc":"Khi thi triển Chiến Kỹ, sẽ giải trừ ngay #1[i] Hiệu Ứng Buff của kẻ địch.","params":[[1]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"properties":[],"materials":[{"id":"2","num":4000},{"id":"110151","num":2},{"id":"110503","num":1}]}],"icon":"icon/skill/1111_skilltree1.png"}

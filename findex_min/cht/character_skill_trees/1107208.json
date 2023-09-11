@@ -1,0 +1,1 @@
+{"id":"1107208","name":"生命強化","max_level":1,"desc":"","params":[],"anchor":"Point16","pre_points":["1107103"],"level_up_skills":[],"levels":[{"promotion":6,"properties":[{"type":"HPAddedRatio","value":0.06}],"materials":[{"id":"2","num":160000},{"id":"110113","num":8},{"id":"112013","num":8}]}],"icon":"icon/property/IconMaxHP.png"}

@@ -1,0 +1,1 @@
+{"id":"1108101","name":"圈套","max_level":1,"desc":"天賦使敵方陷入風化狀態的持續時間延長#1[i]回合。","params":[[1]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"properties":[],"materials":[{"id":"2","num":4000},{"id":"110151","num":2},{"id":"110502","num":1}]}],"icon":"icon/skill/1108_skilltree1.png"}

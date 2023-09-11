@@ -1,0 +1,1 @@
+{"id":"1203101","name":"滴水蘇生","max_level":1,"desc":"戦闘スキルの効果が発動された時、ターゲットとなった味方単体のデバフを#1[i]つ解除する。","params":[[1]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110171","num":3},{"id":"110502","num":1}]}],"icon":"icon/skill/1203_skilltree1.png"}

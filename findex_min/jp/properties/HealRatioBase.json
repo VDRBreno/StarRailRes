@@ -1,0 +1,1 @@
+{"type":"HealRatioBase","name":"治癒量","field":"heal_rate","affix":true,"ratio":false,"percent":true,"order":16,"icon":"icon/property/IconHealRatio.png"}

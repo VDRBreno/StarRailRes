@@ -1,0 +1,1 @@
+{"id":"1109101","name":"Chất Phác","max_level":1,"desc":"Khi kích hoạt Thiên Phú, sẽ hồi HP bằng #1[i]% Giới Hạn HP của Hook.","params":[[0.05]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"properties":[],"materials":[{"id":"2","num":4000},{"id":"110111","num":2},{"id":"110502","num":1}]}],"icon":"icon/skill/1109_skilltree1.png"}

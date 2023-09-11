@@ -1,0 +1,1 @@
+{"id":"1107102","name":"Под защитой","max_level":1,"desc":"Шанс избежать эффекта контроля повышается на #1[i]%.","params":[[0.35]],"anchor":"Point07","pre_points":[],"level_up_skills":[],"levels":[{"promotion":4,"properties":[],"materials":[{"id":"2","num":20000},{"id":"110112","num":5},{"id":"241","num":1},{"id":"110502","num":1}]}],"icon":"icon/skill/1107_skilltree2.png"}

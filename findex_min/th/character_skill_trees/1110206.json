@@ -1,0 +1,1 @@
+{"id":"1110206","name":"เสริมการป้องกัน","max_level":1,"desc":"","params":[],"anchor":"Point14","pre_points":["1110205"],"level_up_skills":[],"levels":[{"promotion":5,"properties":[{"type":"DefenceAddedRatio","value":0.075}],"materials":[{"id":"2","num":36000},{"id":"110173","num":2},{"id":"111003","num":2}]}],"icon":"icon/property/IconDefence.png"}

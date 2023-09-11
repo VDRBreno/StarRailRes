@@ -1,0 +1,1 @@
+{"id":"1006103","name":"旁注","max_level":1,"desc":"施放战技时，若敌方目标的负面效果数量大于等于#1[i]个，则战技使目标全属性抗性降低的效果额外降低#2[i]%。","params":[[3,0.03]],"anchor":"Point08","pre_points":[],"level_up_skills":[],"levels":[{"promotion":6,"properties":[],"materials":[{"id":"2","num":160000},{"id":"110153","num":8},{"id":"241","num":1},{"id":"110501","num":1}]}],"icon":"icon/skill/1006_skilltree3.png"}

@@ -1,0 +1,1 @@
+{"id":"101307","name":"可以优化一下","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Enhance","effect_text":"强化","simple_desc":"","desc":"使用秘技后，下一次战斗开始时黑塔攻击力提高#1[i]%，持续#2[i]回合。","params":[[0.4,3]],"icon":"icon/skill/1013_technique.png"}

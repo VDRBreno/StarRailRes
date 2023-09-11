@@ -1,0 +1,1 @@
+{"id":"111","name":"流星の跡を追う怪盗","desc":["撃破特効+16%。","装備キャラの撃破特効+16%。装備キャラが敵を弱点撃破した後、EPを3回復する。"],"properties":[[{"type":"BreakDamageAddedRatioBase","value":0.16}],[{"type":"BreakDamageAddedRatioBase","value":0.16}]],"icon":"icon/relic/111.png","guide_overview":[]}

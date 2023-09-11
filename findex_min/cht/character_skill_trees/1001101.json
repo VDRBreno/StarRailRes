@@ -1,0 +1,1 @@
+{"id":"1001101","name":"純潔","max_level":1,"desc":"施放戰技時，解除指定我方單體的1個負面效果。","params":[],"anchor":"Point06","pre_points":["1001201"],"level_up_skills":[],"levels":[{"promotion":2,"properties":[],"materials":[{"id":"2","num":4000},{"id":"110141","num":2},{"id":"110501","num":1}]}],"icon":"icon/skill/1001_skilltree1.png"}

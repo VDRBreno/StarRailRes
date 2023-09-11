@@ -1,0 +1,1 @@
+{"id":"110607","name":"先發制人","max_level":1,"element":"Ice","type":"Maze","type_text":"秘技","effect":"MazeAttack","effect_text":"","simple_desc":"攻擊敵人，進入戰鬥後對敵方隨機單體造成少量傷害，並有高機率使敵方每個單體目標防禦力降低。","desc":"立即攻擊敵人，進入戰鬥後對敵方隨機單體造成等同於佩拉#4[i]%攻擊力的冰屬性傷害，同時有#1[i]%的基礎機率使敵方每個單體目標防禦力降低#2[i]%，持續#3[i]回合。","params":[[1,0.2,2,0.8]],"icon":"icon/skill/1106_technique.png"}

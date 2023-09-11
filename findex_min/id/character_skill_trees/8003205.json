@@ -1,0 +1,1 @@
+{"id":"8003205","name":"Peningkatan DEF","max_level":1,"desc":"","params":[],"anchor":"Point13","pre_points":["8003102"],"level_up_skills":[],"levels":[{"promotion":4,"properties":[{"type":"DefenceAddedRatio","value":0.075}],"materials":[{"id":"2","num":16000},{"id":"110142","num":4},{"id":"111012","num":3}]}],"icon":"icon/property/IconDefence.png"}

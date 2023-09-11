@@ -1,0 +1,1 @@
+{"id":"301","name":"우주 봉인 정거장","desc":["장착한 캐릭터의 공격력이 12% 증가한다. 장착한 캐릭터의 속도가 120 이상일 경우 공격력이 추가로 12% 증가한다",""],"properties":[[{"type":"AttackAddedRatio","value":0.12}]],"icon":"icon/relic/301.png","guide_overview":[]}

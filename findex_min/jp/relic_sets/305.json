@@ -1,0 +1,1 @@
+{"id":"305","name":"天体階差機関","desc":["装備キャラの会心ダメージ+16%。装備キャラの会心ダメージが120%以上の場合、戦闘に入った後、装備キャラの会心率+60%、初回の攻撃が終了するまで継続。",""],"properties":[[{"type":"CriticalDamageBase","value":0.16}]],"icon":"icon/relic/305.png","guide_overview":[]}

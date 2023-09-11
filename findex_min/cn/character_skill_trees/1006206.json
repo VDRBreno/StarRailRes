@@ -1,0 +1,1 @@
+{"id":"1006206","name":"效果命中强化","max_level":1,"desc":"","params":[],"anchor":"Point14","pre_points":["1006205"],"level_up_skills":[],"levels":[{"promotion":5,"properties":[{"type":"StatusProbabilityBase","value":0.06}],"materials":[{"id":"2","num":45000},{"id":"110153","num":3},{"id":"112013","num":3}]}],"icon":"icon/property/IconStatusProbability.png"}

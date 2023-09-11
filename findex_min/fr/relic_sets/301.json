@@ -1,0 +1,1 @@
+{"id":"301","name":"Station de scellement spatial","desc":["Augmente l'ATQ du porteur de 12%. Lorsque sa VIT est supérieure ou égale à 120, son ATQ augmente encore de 12%.",""],"properties":[[{"type":"AttackAddedRatio","value":0.12}]],"icon":"icon/relic/301.png","guide_overview":[]}

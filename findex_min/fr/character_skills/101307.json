@@ -1,0 +1,1 @@
+{"id":"101307","name":"Il y a de la marge de progression","max_level":1,"element":"","type":"Maze","type_text":"Technique","effect":"Enhance","effect_text":"Renforcement","simple_desc":"","desc":"Après utilisation de sa technique, l'ATQ de Herta augmente de #1[i]% pendant #2[i] tours au début du combat suivant.","params":[[0.4,3]],"icon":"icon/skill/1013_technique.png"}

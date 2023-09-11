@@ -1,0 +1,1 @@
+{"id":"1213101","name":"Star Veil","max_level":1,"desc":"Segera memulihkan #1[i] Energy saat pertempuran dimulai.","params":[[15]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110111","num":3},{"id":"110503","num":1}]}],"icon":"icon/skill/1213_skilltree1.png"}

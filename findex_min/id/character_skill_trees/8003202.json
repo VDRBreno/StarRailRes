@@ -1,0 +1,1 @@
+{"id":"8003202","name":"Peningkatan ATK","max_level":1,"desc":"","params":[],"anchor":"Point10","pre_points":["8003101"],"level_up_skills":[],"levels":[{"promotion":2,"properties":[{"type":"AttackAddedRatio","value":0.04}],"materials":[{"id":"2","num":4000},{"id":"110141","num":2},{"id":"111011","num":4}]}],"icon":"icon/property/IconAttack.png"}

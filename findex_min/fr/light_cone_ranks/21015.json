@@ -1,0 +1,1 @@
+{"id":"21015","skill":"Regard en arrière","desc":"Lorsque le porteur touche un ennemi qui n'est pas déjà piégé, il y a #1[i]% de chances de base de piéger l'ennemi touché. La DÉF des ennemis piégés diminue de #2[i]% pendant #3[i] tour.","params":[[0.6,0.12,1],[0.7,0.13,1],[0.8,0.14,1],[0.9,0.15,1],[1,0.16,1]],"properties":[[],[],[],[],[]]}

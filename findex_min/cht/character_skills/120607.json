@@ -1,0 +1,1 @@
+{"id":"120607","name":"雲騎劍經•叩陣","max_level":1,"element":"Physical","type":"Maze","type_text":"秘技","effect":"MazeAttack","effect_text":"","simple_desc":"攻擊敵人，進入戰鬥後對敵方全體造成少量物理屬性傷害。","desc":"立即攻擊敵人，進入戰鬥後對敵方全體造成等同於素裳#1[i]%攻擊力的物理屬性傷害。","params":[[0.8]],"icon":"icon/skill/1206_technique.png"}

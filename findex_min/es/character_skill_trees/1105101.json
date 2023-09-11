@@ -1,0 +1,1 @@
+{"id":"1105101","name":"Consuelo","max_level":1,"desc":"Al usar la habilidad básica, se elimina #1[i] estado negativo del objetivo aliado.","params":[[1]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"properties":[],"materials":[{"id":"2","num":4000},{"id":"110171","num":2},{"id":"110502","num":1}]}],"icon":"icon/skill/1105_skilltree1.png"}

@@ -1,0 +1,1 @@
+{"id":"105","name":"Championne de boxe de rue","desc":["Augmente les DGT physiques de 10%.","Lorsque le porteur attaque ou est touché, son ATQ augmente de 5% pour le reste du combat. Cet effet est cumulable 5 fois."],"properties":[[{"type":"PhysicalAddedRatio","value":0.1}],[]],"icon":"icon/relic/105.png","guide_overview":[]}

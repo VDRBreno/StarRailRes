@@ -1,0 +1,1 @@
+{"type":"HealRatioBase","name":"เพิ่มปริมาณการรักษา","field":"heal_rate","affix":true,"ratio":false,"percent":true,"order":16,"icon":"icon/property/IconHealRatio.png"}

@@ -1,0 +1,1 @@
+{"id":"111001","name":"얼음 등반 갈고리 기술","max_level":9,"element":"Quantum","type":"Normal","type_text":"일반 공격","effect":"SingleAttack","effect_text":"단일 공격","simple_desc":"단일 적에게 소량의 양자 속성 피해를 가한다","desc":"지정된 단일 적에게 자신의 HP 최대치의 #1[i]%만큼 양자 속성 피해를 준다","params":[[0.25],[0.3],[0.35],[0.4],[0.45],[0.5],[0.55],[0.6],[0.65]],"icon":"icon/skill/1110_basic_atk.png"}

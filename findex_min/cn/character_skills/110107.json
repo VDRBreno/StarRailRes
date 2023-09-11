@@ -1,0 +1,1 @@
+{"id":"110107","name":"在旗帜下","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Support","effect_text":"辅助","simple_desc":"使用秘技，下一次战斗开始时我方全体攻击力提高。","desc":"使用秘技后，下一次战斗开始时使我方全体攻击力提高#1[i]%，持续#2[i]回合。","params":[[0.15,2]],"icon":"icon/skill/1101_technique.png"}

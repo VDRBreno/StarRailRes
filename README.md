@@ -43,6 +43,7 @@ StarRailRes
 ├─ guide        # guide image folder / 教程图片目录
 ├─ index_new    # index files folder / 索引目录
 └─ index_min    # compressed index files folder / 压缩索引目录
+└─ findex_min   # compressed index files folder with different structure
 ```
 
 ## Links

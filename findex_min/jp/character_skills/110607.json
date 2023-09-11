@@ -1,0 +1,1 @@
+{"id":"110607","name":"先手必勝","max_level":1,"element":"Ice","type":"Maze","type_text":"秘技","effect":"MazeAttack","effect_text":"","simple_desc":"敵を攻撃。戦闘に入った後、ランダムな敵単体に少量のダメージを与え、高確率で敵それぞれの防御力ダウン。","desc":"敵を攻撃。戦闘に入った後、ランダムな敵単体にペラの攻撃力#4[i]%分の氷属性ダメージを与え、#1[i]%の基礎確率で敵単体それぞれの防御力-#2[i]%、#3[i]ターン継続。","params":[[1,0.2,2,0.8]],"icon":"icon/skill/1106_technique.png"}

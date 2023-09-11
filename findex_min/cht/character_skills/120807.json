@@ -1,0 +1,1 @@
+{"id":"120807","name":"歲記否泰，固守四郭","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Defence","effect_text":"防禦","simple_desc":"開啟屏障，受到敵人攻擊時不會進入戰鬥。進入戰鬥後自動開啟【窮觀陣】。","desc":"使用秘技後，我方全體獲得持續#1[i]秒的屏障。該屏障可抵擋敵人的所有攻擊，不會進入戰鬥。屏障持續期間進入戰鬥時符玄會自動開啟【窮觀陣】，持續#2[i]回合。","params":[[20,2]],"icon":"icon/skill/1208_technique.png"}

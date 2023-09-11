@@ -1,0 +1,1 @@
+{"id":"120907","name":"御剑真诀","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Enhance","effect_text":"强化","simple_desc":"使用秘技，下一次战斗开始时自身对生命值百分比大于等于50%的敌方目标造成的伤害提高。","desc":"使用秘技后，下一次战斗开始时彦卿对当前生命值百分比大于等于#1[i]%的敌方目标造成的伤害提高#2[i]%，持续#3[i]回合。","params":[[0.5,0.3,2]],"icon":"icon/skill/1209_technique.png"}

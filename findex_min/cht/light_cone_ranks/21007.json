@@ -1,0 +1,1 @@
+{"id":"21007","skill":"救治與維修","desc":"使裝備者的治療量提高#1[i]%，並在施放戰技時為我方全體恢復#2[i]點能量。","params":[[0.1,2],[0.125,2.5],[0.15,3],[0.175,3.5],[0.2,4]],"properties":[[{"type":"HealRatioBase","value":0.1}],[{"type":"HealRatioBase","value":0.125}],[{"type":"HealRatioBase","value":0.15}],[{"type":"HealRatioBase","value":0.175}],[{"type":"HealRatioBase","value":0.2}]]}

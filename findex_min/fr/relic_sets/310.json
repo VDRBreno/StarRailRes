@@ -1,0 +1,1 @@
+{"id":"310","name":"Quille brisée","desc":["Augmente la RÉS aux effets du porteur de 10%. Lorsque sa RÉS aux effets est supérieure ou égale à 30%, les DGT critiques de tous les alliés augmentent de 10%.",""],"properties":[[{"type":"StatusResistanceBase","value":0.1}]],"icon":"icon/relic/310.png","guide_overview":[]}

@@ -1,0 +1,1 @@
+{"id":"110806","name":"Атака","max_level":1,"element":"Wind","type":"MazeNormal","type_text":"","effect":"MazeAttack","effect_text":"","simple_desc":"","desc":"Атакует противника и после начала боя истощает стойкость соответствующего типа уязвимости противника.","params":[],"icon":"icon/skill/1108_basic_atk.png"}

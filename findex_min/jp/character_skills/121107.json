@@ -1,0 +1,1 @@
+{"id":"121107","name":"恙病を払拭せし、徜徉する霊澤","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Restore","effect_text":"回復","simple_desc":"秘技を使用、次の戦闘開始時、味方全体に「生生」を付与する。","desc":"秘技を使用した後、次の戦闘開始時、味方全体に「生生」を付与、#1[i]ターン継続。","params":[[2]],"icon":"icon/skill/1211_technique.png"}

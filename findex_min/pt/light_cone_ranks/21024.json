@@ -1,0 +1,1 @@
+{"id":"21024","skill":"Combata o Frio Persistente","desc":"Após entrar na batalha, aumenta a VEL do usuário em #1[i]% e o seu Dano em #2[i]%. Quando o usuário recebe Dano, este efeito desaparece. O efeito retorna após o fim da próxima rodada do usuário.","params":[[0.08,0.12],[0.09,0.15],[0.1,0.18],[0.11,0.21],[0.12,0.24]],"properties":[[],[],[],[],[]]}

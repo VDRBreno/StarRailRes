@@ -1,0 +1,1 @@
+{"id":"101","name":"흔적을 남기지 않은 과객","desc":["치유량 10% 증가","전투 시작 시 즉시 아군의 전투 스킬 포인트를 1pt 회복한다"],"properties":[[{"type":"HealRatioBase","value":0.1}],[]],"icon":"icon/relic/101.png","guide_overview":[]}

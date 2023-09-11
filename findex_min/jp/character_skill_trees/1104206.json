@@ -1,0 +1,1 @@
+{"id":"1104206","name":"効果抵抗強化","max_level":1,"desc":"","params":[],"anchor":"Point14","pre_points":["1104205"],"level_up_skills":[],"levels":[{"promotion":5,"properties":[{"type":"StatusResistanceBase","value":0.06}],"materials":[{"id":"2","num":45000},{"id":"110143","num":3},{"id":"112003","num":3}]}],"icon":"icon/property/IconStatusResistance.png"}

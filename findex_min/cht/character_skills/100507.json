@@ -1,0 +1,1 @@
+{"id":"100507","name":"寬恕無關慈悲","max_level":1,"element":"Thunder","type":"Maze","type_text":"秘技","effect":"MazeAttack","effect_text":"","simple_desc":"攻擊範圍內的所有敵人，進入戰鬥後對敵方全體造成少量雷屬性傷害，有高機率施加觸電狀態。","desc":"立即攻擊一定範圍內的所有敵人，進入戰鬥後對敵方全體造成等同於卡芙卡#3[i]%攻擊力的雷屬性傷害，同時有#1[i]%的基礎機率使敵方每個單體目標陷入與終結技相同的觸電狀態，持續#2[i]回合。","params":[[1,2,0.5]],"icon":"icon/skill/1005_technique.png"}

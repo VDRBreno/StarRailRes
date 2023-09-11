@@ -1,0 +1,1 @@
+{"id":"8002210","name":"ANG-Verstärkung","max_level":1,"desc":"","params":[],"anchor":"Point18","pre_points":["8002208"],"level_up_skills":[],"levels":[{"promotion":0,"properties":[{"type":"AttackAddedRatio","value":0.08}],"materials":[{"id":"2","num":128000},{"id":"110113","num":6},{"id":"111013","num":6}]}],"icon":"icon/property/IconAttack.png"}

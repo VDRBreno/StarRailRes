@@ -1,0 +1,1 @@
+{"id":"1213103","name":"啓蟄","max_level":1,"desc":"虚数属性が弱点の敵にダメージを与える時、会心ダメージ+#1[i]%。","params":[[0.24]],"anchor":"Point08","pre_points":[],"level_up_skills":[],"levels":[{"promotion":6,"properties":[],"materials":[{"id":"2","num":160000},{"id":"110113","num":8},{"id":"241","num":1},{"id":"110503","num":1}]}],"icon":"icon/skill/1213_skilltree3.png"}

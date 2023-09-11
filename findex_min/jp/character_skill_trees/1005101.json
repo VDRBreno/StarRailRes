@@ -1,0 +1,1 @@
+{"id":"1005101","name":"苛み","max_level":1,"desc":"必殺技を発動した時、敵は「付与された感電状態がダメージを発生する」から「付与されたすべての持続ダメージ系デバフがダメージを発生する」に変更される。","params":[],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110151","num":3},{"id":"110503","num":1}]}],"icon":"icon/skill/1005_skilltree1.png"}

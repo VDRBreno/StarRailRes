@@ -1,0 +1,1 @@
+{"id":"21000","skill":"相互回復","desc":"装備キャラのEP回復効率+#1[i]%。必殺技を発動した時、治癒量+#2[i]%。","params":[[0.08,0.12],[0.1,0.15],[0.12,0.18],[0.14,0.21],[0.16,0.24]],"properties":[[{"type":"SPRatioBase","value":0.08}],[{"type":"SPRatioBase","value":0.1}],[{"type":"SPRatioBase","value":0.12}],[{"type":"SPRatioBase","value":0.14}],[{"type":"SPRatioBase","value":0.16}]]}

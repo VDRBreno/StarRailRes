@@ -1,0 +1,1 @@
+{"id":"108","name":"Genio de las estrellas relucientes","desc":["Daño Cuántico +10%.","Cuando el portador inflige daño a un objetivo enemigo, ignora el 10% de su DEF. Si el objetivo tiene Debilidad Cuántica, ignora un 10% adicional de su DEF."],"properties":[[{"type":"QuantumAddedRatio","value":0.1}],[]],"icon":"icon/relic/108.png","guide_overview":[]}

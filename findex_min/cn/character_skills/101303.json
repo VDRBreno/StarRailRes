@@ -1,0 +1,1 @@
+{"id":"101303","name":"是魔法，我加了魔法","max_level":15,"element":"Ice","type":"Ultra","type_text":"终结技","effect":"AoEAttack","effect_text":"群攻","simple_desc":"对敌方全体造成冰属性伤害。","desc":"对敌方全体造成等同于黑塔#1[i]%攻击力的冰属性伤害。","params":[[1.2],[1.28],[1.36],[1.44],[1.52],[1.6],[1.7],[1.8],[1.9],[2],[2.08],[2.16],[2.24],[2.32],[2.4]],"icon":"icon/skill/1013_ultimate.png"}

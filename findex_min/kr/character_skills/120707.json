@@ -1,0 +1,1 @@
+{"id":"120707","name":"바람을 가르는 연","max_level":1,"element":"","type":"Maze","type_text":"비술","effect":"Enhance","effect_text":"강화","simple_desc":"자신의 이동 속도가 증가하며 적과의 전투 진입 후 [활시위 호령]을 2스택 획득한다","desc":"비술 사용 후 #1[i]초 동안 질주 상태에 진입한다. 질주 상태에선 자신의 이동 속도가 #2[i]% 증가하며, 선공을 가해 적과의 전투 진입 시 어공은 [활시위 호령]을 #3[i]스택 획득한다","params":[[20,0.35,2]],"icon":"icon/skill/1207_technique.png"}

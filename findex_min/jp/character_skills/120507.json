@@ -1,0 +1,1 @@
+{"id":"120507","name":"業途風","max_level":1,"element":"Wind","type":"Maze","type_text":"秘技","effect":"MazeAttack","effect_text":"","simple_desc":"敵を攻撃。戦闘に入った後、自身のHPを消費し、敵全体に風属性ダメージを与える。","desc":"敵を攻撃。戦闘に入った後、刃の最大HP#2[i]%分のHPを消費し、敵全体に刃の最大HP#1[i]%分の風属性ダメージを与える。\n残りHPが足りない場合、秘技を発動した時、刃の残りHPが1になる。","params":[[0.4,0.2]],"icon":"icon/skill/1205_technique.png"}

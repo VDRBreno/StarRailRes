@@ -1,0 +1,1 @@
+{"id":"21006","skill":"Die Jungfrau im Gemälde","desc":"Erhöht den verursachten SCH durch Folgeangriff des Trägers um #1[i]%. Liegt der LP-Prozentsatz des Ziels aktuell bei #2[i]% oder niedriger, wird der SCH durch Folgeangriff zusätzlich um #3[i]% erhöht.","params":[[0.24,0.5,0.24],[0.3,0.5,0.3],[0.36,0.5,0.36],[0.42,0.5,0.42],[0.48,0.5,0.48]],"properties":[[],[],[],[],[]]}

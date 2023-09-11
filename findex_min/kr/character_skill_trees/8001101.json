@@ -1,0 +1,1 @@
+{"id":"8001101","name":"전투 준비","max_level":1,"desc":"전투 시작 시 즉시 에너지를 #1[i]pt 회복한다","params":[[15]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"properties":[],"materials":[{"id":"2","num":4000},{"id":"110111","num":2},{"id":"110501","num":1}]}],"icon":"icon/skill/8001_skilltree1.png"}

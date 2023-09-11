@@ -1,0 +1,1 @@
+{"id":"1101203","name":"Peningkatan DMG: Wind","max_level":1,"desc":"","params":[],"anchor":"Point11","pre_points":["1101202"],"level_up_skills":[],"levels":[{"promotion":3,"properties":[{"type":"WindAddedRatio","value":0.032}],"materials":[{"id":"2","num":10000},{"id":"110162","num":3},{"id":"112002","num":3}]}],"icon":"icon/property/IconWindAddedRatio.png"}

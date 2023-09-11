@@ -1,0 +1,1 @@
+{"id":"1209102","name":"凌霜","max_level":1,"desc":"「智剣連心」がある場合、効果抵抗+#1[i]%。","params":[[0.2]],"anchor":"Point07","pre_points":[],"level_up_skills":[],"levels":[{"promotion":4,"properties":[],"materials":[{"id":"2","num":20000},{"id":"110122","num":5},{"id":"241","num":1},{"id":"110502","num":1}]}],"icon":"icon/skill/1209_skilltree2.png"}

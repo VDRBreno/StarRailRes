@@ -1,0 +1,1 @@
+{"id":"120807","name":"岁记否泰，固守四郭","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Defence","effect_text":"防御","simple_desc":"开启屏障，受到敌人攻击时不会进入战斗。进战后自动开启【穷观阵】。","desc":"使用秘技后，我方全体获得持续#1[i]秒的屏障。该屏障可抵挡敌人的所有攻击，不会进入战斗。屏障持续期间进入战斗时符玄自动开启【穷观阵】，持续#2[i]回合。","params":[[20,2]],"icon":"icon/skill/1208_technique.png"}

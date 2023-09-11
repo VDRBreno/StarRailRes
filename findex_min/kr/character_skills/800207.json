@@ -1,0 +1,1 @@
+{"id":"800207","name":"불멸의 삼진","max_level":1,"element":"","type":"Maze","type_text":"비술","effect":"Restore","effect_text":"회복","simple_desc":"","desc":"비술 발동 후 즉시 모든 아군은 자신의 HP 최대치 #1[i]%만큼의 HP를 회복한다","params":[[0.15]],"icon":"icon/skill/8002_technique.png"}

@@ -1,0 +1,1 @@
+{"id":"8003203","name":"DEF Boost","max_level":1,"desc":"","params":[],"anchor":"Point11","pre_points":["8003202"],"level_up_skills":[],"levels":[{"promotion":3,"properties":[{"type":"DefenceAddedRatio","value":0.05}],"materials":[{"id":"2","num":8000},{"id":"110142","num":2},{"id":"111012","num":2}]}],"icon":"icon/property/IconDefence.png"}

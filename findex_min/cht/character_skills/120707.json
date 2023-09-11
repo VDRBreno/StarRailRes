@@ -1,0 +1,1 @@
+{"id":"120707","name":"雲鳶逐風","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Enhance","effect_text":"強化","simple_desc":"使自身移動速度提高。攻擊敵人進入戰鬥後獲得2層【鳴弦號令】。","desc":"使用秘技後進入持續#1[i]秒的衝刺狀態。衝刺狀態下自身移動速度提高#2[i]%，且主動攻擊敵人進入戰鬥時，馭空獲得#3[i]層【鳴弦號令】。","params":[[20,0.35,2]],"icon":"icon/skill/1207_technique.png"}

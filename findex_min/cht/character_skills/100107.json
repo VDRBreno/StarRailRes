@@ -1,0 +1,1 @@
+{"id":"100107","name":"凍人的瞬間","max_level":1,"element":"Ice","type":"Maze","type_text":"秘技","effect":"MazeAttack","effect_text":"","simple_desc":"攻擊敵人，進入戰鬥後有高機率使敵方隨機單體陷入凍結狀態。","desc":"立即攻擊敵人，進入戰鬥後有#1[i]%的基礎機率使隨機敵方單體陷入凍結狀態，持續#2[i]回合。\n凍結狀態下，敵方目標不能行動，同時每回合開始時受到等同於三月七#3[i]%攻擊力的冰屬性附加傷害。","params":[[1,1,0.5]],"icon":"icon/skill/1001_technique.png"}

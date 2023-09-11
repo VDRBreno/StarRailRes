@@ -1,0 +1,1 @@
+{"id":"100207","name":"破敵の矛先","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Enhance","effect_text":"強化","simple_desc":"秘技を使用、次の戦闘に入った後に攻撃力アップ。","desc":"秘技を使用した後、次の戦闘開始時、丹恒の攻撃力+#1[i]%、#2[i]ターン継続。","params":[[0.4,3]],"icon":"icon/skill/1002_technique.png"}

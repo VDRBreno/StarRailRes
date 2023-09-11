@@ -1,0 +1,1 @@
+{"id":"120107","name":"나 홀로 대결의 즐거움","max_level":1,"element":"","type":"Maze","type_text":"비술","effect":"Enhance","effect_text":"강화","simple_desc":"비술을 발동하며, 다음 전투 진입 시 패를 뽑는다","desc":"비술을 사용한 이후에 전투에 진입할 경우 청작이 경옥패를 #1[i]장 뽑는다","params":[[2]],"icon":"icon/skill/1201_technique.png"}

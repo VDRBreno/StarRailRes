@@ -1,0 +1,1 @@
+{"id":"110501","name":"Pharmacology Expertise","rank":1,"desc":"After being attacked, if the current HP percentage is 30% or lower, heals self for 1 time to restore HP by an amount equal to 15% of Max HP plus 400. This effect can only be triggered 1 time per battle.","materials":[{"id":"11105","num":1}],"level_up_skills":[],"icon":"icon/skill/1105_rank1.png"}

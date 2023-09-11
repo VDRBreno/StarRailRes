@@ -1,0 +1,1 @@
+{"id":"1110207","name":"Augmentation de PV","max_level":1,"desc":"","params":[],"anchor":"Point15","pre_points":["1110206"],"level_up_skills":[],"levels":[{"promotion":5,"properties":[{"type":"HPAddedRatio","value":0.06}],"materials":[{"id":"2","num":36000},{"id":"110173","num":2},{"id":"111003","num":2}]}],"icon":"icon/property/IconMaxHP.png"}

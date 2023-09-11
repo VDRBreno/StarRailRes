@@ -1,0 +1,1 @@
+{"id":"21015","skill":"Retrospectiva","desc":"Cuando el portador golpea a un objetivo, si este no está afectado por Cepo, hay un #1[i]% de probabilidad base de afectarlo con Cepo. En este estado, la DEF del objetivo se reduce en un #2[i]% durante #3[i] turno.","params":[[0.6,0.12,1],[0.7,0.13,1],[0.8,0.14,1],[0.9,0.15,1],[1,0.16,1]],"properties":[[],[],[],[],[]]}

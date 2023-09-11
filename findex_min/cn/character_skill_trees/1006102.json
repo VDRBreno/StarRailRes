@@ -1,0 +1,1 @@
+{"id":"1006102","name":"注入","max_level":1,"desc":"施放战技时，为敌方目标添加的弱点持续时间增加#1[i]回合。","params":[[1]],"anchor":"Point07","pre_points":[],"level_up_skills":[],"levels":[{"promotion":4,"properties":[],"materials":[{"id":"2","num":20000},{"id":"110152","num":5},{"id":"241","num":1},{"id":"110501","num":1}]}],"icon":"icon/skill/1006_skilltree2.png"}

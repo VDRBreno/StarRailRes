@@ -1,0 +1,1 @@
+{"id":"8003204","name":"Cường Hóa HP","max_level":1,"desc":"","params":[],"anchor":"Point12","pre_points":[],"level_up_skills":[],"levels":[{"promotion":3,"properties":[{"type":"HPAddedRatio","value":0.04}],"materials":[{"id":"2","num":8000},{"id":"110142","num":2},{"id":"111012","num":2}]}],"icon":"icon/property/IconMaxHP.png"}

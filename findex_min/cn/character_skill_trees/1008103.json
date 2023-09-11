@@ -1,0 +1,1 @@
+{"id":"1008103","name":"抗御","max_level":1,"desc":"进入战斗时，若当前生命值百分比小于等于#1[i]%，阿兰可以抵抗除持续伤害外的所有伤害。当阿兰受到攻击后，该效果解除。","params":[[0.5]],"anchor":"Point08","pre_points":[],"level_up_skills":[],"levels":[{"promotion":6,"properties":[],"materials":[{"id":"2","num":128000},{"id":"110113","num":6},{"id":"241","num":1},{"id":"110501","num":1}]}],"icon":"icon/skill/1008_skilltree3.png"}

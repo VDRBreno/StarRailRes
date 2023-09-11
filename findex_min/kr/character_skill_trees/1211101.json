@@ -1,0 +1,1 @@
+{"id":"1211101","name":"의술의 이치","max_level":1,"desc":"백로가 아군에게 초과 치유할 시 대상 HP 최대치가 #1[i]% 증가한다. 지속 시간: #2[i]턴","params":[[0.1,2]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110171","num":3},{"id":"110502","num":1}]}],"icon":"icon/skill/1211_skilltree1.png"}

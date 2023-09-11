@@ -1,0 +1,1 @@
+{"id":"1203101","name":"침지 소생","max_level":1,"desc":"전투 스킬 효과 발동 시 지정한 단일 아군의 디버프 효과를 #1[i]개 해제한다","params":[[1]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110171","num":3},{"id":"110502","num":1}]}],"icon":"icon/skill/1203_skilltree1.png"}

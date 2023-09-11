@@ -1,0 +1,1 @@
+{"id":"1202101","name":"驻晴","max_level":1,"desc":"施放战技时，停云自身速度提高#1[i]%，持续1回合。","params":[[0.2]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"properties":[],"materials":[{"id":"2","num":4000},{"id":"110161","num":2},{"id":"110501","num":1}]}],"icon":"icon/skill/1202_skilltree1.png"}

@@ -1,0 +1,1 @@
+{"id":"102","name":"들이삭과 동행하는 거너","desc":["공격력 12% 증가","장착한 캐릭터의 속도가 6% 증가한다. 일반 공격이 가하는 피해가 10% 증가한다"],"properties":[[{"type":"AttackAddedRatio","value":0.12}],[{"type":"SpeedAddedRatio","value":0.06}]],"icon":"icon/relic/102.png","guide_overview":[]}

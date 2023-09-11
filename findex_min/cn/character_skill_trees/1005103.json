@@ -1,0 +1,1 @@
+{"id":"1005103","name":"荆棘","max_level":1,"desc":"终结技、秘技与天赋触发的追加攻击使敌方目标陷入的触电状态的基础概率提高#1[i]%。","params":[[0.3]],"anchor":"Point08","pre_points":[],"level_up_skills":[],"levels":[{"promotion":6,"properties":[],"materials":[{"id":"2","num":160000},{"id":"110153","num":8},{"id":"241","num":1},{"id":"110503","num":1}]}],"icon":"icon/skill/1005_skilltree3.png"}

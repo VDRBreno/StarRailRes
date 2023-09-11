@@ -1,0 +1,1 @@
+{"id":"306","name":"Salsotto Inerte","desc":["Aumenta em 8% a Chance de CRIT do usuário. Quando a Chance de CRIT atual chegar a 50% ou mais, aumenta em 15% o Dano de Ataque Extra e da Perícia Suprema do usuário.",""],"properties":[[{"type":"CriticalChanceBase","value":0.08}]],"icon":"icon/relic/306.png","guide_overview":[]}

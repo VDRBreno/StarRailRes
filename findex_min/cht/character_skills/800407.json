@@ -1,0 +1,1 @@
+{"id":"800407","name":"守護者召令","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Defence","effect_text":"防禦","simple_desc":"","desc":"使用秘技後，下一次戰鬥開始時為自身提供強度等同於開拓者#1[i]%防禦力+#2[i]的護盾，持續#3[i]回合。","params":[[0.3,384,1]],"icon":"icon/skill/8004_technique.png"}

@@ -1,0 +1,1 @@
+{"id":"306","name":"Inert Salsotto","desc":["Increases the wearer's CRIT Rate by 8%. When the wearer's current CRIT Rate reaches 50% or higher, the wearer's Ultimate and follow-up attack DMG increases by 15%.",""],"properties":[[{"type":"CriticalChanceBase","value":0.08}]],"icon":"icon/relic/306.png","guide_overview":[]}

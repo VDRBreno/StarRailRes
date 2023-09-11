@@ -1,0 +1,1 @@
+{"id":"105","name":"Champion des Straßenboxens","desc":["Erhöht physischen SCH um 10%.","Wenn der Träger einen Angriff ausführt oder getroffen wird, wird sein ANG im aktuellen Kampf um 5% erhöht. Dieser Effekt ist bis zu 5-fach stapelbar."],"properties":[[{"type":"PhysicalAddedRatio","value":0.1}],[]],"icon":"icon/relic/105.png","guide_overview":[]}

@@ -1,0 +1,1 @@
+{"id":"100201","name":"높이 오르면 추락하기 마련","rank":1,"desc":"피격된 적의 현재 HP 백분율이 50% 이상이면, 치명타 확률이 12% 증가한다","materials":[{"id":"11002","num":1}],"level_up_skills":[],"icon":"icon/skill/1002_rank1.png"}

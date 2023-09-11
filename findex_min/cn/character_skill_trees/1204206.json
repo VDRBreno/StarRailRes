@@ -1,0 +1,1 @@
+{"id":"1204206","name":"暴击率强化","max_level":1,"desc":"","params":[],"anchor":"Point14","pre_points":["1204205"],"level_up_skills":[],"levels":[{"promotion":5,"properties":[{"type":"CriticalChanceBase","value":0.04}],"materials":[{"id":"2","num":45000},{"id":"110133","num":3},{"id":"113003","num":3}]}],"icon":"icon/property/IconCriticalChance.png"}

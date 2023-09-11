@@ -1,0 +1,1 @@
+{"id":"1004103","name":"裁決","max_level":1,"desc":"對被弱點擊破的敵方目標造成的傷害提高#1[i]%。","params":[[0.2]],"anchor":"Point08","pre_points":[],"level_up_skills":[],"levels":[{"promotion":6,"properties":[],"materials":[{"id":"2","num":160000},{"id":"110153","num":8},{"id":"241","num":1},{"id":"110501","num":1}]}],"icon":"icon/skill/1004_skilltree3.png"}

@@ -1,0 +1,1 @@
+{"id":"1109103","name":"불장난","max_level":1,"desc":"필살기 발동 후 후크의 행동 게이지가 #2[i]% 증가하고, 추가로 에너지를 #1[i]pt 회복한다","params":[[5,0.2]],"anchor":"Point08","pre_points":[],"level_up_skills":[],"levels":[{"promotion":6,"properties":[],"materials":[{"id":"2","num":128000},{"id":"110113","num":6},{"id":"241","num":1},{"id":"110502","num":1}]}],"icon":"icon/skill/1109_skilltree3.png"}

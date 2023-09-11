@@ -1,0 +1,1 @@
+{"id":"111007","name":"巧克力能量棒","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Restore","effect_text":"回复","simple_desc":"使用秘技，下一次战斗开始时为我方全体附上持续治疗效果。","desc":"使用秘技后，下一次战斗开始时为我方全体附加玲可天赋的持续治疗效果，持续#1[i]回合。","params":[[2]],"icon":"icon/skill/1110_technique.png"}

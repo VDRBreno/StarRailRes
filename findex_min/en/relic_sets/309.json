@@ -1,0 +1,1 @@
+{"id":"309","name":"Rutilant Arena","desc":["Increases the wearer's CRIT Rate by 8%. When the wearer's current CRIT Rate reaches 70% or higher, the wearer's Basic ATK and Skill DMG increase by 20%.",""],"properties":[[{"type":"CriticalChanceBase","value":0.08}]],"icon":"icon/relic/309.png","guide_overview":[]}

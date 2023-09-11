@@ -1,0 +1,1 @@
+{"id":"100207","name":"섬멸의 칼날","max_level":1,"element":"","type":"Maze","type_text":"비술","effect":"Enhance","effect_text":"강화","simple_desc":"비술을 발동하며, 다음 전투 진입 후 공격력이 증가한다","desc":"비술 발동 후 다음 전투 시작 시 단항의 공격력이 #1[i]% 증가한다. 지속 시간: #2[i]턴","params":[[0.4,3]],"icon":"icon/skill/1002_technique.png"}

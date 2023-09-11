@@ -1,0 +1,1 @@
+{"id":"111","name":"Thief of Shooting Meteor","desc":["เอฟเฟกต์ทำลายล้างเพิ่มขึ้น 16%","เอฟเฟกต์ทำลายล้างของผู้สวมใส่เพิ่มขึ้น 16% หลังจากผู้สวมใส่ทำลายจุดอ่อนของศัตรูเป้าหมาย จะฟื้นฟูพลังงาน 3 หน่วย"],"properties":[[{"type":"BreakDamageAddedRatioBase","value":0.16}],[{"type":"BreakDamageAddedRatioBase","value":0.16}]],"icon":"icon/relic/111.png","guide_overview":[]}

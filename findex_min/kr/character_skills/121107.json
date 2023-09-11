@@ -1,0 +1,1 @@
+{"id":"121107","name":"은덕을 누려 짧아진 병환","max_level":1,"element":"","type":"Maze","type_text":"비술","effect":"Restore","effect_text":"회복","simple_desc":"비술을 사용하면 다음 전투 시작 시 모든 아군에게 [생명]을 부여한다","desc":"비술 발동 후 다음 전투 시작 시 모든 아군에게 [생명] 효과를 부여한다. 지속 시간: #1[i]턴","params":[[2]],"icon":"icon/skill/1211_technique.png"}

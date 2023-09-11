@@ -1,0 +1,1 @@
+{"id":"105","name":"Campeona de boxeo callejero","desc":["Daño Físico +10%.","Cuando el portador ataca o recibe un ataque, su ATQ aumenta en un 5% durante la batalla actual. Puede acumularse hasta 5 veces."],"properties":[[{"type":"PhysicalAddedRatio","value":0.1}],[]],"icon":"icon/relic/105.png","guide_overview":[]}

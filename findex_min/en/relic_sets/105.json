@@ -1,0 +1,1 @@
+{"id":"105","name":"Champion of Streetwise Boxing","desc":["Increases Physical DMG by 10%.","After the wearer attacks or is hit, their ATK increases by 5% for the rest of the battle. This effect can stack up to 5 time(s)."],"properties":[[{"type":"PhysicalAddedRatio","value":0.1}],[]],"icon":"icon/relic/105.png","guide_overview":[]}

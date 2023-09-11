@@ -1,0 +1,1 @@
+{"id":"110707","name":"勝利的小小代價","max_level":1,"element":"Physical","type":"Maze","type_text":"秘技","effect":"MazeAttack","effect_text":"","simple_desc":"攻擊敵人，進入戰鬥後受到敵人攻擊的機率提高。","desc":"立即攻擊敵人，進入戰鬥後克拉拉受到敵方攻擊的機率提高，持續#1[i]回合。","params":[[2,5]],"icon":"icon/skill/1107_technique.png"}

@@ -1,0 +1,1 @@
+{"id":"1203101","name":"Hồi Sinh","max_level":1,"desc":"Khi kích hoạt hiệu ứng Chiến Kỹ, giải trừ #1[i] Hiệu Ứng Xấu của 1 đồng đội chỉ định.","params":[[1]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110171","num":3},{"id":"110502","num":1}]}],"icon":"icon/skill/1203_skilltree1.png"}

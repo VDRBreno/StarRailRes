@@ -1,0 +1,1 @@
+{"id":"1101209","name":"Усиление крит. урона","max_level":1,"desc":"","params":[],"anchor":"Point17","pre_points":["1101208"],"level_up_skills":[],"levels":[{"promotion":0,"properties":[{"type":"CriticalDamageBase","value":0.107}],"materials":[{"id":"2","num":160000},{"id":"110163","num":8},{"id":"112003","num":8}]}],"icon":"icon/property/IconCriticalDamage.png"}

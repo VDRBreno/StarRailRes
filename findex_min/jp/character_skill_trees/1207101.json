@@ -1,0 +1,1 @@
+{"id":"1207101","name":"襄尺","max_level":1,"desc":"デバフを付与された時、御空はそれを1回抵抗できる。この効果は#1[i]ターン後に再度発動できる。","params":[[2]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"properties":[],"materials":[{"id":"2","num":4000},{"id":"110161","num":2},{"id":"110501","num":1}]}],"icon":"icon/skill/1207_skilltree1.png"}

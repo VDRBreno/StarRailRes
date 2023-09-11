@@ -1,0 +1,1 @@
+{"id":"1107103","name":"Venganza","max_level":1,"desc":"El daño del contraataque de Svarog aumenta en un #1[i]%.","params":[[0.3]],"anchor":"Point08","pre_points":[],"level_up_skills":[],"levels":[{"promotion":6,"properties":[],"materials":[{"id":"2","num":160000},{"id":"110113","num":8},{"id":"241","num":1},{"id":"110502","num":1}]}],"icon":"icon/skill/1107_skilltree3.png"}

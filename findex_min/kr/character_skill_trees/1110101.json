@@ -1,0 +1,1 @@
+{"id":"1110101","name":"사전 탐측","max_level":1,"desc":"[생존 반응]을 보유한 목표가 피격되면 링스는 즉시 에너지를 #1[i]pt 회복한다","params":[[2]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"properties":[],"materials":[{"id":"2","num":4000},{"id":"110171","num":2},{"id":"110503","num":1}]}],"icon":"icon/skill/1110_skilltree1.png"}

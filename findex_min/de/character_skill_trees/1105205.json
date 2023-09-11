@@ -1,0 +1,1 @@
+{"id":"1105205","name":"LP-Erhöhung","max_level":1,"desc":"","params":[],"anchor":"Point13","pre_points":["1105102"],"level_up_skills":[],"levels":[{"promotion":4,"properties":[{"type":"HPAddedRatio","value":0.06}],"materials":[{"id":"2","num":16000},{"id":"110172","num":4},{"id":"112012","num":3}]}],"icon":"icon/property/IconMaxHP.png"}

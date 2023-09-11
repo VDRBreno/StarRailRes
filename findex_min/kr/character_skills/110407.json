@@ -1,0 +1,1 @@
+{"id":"110407","name":"감정의 증표","max_level":1,"element":"","type":"Maze","type_text":"비술","effect":"Defence","effect_text":"방어","simple_desc":"비술을 발동하고 다음 전투 시작 시 모든 아군이 실드를 획득한다","desc":"비술 사용 후 다음 전투 시작 시 모든 아군에게 게파드 방어력 #1[i]%+#3[i]만큼의 피해를 상쇄할 수 있는 실드를 제공한다. 지속 시간: #2[i]턴","params":[[0.24,2,150]],"icon":"icon/skill/1104_technique.png"}

@@ -1,0 +1,1 @@
+{"id":"1204207","name":"ATK Boost","max_level":1,"desc":"","params":[],"anchor":"Point15","pre_points":["1204205"],"level_up_skills":[],"levels":[{"promotion":5,"properties":[{"type":"AttackAddedRatio","value":0.06}],"materials":[{"id":"2","num":45000},{"id":"110133","num":3},{"id":"113003","num":3}]}],"icon":"icon/property/IconAttack.png"}

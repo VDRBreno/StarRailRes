@@ -1,0 +1,1 @@
+{"id":"110201","name":"Corte total","rank":1,"desc":"Cuando inflige daño a un objetivo que tiene un porcentaje de PV igual o inferior al 80%, la Prob. CRIT aumenta en un 15%.","materials":[{"id":"11102","num":1}],"level_up_skills":[],"icon":"icon/skill/1102_rank1.png"}

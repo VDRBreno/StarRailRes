@@ -1,0 +1,1 @@
+{"id":"308","name":"生命のウェンワーク","desc":["装備キャラのEP回復効率+5%。装備キャラの速度が120以上の場合、戦闘に入る時、行動順が40%早まる。",""],"properties":[[{"type":"SPRatioBase","value":0.05}]],"icon":"icon/relic/308.png","guide_overview":[]}

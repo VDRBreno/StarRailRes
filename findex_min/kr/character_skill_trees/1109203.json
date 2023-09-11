@@ -1,0 +1,1 @@
+{"id":"1109203","name":"공격 강화","max_level":1,"desc":"","params":[],"anchor":"Point11","pre_points":["1109202"],"level_up_skills":[],"levels":[{"promotion":3,"properties":[{"type":"AttackAddedRatio","value":0.04}],"materials":[{"id":"2","num":8000},{"id":"110112","num":2},{"id":"112012","num":2}]}],"icon":"icon/property/IconAttack.png"}

@@ -1,0 +1,1 @@
+{"id":"21001","skill":"Toiler","desc":"For every debuff the target enemy has, the DMG dealt by the wearer increases by #1[i]%, stacking up to #2[i] time(s). This effect also applies to DoT.","params":[[0.12,3],[0.15,3],[0.18,3],[0.21,3],[0.24,3]],"properties":[[],[],[],[],[]]}

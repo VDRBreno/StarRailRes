@@ -1,0 +1,1 @@
+{"id":"1001102","name":"가호","max_level":1,"desc":"전투 스킬이 제공하는 실드의 지속 시간이 #1[i]턴 증가한다","params":[[1]],"anchor":"Point07","pre_points":["1001201"],"level_up_skills":[],"levels":[{"promotion":4,"properties":[],"materials":[{"id":"2","num":16000},{"id":"110142","num":4},{"id":"241","num":1},{"id":"110501","num":1}]}],"icon":"icon/skill/1001_skilltree2.png"}

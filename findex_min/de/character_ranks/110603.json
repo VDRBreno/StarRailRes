@@ -1,0 +1,1 @@
+{"id":"110603","name":"Unterdrückungskraft","rank":3,"desc":"Fertigkeitsstufe +2 bis zu max. St. 15. Standardangriff-Stufe. +1 bis zu max. St. 10.","materials":[{"id":"11106","num":1}],"level_up_skills":[{"id":"110602","num":2},{"id":"110601","num":1}],"icon":"icon/skill/1106_skill.png"}

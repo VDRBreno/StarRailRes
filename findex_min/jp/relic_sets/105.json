@@ -1,0 +1,1 @@
+{"id":"105","name":"成り上がりチャンピオン","desc":["物理ダメージ+10%。","装備キャラが攻撃を行う、または攻撃を受けた後、今回の戦闘中の攻撃力+5%、最大で5層累積できる。"],"properties":[[{"type":"PhysicalAddedRatio","value":0.1}],[]],"icon":"icon/relic/105.png","guide_overview":[]}

@@ -1,0 +1,1 @@
+{"id":"1104101","name":"Integridade","max_level":1,"desc":"Gepard tem mais chance de ser atacado por inimigos.","params":[[3]],"anchor":"Point06","pre_points":["1104201"],"level_up_skills":[],"levels":[{"promotion":2,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110141","num":3},{"id":"110502","num":1}]}],"icon":"icon/skill/1104_skilltree1.png"}

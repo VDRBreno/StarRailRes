@@ -1,0 +1,1 @@
+{"id":"1008101","name":"甦生","max_level":1,"desc":"消滅敵方目標時，若現有生命值百分比小於等於#1[i]%，則立即回復等同於自身生命上限#2[i]%的生命值。","params":[[0.3,0.2]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"properties":[],"materials":[{"id":"2","num":4000},{"id":"110111","num":2},{"id":"110501","num":1}]}],"icon":"icon/skill/1008_skilltree1.png"}

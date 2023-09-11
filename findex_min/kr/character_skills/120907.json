@@ -1,0 +1,1 @@
+{"id":"120907","name":"어검의 비결","max_level":1,"element":"","type":"Maze","type_text":"비술","effect":"Enhance","effect_text":"강화","simple_desc":"비술을 사용하면 다음 전투 시작 시 자신의 HP 백분율이 50% 이상인 적에게 가하는 피해가 증가한다","desc":"비술 발동 후 다음 전투 시작 시 연경은 현재 HP 백분율이 #1[i]% 이상인 적에게 가하는 피해가 #2[i]% 증가한다. 지속 시간: #3[i]턴","params":[[0.5,0.3,2]],"icon":"icon/skill/1209_technique.png"}

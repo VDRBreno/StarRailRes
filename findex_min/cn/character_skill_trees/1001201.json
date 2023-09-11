@@ -1,0 +1,1 @@
+{"id":"1001201","name":"伤害强化•冰","max_level":1,"desc":"","params":[],"anchor":"Point09","pre_points":[],"level_up_skills":[],"levels":[{"promotion":0,"properties":[{"type":"IceAddedRatio","value":0.032}],"materials":[{"id":"2","num":2000},{"id":"111011","num":2}]}],"icon":"icon/property/IconIceAddedRatio.png"}

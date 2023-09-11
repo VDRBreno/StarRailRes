@@ -1,0 +1,1 @@
+{"id":"1001103","name":"冰咒","max_level":1,"desc":"施放终结技时，冻结敌方目标的基础概率提高#1[i]%。","params":[[0.15]],"anchor":"Point08","pre_points":[],"level_up_skills":[],"levels":[{"promotion":6,"properties":[],"materials":[{"id":"2","num":128000},{"id":"110143","num":6},{"id":"241","num":1},{"id":"110501","num":1}]}],"icon":"icon/skill/1001_skilltree3.png"}

@@ -1,0 +1,1 @@
+{"id":"21034","skill":"Ein Sturm zieht auf","desc":"Erhöht den verursachten SCH des Trägers nach Kampfeintritt basierend auf seiner max. Energie. Sein SCH wird für jede Energie um #1[f2]% erhöht. Dabei zählen bis zu #2[i] Pkt. Energie.","params":[[0.002,160],[0.0025,160],[0.003,160],[0.0035,160],[0.004,160]],"properties":[[],[],[],[],[]]}

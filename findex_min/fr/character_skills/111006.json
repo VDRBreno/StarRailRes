@@ -1,0 +1,1 @@
+{"id":"111006","name":"Attaque","max_level":1,"element":"Quantum","type":"MazeNormal","type_text":"","effect":"SingleAttack","effect_text":"Cible unique","simple_desc":"","desc":"Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.","params":[],"icon":"icon/skill/1110_basic_atk.png"}

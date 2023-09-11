@@ -1,0 +1,1 @@
+{"id":"1205209","name":"Bonificación de Prob. CRIT","max_level":1,"desc":"","params":[],"anchor":"Point17","pre_points":["1205208"],"level_up_skills":[],"levels":[{"promotion":0,"properties":[{"type":"CriticalChanceBase","value":0.053}],"materials":[{"id":"2","num":160000},{"id":"110113","num":8},{"id":"113003","num":8}]}],"icon":"icon/property/IconCriticalChance.png"}

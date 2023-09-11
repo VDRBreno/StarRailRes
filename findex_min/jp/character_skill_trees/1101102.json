@@ -1,0 +1,1 @@
+{"id":"1101102","name":"陣地","max_level":1,"desc":"戦闘開始時、味方全体の防御力+#2[i]%、#1[i]ターン継続。","params":[[2,0.2]],"anchor":"Point07","pre_points":[],"level_up_skills":[],"levels":[{"promotion":4,"properties":[],"materials":[{"id":"2","num":20000},{"id":"110162","num":5},{"id":"241","num":1},{"id":"110502","num":1}]}],"icon":"icon/skill/1101_skilltree2.png"}

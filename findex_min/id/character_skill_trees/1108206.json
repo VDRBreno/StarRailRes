@@ -1,0 +1,1 @@
+{"id":"1108206","name":"Peningkatan Effect Hit Rate","max_level":1,"desc":"","params":[],"anchor":"Point14","pre_points":["1108205"],"level_up_skills":[],"levels":[{"promotion":5,"properties":[{"type":"StatusProbabilityBase","value":0.06}],"materials":[{"id":"2","num":36000},{"id":"110153","num":2},{"id":"112013","num":2}]}],"icon":"icon/property/IconStatusProbability.png"}

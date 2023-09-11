@@ -1,0 +1,1 @@
+{"id":"1108103","name":"加料","max_level":1,"desc":"风化状态下的敌方目标对桑博造成的伤害降低#1[i]%。","params":[[0.15]],"anchor":"Point08","pre_points":[],"level_up_skills":[],"levels":[{"promotion":6,"properties":[],"materials":[{"id":"2","num":128000},{"id":"110153","num":6},{"id":"241","num":1},{"id":"110502","num":1}]}],"icon":"icon/skill/1108_skilltree3.png"}

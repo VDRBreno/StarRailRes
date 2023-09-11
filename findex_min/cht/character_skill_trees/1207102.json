@@ -1,0 +1,1 @@
+{"id":"1207102","name":"遲彝","max_level":1,"desc":"馭空在場時，我方全體造成的虛數屬性傷害提高#1[i]%。","params":[[0.12]],"anchor":"Point07","pre_points":[],"level_up_skills":[],"levels":[{"promotion":4,"properties":[],"materials":[{"id":"2","num":16000},{"id":"110162","num":4},{"id":"241","num":1},{"id":"110501","num":1}]}],"icon":"icon/skill/1207_skilltree2.png"}

@@ -1,0 +1,1 @@
+{"id":"305","name":"천체 차분기관","desc":["장착한 캐릭터의 치명타 피해가 16% 증가한다. 장착한 캐릭터의 치명타 피해가 120% 이상일 경우, 전투 진입 후 장착한 캐릭터의 치명타 확률이 60% 증가한다. 첫 공격 발동 후까지 지속하고 종료된다",""],"properties":[[{"type":"CriticalDamageBase","value":0.16}]],"icon":"icon/relic/305.png","guide_overview":[]}

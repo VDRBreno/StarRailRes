@@ -1,0 +1,1 @@
+{"id":"120707","name":"風追う雲鳶","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Enhance","effect_text":"強化","simple_desc":"自身の移動速度アップ。敵を先制攻撃して戦闘に入った後、「鳴弦号令」を2層獲得。","desc":"秘技を使用した後、#1[i]秒の疾走状態に入る。疾走状態では、自身の移動速度+#2[i]%、敵を先制攻撃して戦闘に入る時、御空は「鳴弦号令」を#3[i]層獲得する。","params":[[20,0.35,2]],"icon":"icon/skill/1207_technique.png"}

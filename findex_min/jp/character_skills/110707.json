@@ -1,0 +1,1 @@
+{"id":"110707","name":"勝利の小さな対価","max_level":1,"element":"Physical","type":"Maze","type_text":"秘技","effect":"MazeAttack","effect_text":"","simple_desc":"敵を攻撃。戦闘に入った後、敵に攻撃される確率がアップする。","desc":"敵を攻撃。戦闘に入った後、クラーラが敵に攻撃される確率がアップする、#1[i]ターン継続。","params":[[2,5]],"icon":"icon/skill/1107_technique.png"}

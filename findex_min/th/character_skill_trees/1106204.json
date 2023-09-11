@@ -1,0 +1,1 @@
+{"id":"1106204","name":"เสริมอัตราสร้างสถานะ","max_level":1,"desc":"","params":[],"anchor":"Point12","pre_points":["1106203"],"level_up_skills":[],"levels":[{"promotion":3,"properties":[{"type":"StatusProbabilityBase","value":0.04}],"materials":[{"id":"2","num":8000},{"id":"110152","num":2},{"id":"111002","num":2}]}],"icon":"icon/property/IconStatusProbability.png"}

@@ -1,0 +1,1 @@
+{"id":"100207","name":"破敵鋒芒","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Enhance","effect_text":"強化","simple_desc":"使用秘技，下一次進入戰鬥後攻擊力提高。","desc":"使用秘技後，下一次戰鬥開始時丹恆攻擊力提高#1[i]%，持續#2[i]回合。","params":[[0.4,3]],"icon":"icon/skill/1002_technique.png"}

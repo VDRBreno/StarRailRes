@@ -1,0 +1,1 @@
+{"id":"1013210","name":"Bonificación de daño: Hielo","max_level":1,"desc":"","params":[],"anchor":"Point18","pre_points":[],"level_up_skills":[],"levels":[{"promotion":0,"properties":[{"type":"IceAddedRatio","value":0.064}],"materials":[{"id":"2","num":128000},{"id":"110133","num":6},{"id":"111003","num":6}]}],"icon":"icon/property/IconIceAddedRatio.png"}

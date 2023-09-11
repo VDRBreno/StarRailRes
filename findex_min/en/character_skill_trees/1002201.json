@@ -1,0 +1,1 @@
+{"id":"1002201","name":"DMG Boost: Wind","max_level":1,"desc":"","params":[],"anchor":"Point09","pre_points":[],"level_up_skills":[],"levels":[{"promotion":0,"properties":[{"type":"WindAddedRatio","value":0.032}],"materials":[{"id":"2","num":2000},{"id":"111001","num":2}]}],"icon":"icon/property/IconWindAddedRatio.png"}

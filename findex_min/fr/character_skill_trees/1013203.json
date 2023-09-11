@@ -1,0 +1,1 @@
+{"id":"1013203","name":"Augmentation des DGT de glace","max_level":1,"desc":"","params":[],"anchor":"Point11","pre_points":["1013202"],"level_up_skills":[],"levels":[{"promotion":3,"properties":[{"type":"IceAddedRatio","value":0.032}],"materials":[{"id":"2","num":8000},{"id":"110132","num":2},{"id":"111002","num":2}]}],"icon":"icon/property/IconIceAddedRatio.png"}

@@ -1,0 +1,1 @@
+{"id":"102","name":"Mousquetaire du blé sauvage","desc":["Augmente l'ATQ de 12%.","Augmente la VIT du porteur de 6% et les DGT de l'ATQ normale de 10%."],"properties":[[{"type":"AttackAddedRatio","value":0.12}],[{"type":"SpeedAddedRatio","value":0.06}]],"icon":"icon/relic/102.png","guide_overview":[]}

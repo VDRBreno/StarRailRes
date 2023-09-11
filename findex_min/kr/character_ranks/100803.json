@@ -1,0 +1,1 @@
+{"id":"100803","name":"강검 공격","rank":3,"desc":"전투 스킬 레벨+2, 최대 Lv.15. 일반 공격 레벨+1, 최대 Lv.10","materials":[{"id":"11008","num":1}],"level_up_skills":[{"id":"100802","num":2},{"id":"100801","num":1}],"icon":"icon/skill/1008_skill.png"}

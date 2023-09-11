@@ -1,0 +1,1 @@
+{"id":"1005205","name":"Усиление атаки","max_level":1,"desc":"","params":[],"anchor":"Point13","pre_points":["1005102"],"level_up_skills":[],"levels":[{"promotion":4,"properties":[{"type":"AttackAddedRatio","value":0.06}],"materials":[{"id":"2","num":20000},{"id":"110152","num":5},{"id":"111012","num":4}]}],"icon":"icon/property/IconAttack.png"}

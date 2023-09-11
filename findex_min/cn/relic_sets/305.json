@@ -1,0 +1,1 @@
+{"id":"305","name":"星体差分机","desc":["使装备者的暴击伤害提高16%。当装备者的暴击伤害大于等于120%时，进入战斗后装备者的暴击率提高60%，持续到施放首次攻击后结束。",""],"properties":[[{"type":"CriticalDamageBase","value":0.16}]],"icon":"icon/relic/305.png","guide_overview":["guide/Nwflower/relic_set/305.png"]}

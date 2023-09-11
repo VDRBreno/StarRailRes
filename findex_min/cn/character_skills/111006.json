@@ -1,0 +1,1 @@
+{"id":"111006","name":"攻击","max_level":1,"element":"Quantum","type":"MazeNormal","type_text":"dev_连携","effect":"SingleAttack","effect_text":"单攻","simple_desc":"","desc":"攻击敌人，进入战斗后削弱敌方目标对应属性韧性。","params":[],"icon":"icon/skill/1110_basic_atk.png"}

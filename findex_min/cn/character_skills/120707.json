@@ -1,0 +1,1 @@
+{"id":"120707","name":"云鸢逐风","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Enhance","effect_text":"强化","simple_desc":"使自身移动速度提高。攻击敌人进战后获得2层【鸣弦号令】。","desc":"使用秘技后进入持续#1[i]秒的冲刺状态。冲刺状态下自身移动速度提高#2[i]%，且主动攻击敌人进入战斗时，驭空获得#3[i]层【鸣弦号令】。","params":[[20,0.35,2]],"icon":"icon/skill/1207_technique.png"}

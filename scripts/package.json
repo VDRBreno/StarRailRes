@@ -1,0 +1,16 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "format": "node build/FormatIndexFolder.js",
+    "format:dev": "ts-node-dev src/FormatIndexFolder.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.6.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.2.2"
+  }
+}

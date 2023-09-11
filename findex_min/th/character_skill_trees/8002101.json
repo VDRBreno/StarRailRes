@@ -1,0 +1,1 @@
+{"id":"8002101","name":"Ready for Battle","max_level":1,"desc":"เมื่อเริ่มต้นการต่อสู้ จะฟื้นฟูพลังงาน #1[i] หน่วยทันที","params":[[15]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"properties":[],"materials":[{"id":"2","num":4000},{"id":"110111","num":2},{"id":"110501","num":1}]}],"icon":"icon/skill/8002_skilltree1.png"}

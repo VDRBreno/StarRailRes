@@ -1,0 +1,1 @@
+{"id":"1202203","name":"เสริมการโจมตี","max_level":1,"desc":"","params":[],"anchor":"Point11","pre_points":["1202202"],"level_up_skills":[],"levels":[{"promotion":3,"properties":[{"type":"AttackAddedRatio","value":0.04}],"materials":[{"id":"2","num":8000},{"id":"110162","num":2},{"id":"113002","num":2}]}],"icon":"icon/property/IconAttack.png"}

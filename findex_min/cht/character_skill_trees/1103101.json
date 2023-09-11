@@ -1,0 +1,1 @@
+{"id":"1103101","name":"搖滾","max_level":1,"desc":"施放戰技時，使受到攻擊的敵方目標陷入觸電狀態的基礎機率提高#1[i]%。","params":[[0.2]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"properties":[],"materials":[{"id":"2","num":4000},{"id":"110131","num":2},{"id":"110502","num":1}]}],"icon":"icon/skill/1103_skilltree1.png"}

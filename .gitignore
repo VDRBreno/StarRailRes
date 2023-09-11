@@ -1,6 +1,20 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
+### scripts folder / Node ###
+/scripts/node_modules
+/scripts/dist
+/scripts/dist-ssr
+/scripts/*.local
+/scripts/logs
+/scripts/*.log
+/scripts/*.lock
+/scripts/npm-debug.log*
+/scripts/yarn-debug.log*
+/scripts/yarn-error.log*
+/scripts/pnpm-debug.log*
+/scripts/lerna-debug.log*
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/

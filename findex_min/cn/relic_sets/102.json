@@ -1,0 +1,1 @@
+{"id":"102","name":"野穗伴行的快枪手","desc":["攻击力提高12%。","使装备者的速度提高6%，普攻造成的伤害提高10%。"],"properties":[[{"type":"AttackAddedRatio","value":0.12}],[{"type":"SpeedAddedRatio","value":0.06}]],"icon":"icon/relic/102.png","guide_overview":["guide/Nwflower/relic_set/102.png"]}

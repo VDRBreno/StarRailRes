@@ -1,0 +1,1 @@
+{"id":"310","name":"Quilha Quebrada","desc":["Aumenta em 10% a RES a Efeito do usuário. Quando a RES a Efeito do usuário chegar em 30% ou mais, aumenta em 10% o Dano CRIT de todos os aliados.",""],"properties":[[{"type":"StatusResistanceBase","value":0.1}]],"icon":"icon/relic/310.png","guide_overview":[]}

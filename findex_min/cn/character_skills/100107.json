@@ -1,0 +1,1 @@
+{"id":"100107","name":"冻人的瞬间","max_level":1,"element":"Ice","type":"Maze","type_text":"秘技","effect":"MazeAttack","effect_text":"","simple_desc":"攻击敌人，进战后大概率使敌方随机单体陷入冻结状态。","desc":"立即攻击敌人，进入战斗后有#1[i]%的基础概率使随机敌方单体陷入冻结状态，持续#2[i]回合。\n冻结状态下，敌方目标不能行动同时每回合开始时受到等同于三月七#3[i]%攻击力的冰属性附加伤害。","params":[[1,1,0.5]],"icon":"icon/skill/1001_technique.png"}

@@ -1,0 +1,1 @@
+{"id":"1105103","name":"調理","max_level":1,"desc":"施放戰技產生的持續回復效果延長#1[i]回合。","params":[[1]],"anchor":"Point08","pre_points":[],"level_up_skills":[],"levels":[{"promotion":6,"properties":[],"materials":[{"id":"2","num":128000},{"id":"110173","num":6},{"id":"241","num":1},{"id":"110502","num":1}]}],"icon":"icon/skill/1105_skilltree3.png"}

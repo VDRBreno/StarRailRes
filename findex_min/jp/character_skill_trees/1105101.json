@@ -1,0 +1,1 @@
+{"id":"1105101","name":"舒緩","max_level":1,"desc":"戦闘スキルを発動した時、指定した味方単体のデバフを#1[i]つ解除する。","params":[[1]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"properties":[],"materials":[{"id":"2","num":4000},{"id":"110171","num":2},{"id":"110502","num":1}]}],"icon":"icon/skill/1105_skilltree1.png"}
