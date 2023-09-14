@@ -38,12 +38,13 @@ The file structure of this project is as follows:
 
 ```text
 StarRailRes
-├─ icon         # icon folder / 图标素材目录
-├─ image        # image folder / 图片素材目录
-├─ guide        # guide image folder / 教程图片目录
-├─ index_new    # index files folder / 索引目录
-└─ index_min    # compressed index files folder / 压缩索引目录
-└─ findex_min   # compressed index files folder with different structure
+├─ icon              # icon folder / 图标素材目录
+├─ image             # image folder / 图片素材目录
+├─ guide             # guide image folder / 教程图片目录
+├─ index_new         # index files folder / 索引目录
+├─ index_min         # compressed index files folder / 压缩索引目录
+├─ unique_index_min  # same content of index_min, but with a file structure different, separating each object key as a new file
+└─ join_index_min    # content of characters and light_cones based in index_min, joining the content that has some relationship
 ```
 
 ## Links

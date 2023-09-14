@@ -5,8 +5,10 @@
   "license": "MIT",
   "scripts": {
     "build": "tsc",
-    "format": "node build/FormatIndexFolder.js",
-    "format:dev": "ts-node-dev src/FormatIndexFolder.ts"
+    "gunique": "node build/GenerateUniqueIndexData.js",
+    "gunique:dev": "ts-node-dev src/GenerateUniqueIndexData.ts",
+    "gjoin": "node build/GenerateJoinIndexData.js",
+    "gjoin:dev": "ts-node-dev src/GenerateJoinIndexData.ts"
   },
   "devDependencies": {
     "@types/node": "^20.6.0",
