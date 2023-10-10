@@ -1,1 +1,1 @@
-{"id":"120207","name":"惠風和暢","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Support","effect_text":"輔助","simple_desc":"","desc":"使用秘技後立即為自身恢復#1[i]點能量。","params":[[50]],"icon":"icon/skill/1202_technique.png"}
+{"id":"120207","name":"惠風和暢","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Support","effect_text":"輔助","simple_desc":"使用秘技後立即為自身恢復能量。","desc":"使用秘技後立即為自身恢復#1[i]點能量。","params":[[50]],"icon":"icon/skill/1202_technique.png"}

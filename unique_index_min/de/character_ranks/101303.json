@@ -1,1 +1,1 @@
-{"id":"101303","name":"So bin ich nun mal","rank":3,"desc":"Fertigkeitsstufe +2 bis zu max. St. 15. Standardangriff-Stufe. +1 bis zu max. St. 10.","materials":[{"id":"11013","num":1}],"level_up_skills":[{"id":"101302","num":2},{"id":"101301","num":1}],"icon":"icon/skill/1013_skill.png"}
+{"id":"101303","name":"So bin ich nun mal","rank":3,"desc":"Fertigkeitsstufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10.","materials":[{"id":"11013","num":1}],"level_up_skills":[{"id":"101302","num":2},{"id":"101301","num":1}],"icon":"icon/skill/1013_skill.png"}

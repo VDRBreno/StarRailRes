@@ -1,0 +1,1 @@
+{"id":"1210202","name":"撃破強化","max_level":1,"desc":"","params":[],"anchor":"Point10","pre_points":["1210101"],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[{"type":"BreakDamageAddedRatioBase","value":0.053}],"materials":[{"id":"2","num":4000},{"id":"110151","num":2},{"id":"113011","num":4}]}],"icon":"icon/property/IconBreakUp.png"}

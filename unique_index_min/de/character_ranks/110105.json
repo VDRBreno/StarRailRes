@@ -1,1 +1,1 @@
-{"id":"110105","name":"Unaufhaltsam","rank":5,"desc":"Fertigkeitsstufe +2 bis zu max. St. 15. Standardangriff-Stufe. +1 bis zu max. St. 10.","materials":[{"id":"11101","num":1}],"level_up_skills":[{"id":"110102","num":2},{"id":"110101","num":1}],"icon":"icon/skill/1101_ultimate.png"}
+{"id":"110105","name":"Unaufhaltsam","rank":5,"desc":"Fertigkeitsstufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10.","materials":[{"id":"11101","num":1}],"level_up_skills":[{"id":"110102","num":2},{"id":"110101","num":1}],"icon":"icon/skill/1101_ultimate.png"}

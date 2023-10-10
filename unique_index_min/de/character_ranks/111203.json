@@ -1,0 +1,1 @@
+{"id":"111203","name":"Vorrangsteuerung","rank":3,"desc":"Fertigkeitsstufe +2 bis max. St. 15. Standardangriff-Stufe. +1 bis max. St. 10.","materials":[{"id":"11112","num":1}],"level_up_skills":[{"id":"111202","num":2},{"id":"111201","num":1}],"icon":"icon/skill/1112_skill.png"}

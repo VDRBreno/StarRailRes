@@ -1,1 +1,1 @@
-{"id":"111103","name":"Geboren für den Ring","rank":3,"desc":"Fertigkeitsstufe +2 bis zu max. St. 15. Talentstufe +2 bis zu max. St. 15.","materials":[{"id":"11111","num":1}],"level_up_skills":[{"id":"111102","num":2},{"id":"111104","num":2}],"icon":"icon/skill/1111_skill.png"}
+{"id":"111103","name":"Geboren für den Ring","rank":3,"desc":"Fertigkeitsstufe +2 bis max. St. 15. Talentstufe +2 bis max. St. 15.","materials":[{"id":"11111","num":1}],"level_up_skills":[{"id":"111102","num":2},{"id":"111104","num":2}],"icon":"icon/skill/1111_skill.png"}

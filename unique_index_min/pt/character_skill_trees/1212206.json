@@ -1,0 +1,1 @@
+{"id":"1212206","name":"Bônus de VEL","max_level":1,"desc":"","params":[],"anchor":"Point14","pre_points":["1212205"],"level_up_skills":[],"levels":[{"promotion":5,"level":0,"properties":[{"type":"SpeedDelta","value":3}],"materials":[{"id":"2","num":45000},{"id":"110113","num":3},{"id":"113003","num":3}]}],"icon":"icon/property/IconSpeed.png"}

@@ -1,1 +1,1 @@
-{"id":"100102","name":"Memória de Ser","rank":2,"desc":"Ao entrar na batalha, concede um Escudo igual a 24% da DEF de 7 de Março + 320 ao aliado com menos PV por 3 rodada(s).","materials":[{"id":"11001","num":1}],"level_up_skills":[],"icon":"icon/skill/1001_rank2.png"}
+{"id":"100102","name":"Memória de Ser","rank":2,"desc":"Ao entrar na batalha, concede um Escudo igual a 24% da DEF de 7 de Março + 320 ao aliado com a menor porcentagem de PV, durando por 3 rodada(s).","materials":[{"id":"11001","num":1}],"level_up_skills":[],"icon":"icon/skill/1001_rank2.png"}

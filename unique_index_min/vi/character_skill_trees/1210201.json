@@ -1,0 +1,1 @@
+{"id":"1210201","name":"Cường Hóa Sát Thương - Hỏa","max_level":1,"desc":"","params":[],"anchor":"Point09","pre_points":[],"level_up_skills":[],"levels":[{"promotion":0,"level":1,"properties":[{"type":"FireAddedRatio","value":0.032}],"materials":[{"id":"2","num":2000},{"id":"113011","num":2}]}],"icon":"icon/property/IconFireAddedRatio.png"}

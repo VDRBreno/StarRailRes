@@ -1,1 +1,1 @@
-{"id":"120207","name":"산들바람","max_level":1,"element":"","type":"Maze","type_text":"비술","effect":"Support","effect_text":"서포트","simple_desc":"","desc":"비술을 발동하는 즉시 자신의 에너지를 #1[i]pt 회복한다","params":[[50]],"icon":"icon/skill/1202_technique.png"}
+{"id":"120207","name":"산들바람","max_level":1,"element":"","type":"Maze","type_text":"비술","effect":"Support","effect_text":"서포트","simple_desc":"비술 사용 후 즉시 자신의 에너지를 회복한다","desc":"비술을 발동하는 즉시 자신의 에너지를 #1[i]pt 회복한다","params":[[50]],"icon":"icon/skill/1202_technique.png"}

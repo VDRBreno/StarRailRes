@@ -1,0 +1,1 @@
+{"id":"1210101","name":"장대 타기","max_level":1,"desc":"일반 공격이 #1[i]%의 기본 확률로 적을 전투 스킬과 동일한 연소 상태에 빠트린다","params":[[0.8]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":4000},{"id":"110151","num":2},{"id":"110503","num":1}]}],"icon":"icon/skill/1210_skilltree1.png"}

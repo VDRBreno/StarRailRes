@@ -1,0 +1,1 @@
+{"id":"1212208","name":"Peningkatan HP","max_level":1,"desc":"","params":[],"anchor":"Point16","pre_points":["1212103"],"level_up_skills":[],"levels":[{"promotion":6,"level":0,"properties":[{"type":"HPAddedRatio","value":0.06}],"materials":[{"id":"2","num":160000},{"id":"110113","num":8},{"id":"113003","num":8}]}],"icon":"icon/property/IconMaxHP.png"}

@@ -1,1 +1,1 @@
-{"id":"110503","name":"Das richtige Heilmittel","rank":3,"desc":"Fertigkeitsstufe +2 bis zu max. St. 15. Standardangriff-Stufe. +1 bis zu max. St. 10.","materials":[{"id":"11105","num":1}],"level_up_skills":[{"id":"110502","num":2},{"id":"110501","num":1}],"icon":"icon/skill/1105_skill.png"}
+{"id":"110503","name":"Das richtige Heilmittel","rank":3,"desc":"Fertigkeitsstufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10.","materials":[{"id":"11105","num":1}],"level_up_skills":[{"id":"110502","num":2},{"id":"110501","num":1}],"icon":"icon/skill/1105_skill.png"}

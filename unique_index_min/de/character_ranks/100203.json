@@ -1,1 +1,1 @@
-{"id":"100203","name":"Sichtbar und unsichtbar","rank":3,"desc":"Fertigkeitsstufe +2 bis zu max. St. 15. Standardangriff-Stufe. +1 bis zu max. St. 10.","materials":[{"id":"11002","num":1}],"level_up_skills":[{"id":"100202","num":2},{"id":"100201","num":1}],"icon":"icon/skill/1002_skill.png"}
+{"id":"100203","name":"Sichtbar und unsichtbar","rank":3,"desc":"Fertigkeitsstufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10.","materials":[{"id":"11002","num":1}],"level_up_skills":[{"id":"100202","num":2},{"id":"100201","num":1}],"icon":"icon/skill/1002_skill.png"}

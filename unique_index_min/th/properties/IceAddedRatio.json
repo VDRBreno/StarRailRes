@@ -1,1 +1,1 @@
-{"type":"IceAddedRatio","name":"เพิ่มดาเมจน้ำแข็ง","field":"ice_dmg","affix":true,"ratio":false,"percent":true,"order":25,"icon":"icon/property/IconIceAddedRatio.png"}
+{"type":"IceAddedRatio","name":"เพิ่ม DMG น้ำแข็ง","field":"ice_dmg","affix":true,"ratio":false,"percent":true,"order":25,"icon":"icon/property/IconIceAddedRatio.png"}

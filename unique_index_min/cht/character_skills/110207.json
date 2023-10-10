@@ -1,1 +1,1 @@
-{"id":"110207","name":"幻身","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Enhance","effect_text":"強化","simple_desc":"","desc":"使用秘技後進入持續#1[i]秒的隱身狀態。隱身狀態下不會被敵人發現，且主動攻擊敵人進入戰鬥時，希兒立即進入增幅狀態。","params":[[20]],"icon":"icon/skill/1102_technique.png"}
+{"id":"110207","name":"幻身","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Enhance","effect_text":"強化","simple_desc":"進入隱身狀態。攻擊敵人進入戰鬥後立即進入增幅狀態。","desc":"使用秘技後進入持續#1[i]秒的隱身狀態。隱身狀態下不會被敵人發現，且主動攻擊敵人進入戰鬥時，希兒立即進入增幅狀態。","params":[[20]],"icon":"icon/skill/1102_technique.png"}

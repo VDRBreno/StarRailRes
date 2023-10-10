@@ -1,0 +1,1 @@
+{"id":"1112103","name":"技術性調整","max_level":1,"desc":"當帳帳處於【漲幅驚人！】狀態發動攻擊後，額外使托帕恢復#1[i]點能量。","params":[[10]],"anchor":"Point08","pre_points":[],"level_up_skills":[],"levels":[{"promotion":6,"level":0,"properties":[],"materials":[{"id":"2","num":160000},{"id":"110123","num":8},{"id":"241","num":1},{"id":"110503","num":1}]}],"icon":"icon/skill/1112_skilltree3.png"}

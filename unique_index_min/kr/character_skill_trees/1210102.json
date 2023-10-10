@@ -1,0 +1,1 @@
+{"id":"1210102","name":"장애물 통과","max_level":1,"desc":"전투 시작 시 계네빈의 행동 게이지가 #1[i]% 증가한다","params":[[0.25]],"anchor":"Point07","pre_points":[],"level_up_skills":[],"levels":[{"promotion":4,"level":0,"properties":[],"materials":[{"id":"2","num":16000},{"id":"110152","num":4},{"id":"241","num":1},{"id":"110503","num":1}]}],"icon":"icon/skill/1210_skilltree2.png"}

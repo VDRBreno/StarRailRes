@@ -1,0 +1,1 @@
+{"id":"1112102","name":"금융 불안","max_level":1,"desc":"토파즈와 복순이가 화염 속성 약점을 보유한 적에게 가하는 피해가 #1[i]% 증가한다","params":[[0.15]],"anchor":"Point07","pre_points":[],"level_up_skills":[],"levels":[{"promotion":4,"level":0,"properties":[],"materials":[{"id":"2","num":20000},{"id":"110122","num":5},{"id":"241","num":1},{"id":"110503","num":1}]}],"icon":"icon/skill/1112_skilltree2.png"}

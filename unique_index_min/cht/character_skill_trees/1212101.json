@@ -1,0 +1,1 @@
+{"id":"1212101","name":"死境","max_level":1,"desc":"【轉魄】狀態下，效果抗性提高#1[i]%。","params":[[0.35]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110111","num":3},{"id":"110503","num":1}]}],"icon":"icon/skill/1212_skilltree1.png"}

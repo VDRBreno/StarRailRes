@@ -1,1 +1,1 @@
-{"id":"110403","name":"Niemals aufgeben","rank":3,"desc":"Ultimate-Stufe +2 bis zu max. St. 15. Talentstufe +2 bis zu max. St. 15.","materials":[{"id":"11104","num":1}],"level_up_skills":[{"id":"110403","num":2},{"id":"110404","num":2}],"icon":"icon/skill/1104_skill.png"}
+{"id":"110403","name":"Niemals aufgeben","rank":3,"desc":"Ultimate-Stufe +2 bis max. St. 15. Talentstufe +2 bis max. St. 15.","materials":[{"id":"11104","num":1}],"level_up_skills":[{"id":"110403","num":2},{"id":"110404","num":2}],"icon":"icon/skill/1104_skill.png"}

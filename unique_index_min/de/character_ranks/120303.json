@@ -1,1 +1,1 @@
-{"id":"120303","name":"Ein närrischer Versuch","rank":3,"desc":"Fertigkeitsstufe +2 bis zu max. St. 15. Standardangriff-Stufe +1 bis zu max. St. 10.","materials":[{"id":"11203","num":1}],"level_up_skills":[{"id":"120302","num":2},{"id":"120301","num":1}],"icon":"icon/skill/1203_skill.png"}
+{"id":"120303","name":"Ein närrischer Versuch","rank":3,"desc":"Fertigkeitsstufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10.","materials":[{"id":"11203","num":1}],"level_up_skills":[{"id":"120302","num":2},{"id":"120301","num":1}],"icon":"icon/skill/1203_skill.png"}

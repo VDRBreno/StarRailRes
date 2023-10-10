@@ -1,0 +1,1 @@
+{"id":"121007","name":"大道芸","max_level":1,"element":"Fire","type":"Maze","type_text":"秘技","effect":"MazeAttack","effect_text":"","simple_desc":"敵を攻撃し、戦闘に入った後に敵単体に少量の炎属性ダメージを与え、「火喰い」状態を付与する。4回バウンドする。","desc":"敵を攻撃。戦闘に入った後、敵にダメージを#2[i]回与える。1ヒットごとにランダムな敵単体に桂乃芬の攻撃力#1[i]%分の炎属性ダメージを与え、#3[i]%の基礎確率でその敵を「火喰い」状態にする。","params":[[0.5,4,1]],"icon":"icon/skill/1210_technique.png"}

@@ -1,1 +1,1 @@
-{"id":"120307","name":"愚者の悲哀","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Restore","effect_text":"回復","simple_desc":"秘技を使用、次の戦闘に入った時、直ちに天賦の効果を発動。","desc":"秘技を使用した後、次の戦闘開始時、天賦を発動する。","params":[],"icon":"icon/skill/1203_technique.png"}
+{"id":"120307","name":"愚者の悲哀","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Restore","effect_text":"回復","simple_desc":"秘技を使用、次の戦闘に入った時、即座に天賦の効果を発動。","desc":"秘技を使用した後、次の戦闘開始時、天賦を発動する。","params":[],"icon":"icon/skill/1203_technique.png"}

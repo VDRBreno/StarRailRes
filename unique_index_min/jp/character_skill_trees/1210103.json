@@ -1,0 +1,1 @@
+{"id":"1210103","name":"裸足踏刀","max_level":1,"desc":"燃焼状態の敵に対する与ダメージ+#1[i]%。","params":[[0.2]],"anchor":"Point08","pre_points":[],"level_up_skills":[],"levels":[{"promotion":6,"level":0,"properties":[],"materials":[{"id":"2","num":128000},{"id":"110153","num":6},{"id":"241","num":1},{"id":"110503","num":1}]}],"icon":"icon/skill/1210_skilltree3.png"}

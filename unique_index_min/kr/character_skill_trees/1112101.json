@@ -1,0 +1,1 @@
+{"id":"1112101","name":"당좌 대월","max_level":1,"desc":"토파즈가 일반 공격으로 피해를 가할 시 추가 공격을 발동한 것으로 간주한다","params":[],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110121","num":3},{"id":"110503","num":1}]}],"icon":"icon/skill/1112_skilltree1.png"}
