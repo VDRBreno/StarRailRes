@@ -8,7 +8,9 @@
     "gunique": "node build/GenerateUniqueIndexData.js",
     "gunique:dev": "ts-node-dev src/GenerateUniqueIndexData.ts",
     "gjoin": "node build/GenerateJoinIndexData.js",
-    "gjoin:dev": "ts-node-dev src/GenerateJoinIndexData.ts"
+    "gjoin:dev": "ts-node-dev src/GenerateJoinIndexData.ts",
+    "gnames": "node build/GenerateDataIndexNames.js",
+    "gnames:dev": "ts-node-dev src/GenerateDataIndexNames.ts"
   },
   "devDependencies": {
     "@types/node": "^20.6.0",
