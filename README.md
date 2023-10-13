@@ -44,7 +44,8 @@ StarRailRes
 ├─ index_new         # index files folder / 索引目录
 ├─ index_min         # compressed index files folder / 压缩索引目录
 ├─ unique_index_min  # same content of index_min, but with a file structure different, separating each object key as a new file
-└─ join_index_min    # content of characters and light_cones based in index_min, joining the content that has some relationship
+├─ join_index_min    # content of characters and light_cones based in index_min, joining the content that has some relationship
+└─ names_index_min   # content of each characters and light_cones data, using his own id as prop key, and [data].name to value
 ```
 
 ## Links
