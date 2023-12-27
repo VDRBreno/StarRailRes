@@ -1,0 +1,1 @@
+{"id":"1305101","name":"歸納","max_level":1,"desc":"施放戰技時，目標每有1個負面效果，真理醫生的暴擊率便提高#1[f1]%、暴擊傷害便提高#2[i]%，該效果最多疊加#3[i]層。","params":[[0.025,0.05,6]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110121","num":3},{"id":"110504","num":1}]}],"icon":"icon/skill/1305_skilltree1.png"}

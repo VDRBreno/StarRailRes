@@ -1,0 +1,1 @@
+{"id":"1302101","name":"敬虔","max_level":1,"desc":"ターンが回ってきた時、「栄達」を#1[i]層獲得する。","params":[[1]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110131","num":3},{"id":"110503","num":1}]}],"icon":"icon/skill/1302_skilltree1.png"}

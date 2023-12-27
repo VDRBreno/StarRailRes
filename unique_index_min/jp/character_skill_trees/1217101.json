@@ -1,0 +1,1 @@
+{"id":"1217101","name":"一存では動けない","max_level":1,"desc":"戦闘開始時、フォフォは「厄払い」を獲得する、#1[i]ターン継続。","params":[[1]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110171","num":3},{"id":"110503","num":1}]}],"icon":"icon/skill/1217_skilltree1.png"}

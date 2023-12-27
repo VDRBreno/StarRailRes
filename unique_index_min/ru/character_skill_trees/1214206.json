@@ -1,0 +1,1 @@
+{"id":"1214206","name":"Усиление HP","max_level":1,"desc":"","params":[],"anchor":"Point14","pre_points":["1214205"],"level_up_skills":[],"levels":[{"promotion":5,"level":0,"properties":[{"type":"HPAddedRatio","value":0.06}],"materials":[{"id":"2","num":36000},{"id":"110113","num":2},{"id":"111003","num":2}]}],"icon":"icon/property/IconMaxHP.png"}

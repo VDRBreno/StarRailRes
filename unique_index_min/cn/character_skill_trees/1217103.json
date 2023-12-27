@@ -1,0 +1,1 @@
+{"id":"1217103","name":"怯惧应激","max_level":1,"desc":"触发天赋为我方目标提供治疗时，藿藿恢复#1[i]点能量。","params":[[1]],"anchor":"Point08","pre_points":[],"level_up_skills":[],"levels":[{"promotion":6,"level":0,"properties":[],"materials":[{"id":"2","num":160000},{"id":"110173","num":8},{"id":"241","num":1},{"id":"110503","num":1}]}],"icon":"icon/skill/1217_skilltree3.png"}

@@ -1,0 +1,1 @@
+{"id":"1217204","name":"Bonificación de VEL","max_level":1,"desc":"","params":[],"anchor":"Point12","pre_points":["1217203"],"level_up_skills":[],"levels":[{"promotion":3,"level":0,"properties":[{"type":"SpeedDelta","value":2}],"materials":[{"id":"2","num":10000},{"id":"110172","num":3},{"id":"113002","num":3}]}],"icon":"icon/property/IconSpeed.png"}

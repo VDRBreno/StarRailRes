@@ -1,0 +1,1 @@
+{"id":"1214203","name":"Break Enhance","max_level":1,"desc":"","params":[],"anchor":"Point11","pre_points":["1214202"],"level_up_skills":[],"levels":[{"promotion":3,"level":0,"properties":[{"type":"BreakDamageAddedRatioBase","value":0.053}],"materials":[{"id":"2","num":8000},{"id":"110112","num":2},{"id":"111002","num":2}]}],"icon":"icon/property/IconBreakUp.png"}

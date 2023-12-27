@@ -1,0 +1,1 @@
+{"id":"1215206","name":"Augmentation de VIT","max_level":1,"desc":"","params":[],"anchor":"Point14","pre_points":["1215205"],"level_up_skills":[],"levels":[{"promotion":5,"level":0,"properties":[{"type":"SpeedDelta","value":3}],"materials":[{"id":"2","num":36000},{"id":"110163","num":2},{"id":"113013","num":2}]}],"icon":"icon/property/IconSpeed.png"}

@@ -1,0 +1,1 @@
+{"id":"1302101","name":"Devoción","max_level":1,"desc":"Al comenzar el turno, obtiene inmediatamente #1[i] acumulación de Elevación.","params":[[1]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110131","num":3},{"id":"110503","num":1}]}],"icon":"icon/skill/1302_skilltree1.png"}

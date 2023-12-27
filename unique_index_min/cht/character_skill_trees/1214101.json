@@ -1,0 +1,1 @@
+{"id":"1214101","name":"預兆機杼","max_level":1,"desc":"使自身造成的傷害提高，提高數值等同於擊破特攻的#1[i]%，最多使造成的傷害提高#2[i]%。","params":[[1,2.4]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":4000},{"id":"110111","num":2},{"id":"110504","num":1}]}],"icon":"icon/skill/1214_skilltree1.png"}

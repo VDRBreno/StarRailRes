@@ -1,0 +1,1 @@
+{"id":"1303209","name":"Bônus de DEF","max_level":1,"desc":"","params":[],"anchor":"Point17","pre_points":["1303208"],"level_up_skills":[],"levels":[{"promotion":0,"level":75,"properties":[{"type":"DefenceAddedRatio","value":0.1}],"materials":[{"id":"2","num":160000},{"id":"110163","num":8},{"id":"113003","num":8}]}],"icon":"icon/property/IconDefence.png"}

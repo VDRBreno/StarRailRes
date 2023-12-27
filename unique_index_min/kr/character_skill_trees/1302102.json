@@ -1,0 +1,1 @@
+{"id":"1302102","name":"너그러움","max_level":1,"desc":"적이 전투 진입 시 자신의 에너지를 즉시 #1[i]pt 회복한다","params":[[2]],"anchor":"Point07","pre_points":[],"level_up_skills":[],"levels":[{"promotion":4,"level":0,"properties":[],"materials":[{"id":"2","num":20000},{"id":"110132","num":5},{"id":"241","num":1},{"id":"110503","num":1}]}],"icon":"icon/skill/1302_skilltree2.png"}

@@ -1,0 +1,1 @@
+{"id":"121407","name":"斬、即決","max_level":1,"element":"Quantum","type":"Maze","type_text":"秘技","effect":"MazeAttack","effect_text":"","simple_desc":"敵を攻撃。戦闘に入った後、敵全体に少量の量子属性ダメージを与える。","desc":"敵を攻撃。戦闘開始後、敵全体に雪衣の攻撃力#1[i]%分の量子属性ダメージを与える。","params":[[0.8]],"icon":"icon/skill/1214_technique.png"}

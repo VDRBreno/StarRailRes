@@ -1,0 +1,1 @@
+{"id":"1215103","name":"환생","max_level":1,"desc":"[부담]의 전투 스킬 포인트 회복 효과가 발동되면 자신의 에너지가 #1[i]pt 회복된다","params":[[2]],"anchor":"Point08","pre_points":[],"level_up_skills":[],"levels":[{"promotion":6,"level":0,"properties":[],"materials":[{"id":"2","num":128000},{"id":"110163","num":6},{"id":"241","num":1},{"id":"110503","num":1}]}],"icon":"icon/skill/1215_skilltree3.png"}

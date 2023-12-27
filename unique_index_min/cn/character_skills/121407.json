@@ -1,0 +1,1 @@
+{"id":"121407","name":"斩立决","max_level":1,"element":"Quantum","type":"Maze","type_text":"秘技","effect":"MazeAttack","effect_text":"","simple_desc":"攻击敌人，进战后对敌方全体造成少量量子属性伤害。","desc":"立即攻击敌人，进入战斗后对敌方全体造成等同于雪衣#1[i]%攻击力的量子属性伤害。","params":[[0.8]],"icon":"icon/skill/1214_technique.png"}

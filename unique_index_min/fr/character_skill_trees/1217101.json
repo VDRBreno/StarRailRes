@@ -1,0 +1,1 @@
+{"id":"1217101","name":"Paralysée","max_level":1,"desc":"Huohuo obtient Intervention divine pendant #1[i] tour en début de combat.","params":[[1]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110171","num":3},{"id":"110503","num":1}]}],"icon":"icon/skill/1217_skilltree1.png"}

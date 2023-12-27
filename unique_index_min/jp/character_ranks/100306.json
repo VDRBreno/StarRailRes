@@ -1,1 +1,1 @@
-{"id":"100306","name":"開拓！","rank":6,"desc":"必殺技のヒット数+2、1ヒットごとにランダムな敵単体に、本来のダメージ40%分の炎属性ダメージを与える。","materials":[{"id":"11003","num":1}],"level_up_skills":[],"icon":"icon/skill/1003_rank6.png"}
+{"id":"100306","name":"開拓！","rank":6,"desc":"必殺技を発動した時、さらに2ヒットし、1ヒットごとにランダムな敵単体に本来のダメージ40%分の炎属性ダメージを与える。","materials":[{"id":"11003","num":1}],"level_up_skills":[],"icon":"icon/skill/1003_rank6.png"}

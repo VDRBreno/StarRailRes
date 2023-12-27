@@ -1,0 +1,1 @@
+{"id":"1215103","name":"还阳","max_level":1,"desc":"当【承负】战技点恢复效果被触发时，自身恢复#1[i]点能量。","params":[[2]],"anchor":"Point08","pre_points":[],"level_up_skills":[],"levels":[{"promotion":6,"level":0,"properties":[],"materials":[{"id":"2","num":128000},{"id":"110163","num":6},{"id":"241","num":1},{"id":"110503","num":1}]}],"icon":"icon/skill/1215_skilltree3.png"}

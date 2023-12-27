@@ -1,0 +1,1 @@
+{"id":"1215202","name":"速度强化","max_level":1,"desc":"","params":[],"anchor":"Point10","pre_points":["1215101"],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[{"type":"SpeedDelta","value":2}],"materials":[{"id":"2","num":4000},{"id":"110161","num":2},{"id":"113011","num":4}]}],"icon":"icon/property/IconSpeed.png"}

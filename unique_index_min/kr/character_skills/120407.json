@@ -1,1 +1,1 @@
-{"id":"120407","name":"위령 소환","max_level":1,"element":"","type":"Maze","type_text":"비술","effect":"Enhance","effect_text":"강화","simple_desc":"","desc":"비술 발동 후 다음 전투 시작 시 [신군]의 첫 번째 턴 공격 단수가 #1[i]단 증가한다","params":[[3]],"icon":"icon/skill/1204_technique.png"}
+{"id":"120407","name":"위령 소환","max_level":1,"element":"","type":"Maze","type_text":"비술","effect":"Enhance","effect_text":"강화","simple_desc":"","desc":"비술을 발동하면 다음 전투 시작 시 [신군]의 첫 번째 턴 공격 단수가 #1[i]단 증가한다","params":[[3]],"icon":"icon/skill/1204_technique.png"}

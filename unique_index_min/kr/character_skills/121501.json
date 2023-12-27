@@ -1,0 +1,1 @@
+{"id":"121501","name":"명참천필(冥讖天筆)","max_level":9,"element":"Physical","type":"Normal","type_text":"일반 공격","effect":"SingleAttack","effect_text":"단일 공격","simple_desc":"단일 적에게 소량의 물리 속성 피해를 준다","desc":"지정된 단일 적에게 한아 공격력 #1[i]%만큼의 물리 속성 피해를 준다","params":[[0.5],[0.6],[0.7],[0.8],[0.9],[1],[1.1],[1.2],[1.3]],"icon":"icon/skill/1215_basic_atk.png"}

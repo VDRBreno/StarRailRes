@@ -1,1 +1,1 @@
-{"id":"612353","name":"Seal","desc":"When a character Breaks an enemy's Weakness, restores HP to the character equal to 16% of their Max HP.","enhanced_desc":"When a character Breaks an enemy's Weakness, restores HP to the character equal to 24% of their Max HP."}
+{"id":"612353","name":"Seal","desc":"After a character inflicts Weakness Break on an enemy, restores HP to the character equal to 16% of their Max HP.","enhanced_desc":"After a character inflicts Weakness Break on an enemy, restores HP to the character equal to 24% of their Max HP."}

@@ -1,0 +1,1 @@
+{"id":"22001","skill":"不怕不怕啦","desc":"使裝備者的生命上限提高#1[i]%。當裝備者施放戰技時，治療量提高#2[i]%，持續#3[i]回合。","params":[[0.08,0.16,2],[0.09,0.19,2],[0.1,0.22,2],[0.11,0.25,2],[0.12,0.28,2]],"properties":[[{"type":"HPAddedRatio","value":0.08}],[{"type":"HPAddedRatio","value":0.09}],[{"type":"HPAddedRatio","value":0.1}],[{"type":"HPAddedRatio","value":0.11}],[{"type":"HPAddedRatio","value":0.12}]]}
