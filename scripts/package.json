@@ -4,13 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "build": "tsc",
-    "gunique": "node build/GenerateUniqueIndexData.js",
-    "gunique:dev": "ts-node-dev src/GenerateUniqueIndexData.ts",
-    "gjoin": "node build/GenerateJoinIndexData.js",
-    "gjoin:dev": "ts-node-dev src/GenerateJoinIndexData.ts",
-    "gnames": "node build/GenerateDataIndexNames.js",
-    "gnames:dev": "ts-node-dev src/GenerateDataIndexNames.ts"
+    "dev": "ts-node-dev src/index.ts",
+    "build": "tsc"
   },
   "devDependencies": {
     "@types/node": "^20.6.0",
