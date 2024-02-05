@@ -1,0 +1,1 @@
+{"id":"130607","name":"不可靠敘事者","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Support","effect_text":"輔助","simple_desc":"使用秘技後，我方全體進入【迷誤】狀態。在【迷誤】狀態下不會被敵人發現。【迷誤】狀態期間進入戰鬥時為我方恢復戰技點。","desc":"使用秘技後，我方全體進入持續#2[i]秒的【迷誤】狀態。在【迷誤】狀態下不會被敵人發現。【迷誤】狀態期間進入戰鬥時為我方恢復#1[i]個戰技點。","params":[[3,20]],"icon":"icon/skill/1306_technique.png"}

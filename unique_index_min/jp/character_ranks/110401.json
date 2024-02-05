@@ -1,1 +1,1 @@
-{"id":"110401","name":"忠実篤厚","rank":1,"desc":"戦闘スキルを発動した時、攻撃を受けた敵が凍結状態になる基礎確率+35%。","materials":[{"id":"11104","num":1}],"level_up_skills":[],"icon":"icon/skill/1104_rank1.png"}
+{"id":"110401","name":"{RUBY_B#ちゅうじつとっこう}忠実篤厚{RUBY_E#}","rank":1,"desc":"戦闘スキルを発動した時、攻撃を受けた敵が凍結状態になる基礎確率+35%。","materials":[{"id":"11104","num":1}],"level_up_skills":[],"icon":"icon/skill/1104_rank1.png"}

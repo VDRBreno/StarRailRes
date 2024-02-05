@@ -1,0 +1,1 @@
+{"id":"1312102","name":"인터로크","max_level":1,"desc":"필살기 발동 시 해당 필살기 행동이 종료될 때까지 효과 명중이 #1[i]% 증가한다","params":[[0.6]],"anchor":"Point07","pre_points":[],"level_up_skills":[],"levels":[{"promotion":4,"level":0,"properties":[],"materials":[{"id":"2","num":16000},{"id":"110182","num":4},{"id":"241","num":1},{"id":"110504","num":1}]}],"icon":"icon/skill/1312_skilltree2.png"}

@@ -1,1 +1,1 @@
-{"id":"111004","name":"Dusk of Warm Campfire","rank":4,"desc":"When \"Survival Response\" is gained, increases the target's ATK by an amount equal to ('3.0', '.1f')% of Lynx's Max HP for 1 turn(s).","materials":[{"id":"11110","num":1}],"level_up_skills":[],"icon":"icon/skill/1110_rank4.png"}
+{"id":"111004","name":"Dusk of Warm Campfire","rank":4,"desc":"When \"Survival Response\" is gained, increases the target's ATK by an amount equal to 3.0% of Lynx's Max HP for 1 turn(s).","materials":[{"id":"11110","num":1}],"level_up_skills":[],"icon":"icon/skill/1110_rank4.png"}

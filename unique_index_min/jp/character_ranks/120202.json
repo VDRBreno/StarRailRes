@@ -1,1 +1,1 @@
-{"id":"120202","name":"君子の恩恵\\n微笑みを以て承るべき","rank":2,"desc":"「賜福」を与えられた味方単体は、敵を倒した時にEPを5回復する、この効果はターンが回ってくるたびに1回まで発動できる。","materials":[{"id":"11202","num":1}],"level_up_skills":[],"icon":"icon/skill/1202_rank2.png"}
+{"id":"120202","name":"{RUBY_B#くんし}君子{RUBY_E#}の{RUBY_B#おんけい}恩恵{RUBY_E#}\\n{RUBY_B#ほほえ}微笑{RUBY_E#}みを{RUBY_B#もっ}以{RUBY_E#}て{RUBY_B#うけたまわ}承{RUBY_E#}るべき","rank":2,"desc":"「賜福」を与えられた味方単体は、敵を倒した時にEPを5回復する、この効果はターンが回ってくるたびに1回まで発動できる。","materials":[{"id":"11202","num":1}],"level_up_skills":[],"icon":"icon/skill/1202_rank2.png"}

@@ -1,1 +1,1 @@
-{"id":"121204","name":"掌の月光","rank":4,"desc":"「転魄」状態で味方のHPを消費して獲得する攻撃力が、さらに味方全体が消費したHPの90%分アップする。獲得できる攻撃力の上限+30%。","materials":[{"id":"11212","num":1}],"level_up_skills":[],"icon":"icon/skill/1212_rank4.png"}
+{"id":"121204","name":"{RUBY_B#てのひら}掌{RUBY_E#}の{RUBY_B#げっこう}月光{RUBY_E#}","rank":4,"desc":"「転魄」状態で味方のHPを消費して獲得する攻撃力が、さらに味方全体が消費したHPの90%分アップする。獲得できる攻撃力の上限+30%。","materials":[{"id":"11212","num":1}],"level_up_skills":[],"icon":"icon/skill/1212_rank4.png"}

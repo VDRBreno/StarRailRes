@@ -1,1 +1,1 @@
-{"id":"121705","name":"勅令のままに妖魔退治","rank":5,"desc":"戦闘スキルのLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。","materials":[{"id":"11217","num":1}],"level_up_skills":[{"id":"121702","num":2},{"id":"121701","num":1}],"icon":"icon/skill/1217_ultimate.png"}
+{"id":"121705","name":"{RUBY_B#ちょくれい}勅令{RUBY_E#}のままに{RUBY_B#ようまたいじ}妖魔退治{RUBY_E#}","rank":5,"desc":"戦闘スキルのLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。","materials":[{"id":"11217","num":1}],"level_up_skills":[{"id":"121702","num":2},{"id":"121701","num":1}],"icon":"icon/skill/1217_ultimate.png"}

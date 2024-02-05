@@ -1,1 +1,1 @@
-{"id":"100903","name":"黄道隕石の変","rank":3,"desc":"戦闘スキルのLv.+2、最大Lv.15まで。天賦のLv.+2、最大Lv.15まで。","materials":[{"id":"11009","num":1}],"level_up_skills":[{"id":"100902","num":2},{"id":"100904","num":2}],"icon":"icon/skill/1009_skill.png"}
+{"id":"100903","name":"{RUBY_B#こうどういんせき}黄道隕石{RUBY_E#}の{RUBY_B#へん}変{RUBY_E#}","rank":3,"desc":"戦闘スキルのLv.+2、最大Lv.15まで。天賦のLv.+2、最大Lv.15まで。","materials":[{"id":"11009","num":1}],"level_up_skills":[{"id":"100902","num":2},{"id":"100904","num":2}],"icon":"icon/skill/1009_skill.png"}

@@ -1,0 +1,1 @@
+{"id":"1306101","name":"Almanaque","max_level":1,"desc":"Al usar el ATQ básico, recupera #1[i] pts. de energía adicionales.","params":[[10]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110231","num":3},{"id":"110504","num":1}]}],"icon":"icon/skill/1306_skilltree1.png"}

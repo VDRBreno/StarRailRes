@@ -1,1 +1,1 @@
-{"id":"110405","name":"寒鉄の如く拳","rank":5,"desc":"戦闘スキルのLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。","materials":[{"id":"11104","num":1}],"level_up_skills":[{"id":"110402","num":2},{"id":"110401","num":1}],"icon":"icon/skill/1104_ultimate.png"}
+{"id":"110405","name":"{RUBY_B#かんてつ}寒鉄{RUBY_E#}の{RUBY_B#ごと}如{RUBY_E#}く{RUBY_B#こぶし}拳{RUBY_E#}","rank":5,"desc":"戦闘スキルのLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。","materials":[{"id":"11104","num":1}],"level_up_skills":[{"id":"110402","num":2},{"id":"110401","num":1}],"icon":"icon/skill/1104_ultimate.png"}

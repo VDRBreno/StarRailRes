@@ -1,1 +1,1 @@
-{"id":"120103","name":"無我夢中に門前清","rank":3,"desc":"必殺技のLv.+2、最大Lv.15まで。天賦のLv.+2、最大Lv.15まで。","materials":[{"id":"11201","num":1}],"level_up_skills":[{"id":"120103","num":2},{"id":"120104","num":2}],"icon":"icon/skill/1201_skill.png"}
+{"id":"120103","name":"{RUBY_B#むがむちゅう}無我夢中{RUBY_E#}に{RUBY_B#メンゼンチン}門前清{RUBY_E#}","rank":3,"desc":"必殺技のLv.+2、最大Lv.15まで。天賦のLv.+2、最大Lv.15まで。","materials":[{"id":"11201","num":1}],"level_up_skills":[{"id":"120103","num":2},{"id":"120104","num":2}],"icon":"icon/skill/1201_skill.png"}

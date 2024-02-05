@@ -1,1 +1,1 @@
-{"id":"120201","name":"春風吹きて時運巡る","rank":1,"desc":"「賜福」を与えられた味方単体は、必殺技を発動した後に速度+20%、1ターン継続。","materials":[{"id":"11202","num":1}],"level_up_skills":[],"icon":"icon/skill/1202_rank1.png"}
+{"id":"120201","name":"{RUBY_B#はるかぜ}春風{RUBY_E#}{RUBY_B#ふ}吹{RUBY_E#}きて{RUBY_B#じうん}時運{RUBY_E#}{RUBY_B#めぐ}巡{RUBY_E#}る","rank":1,"desc":"「賜福」を与えられた味方単体は、必殺技を発動した後に速度+20%、1ターン継続。","materials":[{"id":"11202","num":1}],"level_up_skills":[],"icon":"icon/skill/1202_rank1.png"}

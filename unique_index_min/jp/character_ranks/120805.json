@@ -1,1 +1,1 @@
-{"id":"120805","name":"計神","rank":5,"desc":"必殺技のLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。","materials":[{"id":"11208","num":1}],"level_up_skills":[{"id":"120803","num":2},{"id":"120801","num":1}],"icon":"icon/skill/1208_ultimate.png"}
+{"id":"120805","name":"{RUBY_B#けいしん}計神{RUBY_E#}","rank":5,"desc":"必殺技のLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。","materials":[{"id":"11208","num":1}],"level_up_skills":[{"id":"120803","num":2},{"id":"120801","num":1}],"icon":"icon/skill/1208_ultimate.png"}

@@ -1,1 +1,1 @@
-{"id":"800404","name":"文明に留まる誓い","rank":4,"desc":"戦闘開始時、「灼熱意志」を4層獲得する。","materials":[{"id":"18003","num":1}],"level_up_skills":[],"icon":"icon/skill/8004_rank4.png"}
+{"id":"800404","name":"{RUBY_B#ぶんめい}文明{RUBY_E#}に{RUBY_B#とど}留{RUBY_E#}まる{RUBY_B#ちか}誓{RUBY_E#}い","rank":4,"desc":"戦闘開始時、「灼熱意志」を4層獲得する。","materials":[{"id":"18003","num":1}],"level_up_skills":[],"icon":"icon/skill/8004_rank4.png"}

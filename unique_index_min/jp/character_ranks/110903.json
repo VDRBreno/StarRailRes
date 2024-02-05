@@ -1,1 +1,1 @@
-{"id":"110903","name":"好き嫌いはしない","rank":3,"desc":"戦闘スキルのLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。","materials":[{"id":"11109","num":1}],"level_up_skills":[{"id":"110902","num":2},{"id":"110901","num":1},{"id":"110909","num":2}],"icon":"icon/skill/1109_skill.png"}
+{"id":"110903","name":"{RUBY_B#す}好{RUBY_E#}き{RUBY_B#き}嫌{RUBY_E#}いはしない","rank":3,"desc":"戦闘スキルのLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。","materials":[{"id":"11109","num":1}],"level_up_skills":[{"id":"110902","num":2},{"id":"110901","num":1},{"id":"110909","num":2}],"icon":"icon/skill/1109_skill.png"}

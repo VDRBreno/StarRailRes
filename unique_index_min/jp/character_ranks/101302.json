@@ -1,1 +1,1 @@
-{"id":"101302","name":"勝てば追い打ち","rank":2,"desc":"天賦が1回発動するごとに、自身の会心率+3%、この効果は最大で5回累積できる。","materials":[{"id":"11013","num":1}],"level_up_skills":[],"icon":"icon/skill/1013_rank2.png"}
+{"id":"101302","name":"{RUBY_B#か}勝{RUBY_E#}てば{RUBY_B#お}追{RUBY_E#}い{RUBY_B#う}打{RUBY_E#}ち","rank":2,"desc":"天賦が1回発動するごとに、自身の会心率+3%、この効果は最大で5回累積できる。","materials":[{"id":"11013","num":1}],"level_up_skills":[],"icon":"icon/skill/1013_rank2.png"}

@@ -1,1 +1,1 @@
-{"id":"121001","name":"逆立ち麺食い","rank":1,"desc":"戦闘スキルを発動した時、100%の基礎確率で攻撃を受けた敵の効果抵抗-10%、2ターン継続。","materials":[{"id":"11210","num":1}],"level_up_skills":[],"icon":"icon/skill/1210_rank1.png"}
+{"id":"121001","name":"{RUBY_B#さかだ}逆立{RUBY_E#}ち{RUBY_B#めんく}麺食{RUBY_E#}い","rank":1,"desc":"戦闘スキルを発動した時、100%の基礎確率で攻撃を受けた敵の効果抵抗-10%、2ターン継続。","materials":[{"id":"11210","num":1}],"level_up_skills":[],"icon":"icon/skill/1210_rank1.png"}

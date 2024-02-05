@@ -1,1 +1,1 @@
-{"id":"121502","name":"二観","rank":2,"desc":"戦闘スキルを発動した後、速度+20%、1ターン継続。","materials":[{"id":"11215","num":1}],"level_up_skills":[],"icon":"icon/skill/1215_rank2.png"}
+{"id":"121502","name":"{RUBY_B#にかん}二観{RUBY_E#}","rank":2,"desc":"戦闘スキルを発動した後、速度+20%、1ターン継続。","materials":[{"id":"11215","num":1}],"level_up_skills":[],"icon":"icon/skill/1215_rank2.png"}

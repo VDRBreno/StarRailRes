@@ -1,1 +1,1 @@
-{"id":"101306","name":"誰も私を裏切れない","rank":6,"desc":"必殺技を発動した後、攻撃力+25%、1ターン継続。","materials":[{"id":"11013","num":1}],"level_up_skills":[],"icon":"icon/skill/1013_rank6.png"}
+{"id":"101306","name":"{RUBY_B#だれ}誰{RUBY_E#}も{RUBY_B#わたし}私{RUBY_E#}を{RUBY_B#うらぎ}裏切{RUBY_E#}れない","rank":6,"desc":"必殺技を発動した後、攻撃力+25%、1ターン継続。","materials":[{"id":"11013","num":1}],"level_up_skills":[],"icon":"icon/skill/1013_rank6.png"}

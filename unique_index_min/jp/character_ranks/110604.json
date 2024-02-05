@@ -1,1 +1,1 @@
-{"id":"110604","name":"完全解析","rank":4,"desc":"戦闘スキルを発動した時、100%の基礎確率で敵の氷属性耐性-12%、2ターン継続。","materials":[{"id":"11106","num":1}],"level_up_skills":[],"icon":"icon/skill/1106_rank4.png"}
+{"id":"110604","name":"{RUBY_B#かんぜんかいせき}完全解析{RUBY_E#}","rank":4,"desc":"戦闘スキルを発動した時、100%の基礎確率で敵の氷属性耐性-12%、2ターン継続。","materials":[{"id":"11106","num":1}],"level_up_skills":[],"icon":"icon/skill/1106_rank4.png"}

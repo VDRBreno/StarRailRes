@@ -1,1 +1,1 @@
-{"id":"100806","name":"献身的な先導","rank":6,"desc":"残りHPが50%以下の時、必殺技の与ダメージ+20%、隣接する敵に対するダメージ倍率がメインターゲットと同じになる。","materials":[{"id":"11008","num":1}],"level_up_skills":[],"icon":"icon/skill/1008_rank6.png"}
+{"id":"100806","name":"{RUBY_B#けんしんてき}献身的{RUBY_E#}な{RUBY_B#せんどう}先導{RUBY_E#}","rank":6,"desc":"残りHPが50%以下の時、必殺技の与ダメージ+20%、隣接する敵に対するダメージ倍率がメインターゲットと同じになる。","materials":[{"id":"11008","num":1}],"level_up_skills":[],"icon":"icon/skill/1008_rank6.png"}

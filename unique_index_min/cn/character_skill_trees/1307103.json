@@ -1,0 +1,1 @@
+{"id":"1307103","name":"烛影朕兆","max_level":1,"desc":"使自身造成的伤害提高，提高数值等同于效果命中的#1[i]%，最多使造成的伤害提高#2[i]%。","params":[[0.6,0.72]],"anchor":"Point08","pre_points":[],"level_up_skills":[],"levels":[{"promotion":6,"level":0,"properties":[],"materials":[{"id":"2","num":160000},{"id":"110223","num":8},{"id":"241","num":1},{"id":"110504","num":1}]}],"icon":"icon/skill/1307_skilltree3.png"}

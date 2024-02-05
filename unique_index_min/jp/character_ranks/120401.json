@@ -1,1 +1,1 @@
-{"id":"120401","name":"流星雷霆\\n山をも砕く","rank":1,"desc":"「神君」が攻撃を行う時、指定した敵単体に隣接する敵に対するダメージ倍率が、メインターゲットに対するダメージ倍率25%分アップする。","materials":[{"id":"11204","num":1}],"level_up_skills":[],"icon":"icon/skill/1204_rank1.png"}
+{"id":"120401","name":"{RUBY_B#りゅうせいらいてい}流星雷霆{RUBY_E#}\\n{RUBY_B#やま}山{RUBY_E#}をも{RUBY_B#くだ}砕{RUBY_E#}く","rank":1,"desc":"「神君」が攻撃を行う時、指定した敵単体に隣接する敵に対するダメージ倍率が、メインターゲットに対するダメージ倍率25%分アップする。","materials":[{"id":"11204","num":1}],"level_up_skills":[],"icon":"icon/skill/1204_rank1.png"}

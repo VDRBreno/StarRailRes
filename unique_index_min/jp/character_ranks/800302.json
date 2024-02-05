@@ -1,1 +1,1 @@
-{"id":"800302","name":"古き寒鉄の堅守","rank":2,"desc":"天賦発動時、味方全体に付与するバリアの耐久値が、開拓者の防御力2%+27アップする。","materials":[{"id":"18003","num":1}],"level_up_skills":[],"icon":"icon/skill/8003_rank2.png"}
+{"id":"800302","name":"{RUBY_B#ふる}古{RUBY_E#}き{RUBY_B#かんてつ}寒鉄{RUBY_E#}の{RUBY_B#けんしゅ}堅守{RUBY_E#}","rank":2,"desc":"天賦発動時、味方全体に付与するバリアの耐久値が、開拓者の防御力2%+27アップする。","materials":[{"id":"18003","num":1}],"level_up_skills":[],"icon":"icon/skill/8003_rank2.png"}

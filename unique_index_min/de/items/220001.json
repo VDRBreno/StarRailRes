@@ -1,1 +1,1 @@
-{"id":"220001","name":"Wo ist der Hase?","type":"Usable","sub_type":"Usable","rarity":4,"icon":"icon/item/220001.png","come_from":["Erhalten bei der Aktion Untergrund-Schatzsuche"]}
+{"id":"220001","name":"Wo ist der Hase?","type":"Usable","sub_type":"ChatBubble","rarity":4,"icon":"icon/item/220001.png","come_from":["Erhalten bei der Aktion Untergrund-Schatzsuche"]}

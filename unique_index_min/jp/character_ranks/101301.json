@@ -1,1 +1,1 @@
-{"id":"101301","name":"弱みは付け込み","rank":1,"desc":"通常攻撃を行った時、指定した敵単体の残りHPが50%以下の場合、さらにヘルタの攻撃力40%分の氷属性付加ダメージを与える。","materials":[{"id":"11013","num":1}],"level_up_skills":[],"icon":"icon/skill/1013_rank1.png"}
+{"id":"101301","name":"{RUBY_B#よわ}弱{RUBY_E#}みは{RUBY_B#つ}付{RUBY_E#}け{RUBY_B#こ}込{RUBY_E#}み","rank":1,"desc":"通常攻撃を行った時、指定した敵単体の残りHPが50%以下の場合、さらにヘルタの攻撃力40%分の氷属性付加ダメージを与える。","materials":[{"id":"11013","num":1}],"level_up_skills":[],"icon":"icon/skill/1013_rank1.png"}

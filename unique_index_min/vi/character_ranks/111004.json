@@ -1,1 +1,1 @@
-{"id":"111004","name":"Hoàng Hôn Lửa Trại Ấm Áp","rank":4,"desc":"Khi nhận \"Phản Ứng Sinh Tồn\", sẽ tăng tấn công của mục tiêu này, mức tăng bằng ('3.0', '.1f')% Giới Hạn HP của Lynx, duy trì 1 hiệp.","materials":[{"id":"11110","num":1}],"level_up_skills":[],"icon":"icon/skill/1110_rank4.png"}
+{"id":"111004","name":"Hoàng Hôn Lửa Trại Ấm Áp","rank":4,"desc":"Khi nhận \"Phản Ứng Sinh Tồn\", sẽ tăng tấn công của mục tiêu này, mức tăng bằng 3.0% Giới Hạn HP của Lynx, duy trì 1 hiệp.","materials":[{"id":"11110","num":1}],"level_up_skills":[],"icon":"icon/skill/1110_rank4.png"}

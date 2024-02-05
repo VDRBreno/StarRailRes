@@ -1,0 +1,1 @@
+{"id":"1312101","name":"釋放","max_level":1,"desc":"終結技首段攻擊前，使目標陷入凍結狀態的基礎機率提高#1[i]%。","params":[[0.8]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":4000},{"id":"110181","num":2},{"id":"110504","num":1}]}],"icon":"icon/skill/1312_skilltree1.png"}

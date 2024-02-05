@@ -1,1 +1,1 @@
-{"id":"401008","name":"Refresco embotellado","type":"Usable","sub_type":"Usable","rarity":2,"icon":"icon/item/401008.png","come_from":["Máquina sintetizadora multiusos","Máquina expendedora"]}
+{"id":"401008","name":"Refresco embotellado","type":"Usable","sub_type":"Food","rarity":2,"icon":"icon/item/401008.png","come_from":["Máquina sintetizadora multiusos","Máquina expendedora"]}

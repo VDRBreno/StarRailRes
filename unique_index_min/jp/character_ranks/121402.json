@@ -1,1 +1,1 @@
-{"id":"121402","name":"五塵破り","rank":2,"desc":"天賦の追加攻撃は敵の弱点属性を無視して靭性を削り、自身の最大HP5%分のHPを回復する。敵を弱点撃破した時、量子属性の弱点撃破効果を発動する。","materials":[{"id":"11214","num":1}],"level_up_skills":[],"icon":"icon/skill/1214_rank2.png"}
+{"id":"121402","name":"{RUBY_B#ごじんやぶ}五塵破{RUBY_E#}り","rank":2,"desc":"天賦の追加攻撃は敵の弱点属性を無視して靭性を削り、自身の最大HP5%分のHPを回復する。敵を弱点撃破した時、量子属性の弱点撃破効果を発動する。","materials":[{"id":"11214","num":1}],"level_up_skills":[],"icon":"icon/skill/1214_rank2.png"}

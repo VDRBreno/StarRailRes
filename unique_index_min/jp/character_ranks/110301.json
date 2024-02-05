@@ -1,1 +1,1 @@
-{"id":"110301","name":"いつまでも鳴り響け","rank":1,"desc":"通常攻撃は指定した敵に隣接するランダムな敵に、通常攻撃のダメージ60%分の雷属性ダメージを与える。","materials":[{"id":"11103","num":1}],"level_up_skills":[],"icon":"icon/skill/1103_rank1.png"}
+{"id":"110301","name":"いつまでも{RUBY_B#な}鳴{RUBY_E#}り{RUBY_B#ひび}響{RUBY_E#}け","rank":1,"desc":"通常攻撃は指定した敵に隣接するランダムな敵に、通常攻撃のダメージ60%分の雷属性ダメージを与える。","materials":[{"id":"11103","num":1}],"level_up_skills":[],"icon":"icon/skill/1103_rank1.png"}

@@ -1,1 +1,1 @@
-{"id":"100303","name":"自我","rank":3,"desc":"戦闘スキルのLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。","materials":[{"id":"11003","num":1}],"level_up_skills":[{"id":"100302","num":2},{"id":"100301","num":1}],"icon":"icon/skill/1003_skill.png"}
+{"id":"100303","name":"{RUBY_B#じが}自我{RUBY_E#}","rank":3,"desc":"戦闘スキルのLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。","materials":[{"id":"11003","num":1}],"level_up_skills":[{"id":"100302","num":2},{"id":"100301","num":1}],"icon":"icon/skill/1003_skill.png"}

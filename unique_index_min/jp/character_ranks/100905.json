@@ -1,1 +1,1 @@
-{"id":"100905","name":"深空座す天体の謎","rank":5,"desc":"必殺技のLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。","materials":[{"id":"11009","num":1}],"level_up_skills":[{"id":"100903","num":2},{"id":"100901","num":1}],"icon":"icon/skill/1009_ultimate.png"}
+{"id":"100905","name":"{RUBY_B#しんくう}深空{RUBY_E#}{RUBY_B#ざ}座{RUBY_E#}す{RUBY_B#てんたい}天体{RUBY_E#}の{RUBY_B#なぞ}謎{RUBY_E#}","rank":5,"desc":"必殺技のLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。","materials":[{"id":"11009","num":1}],"level_up_skills":[{"id":"100903","num":2},{"id":"100901","num":1}],"icon":"icon/skill/1009_ultimate.png"}

@@ -1,1 +1,1 @@
-{"id":"100206","name":"今生縄縛\\n解く時急く勿れ","rank":6,"desc":"戦闘スキルによって減速状態を付与された敵は、さらに速度-8%。","materials":[{"id":"11002","num":1}],"level_up_skills":[],"icon":"icon/skill/1002_rank6.png"}
+{"id":"100206","name":"{RUBY_B#こんじょうじょうばく}今生縄縛{RUBY_E#}\\n{RUBY_B#と}解{RUBY_E#}く{RUBY_B#とき}時{RUBY_E#}{RUBY_B#せ}急{RUBY_E#}く{RUBY_B#なか}勿{RUBY_E#}れ","rank":6,"desc":"戦闘スキルによって減速状態を付与された敵は、さらに速度-8%。","materials":[{"id":"11002","num":1}],"level_up_skills":[],"icon":"icon/skill/1002_rank6.png"}

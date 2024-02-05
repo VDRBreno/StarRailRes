@@ -1,0 +1,1 @@
+{"id":"1312204","name":"Peningkatan CRIT Rate","max_level":1,"desc":"","params":[],"anchor":"Point12","pre_points":["1312203"],"level_up_skills":[],"levels":[{"promotion":3,"level":0,"properties":[{"type":"CriticalChanceBase","value":0.027}],"materials":[{"id":"2","num":8000},{"id":"110182","num":2},{"id":"114002","num":2}]}],"icon":"icon/property/IconCriticalChance.png"}

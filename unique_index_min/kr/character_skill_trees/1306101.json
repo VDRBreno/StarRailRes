@@ -1,0 +1,1 @@
+{"id":"1306101","name":"세시기","max_level":1,"desc":"일반 공격 발동 시 추가로 에너지를 #1[i]pt 회복한다","params":[[10]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110231","num":3},{"id":"110504","num":1}]}],"icon":"icon/skill/1306_skilltree1.png"}

@@ -1,1 +1,1 @@
-{"id":"100406","name":"光ある未来","rank":6,"desc":"戦闘スキルを発動した時、さらにランダムな敵単体にダメージを1回与える。","materials":[{"id":"11004","num":1}],"level_up_skills":[],"icon":"icon/skill/1004_rank6.png"}
+{"id":"100406","name":"{RUBY_B#ひかり}光{RUBY_E#}ある{RUBY_B#みらい}未来{RUBY_E#}","rank":6,"desc":"戦闘スキルを発動した時、さらにランダムな敵単体にダメージを1回与える。","materials":[{"id":"11004","num":1}],"level_up_skills":[],"icon":"icon/skill/1004_rank6.png"}

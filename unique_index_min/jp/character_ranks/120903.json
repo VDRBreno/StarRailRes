@@ -1,1 +1,1 @@
-{"id":"120903","name":"剣胎","rank":3,"desc":"戦闘スキルのLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。","materials":[{"id":"11209","num":1}],"level_up_skills":[{"id":"120902","num":2},{"id":"120901","num":1}],"icon":"icon/skill/1209_skill.png"}
+{"id":"120903","name":"{RUBY_B#けんたい}剣胎{RUBY_E#}","rank":3,"desc":"戦闘スキルのLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。","materials":[{"id":"11209","num":1}],"level_up_skills":[{"id":"120902","num":2},{"id":"120901","num":1}],"icon":"icon/skill/1209_skill.png"}

@@ -1,1 +1,1 @@
-{"id":"111004","name":"露营篝火的薄暮","rank":4,"desc":"获得【求生反应】时，使该目标攻击力提高，提高数值等同于玲可('3.0', '.1f')%生命上限的攻击力，持续1回合。","materials":[{"id":"11110","num":1}],"level_up_skills":[],"icon":"icon/skill/1110_rank4.png"}
+{"id":"111004","name":"露营篝火的薄暮","rank":4,"desc":"获得【求生反应】时，使该目标攻击力提高，提高数值等同于玲可3.0%生命上限的攻击力，持续1回合。","materials":[{"id":"11110","num":1}],"level_up_skills":[],"icon":"icon/skill/1110_rank4.png"}

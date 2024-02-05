@@ -1,1 +1,1 @@
-{"id":"111203","name":"大を掴み小を放つ","rank":3,"desc":"戦闘スキルのLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。","materials":[{"id":"11112","num":1}],"level_up_skills":[{"id":"111202","num":2},{"id":"111201","num":1}],"icon":"icon/skill/1112_skill.png"}
+{"id":"111203","name":"{RUBY_B#だい}大{RUBY_E#}を{RUBY_B#つか}掴{RUBY_E#}み{RUBY_B#しょう}小{RUBY_E#}を{RUBY_B#はな}放{RUBY_E#}つ","rank":3,"desc":"戦闘スキルのLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。","materials":[{"id":"11112","num":1}],"level_up_skills":[{"id":"111202","num":2},{"id":"111201","num":1}],"icon":"icon/skill/1112_skill.png"}

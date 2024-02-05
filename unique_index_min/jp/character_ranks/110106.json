@@ -1,1 +1,1 @@
-{"id":"110106","name":"気勢貫天","rank":6,"desc":"戦闘スキルが付与する、指定した味方の与ダメージアップ効果の継続時間+1ターン。","materials":[{"id":"11101","num":1}],"level_up_skills":[],"icon":"icon/skill/1101_rank6.png"}
+{"id":"110106","name":"{RUBY_B#きせいかんてん}気勢貫天{RUBY_E#}","rank":6,"desc":"戦闘スキルが付与する、指定した味方の与ダメージアップ効果の継続時間+1ターン。","materials":[{"id":"11101","num":1}],"level_up_skills":[],"icon":"icon/skill/1101_rank6.png"}

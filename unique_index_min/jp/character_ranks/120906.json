@@ -1,1 +1,1 @@
-{"id":"120906","name":"自在","rank":6,"desc":"敵を倒した時、「智剣連心」または必殺技のバフがある場合、それらの継続時間+1ターン。","materials":[{"id":"11209","num":1}],"level_up_skills":[],"icon":"icon/skill/1209_rank6.png"}
+{"id":"120906","name":"{RUBY_B#じざい}自在{RUBY_E#}","rank":6,"desc":"敵を倒した時、「智剣連心」または必殺技のバフがある場合、それらの継続時間+1ターン。","materials":[{"id":"11209","num":1}],"level_up_skills":[],"icon":"icon/skill/1209_rank6.png"}

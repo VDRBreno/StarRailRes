@@ -1,1 +1,1 @@
-{"id":"120601","name":"游刃有余","rank":1,"desc":"弱点撃破状態の敵に対して戦闘スキルを発動した後、SPを1回復する。","materials":[{"id":"11206","num":1}],"level_up_skills":[],"icon":"icon/skill/1206_rank1.png"}
+{"id":"120601","name":"{RUBY_B#ゆうじんゆうよ}游刃有余{RUBY_E#}","rank":1,"desc":"弱点撃破状態の敵に対して戦闘スキルを発動した後、SPを1回復する。","materials":[{"id":"11206","num":1}],"level_up_skills":[],"icon":"icon/skill/1206_rank1.png"}

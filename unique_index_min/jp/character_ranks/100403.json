@@ -1,1 +1,1 @@
-{"id":"100403","name":"平和の願い","rank":3,"desc":"戦闘スキルのLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。","materials":[{"id":"11004","num":1}],"level_up_skills":[{"id":"100402","num":2},{"id":"100401","num":1}],"icon":"icon/skill/1004_skill.png"}
+{"id":"100403","name":"{RUBY_B#へいわ}平和{RUBY_E#}の{RUBY_B#ねが}願{RUBY_E#}い","rank":3,"desc":"戦闘スキルのLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。","materials":[{"id":"11004","num":1}],"level_up_skills":[{"id":"100402","num":2},{"id":"100401","num":1}],"icon":"icon/skill/1004_skill.png"}

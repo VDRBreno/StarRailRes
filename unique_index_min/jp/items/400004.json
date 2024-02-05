@@ -1,1 +1,1 @@
-{"id":"400004","name":"満腹の食糧","type":"Usable","sub_type":"Usable","rarity":1,"icon":"icon/item/400004.png","come_from":["「万能合成マシン」","自動販売機"]}
+{"id":"400004","name":"満腹の食糧","type":"Usable","sub_type":"Food","rarity":1,"icon":"icon/item/400004.png","come_from":["「万能合成マシン」","自動販売機"]}

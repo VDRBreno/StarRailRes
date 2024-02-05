@@ -1,1 +1,1 @@
-{"id":"220003","name":"Звёздная чашка Петри","type":"Usable","sub_type":"Usable","rarity":4,"icon":"icon/item/220003.png","come_from":["Событие «Охота на экзотических питомцев»"]}
+{"id":"220003","name":"Звёздная чашка Петри","type":"Usable","sub_type":"ChatBubble","rarity":4,"icon":"icon/item/220003.png","come_from":["Событие «Охота на экзотических питомцев»"]}

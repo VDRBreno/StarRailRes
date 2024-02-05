@@ -1,1 +1,1 @@
-{"id":"110101","name":"英気を養う","rank":1,"desc":"戦闘スキルを発動した時、50%の固定確率でSPを1回復する、クールタイムは1ターン。","materials":[{"id":"11101","num":1}],"level_up_skills":[],"icon":"icon/skill/1101_rank1.png"}
+{"id":"110101","name":"{RUBY_B#えいき}英気{RUBY_E#}を{RUBY_B#やしな}養{RUBY_E#}う","rank":1,"desc":"戦闘スキルを発動した時、50%の固定確率でSPを1回復する、クールタイムは1ターン。","materials":[{"id":"11101","num":1}],"level_up_skills":[],"icon":"icon/skill/1101_rank1.png"}

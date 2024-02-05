@@ -1,1 +1,1 @@
-{"id":"130501","name":"傲慢は災いを生む","rank":1,"desc":"軌跡「帰納」の累積可能層数+4。戦闘開始時、「帰納」を4層獲得する。先に軌跡「帰納」を覚醒する必要あり。","materials":[{"id":"11305","num":1}],"level_up_skills":[],"icon":"icon/skill/1305_rank1.png"}
+{"id":"130501","name":"{RUBY_B#ごうまん}傲慢{RUBY_E#}は{RUBY_B#わざわ}災{RUBY_E#}いを{RUBY_B#う}生{RUBY_E#}む","rank":1,"desc":"軌跡「帰納」の累積可能層数+4。戦闘開始時、「帰納」を4層獲得する。先に軌跡「帰納」を覚醒する必要あり。","materials":[{"id":"11305","num":1}],"level_up_skills":[],"icon":"icon/skill/1305_rank1.png"}

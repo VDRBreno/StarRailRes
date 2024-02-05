@@ -1,1 +1,1 @@
-{"id":"100102","name":"記憶の中のあの子","rank":2,"desc":"戦闘に入る時、残りHP割合が最も低い味方に、三月なのかの防御力24%+320の耐久値を持つバリアを付与する、3ターン継続。","materials":[{"id":"11001","num":1}],"level_up_skills":[],"icon":"icon/skill/1001_rank2.png"}
+{"id":"100102","name":"{RUBY_B#きおく}記憶{RUBY_E#}の{RUBY_B#なか}中{RUBY_E#}のあの{RUBY_B#こ}子{RUBY_E#}","rank":2,"desc":"戦闘に入る時、残りHP割合が最も低い味方に、三月なのかの防御力24%+320の耐久値を持つバリアを付与する、3ターン継続。","materials":[{"id":"11001","num":1}],"level_up_skills":[],"icon":"icon/skill/1001_rank2.png"}

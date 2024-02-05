@@ -1,1 +1,1 @@
-{"id":"100402","name":"星の凝集","rank":2,"desc":"天賦発動時、ヴェルトはEPを3回復する。","materials":[{"id":"11004","num":1}],"level_up_skills":[],"icon":"icon/skill/1004_rank2.png"}
+{"id":"100402","name":"{RUBY_B#ほし}星{RUBY_E#}の{RUBY_B#ぎょうしゅう}凝集{RUBY_E#}","rank":2,"desc":"天賦発動時、ヴェルトはEPを3回復する。","materials":[{"id":"11004","num":1}],"level_up_skills":[],"icon":"icon/skill/1004_rank2.png"}

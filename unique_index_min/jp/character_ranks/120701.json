@@ -1,1 +1,1 @@
-{"id":"120701","name":"天舟の飛将\\n弓枕き戦を待つ","rank":1,"desc":"戦闘に入る時、味方全体の速度+10%、2ターン継続。","materials":[{"id":"11207","num":1}],"level_up_skills":[],"icon":"icon/skill/1207_rank1.png"}
+{"id":"120701","name":"{RUBY_B#てんしゅう}天舟{RUBY_E#}の{RUBY_B#ひしょう}飛将{RUBY_E#}\\n{RUBY_B#ゆみま}弓枕{RUBY_E#}き{RUBY_B#いくさ}戦{RUBY_E#}を{RUBY_B#ま}待{RUBY_E#}つ","rank":1,"desc":"戦闘に入る時、味方全体の速度+10%、2ターン継続。","materials":[{"id":"11207","num":1}],"level_up_skills":[],"icon":"icon/skill/1207_rank1.png"}

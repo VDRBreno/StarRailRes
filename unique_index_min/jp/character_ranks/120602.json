@@ -1,1 +1,1 @@
-{"id":"120602","name":"其の身、百煉","rank":2,"desc":"「剣勢」発動後、素裳の被ダメージ-20%、1ターン継続。","materials":[{"id":"11206","num":1}],"level_up_skills":[],"icon":"icon/skill/1206_rank2.png"}
+{"id":"120602","name":"{RUBY_B#そ}其{RUBY_E#}の{RUBY_B#み}身{RUBY_E#}、{RUBY_B#ひゃくれん}百煉{RUBY_E#}","rank":2,"desc":"「剣勢」発動後、素裳の被ダメージ-20%、1ターン継続。","materials":[{"id":"11206","num":1}],"level_up_skills":[],"icon":"icon/skill/1206_rank2.png"}

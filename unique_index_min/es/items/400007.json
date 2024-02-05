@@ -1,1 +1,1 @@
-{"id":"400007","name":"Dispositivo sencillo de primeros auxilios","type":"Usable","sub_type":"Usable","rarity":1,"icon":"icon/item/400007.png","come_from":["Máquina sintetizadora multiusos","Máquina expendedora"]}
+{"id":"400007","name":"Dispositivo sencillo de primeros auxilios","type":"Usable","sub_type":"Food","rarity":1,"icon":"icon/item/400007.png","come_from":["Máquina sintetizadora multiusos","Máquina expendedora"]}

@@ -1,1 +1,1 @@
-{"id":"400005","name":"Карательная еда","type":"Usable","sub_type":"Usable","rarity":1,"icon":"icon/item/400005.png","come_from":["Универсальная машина для синтеза"]}
+{"id":"400005","name":"Карательная еда","type":"Usable","sub_type":"Food","rarity":1,"icon":"icon/item/400005.png","come_from":["Универсальная машина для синтеза"]}

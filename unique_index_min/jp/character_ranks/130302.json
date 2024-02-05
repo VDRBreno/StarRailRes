@@ -1,1 +1,1 @@
-{"id":"130302","name":"通りし芒の道","rank":2,"desc":"ルアン・メェイがフィールド上にいる場合、弱点撃破状態の敵に対する味方全体の攻撃力+40%。","materials":[{"id":"11303","num":1}],"level_up_skills":[],"icon":"icon/skill/1303_rank2.png"}
+{"id":"130302","name":"{RUBY_B#とおり}通{RUBY_E#}りし{RUBY_B#すすき}芒{RUBY_E#}の{RUBY_B#みち}道{RUBY_E#}","rank":2,"desc":"ルアン・メェイがフィールド上にいる場合、弱点撃破状態の敵に対する味方全体の攻撃力+40%。","materials":[{"id":"11303","num":1}],"level_up_skills":[],"icon":"icon/skill/1303_rank2.png"}

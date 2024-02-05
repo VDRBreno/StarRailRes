@@ -1,1 +1,1 @@
-{"id":"401010","name":"Plants de riz","type":"Usable","sub_type":"Usable","rarity":2,"icon":"icon/item/401010.png","come_from":["Omni-synthétiseur"]}
+{"id":"401010","name":"Plants de riz","type":"Usable","sub_type":"Food","rarity":2,"icon":"icon/item/401010.png","come_from":["Omni-synthétiseur"]}

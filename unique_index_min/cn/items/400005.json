@@ -1,1 +1,1 @@
-{"id":"400005","name":"惩戒粮食","type":"Usable","sub_type":"Usable","rarity":1,"icon":"icon/item/400005.png","come_from":["「万能合成机」"]}
+{"id":"400005","name":"惩戒粮食","type":"Usable","sub_type":"Food","rarity":1,"icon":"icon/item/400005.png","come_from":["「万能合成机」"]}

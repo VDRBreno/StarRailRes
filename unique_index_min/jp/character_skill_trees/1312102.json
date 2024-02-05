@@ -1,0 +1,1 @@
+{"id":"1312102","name":"インターロック","max_level":1,"desc":"必殺技を発動する時、効果命中+#1[i]%、その回の必殺技が終了するまで継続。","params":[[0.6]],"anchor":"Point07","pre_points":[],"level_up_skills":[],"levels":[{"promotion":4,"level":0,"properties":[],"materials":[{"id":"2","num":16000},{"id":"110182","num":4},{"id":"241","num":1},{"id":"110504","num":1}]}],"icon":"icon/skill/1312_skilltree2.png"}

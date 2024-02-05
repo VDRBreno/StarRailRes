@@ -1,1 +1,1 @@
-{"id":"100405","name":"善の力","rank":5,"desc":"必殺技のLv.+2、最大Lv.15まで。天賦のLv.+2、最大Lv.15まで。","materials":[{"id":"11004","num":1}],"level_up_skills":[{"id":"100403","num":2},{"id":"100404","num":2}],"icon":"icon/skill/1004_ultimate.png"}
+{"id":"100405","name":"{RUBY_B#ぜん}善{RUBY_E#}の{RUBY_B#ちから}力{RUBY_E#}","rank":5,"desc":"必殺技のLv.+2、最大Lv.15まで。天賦のLv.+2、最大Lv.15まで。","materials":[{"id":"11004","num":1}],"level_up_skills":[{"id":"100403","num":2},{"id":"100404","num":2}],"icon":"icon/skill/1004_ultimate.png"}

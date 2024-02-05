@@ -1,1 +1,1 @@
-{"id":"408601","name":"Salchicha de Belobog","type":"Usable","sub_type":"Usable","rarity":3,"icon":"icon/item/408601.png","come_from":["Puesto de comida"]}
+{"id":"408601","name":"Salchicha de Belobog","type":"Usable","sub_type":"Food","rarity":3,"icon":"icon/item/408601.png","come_from":["Puesto de comida"]}

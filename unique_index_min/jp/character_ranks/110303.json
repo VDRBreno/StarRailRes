@@ -1,1 +1,1 @@
-{"id":"110303","name":"聞け、歯車の鼓動を","rank":3,"desc":"戦闘スキルのLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。","materials":[{"id":"11103","num":1}],"level_up_skills":[{"id":"110302","num":2},{"id":"110301","num":1}],"icon":"icon/skill/1103_skill.png"}
+{"id":"110303","name":"{RUBY_B#き}聞{RUBY_E#}け、{RUBY_B#はぐるま}歯車{RUBY_E#}の{RUBY_B#こどう}鼓動{RUBY_E#}を","rank":3,"desc":"戦闘スキルのLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。","materials":[{"id":"11103","num":1}],"level_up_skills":[{"id":"110302","num":2},{"id":"110301","num":1}],"icon":"icon/skill/1103_skill.png"}

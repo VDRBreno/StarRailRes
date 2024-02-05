@@ -1,1 +1,1 @@
-{"id":"18003","name":"Тень Сохранения","type":"Material","sub_type":"Material","rarity":5,"icon":"icon/item/18003.png","come_from":[]}
+{"id":"18003","name":"Тень Сохранения","type":"Material","sub_type":"Eidolon","rarity":5,"icon":"icon/item/18003.png","come_from":["Миссии Освоения","«Пагода ювелира»"]}

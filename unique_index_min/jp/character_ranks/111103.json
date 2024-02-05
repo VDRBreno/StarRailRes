@@ -1,1 +1,1 @@
-{"id":"111103","name":"リングに立つため生まれた男","rank":3,"desc":"戦闘スキルのLv.+2、最大Lv.15まで。天賦のLv.+2、最大Lv.15まで。","materials":[{"id":"11111","num":1}],"level_up_skills":[{"id":"111102","num":2},{"id":"111104","num":2}],"icon":"icon/skill/1111_skill.png"}
+{"id":"111103","name":"リングに{RUBY_B#た}立{RUBY_E#}つため{RUBY_B#う}生{RUBY_E#}まれた{RUBY_B#おとこ}男{RUBY_E#}","rank":3,"desc":"戦闘スキルのLv.+2、最大Lv.15まで。天賦のLv.+2、最大Lv.15まで。","materials":[{"id":"11111","num":1}],"level_up_skills":[{"id":"111102","num":2},{"id":"111104","num":2}],"icon":"icon/skill/1111_skill.png"}

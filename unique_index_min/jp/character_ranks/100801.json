@@ -1,1 +1,1 @@
-{"id":"100801","name":"万死も辞さぬ決意","rank":1,"desc":"残りHPが50%以下の敵に対する戦闘スキルの与ダメージ+10%。","materials":[{"id":"11008","num":1}],"level_up_skills":[],"icon":"icon/skill/1008_rank1.png"}
+{"id":"100801","name":"{RUBY_B#ばんし}万死{RUBY_E#}も{RUBY_B#じ}辞{RUBY_E#}さぬ{RUBY_B#けつい}決意{RUBY_E#}","rank":1,"desc":"残りHPが50%以下の敵に対する戦闘スキルの与ダメージ+10%。","materials":[{"id":"11008","num":1}],"level_up_skills":[],"icon":"icon/skill/1008_rank1.png"}

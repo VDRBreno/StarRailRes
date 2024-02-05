@@ -1,1 +1,1 @@
-{"id":"400007","name":"Einfaches Erste-Hilfe-Gerät","type":"Usable","sub_type":"Usable","rarity":1,"icon":"icon/item/400007.png","come_from":["Omni-Synthesemaschine","Verkaufsautomat"]}
+{"id":"400007","name":"Einfaches Erste-Hilfe-Gerät","type":"Usable","sub_type":"Food","rarity":1,"icon":"icon/item/400007.png","come_from":["Omni-Synthesemaschine","Verkaufsautomat"]}

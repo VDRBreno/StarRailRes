@@ -1,1 +1,1 @@
-{"id":"130202","name":"メノウの謙遜","rank":2,"desc":"必殺技を発動した時、フィールド上の敵が3体以上の場合、攻撃力+40%、1ターン継続。","materials":[{"id":"11302","num":1}],"level_up_skills":[],"icon":"icon/skill/1302_rank2.png"}
+{"id":"130202","name":"メノウの{RUBY_B#けんそん}謙遜{RUBY_E#}","rank":2,"desc":"必殺技を発動した時、フィールド上の敵が3体以上の場合、攻撃力+40%、1ターン継続。","materials":[{"id":"11302","num":1}],"level_up_skills":[],"icon":"icon/skill/1302_rank2.png"}

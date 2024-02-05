@@ -1,1 +1,1 @@
-{"id":"100305","name":"夢","rank":5,"desc":"必殺技のLv.+2、最大Lv.15まで。天賦のLv.+2、最大Lv.15まで。","materials":[{"id":"11003","num":1}],"level_up_skills":[{"id":"100303","num":2},{"id":"100304","num":2}],"icon":"icon/skill/1003_ultimate.png"}
+{"id":"100305","name":"{RUBY_B#ゆめ}夢{RUBY_E#}","rank":5,"desc":"必殺技のLv.+2、最大Lv.15まで。天賦のLv.+2、最大Lv.15まで。","materials":[{"id":"11003","num":1}],"level_up_skills":[{"id":"100303","num":2},{"id":"100304","num":2}],"icon":"icon/skill/1003_ultimate.png"}

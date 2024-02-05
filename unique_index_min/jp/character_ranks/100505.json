@@ -1,1 +1,1 @@
-{"id":"100505","name":"今晩だけの奏鳴","rank":5,"desc":"必殺技のLv.+2、最大Lv.15まで。天賦のLv.+2、最大Lv.15まで。","materials":[{"id":"11005","num":1}],"level_up_skills":[{"id":"100503","num":2},{"id":"100504","num":2}],"icon":"icon/skill/1005_ultimate.png"}
+{"id":"100505","name":"{RUBY_B#こんばん}今晩{RUBY_E#}だけの{RUBY_B#そうめい}奏鳴{RUBY_E#}","rank":5,"desc":"必殺技のLv.+2、最大Lv.15まで。天賦のLv.+2、最大Lv.15まで。","materials":[{"id":"11005","num":1}],"level_up_skills":[{"id":"100503","num":2},{"id":"100504","num":2}],"icon":"icon/skill/1005_ultimate.png"}

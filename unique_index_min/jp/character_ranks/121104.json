@@ -1,1 +1,1 @@
-{"id":"121104","name":"外傷癒す肘後の備急","rank":4,"desc":"戦闘スキルによる治癒を受けるたび、その味方の与ダメージ+10%、最大で3層累積できる、2ターン継続。","materials":[{"id":"11211","num":1}],"level_up_skills":[],"icon":"icon/skill/1211_rank4.png"}
+{"id":"121104","name":"{RUBY_B#がいしょういや}外傷癒{RUBY_E#}す{RUBY_B#ちゅうご}肘後{RUBY_E#}の{RUBY_B#びきゅう}備急{RUBY_E#}","rank":4,"desc":"戦闘スキルによる治癒を受けるたび、その味方の与ダメージ+10%、最大で3層累積できる、2ターン継続。","materials":[{"id":"11211","num":1}],"level_up_skills":[],"icon":"icon/skill/1211_rank4.png"}

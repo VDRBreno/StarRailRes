@@ -1,1 +1,1 @@
-{"id":"121105","name":"俗塵濯ぐ慈雨","rank":5,"desc":"必殺技のLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。","materials":[{"id":"11211","num":1}],"level_up_skills":[{"id":"121103","num":2},{"id":"121101","num":1}],"icon":"icon/skill/1211_ultimate.png"}
+{"id":"121105","name":"{RUBY_B#ぞくじんすす}俗塵濯{RUBY_E#}ぐ{RUBY_B#じう}慈雨{RUBY_E#}","rank":5,"desc":"必殺技のLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。","materials":[{"id":"11211","num":1}],"level_up_skills":[{"id":"121103","num":2},{"id":"121101","num":1}],"icon":"icon/skill/1211_ultimate.png"}

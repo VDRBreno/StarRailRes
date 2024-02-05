@@ -1,1 +1,1 @@
-{"id":"111004","name":"野外で篝火を焚く夕暮れ","rank":4,"desc":"「サバイバル反応」を獲得した時、ターゲットの攻撃力がリンクスの最大HPの('3.0', '.1f')%分アップする。1ターン継続。","materials":[{"id":"11110","num":1}],"level_up_skills":[],"icon":"icon/skill/1110_rank4.png"}
+{"id":"111004","name":"{RUBY_B#やがい}野外{RUBY_E#}で{RUBY_B#かがりび}篝火{RUBY_E#}を{RUBY_B#た}焚{RUBY_E#}く{RUBY_B#ゆうぐ}夕暮{RUBY_E#}れ","rank":4,"desc":"「サバイバル反応」を獲得した時、ターゲットの攻撃力がリンクスの最大HPの3.0%分アップする。1ターン継続。","materials":[{"id":"11110","num":1}],"level_up_skills":[],"icon":"icon/skill/1110_rank4.png"}

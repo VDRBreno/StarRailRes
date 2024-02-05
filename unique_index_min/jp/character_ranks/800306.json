@@ -1,1 +1,1 @@
-{"id":"800306","name":"永世に聳える壁塁","rank":6,"desc":"強化通常攻撃または必殺技を発動した後、開拓者の防御力+10%、最大で3層累積できる。","materials":[{"id":"18003","num":1}],"level_up_skills":[],"icon":"icon/skill/8003_rank6.png"}
+{"id":"800306","name":"{RUBY_B#えいせい}永世{RUBY_E#}に{RUBY_B#そび}聳{RUBY_E#}える{RUBY_B#へきるい}壁塁{RUBY_E#}","rank":6,"desc":"強化通常攻撃または必殺技を発動した後、開拓者の防御力+10%、最大で3層累積できる。","materials":[{"id":"18003","num":1}],"level_up_skills":[],"icon":"icon/skill/8003_rank6.png"}

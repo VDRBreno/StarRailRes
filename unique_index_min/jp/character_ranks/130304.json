@@ -1,1 +1,1 @@
-{"id":"130304","name":"銅鏡前にて神を探す","rank":4,"desc":"敵が弱点撃破された時、ルアン・メェイの撃破特効+100%、3ターン継続。","materials":[{"id":"11303","num":1}],"level_up_skills":[],"icon":"icon/skill/1303_rank4.png"}
+{"id":"130304","name":"{RUBY_B#どうきょうまえ}銅鏡前{RUBY_E#}にて{RUBY_B#かみ}神{RUBY_E#}を{RUBY_B#さが}探{RUBY_E#}す","rank":4,"desc":"敵が弱点撃破された時、ルアン・メェイの撃破特効+100%、3ターン継続。","materials":[{"id":"11303","num":1}],"level_up_skills":[],"icon":"icon/skill/1303_rank4.png"}

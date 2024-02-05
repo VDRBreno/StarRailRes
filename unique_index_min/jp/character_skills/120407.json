@@ -1,1 +1,1 @@
-{"id":"120407","name":"摂召威霊","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Enhance","effect_text":"強化","simple_desc":"","desc":"秘技を使用した後、次の戦闘開始時、「神君」の1ターン目の攻撃段数+#1[i]。","params":[[3]],"icon":"icon/skill/1204_technique.png"}
+{"id":"120407","name":"摂召威霊","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Enhance","effect_text":"強化","simple_desc":"秘技を使用すると、次の戦闘開始時に「神君」の攻撃段数がアップする。","desc":"秘技を使用した後、次の戦闘開始時、「神君」の1ターン目の攻撃段数+#1[i]。","params":[[3]],"icon":"icon/skill/1204_technique.png"}
