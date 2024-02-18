@@ -1,1 +1,1 @@
-{"id":"130602","name":"Puramente Fictício","rank":2,"desc":"Cada acúmulo de Talento permite que os aliados ignorem 8% da DEF do inimigo-alvo ao causar Dano.","materials":[{"id":"11306","num":1}],"level_up_skills":[],"icon":"icon/skill/1306_rank2.png"}
+{"id":"130602","name":"Puramente Fictício","rank":2,"desc":"Cada acúmulo do efeito do Talento permite que os aliados ignorem adicionalmente 8% da DEF do alvo ao causar Dano.","materials":[{"id":"11306","num":1}],"level_up_skills":[],"icon":"icon/skill/1306_rank2.png"}

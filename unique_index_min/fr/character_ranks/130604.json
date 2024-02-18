@@ -1,1 +1,1 @@
-{"id":"130604","name":"La vie est un jeu","rank":4,"desc":"L'ultime régénère 1 point de compétence supplémentaire. Le talent augmente encore le nombre de points de compétence max de 1.","materials":[{"id":"11306","num":1}],"level_up_skills":[],"icon":"icon/skill/1306_rank4.png"}
+{"id":"130604","name":"La vie est un jeu","rank":4,"desc":"L'ultime régénère 1 point de compétence supplémentaire. Le talent augmente encore de 1 le nombre de points de compétence max.","materials":[{"id":"11306","num":1}],"level_up_skills":[],"icon":"icon/skill/1306_rank4.png"}

@@ -1,1 +1,1 @@
-{"id":"118","name":"机心戏梦的钟表匠","desc":["击破特攻提高16%。","当装备者对我方目标施放终结技时，我方全体击破特攻提高30%，持续2回合，该效果无法叠加。"],"properties":[[{"type":"BreakDamageAddedRatioBase","value":0.16}],[]],"icon":"icon/relic/118.png","guide_overview":[]}
+{"id":"118","name":"机心戏梦的钟表匠","desc":["击破特攻提高16%。","当装备者对我方目标施放终结技时，我方全体击破特攻提高30%，持续2回合，该效果无法叠加。"],"properties":[[{"type":"BreakDamageAddedRatioBase","value":0.16}],[]],"icon":"icon/relic/118.png","guide_overview":["guide/Nwflower/relic_set/118.png"]}

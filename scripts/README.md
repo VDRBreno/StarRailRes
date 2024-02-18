@@ -32,6 +32,3 @@ structure of `join_index_min`:
 In `[id].json` there is all content related to the character in a single file.
 
 The same occurs for light_cones.<br/><br/>
-
-## What is the folder `names_index_min`?
-Contain in each folder inside, one file `names.json`, in this file have an object with the key as id of character/ light_cone and the value as name of character /light_cone.

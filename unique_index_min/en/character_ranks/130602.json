@@ -1,1 +1,1 @@
-{"id":"130602","name":"Purely Fictitious","rank":2,"desc":"Each Talent stack allows allies to ignore 8% of the enemy target's DEF when dealing DMG to enemies.","materials":[{"id":"11306","num":1}],"level_up_skills":[],"icon":"icon/skill/1306_rank2.png"}
+{"id":"130602","name":"Purely Fictitious","rank":2,"desc":"Every stack of the Talent's effect allows allies to additionally ignore 8% of the target's DEF when dealing DMG.","materials":[{"id":"11306","num":1}],"level_up_skills":[],"icon":"icon/skill/1306_rank2.png"}
