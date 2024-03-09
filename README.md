@@ -1,5 +1,5 @@
 # StarRailRes
-
+Olla
 Honkai: Star Rail game resources, can be used as a bot resource library.
 
 崩坏：星穹铁道游戏资源，可作为相关机器人资源库使用。
