@@ -1,1 +1,1 @@
-{"id":"103","name":"Chevalier du palais de la pureté","desc":["Augmente la DÉF de 15%.","Augmente de 20% les DGT max absorbés par le bouclier créé par le porteur."],"properties":[[{"type":"DefenceAddedRatio","value":0.15}],[]],"icon":"icon/relic/103.png","guide_overview":[]}
+{"id":"103","name":"Chevalier du palais de la pureté","desc":["Augmente de 15% la DÉF.","Augmente de 20% les DGT max absorbés par le bouclier créé par le porteur."],"properties":[[{"type":"DefenceAddedRatio","value":0.15}],[]],"icon":"icon/relic/103.png","guide_overview":[]}

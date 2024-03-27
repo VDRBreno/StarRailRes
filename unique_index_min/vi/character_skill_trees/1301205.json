@@ -1,0 +1,1 @@
+{"id":"1301205","name":"Cường Hóa Kháng Hiệu Ứng","max_level":1,"desc":"","params":[],"anchor":"Point13","pre_points":["1301102"],"level_up_skills":[],"levels":[{"promotion":4,"level":0,"properties":[{"type":"StatusResistanceBase","value":0.06}],"materials":[{"id":"2","num":16000},{"id":"110242","num":4},{"id":"114002","num":3}]}],"icon":"icon/property/IconStatusResistance.png"}

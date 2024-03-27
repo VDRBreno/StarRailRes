@@ -1,0 +1,1 @@
+{"id":"1301102","name":"天然酵母","max_level":1,"desc":"施放終結技後，立刻使自己行動提前100%。","params":[],"anchor":"Point07","pre_points":[],"level_up_skills":[],"levels":[{"promotion":4,"level":0,"properties":[],"materials":[{"id":"2","num":16000},{"id":"110242","num":4},{"id":"241","num":1},{"id":"110504","num":1}]}],"icon":"icon/skill/1301_skilltree2.png"}

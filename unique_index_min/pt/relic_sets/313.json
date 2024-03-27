@@ -1,0 +1,1 @@
+{"id":"313","name":"Sigonia, a Desolação Abandonada","desc":["Aumenta a Chance de CRIT do usuário em 4%. Quando um inimigo-alvo é derrotado, o Dano CRIT do usuário aumenta em 4%, acumulando até 10 vez(es).",""],"properties":[[{"type":"CriticalChanceBase","value":0.04}]],"icon":"icon/relic/313.png","guide_overview":[]}

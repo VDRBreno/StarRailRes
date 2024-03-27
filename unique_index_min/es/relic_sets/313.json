@@ -1,0 +1,1 @@
+{"id":"313","name":"Sigonia, desolación sin dueño","desc":["Aumenta la Prob. CRIT del portador en un 4%. Al eliminar a un enemigo, el Daño CRIT del portador aumenta en un 4%. Se puede acumular hasta 10 veces.",""],"properties":[[{"type":"CriticalChanceBase","value":0.04}]],"icon":"icon/relic/313.png","guide_overview":[]}

@@ -1,0 +1,1 @@
+{"id":"130107","name":"亲启佳酿","max_level":1,"element":"Fire","type":"Maze","type_text":"秘技","effect":"MazeAttack","effect_text":"","simple_desc":"攻击敌人，进战后使敌方全体陷入【酩酊】状态，并对敌方全体造成少量火属性伤害。","desc":"立即攻击敌人，进入战斗后使敌方全体陷入【酩酊】状态，持续#1[i]回合，并对敌方全体造成等同于加拉赫#2[i]%攻击力的火属性伤害。","params":[[2,0.5]],"icon":"icon/skill/1301_technique.png"}

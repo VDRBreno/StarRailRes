@@ -1,0 +1,1 @@
+{"id":"1304203","name":"Augmentation de DÉF","max_level":1,"desc":"","params":[],"anchor":"Point11","pre_points":["1304202"],"level_up_skills":[],"levels":[{"promotion":3,"level":0,"properties":[{"type":"DefenceAddedRatio","value":0.05}],"materials":[{"id":"2","num":10000},{"id":"110212","num":3},{"id":"114012","num":3}]}],"icon":"icon/property/IconDefence.png"}

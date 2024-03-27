@@ -1,0 +1,1 @@
+{"id":"130102","name":"罐裝特調","max_level":15,"element":"","type":"BPSkill","type_text":"戰技","effect":"Restore","effect_text":"回復","simple_desc":"立即為我方單體回復生命值。","desc":"立即為指定我方單體回復#1[i]點生命值。","params":[[200],[340],[480],[676],[830],[984],[1138],[1292],[1446],[1600],[1684],[1768],[1852],[1936],[2020]],"icon":"icon/skill/1301_skill.png"}

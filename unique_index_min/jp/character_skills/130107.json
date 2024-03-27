@@ -1,0 +1,1 @@
+{"id":"130107","name":"ヴィンテージ開封","max_level":1,"element":"Fire","type":"Maze","type_text":"秘技","effect":"MazeAttack","effect_text":"","simple_desc":"敵を攻撃。戦闘に入った後、敵全体を「酩酊」状態にし、敵全体に少量の炎属性ダメージを与える。","desc":"敵を攻撃。戦闘に入った後、敵全体を「酩酊」状態にする、#1[i]ターン継続。敵全体にギャラガーの攻撃力#2[i]%分の炎属性ダメージを与える。","params":[[2,0.5]],"icon":"icon/skill/1301_technique.png"}

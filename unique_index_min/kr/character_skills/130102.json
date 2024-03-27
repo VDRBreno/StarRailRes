@@ -1,0 +1,1 @@
+{"id":"130102","name":"특제 캔 음료","max_level":15,"element":"","type":"BPSkill","type_text":"전투 스킬","effect":"Restore","effect_text":"회복","simple_desc":"즉시 단일 아군의 HP를 회복한다","desc":"즉시 지정된 단일 아군의 HP를 #1[i]pt 회복한다","params":[[200],[340],[480],[676],[830],[984],[1138],[1292],[1446],[1600],[1684],[1768],[1852],[1936],[2020]],"icon":"icon/skill/1301_skill.png"}

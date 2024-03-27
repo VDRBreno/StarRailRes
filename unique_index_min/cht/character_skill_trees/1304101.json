@@ -1,0 +1,1 @@
+{"id":"1304101","name":"槓桿","max_level":1,"desc":"若砂金的防禦力高於#3[i]點，則每超過100點防禦力便可使自身暴擊率提高#1[i]%，最多提高#2[i]%。","params":[[0.02,0.48,1600]],"anchor":"Point06","pre_points":["1304201"],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110211","num":3},{"id":"110504","num":1}]}],"icon":"icon/skill/1304_skilltree1.png"}

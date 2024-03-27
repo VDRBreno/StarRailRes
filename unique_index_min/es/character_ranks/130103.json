@@ -1,0 +1,1 @@
+{"id":"130103","name":"Resucitador","rank":3,"desc":"Niv. de habilidad básica +2 (máximo: nivel 15). Niv. de ATQ básico +1 (máximo: nivel 10).","materials":[{"id":"11301","num":1}],"level_up_skills":[{"id":"130102","num":2},{"id":"130101","num":1},{"id":"130108","num":1}],"icon":"icon/skill/1301_skill.png"}
