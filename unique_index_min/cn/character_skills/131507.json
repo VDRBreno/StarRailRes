@@ -1,0 +1,1 @@
+{"id":"131507","name":"三乘九的微笑","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Enhance","effect_text":"强化","simple_desc":"使用秘技，下一次进战首次施放战技为敌方单体添加物理弱点。","desc":"使用秘技后，下一次战斗首次施放战技时，为目标添加与终结技相同的物理弱点，持续#1[i]回合。","params":[[2]],"icon":"icon/skill/1315_technique.png"}

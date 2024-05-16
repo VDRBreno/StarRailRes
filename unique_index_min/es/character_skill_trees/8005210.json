@@ -1,0 +1,1 @@
+{"id":"8005210","name":"Bonificación de Ruptura","max_level":1,"desc":"","params":[],"anchor":"Point18","pre_points":["8005208"],"level_up_skills":[],"levels":[{"promotion":0,"level":80,"properties":[{"type":"BreakDamageAddedRatioBase","value":0.107}],"materials":[{"id":"2","num":128000},{"id":"110233","num":6},{"id":"111013","num":6}]}],"icon":"icon/property/IconBreakUp.png"}

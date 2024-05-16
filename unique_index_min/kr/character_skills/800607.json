@@ -1,0 +1,1 @@
+{"id":"800607","name":"원맨 밴드, 출격!","max_level":1,"element":"","type":"Maze","type_text":"비술","effect":"Support","effect_text":"서포트","simple_desc":"다음 전투 시작 시 모든 아군의 격파 특수효과가 증가한다","desc":"비술 발동 후 다음 전투 시작 시 모든 아군의 격파 특수효과가 #1[i]% 증가한다. 지속 시간: #2[i]턴","params":[[0.3,2]],"icon":"icon/skill/8006_technique.png"}

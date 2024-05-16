@@ -1,1 +1,1 @@
-{"id":"130406","name":"Stag Hunt Game","rank":6,"desc":"For every ally with a Shield, the DMG dealt by Aventurine increases by 50%, up to a maximum of 150%.","materials":[{"id":"11304","num":1}],"level_up_skills":[],"icon":"icon/skill/1304_rank6.png"}
+{"id":"130406","name":"Stag Hunt Game","rank":6,"desc":"For every ally that holds a Shield, the DMG dealt by Aventurine increases by 50%, up to a maximum of 150%.","materials":[{"id":"11304","num":1}],"level_up_skills":[],"icon":"icon/skill/1304_rank6.png"}

@@ -1,0 +1,1 @@
+{"id":"8006103","name":"シアターハット","max_level":1,"desc":"味方が敵を弱点撃破した後、さらに敵の行動順を#1[i]%遅延させる。","params":[[0.3]],"anchor":"Point08","pre_points":[],"level_up_skills":[],"levels":[{"promotion":6,"level":0,"properties":[],"materials":[{"id":"2","num":128000},{"id":"110233","num":6},{"id":"241","num":1},{"id":"110504","num":1}]}],"icon":"icon/skill/8006_skilltree3.png"}

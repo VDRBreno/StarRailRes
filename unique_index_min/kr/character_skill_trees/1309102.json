@@ -1,0 +1,1 @@
+{"id":"1309102","name":"즉흥 꾸밈음","max_level":1,"desc":"[협주] 상태일 시 모든 아군이 추가 공격을 발동하여 가하는 치명타 피해가 #1[i]% 증가한다","params":[[0.25]],"anchor":"Point07","pre_points":[],"level_up_skills":[],"levels":[{"promotion":4,"level":0,"properties":[],"materials":[{"id":"2","num":20000},{"id":"110232","num":5},{"id":"241","num":1},{"id":"110504","num":1}]}],"icon":"icon/skill/1309_skilltree2.png"}

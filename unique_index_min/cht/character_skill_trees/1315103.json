@@ -1,0 +1,1 @@
+{"id":"1315103","name":"抵近射擊","max_level":1,"desc":"處於【絕命對峙】並獲得【優勢口袋】時，恢復#1[i]點能量。該效果在獲得溢出的【優勢口袋】時也會觸發。","params":[[10]],"anchor":"Point08","pre_points":[],"level_up_skills":[],"levels":[{"promotion":6,"level":0,"properties":[],"materials":[{"id":"2","num":160000},{"id":"110193","num":8},{"id":"241","num":1},{"id":"110505","num":1}]}],"icon":"icon/skill/1315_skilltree3.png"}

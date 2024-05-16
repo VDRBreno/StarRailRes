@@ -1,0 +1,1 @@
+{"id":"8005206","name":"伤害强化•虚数","max_level":1,"desc":"","params":[],"anchor":"Point14","pre_points":["8005205"],"level_up_skills":[],"levels":[{"promotion":5,"level":0,"properties":[{"type":"ImaginaryAddedRatio","value":0.048}],"materials":[{"id":"2","num":36000},{"id":"110233","num":2},{"id":"111013","num":2}]}],"icon":"icon/property/IconImaginaryAddedRatio.png"}

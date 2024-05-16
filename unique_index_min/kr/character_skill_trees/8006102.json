@@ -1,0 +1,1 @@
+{"id":"8006102","name":"흐름에 몸을 맡기고","max_level":1,"desc":"전투 스킬 발동 시, 첫 번째 피해의 강인성 감소 수치가 추가로 #1[i]% 증가한다","params":[[1]],"anchor":"Point07","pre_points":[],"level_up_skills":[],"levels":[{"promotion":4,"level":0,"properties":[],"materials":[{"id":"2","num":16000},{"id":"110232","num":4},{"id":"241","num":1},{"id":"110504","num":1}]}],"icon":"icon/skill/8006_skilltree2.png"}

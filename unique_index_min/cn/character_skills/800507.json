@@ -1,0 +1,1 @@
+{"id":"800507","name":"即刻！独奏团","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Support","effect_text":"辅助","simple_desc":"下一次战斗开始时使我方全体的击破特攻提高。","desc":"使用秘技后，下一次战斗开始时使我方全体的击破特攻提高#1[i]%，持续#2[i]回合。","params":[[0.3,2]],"icon":"icon/skill/8005_technique.png"}

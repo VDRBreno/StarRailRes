@@ -1,0 +1,1 @@
+{"id":"131507","name":"3-9x의 미소","max_level":1,"element":"","type":"Maze","type_text":"비술","effect":"Enhance","effect_text":"강화","simple_desc":"비술 사용 후 다음 전투 진입 시 처음으로 발동하는 전투 스킬은 단일 적에게 물리 약점을 부여한다","desc":"비술 사용 후 다음번 전투에서 처음 전투 스킬을 발동할 시, 목표에게 필살기와 동일한 물리 약점을 부여한다. 지속 시간: #1[i]턴","params":[[2]],"icon":"icon/skill/1315_technique.png"}

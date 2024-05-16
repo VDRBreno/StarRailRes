@@ -1,0 +1,1 @@
+{"id":"131508","name":"击锤连弩","max_level":9,"element":"Physical","type":"Normal","type_text":"普攻","effect":"SingleAttack","effect_text":"单攻","simple_desc":"对敌方单体造成物理属性伤害，仅能攻击【绝命对峙】的目标。","desc":"对指定敌方单体造成等同于波提欧#1[i]%攻击力的物理属性伤害。\n强化普攻无法恢复战技点，且仅能以处于【绝命对峙】的敌方目标为目标。","params":[[1.1],[1.32],[1.54],[1.76],[1.98],[2.2],[2.42],[2.64],[2.86]],"icon":"icon/skill/1315_basic_atk.png"}
