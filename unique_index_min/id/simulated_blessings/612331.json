@@ -1,1 +1,1 @@
-{"id":"612331","name":"Mudra of Blessing","desc":"Melakukan Charge Dewdrop saat giliran karakter dimulai. Nilai Charge sama dengan 60% HP mereka saat ini.","enhanced_desc":"Melakukan Charge Dewdrop saat giliran karakter dimulai. Nilai Charge sama dengan 70% Max HP-nya."}
+{"id":"612331","name":"Mudra of Blessing","desc":"Saat giliran dimulai, akan mengisi Charge \"Dewdrop\", nilai Charge adalah sebesar 60% dari HP karakter saat ini.","enhanced_desc":"Saat giliran dimulai, akan mengisi Charge \"Dewdrop\", nilai Charge adalah sebesar 70% dari Max HP karakter."}

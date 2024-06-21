@@ -1,1 +1,1 @@
-{"id":"111102","name":"オレが{RUBY_B#つよ}強{RUBY_E#}い","rank":2,"desc":"物理の弱点がある敵に戦闘スキルが命中した場合、「闘志」を1層獲得する。","materials":[{"id":"11111","num":1}],"level_up_skills":[],"icon":"icon/skill/1111_rank2.png"}
+{"id":"111102","name":"オレが{RUBY_B#つよ}強{RUBY_E#}い","rank":2,"desc":"物理属性の弱点がある敵に戦闘スキルが命中した場合、「闘志」を1層獲得する。","materials":[{"id":"11111","num":1}],"level_up_skills":[],"icon":"icon/skill/1111_rank2.png"}

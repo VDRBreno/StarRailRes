@@ -1,0 +1,1 @@
+{"id":"120","name":"바람과 구름을 가르는 용맹함","desc":["공격력 12% 증가","장착한 캐릭터의 치명타 확률이 6% 증가한다. 장착한 캐릭터가 추가 공격 발동 시 필살기가 가하는 피해가 36% 증가한다, 지속 시간: 1턴"],"properties":[[{"type":"AttackAddedRatio","value":0.12}],[{"type":"CriticalChanceBase","value":0.06}]],"icon":"icon/relic/120.png","guide_overview":[]}

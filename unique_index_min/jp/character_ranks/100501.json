@@ -1,1 +1,1 @@
-{"id":"100501","name":"{RUBY_B#むきゅう}無窮{RUBY_E#}に{RUBY_B#うご}動{RUBY_E#}く！{RUBY_B#むきゅう}無窮{RUBY_E#}に","rank":1,"desc":"天賦効果により追加攻撃を行った時、100%の基礎確率でターゲットの持続被ダメージ+30%、2ターン継続。","materials":[{"id":"11005","num":1}],"level_up_skills":[],"icon":"icon/skill/1005_rank1.png"}
+{"id":"100501","name":"{RUBY_B#むきゅう}無窮{RUBY_E#}に{RUBY_B#うご}動{RUBY_E#}く！{RUBY_B#むきゅう}無窮{RUBY_E#}に","rank":1,"desc":"天賦効果により追加攻撃を行った時、100%の基礎確率でターゲットの受ける持続ダメージ+30%、2ターン継続。","materials":[{"id":"11005","num":1}],"level_up_skills":[],"icon":"icon/skill/1005_rank1.png"}

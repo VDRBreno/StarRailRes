@@ -1,0 +1,1 @@
+{"id":"1314101","name":"逆回购","max_level":1,"desc":"在敌方目标进入战斗时，翡翠获得#2[i]层【当品】。处于【收债人】状态的角色回合开始时，额外获得#1[i]层【当品】。","params":[[3,1]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110201","num":3},{"id":"110505","num":1}]}],"icon":"icon/skill/1314_skilltree1.png"}

@@ -1,0 +1,1 @@
+{"id":"1314205","name":"Bônus de Dano: Quântico","max_level":1,"desc":"","params":[],"anchor":"Point13","pre_points":["1314102"],"level_up_skills":[],"levels":[{"promotion":4,"level":0,"properties":[{"type":"QuantumAddedRatio","value":0.048}],"materials":[{"id":"2","num":20000},{"id":"110202","num":5},{"id":"114002","num":4}]}],"icon":"icon/property/IconQuantumAddedRatio.png"}

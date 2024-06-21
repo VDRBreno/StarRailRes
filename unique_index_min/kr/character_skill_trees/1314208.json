@@ -1,0 +1,1 @@
+{"id":"1314208","name":"효과 저항 강화","max_level":1,"desc":"","params":[],"anchor":"Point16","pre_points":["1314103"],"level_up_skills":[],"levels":[{"promotion":6,"level":0,"properties":[{"type":"StatusResistanceBase","value":0.06}],"materials":[{"id":"2","num":160000},{"id":"110203","num":8},{"id":"114003","num":8}]}],"icon":"icon/property/IconStatusResistance.png"}

@@ -1,0 +1,1 @@
+{"id":"120","name":"The Wind-Soaring Valorous","desc":["ATK +12%.","Meningkatkan 6% CRIT Rate pengguna. Saat pengguna melancarkan Serangan Lanjutan, DMG yang diakibatkan Ultimate akan meningkat 36%, berlangsung selama 1 giliran."],"properties":[[{"type":"AttackAddedRatio","value":0.12}],[{"type":"CriticalChanceBase","value":0.06}]],"icon":"icon/relic/120.png","guide_overview":[]}

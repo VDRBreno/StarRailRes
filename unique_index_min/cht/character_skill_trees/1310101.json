@@ -1,0 +1,1 @@
+{"id":"1310101","name":"α模組-偏時迸發","max_level":1,"desc":"「完全燃燒」狀態下，攻擊沒有火屬性弱點的敵人也能削減韌性，效果等同於原技能削韌值的#1[i]%。","params":[[0.55]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110181","num":3},{"id":"110505","num":1}]}],"icon":"icon/skill/1310_skilltree1.png"}

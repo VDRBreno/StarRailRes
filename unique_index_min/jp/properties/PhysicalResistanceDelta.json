@@ -1,1 +1,1 @@
-{"type":"PhysicalResistanceDelta","name":"物理耐性","field":"","affix":false,"ratio":false,"percent":true,"order":46,"icon":"icon/property/IconPhysicalResistanceDelta.png"}
+{"type":"PhysicalResistanceDelta","name":"物理属性耐性","field":"","affix":false,"ratio":false,"percent":true,"order":46,"icon":"icon/property/IconPhysicalResistanceDelta.png"}

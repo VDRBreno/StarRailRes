@@ -1,1 +1,1 @@
-{"type":"IceAddedRatio","name":"氷属性与ダメージ","field":"ice_dmg","affix":true,"ratio":false,"percent":true,"order":25,"icon":"icon/property/IconIceAddedRatio.png"}
+{"type":"IceAddedRatio","name":"氷属性ダメージ","field":"ice_dmg","affix":true,"ratio":false,"percent":true,"order":25,"icon":"icon/property/IconIceAddedRatio.png"}

@@ -1,0 +1,1 @@
+{"id":"1314203","name":"伤害强化•量子","max_level":1,"desc":"","params":[],"anchor":"Point11","pre_points":["1314202"],"level_up_skills":[],"levels":[{"promotion":3,"level":0,"properties":[{"type":"QuantumAddedRatio","value":0.032}],"materials":[{"id":"2","num":10000},{"id":"110202","num":3},{"id":"114002","num":3}]}],"icon":"icon/property/IconQuantumAddedRatio.png"}

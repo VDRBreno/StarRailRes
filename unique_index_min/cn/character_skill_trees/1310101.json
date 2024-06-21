@@ -1,0 +1,1 @@
+{"id":"1310101","name":"α模组-偏时迸发","max_level":1,"desc":"「完全燃烧」状态下，攻击没有火属性弱点的敌人也能削减韧性，效果等同于原技能削韧值的#1[i]%。","params":[[0.55]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110181","num":3},{"id":"110505","num":1}]}],"icon":"icon/skill/1310_skilltree1.png"}

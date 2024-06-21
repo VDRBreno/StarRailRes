@@ -1,0 +1,1 @@
+{"id":"1314202","name":"Cường Hóa Tấn Công","max_level":1,"desc":"","params":[],"anchor":"Point10","pre_points":["1314101"],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[{"type":"AttackAddedRatio","value":0.04}],"materials":[{"id":"2","num":5000},{"id":"110201","num":3},{"id":"114001","num":6}]}],"icon":"icon/property/IconAttack.png"}
