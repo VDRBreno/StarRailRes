@@ -1,1 +1,1 @@
-{"id":"307","name":"盜賊公國塔利亞","desc":["使裝備者的擊破特攻提高16%。當裝備者的速度大於等於145時，擊破特攻額外提高20%。",""],"properties":[[{"type":"BreakDamageAddedRatioBase","value":0.16}]],"icon":"icon/relic/307.png","guide_overview":[]}
+{"id":"307","name":"盜賊公國塔利亞","desc":["使裝備者的擊破特攻提高16%。當裝備者的速度大於等於145時，擊破特攻額外提高20%。"],"properties":[[{"type":"BreakDamageAddedRatioBase","value":0.16}]],"icon":"icon/relic/307.png","guide_overview":[]}

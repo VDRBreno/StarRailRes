@@ -1,0 +1,1 @@
+{"id":"1218101","name":"Prende la llama","max_level":1,"desc":"Recupera #1[i] pts. de energía al comenzar la batalla.","params":[[15]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110221","num":3},{"id":"110503","num":1}]}],"icon":"icon/skill/1218_skilltree1.png"}

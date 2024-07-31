@@ -1,1 +1,1 @@
-{"id":"20005","skill":"Concerted","desc":"After entering battle, increases the ATK of all allies by #1[i]%. Effects of the same type cannot stack.","params":[[0.08],[0.09],[0.1],[0.11],[0.12]],"properties":[[],[],[],[],[]]}
+{"id":"20005","skill":"Concerted","desc":"After entering battle, increases the ATK of all allies by #1[i]%. Abilities of the same type cannot stack.","params":[[0.08],[0.09],[0.1],[0.11],[0.12]],"properties":[[],[],[],[],[]]}

@@ -1,1 +1,1 @@
-{"id":"312","name":"Penacony, terre des rêves","desc":["Augmente le taux de régénération d'énergie du porteur de 5%. Augmente les DGT des alliés du même type que le porteur de 10%.",""],"properties":[[{"type":"SPRatioBase","value":0.05}]],"icon":"icon/relic/312.png","guide_overview":[]}
+{"id":"312","name":"Penacony, terre des rêves","desc":["Augmente le taux de régénération d'énergie du porteur de 5%. Augmente les DGT des alliés du même type que le porteur de 10%."],"properties":[[{"type":"SPRatioBase","value":0.05}]],"icon":"icon/relic/312.png","guide_overview":[]}

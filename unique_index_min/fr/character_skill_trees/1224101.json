@@ -1,0 +1,1 @@
+{"id":"1224101","name":"Envolée gracieuse","max_level":1,"desc":"L'action de March 7th est avancée de #1[i]% en début de combat.","params":[[0.25]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":4000},{"id":"110191","num":2},{"id":"110501","num":1}]}],"icon":"icon/skill/1224_skilltree1.png"}

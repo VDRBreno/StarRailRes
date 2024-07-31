@@ -1,1 +1,1 @@
-{"id":"302","name":"老いぬ者の仙舟","desc":["装備キャラの最大HP+12%。装備キャラの速度が120以上の場合、味方全体の攻撃力+8%。",""],"properties":[[{"type":"HPAddedRatio","value":0.12}]],"icon":"icon/relic/302.png","guide_overview":[]}
+{"id":"302","name":"老いぬ者の仙舟","desc":["装備キャラの最大HP+12%。装備キャラの速度が120以上の場合、味方全体の攻撃力+8%。"],"properties":[[{"type":"HPAddedRatio","value":0.12}]],"icon":"icon/relic/302.png","guide_overview":[]}

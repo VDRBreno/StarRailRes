@@ -1,1 +1,1 @@
-{"id":"303","name":"범은하 상사","desc":["장착한 캐릭터의 효과 명중이 10% 증가한다. 동시에 장착한 캐릭터의 현재 효과 명중 25%만큼의 공격력이 증가하며 최대 25% 증가한다",""],"properties":[[{"type":"StatusProbabilityBase","value":0.1}]],"icon":"icon/relic/303.png","guide_overview":[]}
+{"id":"303","name":"범은하 상사","desc":["장착한 캐릭터의 효과 명중이 10% 증가한다. 동시에 장착한 캐릭터의 현재 효과 명중 25%만큼의 공격력이 증가하며 최대 25% 증가한다"],"properties":[[{"type":"StatusProbabilityBase","value":0.1}]],"icon":"icon/relic/303.png","guide_overview":[]}

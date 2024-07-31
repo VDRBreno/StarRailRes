@@ -1,1 +1,1 @@
-{"id":"20002","skill":"Hecatombe","desc":"Aumenta el daño del ATQ básico y el daño de la habilidad básica del portador en un #1[i]%.","params":[[0.2],[0.25],[0.3],[0.35],[0.4]],"properties":[[],[],[],[],[]]}
+{"id":"20002","skill":"Hecatombe","desc":"El daño que infligen el ATQ básico y la habilidad básica del portador aumenta en un #1[i]%.","params":[[0.2],[0.25],[0.3],[0.35],[0.4]],"properties":[[],[],[],[],[]]}

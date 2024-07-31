@@ -1,1 +1,1 @@
-{"id":"310","name":"Broken Keel","desc":["Increases the wearer's Effect RES by 10%. When the wearer's Effect RES is at 30% or higher, all allies' CRIT DMG increases by 10%.",""],"properties":[[{"type":"StatusResistanceBase","value":0.1}]],"icon":"icon/relic/310.png","guide_overview":[]}
+{"id":"310","name":"Broken Keel","desc":["Increases the wearer's Effect RES by 10%. When the wearer's Effect RES is at 30% or higher, all allies' CRIT DMG increases by 10%."],"properties":[[{"type":"StatusResistanceBase","value":0.1}]],"icon":"icon/relic/310.png","guide_overview":[]}

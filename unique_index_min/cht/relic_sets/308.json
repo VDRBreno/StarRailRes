@@ -1,1 +1,1 @@
-{"id":"308","name":"生命的翁瓦克","desc":["使裝備者的能量恢復效率提高5%。當裝備者的速度大於等於120時，進入戰鬥時立刻使行動提前40%。",""],"properties":[[{"type":"SPRatioBase","value":0.05}]],"icon":"icon/relic/308.png","guide_overview":[]}
+{"id":"308","name":"生命的翁瓦克","desc":["使裝備者的能量恢復效率提高5%。當裝備者的速度大於等於120時，進入戰鬥時立刻使行動提前40%。"],"properties":[[{"type":"SPRatioBase","value":0.05}]],"icon":"icon/relic/308.png","guide_overview":[]}

@@ -1,1 +1,1 @@
-{"id":"110301","name":"Echo Chamber","rank":1,"desc":"Basic ATK deals Lightning DMG equal to 60% of the Basic ATK's DMG to a random enemy adjacent to the target of the Basic ATK.","materials":[{"id":"11103","num":1}],"level_up_skills":[],"icon":"icon/skill/1103_rank1.png"}
+{"id":"110301","name":"Echo Chamber","rank":1,"desc":"Basic ATK deals Lightning DMG equal to 60% of Basic ATK DMG to a random target adjacent to the target enemy.","materials":[{"id":"11103","num":1}],"level_up_skills":[],"icon":"icon/skill/1103_rank1.png"}

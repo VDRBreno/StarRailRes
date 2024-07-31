@@ -1,0 +1,1 @@
+{"id":"122107","name":"后发先至","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Enhance","effect_text":"强化","simple_desc":"使自身获得【招架】效果，持续20秒，期间攻击敌人或受到攻击进入战斗后，立即对随机敌方单体施放【勘破•灭】。","desc":"使自身获得【招架】效果，持续#2[i]秒，期间攻击敌人或受到攻击进入战斗后，立即对随机敌方单体施放【勘破•灭】，并使本次攻击造成的伤害提高#1[i]%。","params":[[0.8,20]],"icon":"icon/skill/1221_technique.png"}

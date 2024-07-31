@@ -1,1 +1,1 @@
-{"id":"301","name":"太空封印站","desc":["使装备者的攻击力提高12%。当装备者的速度大于等于120时，攻击力额外提高12%。",""],"properties":[[{"type":"AttackAddedRatio","value":0.12}]],"icon":"icon/relic/301.png","guide_overview":["guide/Nwflower/relic_set/301.png"]}
+{"id":"301","name":"太空封印站","desc":["使装备者的攻击力提高12%。当装备者的速度大于等于120时，攻击力额外提高12%。"],"properties":[[{"type":"AttackAddedRatio","value":0.12}]],"icon":"icon/relic/301.png","guide_overview":["guide/Nwflower/relic_set/301.png"]}

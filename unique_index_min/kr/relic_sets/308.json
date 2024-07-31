@@ -1,1 +1,1 @@
-{"id":"308","name":"생명의 바커 공","desc":["장착한 캐릭터의 에너지 회복효율이 5% 증가한다. 장착한 캐릭터의 속도가 120 이상일 경우 전투 진입 시 즉시 행동 게이지가 40% 증가한다",""],"properties":[[{"type":"SPRatioBase","value":0.05}]],"icon":"icon/relic/308.png","guide_overview":[]}
+{"id":"308","name":"생명의 바커 공","desc":["장착한 캐릭터의 에너지 회복효율이 5% 증가한다. 장착한 캐릭터의 속도가 120 이상일 경우 전투 진입 시 즉시 행동 게이지가 40% 증가한다"],"properties":[[{"type":"SPRatioBase","value":0.05}]],"icon":"icon/relic/308.png","guide_overview":[]}

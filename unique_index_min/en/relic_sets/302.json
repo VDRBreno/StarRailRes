@@ -1,1 +1,1 @@
-{"id":"302","name":"Fleet of the Ageless","desc":["Increases the wearer's Max HP by 12%. When the wearer's SPD reaches 120 or higher, all allies' ATK increases by 8%.",""],"properties":[[{"type":"HPAddedRatio","value":0.12}]],"icon":"icon/relic/302.png","guide_overview":[]}
+{"id":"302","name":"Fleet of the Ageless","desc":["Increases the wearer's Max HP by 12%. When the wearer's SPD reaches 120 or higher, all allies' ATK increases by 8%."],"properties":[[{"type":"HPAddedRatio","value":0.12}]],"icon":"icon/relic/302.png","guide_overview":[]}

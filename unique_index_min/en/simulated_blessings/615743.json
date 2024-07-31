@@ -1,1 +1,1 @@
-{"id":"615743","name":"Exposed Brain Matter","desc":"The DMG dealt by Basic ATK will deal DMG equal to 30% of the original DMG to a random adjacent target.","enhanced_desc":"The DMG dealt by Basic ATK will deal DMG equal to 35% of the original DMG to adjacent targets."}
+{"id":"615743","name":"Exposed Brain Matter","desc":"DMG dealt by Basic ATK also deals DMG equal to 30% of the original DMG to a random adjacent target.","enhanced_desc":"DMG dealt by Basic ATK also deals DMG equal to 35% of the original DMG to adjacent targets."}

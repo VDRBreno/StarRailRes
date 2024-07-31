@@ -1,0 +1,1 @@
+{"id":"1221101","name":"화륜","max_level":1,"desc":"[간파•참]을 1회 발동할 때마다 다음번 [간파•참]이 [간파•멸]로 변경된다","params":[],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110181","num":3},{"id":"110503","num":1}]}],"icon":"icon/skill/1221_skilltree1.png"}

@@ -1,1 +1,1 @@
-{"id":"304","name":"축성가의 벨로보그","desc":["장착한 캐릭터의 방어력이 15% 증가한다. 장착한 캐릭터의 효과 명중이 50% 이상일 경우 방어력이 추가로 15% 증가한다",""],"properties":[[{"type":"DefenceAddedRatio","value":0.15}]],"icon":"icon/relic/304.png","guide_overview":[]}
+{"id":"304","name":"축성가의 벨로보그","desc":["장착한 캐릭터의 방어력이 15% 증가한다. 장착한 캐릭터의 효과 명중이 50% 이상일 경우 방어력이 추가로 15% 증가한다"],"properties":[[{"type":"DefenceAddedRatio","value":0.15}]],"icon":"icon/relic/304.png","guide_overview":[]}

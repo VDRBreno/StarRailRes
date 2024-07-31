@@ -1,1 +1,1 @@
-{"id":"305","name":"星體差分機","desc":["使裝備者的暴擊傷害提高16%。當裝備者的暴擊傷害大於等於120%時，進入戰鬥後裝備者的暴擊率提高60%，持續到首次攻擊後結束。",""],"properties":[[{"type":"CriticalDamageBase","value":0.16}]],"icon":"icon/relic/305.png","guide_overview":[]}
+{"id":"305","name":"星體差分機","desc":["使裝備者的暴擊傷害提高16%。當裝備者的暴擊傷害大於等於120%時，進入戰鬥後裝備者的暴擊率提高60%，持續到首次攻擊後結束。"],"properties":[[{"type":"CriticalDamageBase","value":0.16}]],"icon":"icon/relic/305.png","guide_overview":[]}

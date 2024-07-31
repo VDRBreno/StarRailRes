@@ -1,1 +1,1 @@
-{"id":"110301","name":"Câmara do Eco","rank":1,"desc":"O ATQ Básico causa 60% de seu Dano de ATQ Básico como Dano de Raio a um inimigo aleatório adjacente ao alvo.","materials":[{"id":"11103","num":1}],"level_up_skills":[],"icon":"icon/skill/1103_rank1.png"}
+{"id":"110301","name":"Câmara do Eco","rank":1,"desc":"O ATQ Básico causa Dano de Raio igual a 60% do Dano do ATQ Básico a um inimigo-alvo aleatório adjacente ao inimigo-alvo.","materials":[{"id":"11103","num":1}],"level_up_skills":[],"icon":"icon/skill/1103_rank1.png"}

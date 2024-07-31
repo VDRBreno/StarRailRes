@@ -1,1 +1,1 @@
-{"id":"301","name":"宇宙封印ステーション","desc":["装備キャラの攻撃力+12%。装備キャラの速度が120以上の場合、さらに攻撃力+12%。",""],"properties":[[{"type":"AttackAddedRatio","value":0.12}]],"icon":"icon/relic/301.png","guide_overview":[]}
+{"id":"301","name":"宇宙封印ステーション","desc":["装備キャラの攻撃力+12%。装備キャラの速度が120以上の場合、さらに攻撃力+12%。"],"properties":[[{"type":"AttackAddedRatio","value":0.12}]],"icon":"icon/relic/301.png","guide_overview":[]}

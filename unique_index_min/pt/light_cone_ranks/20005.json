@@ -1,1 +1,1 @@
-{"id":"20005","skill":"Sinergia","desc":"Após entrar na batalha, aumenta o ATQ de todos os aliados em #1[i]%. Efeitos do mesmo tipo não se acumulam.","params":[[0.08],[0.09],[0.1],[0.11],[0.12]],"properties":[[],[],[],[],[]]}
+{"id":"20005","skill":"Sinergia","desc":"Após entrar na batalha, aumenta o ATQ de todos os aliados em #1[i]%. Habilidades do mesmo tipo não se acumulam.","params":[[0.08],[0.09],[0.1],[0.11],[0.12]],"properties":[[],[],[],[],[]]}

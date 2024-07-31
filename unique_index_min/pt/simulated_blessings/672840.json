@@ -1,1 +1,1 @@
-{"id":"672840","name":"Escrevente","desc":"Após um personagem atacar e causar Dano de Perícia Suprema, todo inimigo-alvo atingido causará Dano de Perícia Suprema igual a 100% do ATQ do personagem ao inimigo-alvo com os PV máximos mais altos.","enhanced_desc":""}
+{"id":"672840","name":"Escrevente","desc":"Após um personagem atacar e causar Dano de Perícia Suprema, para cada inimigo-alvo atingido, causa Dano de Perícia Suprema igual a 100% do ATQ do personagem ao inimigo-alvo com os PV máximos mais altos.","enhanced_desc":""}

@@ -1,1 +1,1 @@
-{"id":"120301","name":"Ablution de rapidité","rank":1,"desc":"Tant que le Champ est actif, l'ATQ de tous les alliés augmente de 20%.","materials":[{"id":"11203","num":1}],"level_up_skills":[],"icon":"icon/skill/1203_rank1.png"}
+{"id":"120301","name":"Ablution de rapidité","rank":1,"desc":"Tant que la zone est active, l'ATQ de tous les alliés augmente de 20%.","materials":[{"id":"11203","num":1}],"level_up_skills":[],"icon":"icon/skill/1203_rank1.png"}

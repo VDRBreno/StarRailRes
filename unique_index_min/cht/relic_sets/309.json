@@ -1,1 +1,1 @@
-{"id":"309","name":"繁星競技場","desc":["使裝備者的暴擊率提高8%。當裝備者的現有暴擊率大於等於70%時，普通攻擊和戰技的傷害提高20%。",""],"properties":[[{"type":"CriticalChanceBase","value":0.08}]],"icon":"icon/relic/309.png","guide_overview":[]}
+{"id":"309","name":"繁星競技場","desc":["使裝備者的暴擊率提高8%。當裝備者的現有暴擊率大於等於70%時，普通攻擊和戰技造成的傷害提高20%。"],"properties":[[{"type":"CriticalChanceBase","value":0.08}]],"icon":"icon/relic/309.png","guide_overview":[]}

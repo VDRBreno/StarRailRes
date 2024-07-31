@@ -1,1 +1,1 @@
-{"id":"100801","name":"To the Bitter End","rank":1,"desc":"When HP is lower than or equal to 50% of Max HP, increases Skill's DMG by 10%.","materials":[{"id":"11008","num":1}],"level_up_skills":[],"icon":"icon/skill/1008_rank1.png"}
+{"id":"100801","name":"To the Bitter End","rank":1,"desc":"When HP is lower than or equal to 50% of Max HP, increases DMG dealt by Skill by 10%.","materials":[{"id":"11008","num":1}],"level_up_skills":[],"icon":"icon/skill/1008_rank1.png"}

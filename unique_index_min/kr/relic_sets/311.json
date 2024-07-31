@@ -1,1 +1,1 @@
-{"id":"311","name":"창공 전선 그라모스","desc":["장착한 캐릭터의 공격력이 12% 증가한다. 장착한 캐릭터의 속도가 135/160 이상일 경우, 장착한 캐릭터가 가하는 피해가 12%/18% 증가한다",""],"properties":[[{"type":"AttackAddedRatio","value":0.12}]],"icon":"icon/relic/311.png","guide_overview":[]}
+{"id":"311","name":"창공 전선 그라모스","desc":["장착한 캐릭터의 공격력이 12% 증가한다. 장착한 캐릭터의 속도가 135/160 이상일 경우, 장착한 캐릭터가 가하는 피해가 12%/18% 증가한다"],"properties":[[{"type":"AttackAddedRatio","value":0.12}]],"icon":"icon/relic/311.png","guide_overview":[]}

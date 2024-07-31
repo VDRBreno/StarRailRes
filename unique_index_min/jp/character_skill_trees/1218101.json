@@ -1,0 +1,1 @@
+{"id":"1218101","name":"{RUBY_B#ひばら}火祓{RUBY_E#}い","max_level":1,"desc":"戦闘開始時、EPを#1[i]回復する。","params":[[15]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110221","num":3},{"id":"110503","num":1}]}],"icon":"icon/skill/1218_skilltree1.png"}

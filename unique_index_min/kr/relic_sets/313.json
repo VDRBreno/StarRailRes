@@ -1,1 +1,1 @@
-{"id":"313","name":"주인 없는 황폐한 별 츠가냐","desc":["장착한 캐릭터의 치명타 확률이 4% 증가한다. 적이 처치될 시 장착한 캐릭터의 치명타 피해가 4% 증가한다. 최대 중첩수: 10",""],"properties":[[{"type":"CriticalChanceBase","value":0.04}]],"icon":"icon/relic/313.png","guide_overview":[]}
+{"id":"313","name":"주인 없는 황폐한 별 츠가냐","desc":["장착한 캐릭터의 치명타 확률이 4% 증가한다. 적이 처치될 시 장착한 캐릭터의 치명타 피해가 4% 증가한다. 최대 중첩수: 10"],"properties":[[{"type":"CriticalChanceBase","value":0.04}]],"icon":"icon/relic/313.png","guide_overview":[]}

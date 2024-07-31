@@ -1,1 +1,1 @@
-{"id":"303","name":"汎銀河商事会社","desc":["装備キャラの効果命中+10%。装備キャラの攻撃力が、現在の効果命中25%分アップ、最大で+25%。",""],"properties":[[{"type":"StatusProbabilityBase","value":0.1}]],"icon":"icon/relic/303.png","guide_overview":[]}
+{"id":"303","name":"汎銀河商事会社","desc":["装備キャラの効果命中+10%。装備キャラの攻撃力が、現在の効果命中25%分アップ、最大で+25%。"],"properties":[[{"type":"StatusProbabilityBase","value":0.1}]],"icon":"icon/relic/303.png","guide_overview":[]}

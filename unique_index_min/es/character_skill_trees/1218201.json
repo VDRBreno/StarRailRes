@@ -1,0 +1,1 @@
+{"id":"1218201","name":"Bonificación de acierto de efecto","max_level":1,"desc":"","params":[],"anchor":"Point09","pre_points":[],"level_up_skills":[],"levels":[{"promotion":0,"level":1,"properties":[{"type":"StatusProbabilityBase","value":0.04}],"materials":[{"id":"2","num":2500},{"id":"113001","num":2}]}],"icon":"icon/property/IconStatusProbability.png"}

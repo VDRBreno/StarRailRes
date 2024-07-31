@@ -1,0 +1,1 @@
+{"id":"122407","name":"一气化三餐","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Enhance","effect_text":"强化","simple_desc":"每当队友施放秘技，下一次进战后三月七获得充能。使用秘技，下一次进战后恢复能量。","desc":"若三月七在队伍中，每当队友施放1次秘技，下一次战斗开始时三月七获得1点充能，最多获得#1[i]点。\n使用秘技后，下一次战斗开始时三月七恢复#2[i]点能量。","params":[[3,30]],"icon":"icon/skill/1224_technique.png"}
