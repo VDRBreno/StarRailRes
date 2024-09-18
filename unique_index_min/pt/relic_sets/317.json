@@ -1,0 +1,1 @@
+{"id":"317","name":"Lushaka, os Mares Submersos","desc":["Aumenta a Taxa de Regeneração de Energia do usuário em 5%. Se o usuário não for o primeiro personagem na Formação de Equipe, então aumenta o ATQ do primeiro personagem na Formação de Equipe em 12%."],"properties":[[{"type":"SPRatioBase","value":0.05}]],"icon":"icon/relic/317.png","guide_overview":[]}

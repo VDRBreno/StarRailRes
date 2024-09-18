@@ -1,1 +1,1 @@
-{"id":"100801","name":"Jusqu'au-boutiste","rank":1,"desc":"Lorsque les PV du personnage sont inférieurs ou égaux à 50 % de ses PV max, augmente les DGT infligés par la compétence de 10%.","materials":[{"id":"11008","num":1}],"level_up_skills":[],"icon":"icon/skill/1008_rank1.png"}
+{"id":"100801","name":"Jusqu'au-boutiste","rank":1,"desc":"Lorsque le pourcentage de PV du personnage est inférieur ou égal à 50 % de ses PV max, augmente les DGT infligés par la compétence de 10%.","materials":[{"id":"11008","num":1}],"level_up_skills":[],"icon":"icon/skill/1008_rank1.png"}

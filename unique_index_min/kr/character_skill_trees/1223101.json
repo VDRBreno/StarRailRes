@@ -1,0 +1,1 @@
+{"id":"1223101","name":"수묵자객","max_level":1,"desc":"특성의 추가 공격 발동 후 전투 스킬 포인트를 #1[i]pt 회복한다. 해당 효과는 #2[i]턴 후 다시 발동할 수 있다","params":[[1,1]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":4000},{"id":"110191","num":2},{"id":"110506","num":1}]}],"icon":"icon/skill/1223_skilltree1.png"}

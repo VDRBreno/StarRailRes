@@ -1,0 +1,1 @@
+{"id":"122207","name":"流翠散云","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Support","effect_text":"辅助","simple_desc":"使用秘技，下一次战斗开始时立即召唤【浮元】并使敌方全体受到的击破伤害提高。","desc":"使用秘技后，下一次战斗开始时立即召唤【浮元】，并使敌方全体陷入【醇醉】状态，持续#1[i]回合。","params":[[2]],"icon":"icon/skill/1222_technique.png"}

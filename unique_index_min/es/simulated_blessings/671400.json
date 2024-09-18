@@ -1,1 +1,1 @@
-{"id":"671400","name":"Mecanismo de contención de desastres","desc":"Cuando el personaje pierde cualquier escudo, su VEL aumenta en un 12% durante 2 turnos. Se puede acumular hasta 3. Además, al comenzar el turno del siguiente personaje, obtiene 2 acumulaciones de Empujón crítico.","enhanced_desc":""}
+{"id":"671400","name":"Mecanismo de contención de desastres","desc":"Después de que un enemigo reduzca el escudo de los personajes al atacar, la VEL de todos los aliados aumenta en un 35% durante 2 turno(s) y obtienen 2 acumulación(es) de Empujón crítico.","enhanced_desc":""}

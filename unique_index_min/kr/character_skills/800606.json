@@ -1,1 +1,1 @@
-{"id":"800606","name":"공격","max_level":1,"element":"Imaginary","type":"MazeNormal","type_text":"","effect":"MazeAttack","effect_text":"","simple_desc":"","desc":"적을 공격하며, 전투 진입 후 적에게 대응하는 속성의 강인성을 소모시킨다","params":[],"icon":"icon/skill/8006_basic_atk.png"}
+{"id":"800606","name":"공격","max_level":1,"element":"Imaginary","type":"MazeNormal","type_text":"","effect":"MazeAttack","effect_text":"","simple_desc":"","desc":"적을 공격하며, 전투 진입 후 적에게 대응하는 속성의 강인성을 감소시킨다","params":[],"icon":"icon/skill/8006_basic_atk.png"}

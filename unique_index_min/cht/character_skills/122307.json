@@ -1,0 +1,1 @@
+{"id":"122307","name":"脅翼匿跡","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Enhance","effect_text":"強化","simple_desc":"進入隱身狀態。隱身狀態攻擊敵人進入戰鬥時提高傷害。","desc":"使用秘技後進入持續#1[i]秒的隱身狀態。隱身狀態下不會被敵人發現，貊澤在隱身狀態下攻擊敵人進入戰鬥時傷害提高#2[i]%，持續#3[i]回合。","params":[[20,0.3,2]],"icon":"icon/skill/1223_technique.png"}

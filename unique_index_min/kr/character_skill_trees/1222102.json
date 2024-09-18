@@ -1,0 +1,1 @@
+{"id":"1222102","name":"향연","max_level":1,"desc":"일반 공격 발동 시 추가로 에너지를 #1[i]pt 회복한다","params":[[10]],"anchor":"Point07","pre_points":[],"level_up_skills":[],"levels":[{"promotion":4,"level":0,"properties":[],"materials":[{"id":"2","num":20000},{"id":"110242","num":5},{"id":"241","num":1},{"id":"110506","num":1}]}],"icon":"icon/skill/1222_skilltree2.png"}

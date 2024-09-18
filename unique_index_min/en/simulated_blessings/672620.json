@@ -1,1 +1,1 @@
-{"id":"672620","name":"Candy Knight","desc":"Characters' Aftertaste DMG applies Toughness Reduction of the corresponding Type. If this effect breaks an enemy's Weakness, triggers the Weakness Break effect of the attacker's Type.","enhanced_desc":""}
+{"id":"672620","name":"Candy Knight","desc":"The Aftertaste DMG dealt by characters can ignore Weakness Type and reduce 2.5 Toughness from enemy targets. In a single attack, this effect can be triggered against each enemy target up to 7 time(s).","enhanced_desc":""}

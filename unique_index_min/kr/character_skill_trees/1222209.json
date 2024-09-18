@@ -1,0 +1,1 @@
+{"id":"1222209","name":"HP 강화","max_level":1,"desc":"","params":[],"anchor":"Point17","pre_points":["1222103"],"level_up_skills":[],"levels":[{"promotion":0,"level":75,"properties":[{"type":"HPAddedRatio","value":0.08}],"materials":[{"id":"2","num":160000},{"id":"110243","num":8},{"id":"113003","num":8}]}],"icon":"icon/property/IconMaxHP.png"}

@@ -1,0 +1,1 @@
+{"id":"1223205","name":"치명타 피해 강화","max_level":1,"desc":"","params":[],"anchor":"Point13","pre_points":["1223102"],"level_up_skills":[],"levels":[{"promotion":4,"level":0,"properties":[{"type":"CriticalDamageBase","value":0.08}],"materials":[{"id":"2","num":16000},{"id":"110192","num":4},{"id":"113012","num":3}]}],"icon":"icon/property/IconCriticalDamage.png"}

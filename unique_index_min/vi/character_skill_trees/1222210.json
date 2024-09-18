@@ -1,0 +1,1 @@
+{"id":"1222210","name":"Cường Hóa Kích Phá","max_level":1,"desc":"","params":[],"anchor":"Point18","pre_points":[],"level_up_skills":[],"levels":[{"promotion":0,"level":80,"properties":[{"type":"BreakDamageAddedRatioBase","value":0.107}],"materials":[{"id":"2","num":160000},{"id":"110243","num":8},{"id":"113003","num":8}]}],"icon":"icon/property/IconBreakUp.png"}

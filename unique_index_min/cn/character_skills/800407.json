@@ -1,1 +1,1 @@
-{"id":"800407","name":"守护者召令","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Defence","effect_text":"防御","simple_desc":"","desc":"使用秘技后，下一次战斗开始时给自身提供能够抵消等同于开拓者#1[i]%防御力+#2[i]伤害的护盾，持续#3[i]回合。","params":[[0.3,384,1]],"icon":"icon/skill/8004_technique.png"}
+{"id":"800407","name":"守护者召令","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Defence","effect_text":"防御","simple_desc":"使用秘技后，下一次战斗开始时给自身提供护盾。","desc":"使用秘技后，下一次战斗开始时给自身提供能够抵消等同于开拓者#1[i]%防御力+#2[i]伤害的护盾，持续#3[i]回合。","params":[[0.3,384,1]],"icon":"icon/skill/8004_technique.png"}

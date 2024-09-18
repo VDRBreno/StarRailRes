@@ -1,0 +1,1 @@
+{"id":"122307","name":"胁翼匿迹","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Enhance","effect_text":"强化","simple_desc":"进入隐身状态。隐身状态攻击敌人进入战斗时提高伤害。","desc":"使用秘技后进入持续#1[i]秒的隐身状态。隐身状态下不会被敌人发现，貊泽在隐身状态下攻击敌人进入战斗时伤害提高#2[i]%，持续#3[i]回合。","params":[[20,0.3,2]],"icon":"icon/skill/1223_technique.png"}

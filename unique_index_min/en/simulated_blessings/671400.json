@@ -1,1 +1,1 @@
-{"id":"671400","name":"Disaster-Halting Mechanism","desc":"When a character loses any Shield, increases their SPD by 12%, lasting for 2 turn(s) and stacking up to 3 time(s). At the beginning of a character's next turn, they gain 2 stack(s) of Critical Boost.","enhanced_desc":""}
+{"id":"671400","name":"Disaster-Halting Mechanism","desc":"After enemy targets use an attack to reduce characters' Shields, increases all allies' SPD by 35%, lasting for 2 turn(s), then gains 2 stack(s) of Critical Boost.","enhanced_desc":""}

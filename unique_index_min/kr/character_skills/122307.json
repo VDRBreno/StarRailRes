@@ -1,0 +1,1 @@
+{"id":"122307","name":"은닉한 날개","max_level":1,"element":"","type":"Maze","type_text":"비술","effect":"Enhance","effect_text":"강화","simple_desc":"은신 상태에 진입한다. 은신 상태에서 적을 공격해 전투 진입 시 피해가 증가한다","desc":"비술 사용 후 #1[i]초 동안 지속되는 은신 상태에 진입한다. 은신 상태에선 적에게 들키지 않으며, 맥택이 은신 상태에서 적을 공격해 전투에 진입할 시 피해가 #2[i]% 증가한다, 지속 시간: #3[i]턴","params":[[20,0.3,2]],"icon":"icon/skill/1223_technique.png"}

@@ -1,1 +1,1 @@
-{"id":"800207","name":"不滅三振","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Restore","effect_text":"回復","simple_desc":"","desc":"秘技を使用した後、味方全体のHPをそれぞれの最大HP#1[i]%分回復する。","params":[[0.15]],"icon":"icon/skill/8002_technique.png"}
+{"id":"800207","name":"不滅三振","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Restore","effect_text":"回復","simple_desc":"秘技を使用した後、味方全体のHPを回復する。","desc":"秘技を使用した後、味方全体のHPをそれぞれの最大HP#1[i]%分回復する。","params":[[0.15]],"icon":"icon/skill/8002_technique.png"}

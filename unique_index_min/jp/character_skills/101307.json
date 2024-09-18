@@ -1,1 +1,1 @@
-{"id":"101307","name":"改善すべきだよ","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Enhance","effect_text":"強化","simple_desc":"","desc":"秘技を使用した後、次の戦闘開始時、ヘルタの攻撃力+#1[i]%、#2[i]ターン継続。","params":[[0.4,3]],"icon":"icon/skill/1013_technique.png"}
+{"id":"101307","name":"改善すべきだよ","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Enhance","effect_text":"強化","simple_desc":"秘技を使用、次の戦闘開始時に自身の攻撃力をアップする。","desc":"秘技を使用した後、次の戦闘開始時、ヘルタの攻撃力+#1[i]%、#2[i]ターン継続。","params":[[0.4,3]],"icon":"icon/skill/1013_technique.png"}

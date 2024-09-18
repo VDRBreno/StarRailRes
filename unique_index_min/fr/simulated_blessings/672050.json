@@ -1,1 +1,1 @@
-{"id":"672050","name":"Insubmersible","desc":"Lorsqu'un personnage reçoit un bouclier, la valeur de bouclier augmente de 1.0% pour chaque tranche de 1 % de différence entre ses PV max et ses PV actuels.","enhanced_desc":""}
+{"id":"672050","name":"Insubmersible","desc":"La valeur de bouclier reçue par un personnage augmente de 20%. Pour chaque tranche de 1 % de différence entre ses PV max et ses PV actuels, la valeur de bouclier augmente en plus de 0.8%.","enhanced_desc":""}

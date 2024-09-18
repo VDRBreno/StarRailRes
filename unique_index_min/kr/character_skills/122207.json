@@ -1,0 +1,1 @@
+{"id":"122207","name":"흩어지는 연무의 색채","max_level":1,"element":"","type":"Maze","type_text":"비술","effect":"Support","effect_text":"서포트","simple_desc":"비술을 사용하면 다음 전투 시작 시 즉시 [부원]을 소환하고, 모든 적이 받는 격파 피해가 증가한다","desc":"비술 사용 후 다음 전투 시작 시 즉시 [부원]을 소환하고, 모든 적을 [감취] 상태에 빠트린다, 지속 시간: #1[i]턴","params":[[2]],"icon":"icon/skill/1222_technique.png"}

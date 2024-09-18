@@ -1,0 +1,1 @@
+{"id":"1223101","name":"墨毫绣衣","max_level":1,"desc":"施放天赋的追加攻击后，恢复#1[i]个战技点，该效果在#2[i]回合后可再次触发。","params":[[1,1]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":4000},{"id":"110191","num":2},{"id":"110506","num":1}]}],"icon":"icon/skill/1223_skilltree1.png"}

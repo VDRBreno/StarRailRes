@@ -1,1 +1,1 @@
-{"id":"800107","name":"不死三振","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Restore","effect_text":"回復","simple_desc":"","desc":"使用秘技後立即為我方全體回復等同於各自生命上限#1[i]%的生命值。","params":[[0.15]],"icon":"icon/skill/8001_technique.png"}
+{"id":"800107","name":"不死三振","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Restore","effect_text":"回復","simple_desc":"使用秘技後立即為我方全體回復生命值。","desc":"使用秘技後立即為我方全體回復等同於各自生命上限#1[i]%的生命值。","params":[[0.15]],"icon":"icon/skill/8001_technique.png"}

@@ -1,1 +1,1 @@
-{"id":"20016","skill":"Legião","desc":"Se o PV atual do usuário for inferior a #1[i]%, Chance de CRIT aumenta em #2[i]%.","params":[[0.8,0.12],[0.8,0.15],[0.8,0.18],[0.8,0.21],[0.8,0.24]],"properties":[[],[],[],[],[]]}
+{"id":"20016","skill":"Legião","desc":"Se a porcentagem dos PV atuais do usuário for inferior a #1[i]%, Chance de CRIT aumenta em #2[i]%.","params":[[0.8,0.12],[0.8,0.15],[0.8,0.18],[0.8,0.21],[0.8,0.24]],"properties":[[],[],[],[],[]]}

@@ -1,0 +1,1 @@
+{"id":"1220101","name":"天通","max_level":1,"desc":"戰鬥開始時，獲得#1[i]點【飛黃】。\n回合開始時，若上回合未透過天賦發動追加攻擊，計入1次獲得【飛黃】所需的攻擊次數。","params":[[3]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110191","num":3},{"id":"110503","num":1}]}],"icon":"icon/skill/1220_skilltree1.png"}
