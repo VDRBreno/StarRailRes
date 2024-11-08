@@ -1,1 +1,1 @@
-{"id":"612526","name":"Resonanzkreuzung: Kernkollaps","desc":"Besitzt das Ziel zum Zeitpunkt des Pfadresonanz-Angriffs weniger als 20% seiner max. LP, werden seine aktuellen LP auf 1 gesetzt.","enhanced_desc":""}
+{"id":"612526","name":"Resonanzkreuzung: Kernkollaps","desc":"Wenn ein Gegner zum Zeitpunkt eines Angriffs mit Pfadresonanz weniger als 20% seiner max. LP besitzt, werden seine aktuellen LP auf 1 gesetzt.","enhanced_desc":""}

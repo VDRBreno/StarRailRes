@@ -1,0 +1,1 @@
+{"id":"131706","name":"Attack","max_level":1,"element":"Imaginary","type":"MazeNormal","type_text":"","effect":"MazeAttack","effect_text":"","simple_desc":"","desc":"Attacks an enemy, and when the battle starts, reduces their Toughness of the corresponding Type.","params":[],"icon":"icon/skill/1317_basic_atk.png"}

@@ -1,0 +1,1 @@
+{"id":"1317101","name":"인법첩•마천","max_level":1,"desc":"정예급 이상 적의 약점이 격파될 시 라파는 추가로 충전을 #2[i]pt 획득하고 에너지를 #1[i]pt 회복한다","params":[[10,1]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110201","num":3},{"id":"110505","num":1}]}],"icon":"icon/skill/1317_skilltree1.png"}

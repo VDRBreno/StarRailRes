@@ -1,0 +1,1 @@
+{"id":"122","name":"Im Wissen verlorene Gelehrte","desc":["Erhöht KRIT-Rate um 8%.","Erhöht den durch Fertigkeiten und Ultimates verursachten SCH um 20%. Nach dem Einsatz des Ultimates wird der SCH beim nächsten Einsatz der Fertigkeit zusätzlich um 25% erhöht."],"properties":[[{"type":"CriticalChanceBase","value":0.08}],[]],"icon":"icon/relic/122.png","guide_overview":[]}

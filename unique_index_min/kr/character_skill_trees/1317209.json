@@ -1,0 +1,1 @@
+{"id":"1317209","name":"속도 강화","max_level":1,"desc":"","params":[],"anchor":"Point17","pre_points":["1317103"],"level_up_skills":[],"levels":[{"promotion":0,"level":75,"properties":[{"type":"SpeedDelta","value":4}],"materials":[{"id":"2","num":160000},{"id":"110203","num":8},{"id":"114003","num":8}]}],"icon":"icon/property/IconSpeed.png"}

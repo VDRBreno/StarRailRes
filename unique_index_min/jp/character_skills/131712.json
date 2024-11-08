@@ -1,0 +1,1 @@
+{"id":"131712","name":"忍具・降魔の花弁","max_level":9,"element":"Imaginary","type":"Normal","type_text":"通常攻撃","effect":"AoEAttack","effect_text":"全体攻撃","simple_desc":"敵全体に少量の虚数属性ダメージを与える。この攻撃は虚数属性弱点を持たない敵の靱性も削ることができる。","desc":"","params":[[0.6],[0.68],[0.76],[0.84],[0.92],[1],[1.08],[1.16],[1.24]],"icon":"icon/skill/1317_basic_atk.png"}

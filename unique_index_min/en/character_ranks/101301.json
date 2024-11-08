@@ -1,1 +1,1 @@
-{"id":"101301","name":"Kick You When You're Down","rank":1,"desc":"If the enemy's HP percentage is at 50% or less, Herta's Basic ATK deals Additional Ice DMG equal to 40% of Herta's ATK.","materials":[{"id":"11013","num":1}],"level_up_skills":[],"icon":"icon/skill/1013_rank1.png"}
+{"id":"101301","name":"Kick You When You're Down","rank":1,"desc":"If the enemy's HP percentage is at 50% or less, Herta's Basic ATK deals Ice Additional DMG equal to 40% of Herta's ATK.","materials":[{"id":"11013","num":1}],"level_up_skills":[],"icon":"icon/skill/1013_rank1.png"}

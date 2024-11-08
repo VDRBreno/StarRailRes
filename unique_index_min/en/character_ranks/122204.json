@@ -1,1 +1,1 @@
-{"id":"122204","name":"Redolence from Canopied Banquet","rank":4,"desc":"When Fuyuan takes action, restores HP equal to 40% of Lingsha's ATK for the ally whose current HP is the lowest.","materials":[{"id":"11222","num":1}],"level_up_skills":[],"icon":"icon/skill/1222_rank4.png"}
+{"id":"122204","name":"Redolence from Canopied Banquet","rank":4,"desc":"When Fuyuan takes action, restores HP equal to 40% of Lingsha's ATK for the ally target whose current HP is the lowest.","materials":[{"id":"11222","num":1}],"level_up_skills":[],"icon":"icon/skill/1222_rank4.png"}

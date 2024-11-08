@@ -1,0 +1,1 @@
+{"id":"1317202","name":"Усиление скорости","max_level":1,"desc":"","params":[],"anchor":"Point10","pre_points":["1317101"],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[{"type":"SpeedDelta","value":2}],"materials":[{"id":"2","num":5000},{"id":"110201","num":3},{"id":"114001","num":6}]}],"icon":"icon/property/IconSpeed.png"}
