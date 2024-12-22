@@ -1,0 +1,1 @@
+{"id":"1313102","name":"崇高拂尘","max_level":1,"desc":"战斗开始时，星期日恢复#1[i]点能量。","params":[[25]],"anchor":"Point07","pre_points":[],"level_up_skills":[],"levels":[{"promotion":4,"level":0,"properties":[],"materials":[{"id":"2","num":20000},{"id":"110232","num":5},{"id":"241","num":1},{"id":"110505","num":1}]}],"icon":"icon/skill/1313_skilltree2.png"}

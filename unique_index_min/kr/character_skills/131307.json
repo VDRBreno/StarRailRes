@@ -1,0 +1,1 @@
+{"id":"131307","name":"영광의 신비","max_level":1,"element":"","type":"Maze","type_text":"비술","effect":"Support","effect_text":"서포트","simple_desc":"비술 사용 후 다음 전투에서 선데이가 처음으로 아군에게 스킬을 발동하면 목표가 가하는 피해가 증가한다","desc":"비술 사용 후 다음 전투에서 선데이가 처음으로 아군에게 스킬을 발동하면 목표가 가하는 피해가 #1[i]% 증가한다, 지속 시간: #2[i]턴","params":[[0.5,2]],"icon":"icon/skill/1313_technique.png"}

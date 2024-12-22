@@ -1,1 +1,1 @@
-{"id":"130102","name":"Cola de león","rank":2,"desc":"Al usar la habilidad básica, se elimina 1 estado negativo del objetivo aliado y aumenta su RES a efecto en un 30% durante 2 turnos.","materials":[{"id":"11301","num":1}],"level_up_skills":[],"icon":"icon/skill/1301_rank2.png"}
+{"id":"130102","name":"Cola de león","rank":2,"desc":"Al usar la habilidad básica, se disipa 1 estado negativo del objetivo aliado y aumenta su RES a efecto en un 30% durante 2 turnos.","materials":[{"id":"11301","num":1}],"level_up_skills":[],"icon":"icon/skill/1301_rank2.png"}

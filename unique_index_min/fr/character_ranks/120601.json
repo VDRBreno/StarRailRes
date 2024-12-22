@@ -1,1 +1,1 @@
-{"id":"120601","name":"Tranchant aiguisé","rank":1,"desc":"Régénère 1 point de compétence après avoir utilisé la compétence contre un ennemi qui subit une Rupture de faiblesse.","materials":[{"id":"11206","num":1}],"level_up_skills":[],"icon":"icon/skill/1206_rank1.png"}
+{"id":"120601","name":"Tranchant aiguisé","rank":1,"desc":"Régénère 1 point de compétence après avoir utilisé la compétence contre un ennemi en état de Rupture de faiblesse.","materials":[{"id":"11206","num":1}],"level_up_skills":[],"icon":"icon/skill/1206_rank1.png"}

@@ -1,1 +1,1 @@
-{"id":"111002","name":"휴대용 버너의 정오","rank":2,"desc":"[생존 반응]을 보유한 목표에게 디버프 효과가 부여될 때 디버프 효과를 1회 저항할 수 있다","materials":[{"id":"11110","num":1}],"level_up_skills":[],"icon":"icon/skill/1110_rank2.png"}
+{"id":"111002","name":"휴대용 버너의 정오","rank":2,"desc":"[생존 반응]을 보유한 목표에게 디버프 효과가 부여될 시 디버프 효과에 1회 저항할 수 있다","materials":[{"id":"11110","num":1}],"level_up_skills":[],"icon":"icon/skill/1110_rank2.png"}

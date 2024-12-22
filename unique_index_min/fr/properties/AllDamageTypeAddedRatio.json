@@ -1,1 +1,1 @@
-{"type":"AllDamageTypeAddedRatio","name":"Augm. de DGT","field":"all_dmg","affix":true,"ratio":false,"percent":true,"order":101,"icon":"icon/property/IconAttack.png"}
+{"type":"AllDamageTypeAddedRatio","name":"DGT ↑","field":"all_dmg","affix":true,"ratio":false,"percent":true,"order":101,"icon":"icon/property/IconAttack.png"}

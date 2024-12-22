@@ -1,0 +1,1 @@
+{"id":"131307","name":"栄光の秘儀","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Support","effect_text":"サポート","simple_desc":"秘技を使用した後、次の戦闘でサンデーが初めて味方にスキルを発動する時、ターゲットの与ダメージがアップする。","desc":"秘技を使用した後、次の戦闘でサンデーが初めて味方にスキルを発動する時、ターゲットの与ダメージ+#1[i]%、#2[i]ターン継続。","params":[[0.5,2]],"icon":"icon/skill/1313_technique.png"}

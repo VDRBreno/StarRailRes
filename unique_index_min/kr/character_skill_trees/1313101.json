@@ -1,0 +1,1 @@
+{"id":"1313101","name":"주일을 향한 갈망","max_level":1,"desc":"필살기 발동 시 목표에게 회복한 에너지가 #1[i]pt 미만일 시, 회복하는 에너지가 #1[i]pt까지 증가한다","params":[[40]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110231","num":3},{"id":"110505","num":1}]}],"icon":"icon/skill/1313_skilltree1.png"}

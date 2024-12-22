@@ -1,1 +1,1 @@
-{"id":"120901","name":"Svelte Saber","rank":1,"desc":"Saat Yanqing menyerang target musuh, jika target berstatus Frozen, Yanqing akan segera mengakibatkan Ice DMG tambahan sebesar 60% ATK-nya.","materials":[{"id":"11209","num":1}],"level_up_skills":[],"icon":"icon/skill/1209_rank1.png"}
+{"id":"120901","name":"Svelte Saber","rank":1,"desc":"Saat Yanqing menyerang target musuh, jika target berstatus Frozen, Yanqing akan segera mengakibatkan Ice DMG Tambahan sebesar 60% ATK dirinya.","materials":[{"id":"11209","num":1}],"level_up_skills":[],"icon":"icon/skill/1209_rank1.png"}

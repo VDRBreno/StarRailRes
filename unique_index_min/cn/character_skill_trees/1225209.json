@@ -1,0 +1,1 @@
+{"id":"1225209","name":"击破强化","max_level":1,"desc":"","params":[],"anchor":"Point17","pre_points":["1225103"],"level_up_skills":[],"levels":[{"promotion":0,"level":75,"properties":[{"type":"BreakDamageAddedRatioBase","value":0.107}],"materials":[{"id":"2","num":160000},{"id":"110223","num":8},{"id":"113003","num":8}]}],"icon":"icon/property/IconBreakUp.png"}

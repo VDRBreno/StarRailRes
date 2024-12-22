@@ -1,0 +1,1 @@
+{"id":"131307","name":"荣光之秘","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Support","effect_text":"辅助","simple_desc":"使用秘技后，下一次战斗星期日首次对我方目标施放技能时，使目标造成的伤害提高。","desc":"使用秘技后，下一次战斗星期日首次对我方目标施放技能时，使目标造成的伤害提高#1[i]%，持续#2[i]回合。","params":[[0.5,2]],"icon":"icon/skill/1313_technique.png"}

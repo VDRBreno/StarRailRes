@@ -1,1 +1,1 @@
-{"id":"121304","name":"조풍(嘲風)","rank":4,"desc":"[노호]의 버프 효과가 자신의 다음 턴이 종료되기 전까지 지속된다","materials":[{"id":"11213","num":1}],"level_up_skills":[],"icon":"icon/skill/1213_rank4.png"}
+{"id":"121304","name":"조풍(嘲風)","rank":4,"desc":"[노호]의 버프 효과가 자신의 다음 턴이 종료될 때까지 지속된다","materials":[{"id":"11213","num":1}],"level_up_skills":[],"icon":"icon/skill/1213_rank4.png"}

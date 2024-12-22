@@ -1,1 +1,1 @@
-{"id":"110602","name":"Hartnäckige Ladung","rank":2,"desc":"Nach Einsatz der Fertigkeit zum Entfernen eines gegnerischen Buffs wird ihre GES für 2 Rd. um 10% erhöht.","materials":[{"id":"11106","num":1}],"level_up_skills":[],"icon":"icon/skill/1106_rank2.png"}
+{"id":"110602","name":"Hartnäckige Ladung","rank":2,"desc":"Nach Einsatz der Fertigkeit zum Entfernen eines Buffs wird die GES dieser Einheit für 2 Rd. um 10% erhöht.","materials":[{"id":"11106","num":1}],"level_up_skills":[],"icon":"icon/skill/1106_rank2.png"}

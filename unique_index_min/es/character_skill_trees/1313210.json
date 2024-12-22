@@ -1,0 +1,1 @@
+{"id":"1313210","name":"Bonificación de Daño CRIT","max_level":1,"desc":"","params":[],"anchor":"Point18","pre_points":["1313208"],"level_up_skills":[],"levels":[{"promotion":0,"level":80,"properties":[{"type":"CriticalDamageBase","value":0.107}],"materials":[{"id":"2","num":160000},{"id":"110233","num":8},{"id":"114013","num":8}]}],"icon":"icon/property/IconCriticalDamage.png"}

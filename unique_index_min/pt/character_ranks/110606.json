@@ -1,1 +1,1 @@
-{"id":"110606","name":"Busca Fraca","rank":6,"desc":"Quando Pela ataca um inimigo com alguma penalidade, ela causa Dano de Gelo Adicional igual a 40% do ATQ dela ao inimigo.","materials":[{"id":"11106","num":1}],"level_up_skills":[],"icon":"icon/skill/1106_rank6.png"}
+{"id":"110606","name":"Busca Fraca","rank":6,"desc":"Após Pela atacar, se o inimigo-alvo estiver afligido com alguma penalidade, ela causa Dano de Gelo Adicional igual a 40% do ATQ dela ao inimigo.","materials":[{"id":"11106","num":1}],"level_up_skills":[],"icon":"icon/skill/1106_rank6.png"}

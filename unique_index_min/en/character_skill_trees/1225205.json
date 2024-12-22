@@ -1,0 +1,1 @@
+{"id":"1225205","name":"SPD Boost","max_level":1,"desc":"","params":[],"anchor":"Point13","pre_points":["1225102"],"level_up_skills":[],"levels":[{"promotion":4,"level":0,"properties":[{"type":"SpeedDelta","value":3}],"materials":[{"id":"2","num":20000},{"id":"110222","num":5},{"id":"113002","num":4}]}],"icon":"icon/property/IconSpeed.png"}

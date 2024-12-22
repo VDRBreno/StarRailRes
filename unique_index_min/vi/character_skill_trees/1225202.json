@@ -1,0 +1,1 @@
+{"id":"1225202","name":"Cường Hóa Phá Vỡ","max_level":1,"desc":"","params":[],"anchor":"Point10","pre_points":["1225101"],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[{"type":"BreakDamageAddedRatioBase","value":0.053}],"materials":[{"id":"2","num":5000},{"id":"110221","num":3},{"id":"113001","num":6}]}],"icon":"icon/property/IconBreakUp.png"}

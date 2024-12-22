@@ -1,1 +1,1 @@
-{"id":"101301","name":"엎친 데 덮친 격","rank":1,"desc":"일반 공격 발동 시 지정된 단일 적의 HP 백분율이 50% 이하일 경우 추가로 헤르타 공격력 40%만큼의 얼음 속성 추가 피해를 가한다","materials":[{"id":"11013","num":1}],"level_up_skills":[],"icon":"icon/skill/1013_rank1.png"}
+{"id":"101301","name":"엎친 데 덮친 격","rank":1,"desc":"일반 공격 발동 시 지정된 단일 적의 HP 백분율이 50% 이하일 경우 추가로 헤르타 공격력의 40%만큼 얼음 속성 추가 피해를 가한다","materials":[{"id":"11013","num":1}],"level_up_skills":[],"icon":"icon/skill/1013_rank1.png"}

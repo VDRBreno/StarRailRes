@@ -1,1 +1,1 @@
-{"id":"110606","name":"힘 없는 추격","rank":6,"desc":"공격 발동 후 적이 디버프 효과를 보유한 경우, 페라 공격력 40%만큼의 얼음 속성 추가 피해를 준다","materials":[{"id":"11106","num":1}],"level_up_skills":[],"icon":"icon/skill/1106_rank6.png"}
+{"id":"110606","name":"힘 없는 추격","rank":6,"desc":"공격 발동 후 적이 디버프 효과를 보유한 경우, 페라 공격력의 40%만큼 얼음 속성 추가 피해를 가한다","materials":[{"id":"11106","num":1}],"level_up_skills":[],"icon":"icon/skill/1106_rank6.png"}

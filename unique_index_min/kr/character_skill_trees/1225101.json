@@ -1,0 +1,1 @@
+{"id":"1225101","name":"청구에 다시 드리운 빛","max_level":1,"desc":"아군이 약점 격파를 가한 후 추가로 적의 행동 게이지가 #1[i]% 감소한다","params":[[0.15]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110221","num":3},{"id":"110503","num":1}]}],"icon":"icon/skill/1225_skilltree1.png"}

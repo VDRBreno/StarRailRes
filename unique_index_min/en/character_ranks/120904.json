@@ -1,1 +1,1 @@
-{"id":"120904","name":"Searing Sting","rank":4,"desc":"When the current HP percentage is 80% or higher, Ice RES PEN increases by 12%.","materials":[{"id":"11209","num":1}],"level_up_skills":[],"icon":"icon/skill/1209_rank4.png"}
+{"id":"120904","name":"Searing Sting","rank":4,"desc":"When the current HP percentage is 80% or higher, this unit's Ice RES PEN increases by 12%.","materials":[{"id":"11209","num":1}],"level_up_skills":[],"icon":"icon/skill/1209_rank4.png"}

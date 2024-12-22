@@ -1,1 +1,1 @@
-{"id":"100802","name":"Breaking Free","rank":2,"desc":"Saat melancarkan Skill dan Ultimate, menghapus 1 status Debuff dirinya.","materials":[{"id":"11008","num":1}],"level_up_skills":[],"icon":"icon/skill/1008_rank2.png"}
+{"id":"100802","name":"Breaking Free","rank":2,"desc":"Saat melancarkan Skill atau Ultimate, akan menghapus 1 status Debuff dari karakter ini.","materials":[{"id":"11008","num":1}],"level_up_skills":[],"icon":"icon/skill/1008_rank2.png"}

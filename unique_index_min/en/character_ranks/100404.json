@@ -1,1 +1,1 @@
-{"id":"100404","name":"Appellation of Justice","rank":4,"desc":"Base chance for Skill to inflict SPD Reduction increases by 35%.","materials":[{"id":"11004","num":1}],"level_up_skills":[],"icon":"icon/skill/1004_rank4.png"}
+{"id":"100404","name":"Appellation of Justice","rank":4,"desc":"When using Skill, increases the base chance of reducing the attacked enemy target's SPD by 35%.","materials":[{"id":"11004","num":1}],"level_up_skills":[],"icon":"icon/skill/1004_rank4.png"}

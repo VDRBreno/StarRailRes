@@ -1,1 +1,1 @@
-{"id":"120906","name":"자유자재","rank":6,"desc":"적 처치 시 [신검합일] 또는 필살기 버프 효과를 보유 중일 경우, 해당 버프 효과의 지속 시간이 모두 1턴 연장된다","materials":[{"id":"11209","num":1}],"level_up_skills":[],"icon":"icon/skill/1209_rank6.png"}
+{"id":"120906","name":"자유자재","rank":6,"desc":"적 처치 시 [신검합일] 또는 필살기의 버프 효과를 보유 중일 경우, 해당 버프 효과의 지속 시간이 모두 1턴 연장된다","materials":[{"id":"11209","num":1}],"level_up_skills":[],"icon":"icon/skill/1209_rank6.png"}

@@ -1,1 +1,1 @@
-{"id":"100606","name":"오버레이 네트워크","rank":6,"desc":"적이 보유한 디버프 1개당 은랑이 해당 목표에 가하는 피해가 20% 증가하며, 최대 100% 증가한다","materials":[{"id":"11006","num":1}],"level_up_skills":[],"icon":"icon/skill/1006_rank6.png"}
+{"id":"100606","name":"오버레이 네트워크","rank":6,"desc":"적이 보유한 디버프 효과 1개당 은랑이 대상에게 가하는 피해가 20% 증가하며, 최대 100% 증가한다","materials":[{"id":"11006","num":1}],"level_up_skills":[],"icon":"icon/skill/1006_rank6.png"}
