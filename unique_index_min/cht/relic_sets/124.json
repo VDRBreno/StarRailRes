@@ -1,0 +1,1 @@
+{"id":"124","name":"哀歌覆國的詩人","desc":["量子屬性傷害提高10%。","使裝備者的速度降低8%。進入戰鬥前，若裝備者的速度小於110/95，使裝備者的暴擊率提高20%/32%。該效果同時對裝備者的憶靈生效。"],"properties":[[{"type":"QuantumAddedRatio","value":0.1}],[{"type":"SpeedAddedRatio","value":-0.08}]],"icon":"icon/relic/124.png","guide_overview":[]}

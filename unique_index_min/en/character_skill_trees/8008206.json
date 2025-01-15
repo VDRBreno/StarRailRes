@@ -1,0 +1,1 @@
+{"id":"8008206","name":"HP Boost","max_level":1,"desc":"","params":[],"anchor":"Point14","pre_points":["8008102"],"level_up_skills":[],"levels":[{"promotion":5,"level":0,"properties":[{"type":"HPAddedRatio","value":0.06}],"materials":[{"id":"2","num":36000},{"id":"110253","num":2},{"id":"111013","num":2}]}],"icon":"icon/property/IconMaxHP.png"}

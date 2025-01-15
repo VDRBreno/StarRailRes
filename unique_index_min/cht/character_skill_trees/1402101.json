@@ -1,0 +1,1 @@
+{"id":"1402101","name":"短視之懲","max_level":1,"desc":"處於【至高之姿】狀態時，阿格萊雅與衣匠的攻擊力提高，提高數值等同於阿格萊雅速度的#1[i]%+衣匠速度的#2[i]%。","params":[[7.2,3.6]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110251","num":3},{"id":"110506","num":1}]}],"icon":"icon/skill/1402_skilltree1.png"}

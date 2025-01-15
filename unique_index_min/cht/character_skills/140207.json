@@ -1,0 +1,1 @@
+{"id":"140207","name":"披星百裂","max_level":1,"element":"Thunder","type":"Maze","type_text":"秘技","effect":"MazeAttack","effect_text":"","simple_desc":"召喚憶靈衣匠並一同向前發起攻擊，進入戰鬥後，恢復能量並對敵方全體造成少量雷屬性傷害，隨後使敵方隨機目標陷入【間隙織線】狀態。","desc":"召喚憶靈衣匠並一同向前發起攻擊，進入戰鬥後，恢復#2[i]點能量，並對敵方全體目標造成等同於阿格萊雅#1[i]%攻擊力的雷屬性傷害，隨後使敵方隨機目標陷入【間隙織線】狀態。","params":[[1,30]],"icon":"icon/skill/1402_technique.png"}

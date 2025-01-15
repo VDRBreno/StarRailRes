@@ -1,0 +1,1 @@
+{"id":"1402102","name":"織運之竭","max_level":1,"desc":"衣匠消失時，憶靈天賦的速度提高層數最多保留#1[i]層，衣匠再次被召喚時獲得對應層數的速度提高效果。","params":[[1]],"anchor":"Point07","pre_points":[],"level_up_skills":[],"levels":[{"promotion":4,"level":0,"properties":[],"materials":[{"id":"2","num":20000},{"id":"110252","num":5},{"id":"241","num":1},{"id":"110506","num":1}]}],"icon":"icon/skill/1402_skilltree2.png"}

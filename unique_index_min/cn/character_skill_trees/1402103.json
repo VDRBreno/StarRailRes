@@ -1,0 +1,1 @@
+{"id":"1402103","name":"飞驰之阳","max_level":1,"desc":"战斗开始时，若自身能量不足#1[i]%，恢复自身能量至#2[i]%。","params":[[0.5,0.5]],"anchor":"Point08","pre_points":[],"level_up_skills":[],"levels":[{"promotion":6,"level":0,"properties":[],"materials":[{"id":"2","num":160000},{"id":"110253","num":8},{"id":"241","num":1},{"id":"110506","num":1}]}],"icon":"icon/skill/1402_skilltree3.png"}

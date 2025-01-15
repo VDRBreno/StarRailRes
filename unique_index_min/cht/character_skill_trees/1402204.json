@@ -1,0 +1,1 @@
+{"id":"1402204","name":"防禦強化","max_level":1,"desc":"","params":[],"anchor":"Point12","pre_points":["1402101"],"level_up_skills":[],"levels":[{"promotion":3,"level":0,"properties":[{"type":"DefenceAddedRatio","value":0.05}],"materials":[{"id":"2","num":9000},{"id":"110252","num":3},{"id":"115002","num":2}]}],"icon":"icon/property/IconDefence.png"}

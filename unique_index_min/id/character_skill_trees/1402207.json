@@ -1,0 +1,1 @@
+{"id":"1402207","name":"Peningkatan DMG: Lightning","max_level":1,"desc":"","params":[],"anchor":"Point15","pre_points":["1402102"],"level_up_skills":[],"levels":[{"promotion":5,"level":0,"properties":[{"type":"ThunderAddedRatio","value":0.048}],"materials":[{"id":"2","num":45000},{"id":"110253","num":3},{"id":"115003","num":3}]}],"icon":"icon/property/IconThunderAddedRatio.png"}

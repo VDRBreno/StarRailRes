@@ -1,1 +1,1 @@
-{"id":"112","name":"荒地で盗みを働く廃土客","desc":["虚数属性ダメージ+10%。","デバフ状態の敵にダメージを与えた時、装備キャラの会心率+10%。禁錮状態の敵にダメージを与えた時、会心ダメージ+20%。"],"properties":[[{"type":"ImaginaryAddedRatio","value":0.1}],[]],"icon":"icon/relic/112.png","guide_overview":[]}
+{"id":"112","name":"荒地で盗みを働く廃土客","desc":["虚数属性ダメージ+10%。","デバフ状態の敵にダメージを与える時、装備キャラの会心率+10%。禁錮状態の敵にダメージを与える時、会心ダメージ+20%。"],"properties":[[{"type":"ImaginaryAddedRatio","value":0.1}],[]],"icon":"icon/relic/112.png","guide_overview":[]}

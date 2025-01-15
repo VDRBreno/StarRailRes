@@ -1,0 +1,1 @@
+{"id":"8007207","name":"Bônus de Dano CRIT","max_level":1,"desc":"","params":[],"anchor":"Point15","pre_points":["8007102"],"level_up_skills":[],"levels":[{"promotion":5,"level":0,"properties":[{"type":"CriticalDamageBase","value":0.08}],"materials":[{"id":"2","num":36000},{"id":"110253","num":2},{"id":"111013","num":2}]}],"icon":"icon/property/IconCriticalDamage.png"}
