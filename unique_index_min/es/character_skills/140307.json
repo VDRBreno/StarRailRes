@@ -1,0 +1,1 @@
+{"id":"140307","name":"Toca las palmas si estás feliz","max_level":1,"element":"","type":"Maze","type_text":"Técnica","effect":"Enhance","effect_text":"Potenciación","simple_desc":"Obtiene Numinosidad al entrar en combate.","desc":"Al entrar en combate tras usar la técnica, obtiene Numinosidad durante #1[i] turnos.","params":[[3]],"icon":"icon/skill/1403_technique.png"}

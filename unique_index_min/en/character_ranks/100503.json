@@ -1,1 +1,1 @@
-{"id":"100503","name":"Capriccio","rank":3,"desc":"Skill Lv. +2, up to a maximum of Lv. 15.\\nBasic ATK Lv. +1, up to a maximum of Lv. 10.","materials":[{"id":"11005","num":1}],"level_up_skills":[{"id":"100502","num":2},{"id":"100501","num":1}],"icon":"icon/skill/1005_skill.png"}
+{"id":"100503","name":"Capriccio","rank":3,"desc":"Skill Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.","materials":[{"id":"11005","num":1}],"level_up_skills":[{"id":"100502","num":2},{"id":"100501","num":1}],"icon":"icon/skill/1005_skill.png"}

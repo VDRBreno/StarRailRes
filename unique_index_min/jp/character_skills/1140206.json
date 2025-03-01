@@ -1,0 +1,1 @@
+{"id":"1140206","name":"枯れ草の息吹","max_level":10,"element":"","type":"MemospriteTalent","type_text":"精霊天賦","effect":"Enhance","effect_text":"強化","simple_desc":"退場する時、アグライアのEPを回復する。","desc":"「ラフトラ」が退場する時、アグライアのEPを#1[i]回復する。","params":[[20],[20],[20],[20],[20],[20],[20],[20],[20],[20]],"icon":"icon/skill/1402_memosprite_talent.png"}

@@ -1,1 +1,1 @@
-{"type":"AllDamageTypeAddedRatio","name":"เพิ่ม DMG","field":"all_dmg","affix":true,"ratio":false,"percent":true,"order":101,"icon":"icon/property/IconAttack.png"}
+{"type":"AllDamageTypeAddedRatio","name":"","field":"all_dmg","affix":true,"ratio":false,"percent":true,"order":101,"icon":"icon/property/IconAttack.png"}

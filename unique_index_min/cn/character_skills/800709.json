@@ -1,1 +1,1 @@
-{"id":"800709","name":"就决定是你了！","max_level":15,"element":"","type":"BPSkill","type_text":"战技","effect":"Restore","effect_text":"回复","simple_desc":"召唤忆灵迷迷。若迷迷已在场，为迷迷回复生命值，并使迷迷获得充能。","desc":"","params":[],"icon":"icon/skill/8007_skill.png"}
+{"id":"800709","name":"就决定是你了！","max_level":15,"element":"","type":"BPSkill","type_text":"战技","effect":"Restore","effect_text":"回复","simple_desc":"召唤忆灵迷迷。若迷迷已在场，为迷迷回复生命值，并使迷迷获得充能。","desc":"召唤忆灵迷迷。若迷迷已在场，为迷迷回复生命值，并使迷迷获得充能。","params":[],"icon":"icon/skill/8007_skill.png"}

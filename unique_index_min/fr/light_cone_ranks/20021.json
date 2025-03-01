@@ -1,1 +1,1 @@
-{"id":"20021","skill":"Embellissement","desc":"Lorsque le porteur invoque un mnémesprit pour la première fois en combat, récupère #1[i] point de compétence et régénère #2[i] points d'énergie pour cette unité.","params":[[1,12],[1,14],[1,16],[1,18],[1,20]],"properties":[[],[],[],[],[]]}
+{"id":"20021","skill":"Embellissement","desc":"Lorsque le porteur invoque un mnémesprit pour la première fois, il récupère #1[i] point de compétence et régénère #2[i] points d'énergie.","params":[[1,12],[1,14],[1,16],[1,18],[1,20]],"properties":[[],[],[],[],[]]}

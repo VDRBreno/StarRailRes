@@ -1,1 +1,1 @@
-{"id":"130206","name":"攻撃","max_level":1,"element":"Physical","type":"MazeNormal","type_text":"","effect":"MazeAttack","effect_text":"","simple_desc":"","desc":"敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。","params":[],"icon":"icon/skill/1302_basic_atk.png"}
+{"id":"130206","name":"攻撃","max_level":1,"element":"Physical","type":"MazeNormal","type_text":"","effect":"MazeAttack","effect_text":"","simple_desc":"敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。","desc":"敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。","params":[],"icon":"icon/skill/1302_basic_atk.png"}

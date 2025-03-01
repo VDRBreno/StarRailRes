@@ -1,1 +1,1 @@
-{"id":"130506","name":"攻击","max_level":1,"element":"Imaginary","type":"MazeNormal","type_text":"dev_连携","effect":"MazeAttack","effect_text":"","simple_desc":"","desc":"攻击敌人，进入战斗后削弱敌方目标对应属性韧性。","params":[],"icon":"icon/skill/1305_basic_atk.png"}
+{"id":"130506","name":"攻击","max_level":1,"element":"Imaginary","type":"MazeNormal","type_text":"dev_连携","effect":"MazeAttack","effect_text":"","simple_desc":"攻击敌人，进入战斗后削弱敌方目标对应属性韧性。","desc":"攻击敌人，进入战斗后削弱敌方目标对应属性韧性。","params":[],"icon":"icon/skill/1305_basic_atk.png"}

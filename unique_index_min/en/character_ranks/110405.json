@@ -1,1 +1,1 @@
-{"id":"110405","name":"Cold Iron Fist","rank":5,"desc":"Skill Lv. +2, up to a maximum of Lv. 15.\\nBasic ATK Lv. +1, up to a maximum of Lv. 10.","materials":[{"id":"11104","num":1}],"level_up_skills":[{"id":"110402","num":2},{"id":"110401","num":1}],"icon":"icon/skill/1104_ultimate.png"}
+{"id":"110405","name":"Cold Iron Fist","rank":5,"desc":"Skill Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.","materials":[{"id":"11104","num":1}],"level_up_skills":[{"id":"110402","num":2},{"id":"110401","num":1}],"icon":"icon/skill/1104_ultimate.png"}

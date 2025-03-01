@@ -1,1 +1,1 @@
-{"id":"110703","name":"Cold Steel Armor","rank":3,"desc":"Skill Lv. +2, up to a maximum of Lv. 15.\\nBasic ATK Lv. +1, up to a maximum of Lv. 10.","materials":[{"id":"11107","num":1}],"level_up_skills":[{"id":"110702","num":2},{"id":"110701","num":1}],"icon":"icon/skill/1107_skill.png"}
+{"id":"110703","name":"Cold Steel Armor","rank":3,"desc":"Skill Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.","materials":[{"id":"11107","num":1}],"level_up_skills":[{"id":"110702","num":2},{"id":"110701","num":1}],"icon":"icon/skill/1107_skill.png"}

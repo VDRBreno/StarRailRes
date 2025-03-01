@@ -1,0 +1,1 @@
+{"id":"140307","name":"开心你就拍拍手","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Enhance","effect_text":"强化","simple_desc":"进入战斗时获得【神启】。","desc":"使用秘技后，进入战斗时获得【神启】，持续#1[i]回合。","params":[[3]],"icon":"icon/skill/1403_technique.png"}

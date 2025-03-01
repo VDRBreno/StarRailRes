@@ -1,1 +1,1 @@
-{"id":"800809","name":"就決定是你了！","max_level":15,"element":"","type":"BPSkill","type_text":"戰技","effect":"Restore","effect_text":"回復","simple_desc":"召喚憶靈迷迷。若迷迷已在場，為迷迷回復生命值，並使迷迷獲得充能。","desc":"","params":[],"icon":"icon/skill/8008_skill.png"}
+{"id":"800809","name":"就決定是你了！","max_level":15,"element":"","type":"BPSkill","type_text":"戰技","effect":"Restore","effect_text":"回復","simple_desc":"召喚憶靈迷迷。若迷迷已在場，為迷迷回復生命值，並使迷迷獲得充能。","desc":"召喚憶靈迷迷。若迷迷已在場，為迷迷回復生命值，並使迷迷獲得充能。","params":[],"icon":"icon/skill/8008_skill.png"}

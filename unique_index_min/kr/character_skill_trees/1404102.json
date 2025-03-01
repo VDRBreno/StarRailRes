@@ -1,0 +1,1 @@
+{"id":"1404102","name":"30인 참주","max_level":1,"desc":"[피의 원한] 상태에서 마이데이가 제어류 디버프 상태에 면역된다","params":[],"anchor":"Point07","pre_points":[],"level_up_skills":[],"levels":[{"promotion":4,"level":0,"properties":[],"materials":[{"id":"2","num":20000},{"id":"110182","num":5},{"id":"241","num":1},{"id":"110506","num":1}]}],"icon":"icon/skill/1404_skilltree2.png"}

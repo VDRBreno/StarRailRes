@@ -1,1 +1,1 @@
-{"id":"800704","name":"ミューズの{RUBY_B#あら}新{RUBY_E#}たな\\n{RUBY_B#おど}踊{RUBY_E#}り{RUBY_B#て}手{RUBY_E#}","rank":4,"desc":"最大EPが0の味方がスキルを発動する時、ミュリオンはチャージを3%獲得し、その味方が「ミュリオンの応援」による確定ダメージのダメージ倍率がさらに+6%。","materials":[{"id":"18007","num":1}],"level_up_skills":[],"icon":"icon/skill/8007_rank4.png"}
+{"id":"800704","name":"ミューズの{RUBY_B#あら}新{RUBY_E#}たな\n{RUBY_B#おど}踊{RUBY_E#}り{RUBY_B#て}手{RUBY_E#}","rank":4,"desc":"最大EPが0の味方がスキルを発動する時、「ミュリオン」はチャージを3%獲得し、その味方が「ミュリオンの応援」による確定ダメージのダメージ倍率がさらに+6%。","materials":[{"id":"18007","num":1}],"level_up_skills":[],"icon":"icon/skill/8007_rank4.png"}

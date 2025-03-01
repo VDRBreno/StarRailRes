@@ -1,0 +1,1 @@
+{"id":"1140206","name":"枯草之盈","max_level":10,"element":"","type":"MemospriteTalent","type_text":"忆灵天赋","effect":"Enhance","effect_text":"强化","simple_desc":"消失时，使阿格莱雅恢复能量。","desc":"衣匠消失时，使阿格莱雅恢复#1[i]点能量。","params":[[20],[20],[20],[20],[20],[20],[20],[20],[20],[20]],"icon":"icon/skill/1402_memosprite_talent.png"}

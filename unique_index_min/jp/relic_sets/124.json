@@ -1,1 +1,1 @@
-{"id":"124","name":"亡国の悲哀を詠う詩人","desc":["量子属性ダメージ+10%。","装備キャラの速度‑8%。戦闘に入る前、装備キャラの速度が110/95を下回る時、装備キャラの会心率+20%/32%。この効果は装備キャラの記憶の精霊にも有効。"],"properties":[[{"type":"QuantumAddedRatio","value":0.1}],[{"type":"SpeedAddedRatio","value":-0.08}]],"icon":"icon/relic/124.png","guide_overview":[]}
+{"id":"124","name":"亡国の悲哀を詠う詩人","desc":["量子属性ダメージ+10%。","装備キャラの速度-8%。戦闘に入る前、装備キャラの速度が110/95を下回る時、装備キャラの会心率+20%/32%。この効果は装備キャラの記憶の精霊にも有効。"],"properties":[[{"type":"QuantumAddedRatio","value":0.1}],[{"type":"SpeedAddedRatio","value":-0.08}]],"icon":"icon/relic/124.png","guide_overview":[]}

@@ -1,0 +1,1 @@
+{"id":"1404205","name":"暴擊傷害強化","max_level":1,"desc":"","params":[],"anchor":"Point13","pre_points":["1404102"],"level_up_skills":[],"levels":[{"promotion":4,"level":0,"properties":[{"type":"CriticalDamageBase","value":0.08}],"materials":[{"id":"2","num":20000},{"id":"110182","num":5},{"id":"115002","num":4}]}],"icon":"icon/property/IconCriticalDamage.png"}

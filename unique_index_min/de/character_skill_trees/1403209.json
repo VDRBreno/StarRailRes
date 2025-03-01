@@ -1,0 +1,1 @@
+{"id":"1403209","name":"KRIT-Rate-Erhöhung","max_level":1,"desc":"","params":[],"anchor":"Point17","pre_points":["1403208"],"level_up_skills":[],"levels":[{"promotion":0,"level":75,"properties":[{"type":"CriticalChanceBase","value":0.053}],"materials":[{"id":"2","num":160000},{"id":"110233","num":8},{"id":"115003","num":8}]}],"icon":"icon/property/IconCriticalChance.png"}
