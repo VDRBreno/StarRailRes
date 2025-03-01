@@ -19,6 +19,7 @@
             "Calice de la Grande mine",
             "Calice de la Commission de l'artisanat",
             "Calice de l'Hôtel Rêverie du Pays des rêves",
+            "Calice du Bosquet de l'épiphanie, le Bois des murmures",
             "Récompense de mission",
             "Récompense d'affectation",
             "Échange de braises immortelles"
@@ -67,10 +68,7 @@
         "sub_type": "Virtual",
         "rarity": 3,
         "icon": "icon/item/22.png",
-        "come_from": [
-            "Récompense de mission",
-            "Utilisation de puissance du pionnier"
-        ]
+        "come_from": ["Récompense de mission", "Utilisation de puissance du pionnier"]
     },
     "23": {
         "id": "23",
@@ -214,9 +212,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/201.png",
-        "come_from": [
-            "Récompense de niveau"
-        ]
+        "come_from": ["Récompense de niveau"]
     },
     "211": {
         "id": "211",
@@ -229,6 +225,7 @@
             "Calice des Plaines des neiges périphériques",
             "Calice de Passenuage",
             "Calice de la Frontière des rêves",
+            "Calice de Janusopolis, le Sanctuaire de la prophétie",
             "Récompense d'affectation"
         ]
     },
@@ -243,6 +240,7 @@
             "Calice des Plaines des neiges périphériques",
             "Calice de Passenuage",
             "Calice de la Frontière des rêves",
+            "Calice de Janusopolis, le Sanctuaire de la prophétie",
             "Entraînement quotidien",
             "Échange de braises immortelles"
         ]
@@ -258,6 +256,7 @@
             "Calice des Plaines des neiges périphériques",
             "Calice de Passenuage",
             "Calice de la Frontière des rêves",
+            "Calice de Janusopolis, le Sanctuaire de la prophétie",
             "Salle oubliée"
         ]
     },
@@ -272,6 +271,7 @@
             "Calice du Col de Backwater",
             "Calice de la Commission de divination",
             "Calice du Rêve d'enfant",
+            "Calice d'Acrokopis, les Ruines du Conflit",
             "Récompense d'affectation"
         ]
     },
@@ -286,6 +286,7 @@
             "Calice du Col de Backwater",
             "Calice de la Commission de divination",
             "Calice du Rêve d'enfant",
+            "Calice d'Acrokopis, les Ruines du Conflit",
             "Échange de braises immortelles"
         ]
     },
@@ -300,6 +301,7 @@
             "Calice du Col de Backwater",
             "Calice de la Commission de divination",
             "Calice du Rêve d'enfant",
+            "Calice d'Acrokopis, les Ruines du Conflit",
             "Salle oubliée"
         ]
     },
@@ -310,9 +312,7 @@
         "sub_type": "Material",
         "rarity": 2,
         "icon": "icon/item/231.png",
-        "come_from": [
-            "Recycler une relique"
-        ]
+        "come_from": ["Recycler une relique"]
     },
     "232": {
         "id": "232",
@@ -334,9 +334,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/233.png",
-        "come_from": [
-            "Salle oubliée"
-        ]
+        "come_from": ["Salle oubliée"]
     },
     "234": {
         "id": "234",
@@ -354,9 +352,7 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/235.png",
-        "come_from": [
-            "Recycler une relique"
-        ]
+        "come_from": ["Recycler une relique"]
     },
     "236": {
         "id": "236",
@@ -365,9 +361,7 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/236.png",
-        "come_from": [
-            "Honneur des Sans Noms"
-        ]
+        "come_from": ["Honneur des Sans Noms"]
     },
     "237": {
         "id": "237",
@@ -416,9 +410,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/251.png",
-        "come_from": [
-            "Saut hyperespace"
-        ]
+        "come_from": ["Saut hyperespace"]
     },
     "252": {
         "id": "252",
@@ -427,9 +419,7 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/252.png",
-        "come_from": [
-            "Saut hyperespace"
-        ]
+        "come_from": ["Saut hyperespace"]
     },
     "261": {
         "id": "261",
@@ -452,11 +442,7 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/262.png",
-        "come_from": [
-            "Salle oubliée",
-            "Pure fiction",
-            "Fantômes de l'apocalypse"
-        ]
+        "come_from": ["Salle oubliée", "Pure fiction", "Fantômes de l'apocalypse"]
     },
     "271": {
         "id": "271",
@@ -474,9 +460,7 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/503.png",
-        "come_from": [
-            "Récompenses de points de l'Univers simulé"
-        ]
+        "come_from": ["Récompenses de points de l'Univers simulé"]
     },
     "800": {
         "id": "800",
@@ -1057,6 +1041,24 @@
         "icon": "icon/item/11003.png",
         "come_from": []
     },
+    "11403": {
+        "id": "11403",
+        "name": "Eidolon de Tribbie",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11404": {
+        "id": "11404",
+        "name": "Eidolon de Mydei",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
     "18001": {
         "id": "18001",
         "name": "Ombre de la Destruction",
@@ -1087,10 +1089,7 @@
         "sub_type": "Eidolon",
         "rarity": 5,
         "icon": "icon/item/18003.png",
-        "come_from": [
-            "Récompenses de mission pionnière",
-            "Pagode du bijoutier"
-        ]
+        "come_from": ["Récompenses de mission pionnière", "Pagode du bijoutier"]
     },
     "18004": {
         "id": "18004",
@@ -2971,6 +2970,81 @@
         "sub_type": "RelicSetShowOnly",
         "rarity": 5,
         "icon": "icon/item/71037.png",
+        "come_from": ["Synthèse de relique de l'Omni-synthétiseur"]
+    },
+    "83191": {
+        "id": "83191",
+        "name": "Tranquille demeure des os",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71042.png",
+        "come_from": []
+    },
+    "83192": {
+        "id": "83192",
+        "name": "Tranquille demeure des os",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71042.png",
+        "come_from": []
+    },
+    "83193": {
+        "id": "83193",
+        "name": "Tranquille demeure des os",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71042.png",
+        "come_from": []
+    },
+    "83194": {
+        "id": "83194",
+        "name": "Tranquille demeure des os",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71042.png",
+        "come_from": [
+            "Extraction d'ornement planaire de l'Univers parallèle",
+            "Synthèse de relique de l'Omni-synthétiseur"
+        ]
+    },
+    "83201": {
+        "id": "83201",
+        "name": "Arbre géant des réflexions profondes",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71043.png",
+        "come_from": []
+    },
+    "83202": {
+        "id": "83202",
+        "name": "Arbre géant des réflexions profondes",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71043.png",
+        "come_from": []
+    },
+    "83203": {
+        "id": "83203",
+        "name": "Arbre géant des réflexions profondes",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71043.png",
+        "come_from": []
+    },
+    "83204": {
+        "id": "83204",
+        "name": "Arbre géant des réflexions profondes",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71043.png",
         "come_from": [
             "Extraction d'ornement planaire de l'Univers parallèle",
             "Synthèse de relique de l'Omni-synthétiseur"
@@ -3028,9 +3102,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/110101.png",
-        "come_from": [
-            "Honneur des Sans Noms"
-        ]
+        "come_from": ["Honneur des Sans Noms"]
     },
     "110111": {
         "id": "110111",
@@ -3639,10 +3711,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/110400.png",
-        "come_from": [
-            "Récompense de mission",
-            "Récompense de niveau"
-        ]
+        "come_from": ["Récompense de mission", "Récompense de niveau"]
     },
     "110401": {
         "id": "110401",
@@ -3896,6 +3965,30 @@
             "Échange de matériaux de l'Omni-synthétiseur"
         ]
     },
+    "110436": {
+        "id": "110436",
+        "name": "Lumière de lune voilée",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/110436.png",
+        "come_from": [
+            "Ombre stagnante du Bosquet de l'épiphanie, le Bois des murmures",
+            "Échange de matériaux de l'Omni-synthétiseur"
+        ]
+    },
+    "110437": {
+        "id": "110437",
+        "name": "Présage du Conflit",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/110437.png",
+        "come_from": [
+            "Ombre stagnante de Janusopolis, l'Abîme du Destin",
+            "Échange de matériaux de l'Omni-synthétiseur"
+        ]
+    },
     "110501": {
         "id": "110501",
         "name": "Route finale du destructeur",
@@ -3903,9 +3996,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/110501.png",
-        "come_from": [
-            "Écho de la guerre de la Zone de ravitaillement"
-        ]
+        "come_from": ["Écho de la guerre de la Zone de ravitaillement"]
     },
     "110502": {
         "id": "110502",
@@ -3914,9 +4005,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/110502.png",
-        "come_from": [
-            "Écho de la guerre de la Colline de l'Hiver éternel"
-        ]
+        "come_from": ["Écho de la guerre de la Colline de l'Hiver éternel"]
     },
     "110503": {
         "id": "110503",
@@ -3925,9 +4014,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/110503.png",
-        "come_from": [
-            "Écho de la guerre du Royaume de l'abysse écailleux"
-        ]
+        "come_from": ["Écho de la guerre du Royaume de l'abysse écailleux"]
     },
     "110504": {
         "id": "110504",
@@ -3936,9 +4023,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/110504.png",
-        "come_from": [
-            "Écho de la guerre de la Zone d'isolement"
-        ]
+        "come_from": ["Écho de la guerre de la Zone d'isolement"]
     },
     "110505": {
         "id": "110505",
@@ -3947,9 +4032,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/110505.png",
-        "come_from": [
-            "Écho de la guerre du Grand théâtre de Penacony"
-        ]
+        "come_from": ["Écho de la guerre du Grand théâtre de Penacony"]
     },
     "110506": {
         "id": "110506",
@@ -3958,9 +4041,16 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/110506.png",
-        "come_from": [
-            "Écho de la guerre du Fendeur des cieux"
-        ]
+        "come_from": ["Écho de la guerre du Fendeur des cieux"]
+    },
+    "111000": {
+        "id": "111000",
+        "name": "Larmes des âmes",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/111000.png",
+        "come_from": ["Ennemis de l'Univers parallèle", "Ennemis de l'Univers simulé"]
     },
     "111001": {
         "id": "111001",
@@ -4350,11 +4440,13 @@
         "icon": "icon/item/115001.png",
         "come_from": [
             "Créature titanique",
+            "Bêtes crépusculaires",
             "Ennemis de l'Univers parallèle",
             "Ennemis de l'Univers simulé",
             "Récompenses d'affectation",
             "Braises immortelles",
-            "Échange de matériaux de l'Omni-synthétiseur"
+            "Échange de matériaux de l'Omni-synthétiseur",
+            "Calice doré"
         ]
     },
     "115002": {
@@ -4366,6 +4458,7 @@
         "icon": "icon/item/115002.png",
         "come_from": [
             "Créature titanique au niveau d'équilibre 2 ou supérieur",
+            "Bête crépusculaire au niveau d'équilibre 2 ou supérieur",
             "Synthèse de matériaux de l'Omni-synthétiseur",
             "Ennemis de l'Univers parallèle",
             "Ennemis de l'Univers simulé",
@@ -4381,6 +4474,54 @@
         "icon": "icon/item/115003.png",
         "come_from": [
             "Créature titanique au niveau d'équilibre 4 ou supérieur",
+            "Bête crépusculaire au niveau d'équilibre 4 ou supérieur",
+            "Synthèse de matériaux de l'Omni-synthétiseur",
+            "Ennemis de l'Univers parallèle",
+            "Ennemis de l'Univers simulé",
+            "Échange de matériaux de l'Omni-synthétiseur"
+        ]
+    },
+    "115011": {
+        "id": "115011",
+        "name": "Présage éthéré",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 2,
+        "icon": "icon/item/115011.png",
+        "come_from": [
+            "Créatures de la Marée noire",
+            "Ennemis de l'Univers parallèle",
+            "Ennemis de l'Univers simulé",
+            "Récompenses d'affectation",
+            "Échange de braises",
+            "Échange de matériaux de l'Omni-synthétiseur",
+            "Calice doré"
+        ]
+    },
+    "115012": {
+        "id": "115012",
+        "name": "Gémissement retentissant",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/115012.png",
+        "come_from": [
+            "Créatures de la Marée noire au niveau d'équilibre 2 ou supérieur",
+            "Synthèse de matériaux de l'Omni-synthétiseur",
+            "Ennemis de l'Univers parallèle",
+            "Ennemis de l'Univers simulé",
+            "Échange de matériaux de l'Omni-synthétiseur"
+        ]
+    },
+    "115013": {
+        "id": "115013",
+        "name": "Lamentation éternelle",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/115013.png",
+        "come_from": [
+            "Créature de la Marée noire au niveau d'équilibre 4 ou supérieur",
             "Synthèse de matériaux de l'Omni-synthétiseur",
             "Ennemis de l'Univers parallèle",
             "Ennemis de l'Univers simulé",
@@ -4394,10 +4535,7 @@
         "sub_type": "Material",
         "rarity": 3,
         "icon": "icon/item/120000.png",
-        "come_from": [
-            "Exploration de la Station spatiale Herta",
-            "Missions d'aventure"
-        ]
+        "come_from": ["Exploration de la Station spatiale Herta", "Missions d'aventure"]
     },
     "120001": {
         "id": "120001",
@@ -4406,10 +4544,7 @@
         "sub_type": "Material",
         "rarity": 3,
         "icon": "icon/item/120001.png",
-        "come_from": [
-            "Exploration de Jarilo-VI",
-            "Missions d'aventure"
-        ]
+        "come_from": ["Exploration de Jarilo-VI", "Missions d'aventure"]
     },
     "120002": {
         "id": "120002",
@@ -4418,10 +4553,7 @@
         "sub_type": "Material",
         "rarity": 3,
         "icon": "icon/item/120002.png",
-        "come_from": [
-            "Exploration du Luofu de Xianzhou",
-            "Missions d'aventure"
-        ]
+        "come_from": ["Exploration du Luofu de Xianzhou", "Missions d'aventure"]
     },
     "120003": {
         "id": "120003",
@@ -4492,10 +4624,7 @@
         "sub_type": "Material",
         "rarity": 3,
         "icon": "icon/item/122000.png",
-        "come_from": [
-            "Boutique de jetons Aideen",
-            "Exploration de Penacony"
-        ]
+        "come_from": ["Boutique de jetons Aideen", "Exploration de Penacony"]
     },
     "140000": {
         "id": "140000",
@@ -4513,9 +4642,7 @@
         "sub_type": "Mission",
         "rarity": 3,
         "icon": "icon/item/140004.png",
-        "come_from": [
-            "Trouvé dans les objets destructibles sur Jarilo-VI"
-        ]
+        "come_from": ["Trouvé dans les objets destructibles sur Jarilo-VI"]
     },
     "140017": {
         "id": "140017",
@@ -8398,7 +8525,7 @@
     },
     "140519": {
         "id": "140519",
-        "name": "Fragment mémoriel du poète",
+        "name": "Éclat mémoriel du poète",
         "type": "Mission",
         "sub_type": "Mission",
         "rarity": 3,
@@ -8407,7 +8534,7 @@
     },
     "140520": {
         "id": "140520",
-        "name": "Fragment mémoriel de Chartonus",
+        "name": "Éclat mémoriel de Chartonus",
         "type": "Mission",
         "sub_type": "Mission",
         "rarity": 3,
@@ -8416,7 +8543,7 @@
     },
     "140521": {
         "id": "140521",
-        "name": "Fragment mémoriel de Damionis",
+        "name": "Éclat mémoriel de Damionis",
         "type": "Mission",
         "sub_type": "Mission",
         "rarity": 3,
@@ -8511,9 +8638,25 @@
         "sub_type": "Mission",
         "rarity": 3,
         "icon": "icon/item/140531.png",
-        "come_from": [
-            "Exploration d'Amphoreus"
-        ]
+        "come_from": ["Exploration d'Amphoreus"]
+    },
+    "140532": {
+        "id": "140532",
+        "name": "Fleur du serment doré",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140532.png",
+        "come_from": []
+    },
+    "140533": {
+        "id": "140533",
+        "name": "Fleur du serment doré en feu",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140533.png",
+        "come_from": []
     },
     "140534": {
         "id": "140534",
@@ -8720,6 +8863,105 @@
         "sub_type": "Mission",
         "rarity": 3,
         "icon": "icon/item/140556.png",
+        "come_from": []
+    },
+    "140559": {
+        "id": "140559",
+        "name": "Permis de travail de Nicomaque",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/190020.png",
+        "come_from": []
+    },
+    "140560": {
+        "id": "140560",
+        "name": "Permis de travail d'Andreas",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/190020.png",
+        "come_from": []
+    },
+    "140561": {
+        "id": "140561",
+        "name": "Permis de travail de Clio",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/190020.png",
+        "come_from": []
+    },
+    "140562": {
+        "id": "140562",
+        "name": "Récolte expérimentale de Clio",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/180009.png",
+        "come_from": []
+    },
+    "140563": {
+        "id": "140563",
+        "name": "Notes de Nicomaque",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "140564": {
+        "id": "140564",
+        "name": "Conducteur de médecine rituelle d'Andreas",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/402008.png",
+        "come_from": []
+    },
+    "140565": {
+        "id": "140565",
+        "name": "Épée d'Artakama",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140534.png",
+        "come_from": []
+    },
+    "140566": {
+        "id": "140566",
+        "name": "Rosée de sang divin",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140567.png",
+        "come_from": []
+    },
+    "140567": {
+        "id": "140567",
+        "name": "Tisseur de trame",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140566.png",
+        "come_from": []
+    },
+    "140568": {
+        "id": "140568",
+        "name": "Médaille des Champions du travail",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140568.png",
+        "come_from": []
+    },
+    "140569": {
+        "id": "140569",
+        "name": "Flamme divine du Temps",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140569.png",
         "come_from": []
     },
     "149957": {
@@ -9523,6 +9765,60 @@
         "icon": "icon/item/140117.png",
         "come_from": []
     },
+    "150063": {
+        "id": "150063",
+        "name": "Tablette prophétique du Sanctuaire sacré (I)",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/150063.png",
+        "come_from": []
+    },
+    "150064": {
+        "id": "150064",
+        "name": "Tablette prophétique du Sanctuaire sacré (II)",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/150064.png",
+        "come_from": []
+    },
+    "150065": {
+        "id": "150065",
+        "name": "Tablette prophétique du Bois des murmures (I)",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/150065.png",
+        "come_from": []
+    },
+    "150066": {
+        "id": "150066",
+        "name": "Tablette prophétique du Bois des murmures (II)",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/150066.png",
+        "come_from": []
+    },
+    "150067": {
+        "id": "150067",
+        "name": "Prophéties tissées d'or du Sanctuaire de la prophétie",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "150068": {
+        "id": "150068",
+        "name": "Prophéties tissées d'or du Bois du murmure",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
     "180001": {
         "id": "180001",
         "name": "Eau solide",
@@ -9608,11 +9904,7 @@
         "sub_type": "Material",
         "rarity": 1,
         "icon": "icon/item/180008.png",
-        "come_from": [
-            "Récompenses d'affectation",
-            "Bric-à-brac",
-            "Calice doré"
-        ]
+        "come_from": ["Récompenses d'affectation", "Bric-à-brac", "Calice doré"]
     },
     "180009": {
         "id": "180009",
@@ -9621,11 +9913,7 @@
         "sub_type": "Material",
         "rarity": 1,
         "icon": "icon/item/180009.png",
-        "come_from": [
-            "Récompenses d'affectation",
-            "Hall de la longévité",
-            "Calice doré"
-        ]
+        "come_from": ["Récompenses d'affectation", "Hall de la longévité", "Calice doré"]
     },
     "180010": {
         "id": "180010",
@@ -9679,7 +9967,8 @@
         "come_from": [
             "Hoplite de la fureur divine ou autre ennemi d'« Acrokopis, les Ruines du Conflit »",
             "Objets destructibles à Amphoreus",
-            "Récompense d'affectation"
+            "Récompense d'affectation",
+            "Calice doré"
         ]
     },
     "181001": {
@@ -9819,10 +10108,7 @@
         "sub_type": "Material",
         "rarity": 2,
         "icon": "icon/item/181011.png",
-        "come_from": [
-            "Récompenses d'affectation",
-            "Bric-à-brac"
-        ]
+        "come_from": ["Récompenses d'affectation", "Bric-à-brac"]
     },
     "181012": {
         "id": "181012",
@@ -9831,10 +10117,7 @@
         "sub_type": "Material",
         "rarity": 2,
         "icon": "icon/item/181012.png",
-        "come_from": [
-            "Récompenses d'affectation",
-            "Hall de la longévité"
-        ]
+        "come_from": ["Récompenses d'affectation", "Hall de la longévité"]
     },
     "181013": {
         "id": "181013",
@@ -9843,10 +10126,7 @@
         "sub_type": "Material",
         "rarity": 2,
         "icon": "icon/item/181013.png",
-        "come_from": [
-            "Stand pharmaceutique de Lingling",
-            "Calice doré"
-        ]
+        "come_from": ["Stand pharmaceutique de Lingling", "Calice doré"]
     },
     "181014": {
         "id": "181014",
@@ -9909,7 +10189,8 @@
         "icon": "icon/item/181018.png",
         "come_from": [
             "Hoplite de la fureur divine ou autre ennemi d'« Acrokopis, les Ruines du Conflit »",
-            "Objets destructibles à Amphoreus"
+            "Objets destructibles à Amphoreus",
+            "Calice doré"
         ]
     },
     "182001": {
@@ -9919,9 +10200,7 @@
         "sub_type": "Material",
         "rarity": 3,
         "icon": "icon/item/182001.png",
-        "come_from": [
-            "Reaver des Rangers du néant ou autre ennemi de la Zone de stockage"
-        ]
+        "come_from": ["Reaver des Rangers du néant ou autre ennemi de la Zone de stockage"]
     },
     "182002": {
         "id": "182002",
@@ -9930,9 +10209,7 @@
         "sub_type": "Material",
         "rarity": 3,
         "icon": "icon/item/182002.png",
-        "come_from": [
-            "Soldat frappé par le mara ou autre ennemi de Passenuage"
-        ]
+        "come_from": ["Soldat frappé par le mara ou autre ennemi de Passenuage"]
     },
     "182003": {
         "id": "182003",
@@ -9941,9 +10218,7 @@
         "sub_type": "Material",
         "rarity": 3,
         "icon": "icon/item/182003.png",
-        "come_from": [
-            "Étal d'épicerie"
-        ]
+        "come_from": ["Étal d'épicerie"]
     },
     "182004": {
         "id": "182004",
@@ -9963,9 +10238,7 @@
         "sub_type": "Material",
         "rarity": 3,
         "icon": "icon/item/182005.png",
-        "come_from": [
-            "Tisseuse imaginaire ou autre ennemi de la Ville de Rivet"
-        ]
+        "come_from": ["Tisseuse imaginaire ou autre ennemi de la Ville de Rivet"]
     },
     "182006": {
         "id": "182006",
@@ -9974,9 +10247,7 @@
         "sub_type": "Material",
         "rarity": 3,
         "icon": "icon/item/182006.png",
-        "come_from": [
-            "Automate ou autre ennemi de la Colonie de robots"
-        ]
+        "come_from": ["Automate ou autre ennemi de la Colonie de robots"]
     },
     "182007": {
         "id": "182007",
@@ -9985,9 +10256,7 @@
         "sub_type": "Material",
         "rarity": 3,
         "icon": "icon/item/182007.png",
-        "come_from": [
-            "Dracolion obéissant ou autre ennemi du Port Mirétoiles"
-        ]
+        "come_from": ["Dracolion obéissant ou autre ennemi du Port Mirétoiles"]
     },
     "182008": {
         "id": "182008",
@@ -9996,9 +10265,7 @@
         "sub_type": "Material",
         "rarity": 3,
         "icon": "icon/item/182008.png",
-        "come_from": [
-            "Stand pharmaceutique de Lingling"
-        ]
+        "come_from": ["Stand pharmaceutique de Lingling"]
     },
     "182009": {
         "id": "182009",
@@ -10041,9 +10308,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/183001.png",
-        "come_from": [
-            "Soldat frappé par le mara ou autre ennemi de Passenuage"
-        ]
+        "come_from": ["Soldat frappé par le mara ou autre ennemi de Passenuage"]
     },
     "183002": {
         "id": "183002",
@@ -10052,9 +10317,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/183002.png",
-        "come_from": [
-            "Automate ou autre ennemi de la Colonie de robots"
-        ]
+        "come_from": ["Automate ou autre ennemi de la Colonie de robots"]
     },
     "183003": {
         "id": "183003",
@@ -10074,9 +10337,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/183004.png",
-        "come_from": [
-            "Tisseuse imaginaire ou autre ennemi de la Ville de Rivet"
-        ]
+        "come_from": ["Tisseuse imaginaire ou autre ennemi de la Ville de Rivet"]
     },
     "183005": {
         "id": "183005",
@@ -15721,7 +15982,7 @@
     },
     "190735": {
         "id": "190735",
-        "name": "Guide de la cuisine des fêtes I",
+        "name": "Guide de la cuisine des fêtes (I)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -15730,7 +15991,7 @@
     },
     "190736": {
         "id": "190736",
-        "name": "Guide de la cuisine des fêtes II",
+        "name": "Guide de la cuisine des fêtes (II)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -16081,7 +16342,7 @@
     },
     "190776": {
         "id": "190776",
-        "name": "Registre de remarques inappropriées des gardes de la sainte Demoiselle",
+        "name": "Registre de remarques inappropriées des gardes de la Demoiselle",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -16153,7 +16414,7 @@
     },
     "190784": {
         "id": "190784",
-        "name": "Écho divin : Temps",
+        "name": "Écho divin du Temps",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -16162,7 +16423,7 @@
     },
     "190785": {
         "id": "190785",
-        "name": "Écho divin : Conflit",
+        "name": "Écho divin du Conflit",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -16171,7 +16432,7 @@
     },
     "190786": {
         "id": "190786",
-        "name": "Écho divin : Océans",
+        "name": "Écho divin des Océans",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -16230,6 +16491,375 @@
         "sub_type": "Book",
         "rarity": 1,
         "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190793": {
+        "id": "190793",
+        "name": "Journal de travail de chimère",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190794": {
+        "id": "190794",
+        "name": "Lettre de Gorgo, la mère de Mydei",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190795": {
+        "id": "190795",
+        "name": "Guide de fitness pour les débutants en helcolithisme",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190020.png",
+        "come_from": []
+    },
+    "190796": {
+        "id": "190796",
+        "name": "La dualité de Cercès",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190018.png",
+        "come_from": []
+    },
+    "190797": {
+        "id": "190797",
+        "name": "Au-delà du voile",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190798": {
+        "id": "190798",
+        "name": "Épitaphe du monarque",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190020.png",
+        "come_from": []
+    },
+    "190799": {
+        "id": "190799",
+        "name": "Notes de métamorphe",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190800": {
+        "id": "190800",
+        "name": "Manuel de travail des chimères (3e édition)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190801": {
+        "id": "190801",
+        "name": "La légende du responsable de chimères",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190020.png",
+        "come_from": []
+    },
+    "190802": {
+        "id": "190802",
+        "name": "Registre de confessions",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190018.png",
+        "come_from": []
+    },
+    "190803": {
+        "id": "190803",
+        "name": "Methode secrète de préparation du safran",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190018.png",
+        "come_from": []
+    },
+    "190804": {
+        "id": "190804",
+        "name": "Lettre familiale non envoyée",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190805": {
+        "id": "190805",
+        "name": "Décret des Sept sages",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190806": {
+        "id": "190806",
+        "name": "Brochure de recrutement de l'École nœudiste",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190020.png",
+        "come_from": []
+    },
+    "190807": {
+        "id": "190807",
+        "name": "Fondements de la théorie de la conscience de l'Érythrocéramisme",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190018.png",
+        "come_from": []
+    },
+    "190808": {
+        "id": "190808",
+        "name": "Lettre secrète de Mortis",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190809": {
+        "id": "190809",
+        "name": "Recueil de contes larmoyants",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190810": {
+        "id": "190810",
+        "name": "Calendrier des destriers divins en lambeaux",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190811": {
+        "id": "190811",
+        "name": "Registres du temple : Extrapolation du labyrinthe",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190018.png",
+        "come_from": []
+    },
+    "190812": {
+        "id": "190812",
+        "name": "Conclusions du Labyrinthe (I)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190813": {
+        "id": "190813",
+        "name": "Conclusions du Labyrinthe (II)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190814": {
+        "id": "190814",
+        "name": "Conclusions du Labyrinthe (III)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190815": {
+        "id": "190815",
+        "name": "Conclusions du Labyrinthe (IV)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190816": {
+        "id": "190816",
+        "name": "Conclusions du Labyrinthe (V)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190817": {
+        "id": "190817",
+        "name": "Conclusions du Labyrinthe (VI)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190818": {
+        "id": "190818",
+        "name": "Conclusions du Labyrinthe (VII)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190819": {
+        "id": "190819",
+        "name": "Conclusions du Labyrinthe (VIII)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190820": {
+        "id": "190820",
+        "name": "Conclusions du Labyrinthe (IX)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190821": {
+        "id": "190821",
+        "name": "Conclusions du Labyrinthe (X)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190822": {
+        "id": "190822",
+        "name": "Conclusions du Labyrinthe (XI)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190823": {
+        "id": "190823",
+        "name": "Conclusions du Labyrinthe (XII)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190824": {
+        "id": "190824",
+        "name": "À propos la vérité des prophéties",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190020.png",
+        "come_from": []
+    },
+    "190825": {
+        "id": "190825",
+        "name": "Rapport du Bosquet non livré",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190018.png",
+        "come_from": []
+    },
+    "190826": {
+        "id": "190826",
+        "name": "Guide sur la flore du Bosquet",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190020.png",
+        "come_from": []
+    },
+    "190827": {
+        "id": "190827",
+        "name": "Notes d'un érudit de l'École érythrocéramiste (Extrait)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190018.png",
+        "come_from": []
+    },
+    "190828": {
+        "id": "190828",
+        "name": "Des caractéristiques régionales des rituels (Extrait)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190020.png",
+        "come_from": []
+    },
+    "190829": {
+        "id": "190829",
+        "name": "Chant de la Saison du Destin",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190020.png",
+        "come_from": []
+    },
+    "190830": {
+        "id": "190830",
+        "name": "Écho divin : Passage",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190019.png",
+        "come_from": []
+    },
+    "190831": {
+        "id": "190831",
+        "name": "Écho divin : Raison",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190019.png",
+        "come_from": []
+    },
+    "190832": {
+        "id": "190832",
+        "name": "Écho divin : Romance",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190019.png",
+        "come_from": []
+    },
+    "190833": {
+        "id": "190833",
+        "name": "Registre d'exploration d'Amphoreus (II)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190020.png",
         "come_from": []
     },
     "190901": {
@@ -16306,7 +16936,7 @@
     },
     "191002": {
         "id": "191002",
-        "name": "Le Pionnier - Akivili",
+        "name": "Akivili le Pionnier",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -17861,6 +18491,51 @@
         "icon": "icon/item/210001.png",
         "come_from": []
     },
+    "210388": {
+        "id": "210388",
+        "name": "Strumming Time",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210389": {
+        "id": "210389",
+        "name": "Shattered Mortal Realms",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210390": {
+        "id": "210390",
+        "name": "Scattered Manuscripts",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210391": {
+        "id": "210391",
+        "name": "Dusk of Rationality",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210392": {
+        "id": "210392",
+        "name": "A Hunt for the Divine",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
     "220000": {
         "id": "220000",
         "name": "L'art du langage",
@@ -17868,9 +18543,7 @@
         "sub_type": "ChatBubble",
         "rarity": 4,
         "icon": "icon/item/220000.png",
-        "come_from": [
-            "Récompenses par défaut"
-        ]
+        "come_from": ["Récompenses par défaut"]
     },
     "220001": {
         "id": "220001",
@@ -17879,9 +18552,7 @@
         "sub_type": "ChatBubble",
         "rarity": 4,
         "icon": "icon/item/220001.png",
-        "come_from": [
-            "Obtenu au cours de l'événement Chasse aux trésors souterraine"
-        ]
+        "come_from": ["Obtenu au cours de l'événement Chasse aux trésors souterraine"]
     },
     "220002": {
         "id": "220002",
@@ -17890,9 +18561,7 @@
         "sub_type": "ChatBubble",
         "rarity": 4,
         "icon": "icon/item/220002.png",
-        "come_from": [
-            "Obtenu dans les Guerres de l'étherium"
-        ]
+        "come_from": ["Obtenu dans les Guerres de l'étherium"]
     },
     "220003": {
         "id": "220003",
@@ -17901,9 +18570,7 @@
         "sub_type": "ChatBubble",
         "rarity": 4,
         "icon": "icon/item/220003.png",
-        "come_from": [
-            "Obtenu lors de l'événement « Chasse aux créatures insolites »"
-        ]
+        "come_from": ["Obtenu lors de l'événement « Chasse aux créatures insolites »"]
     },
     "220004": {
         "id": "220004",
@@ -17912,9 +18579,7 @@
         "sub_type": "ChatBubble",
         "rarity": 4,
         "icon": "icon/item/220004.png",
-        "come_from": [
-            "Obtenu grâce à Histoires à boire"
-        ]
+        "come_from": ["Obtenu grâce à Histoires à boire"]
     },
     "220005": {
         "id": "220005",
@@ -17949,6 +18614,15 @@
             "Fenêtre de discussion obtenue lors de l'événement « Technique de la chasse au son »"
         ]
     },
+    "220008": {
+        "id": "220008",
+        "name": "Opération Chimère",
+        "type": "Usable",
+        "sub_type": "ChatBubble",
+        "rarity": 4,
+        "icon": "icon/item/220008.png",
+        "come_from": ["Fenêtre de discussion obtenue lors de l'événement « L'Agence Agrou »"]
+    },
     "221000": {
         "id": "221000",
         "name": "Voyage des Sans Noms",
@@ -17956,9 +18630,7 @@
         "sub_type": "PhoneTheme",
         "rarity": 4,
         "icon": "icon/item/221000.png",
-        "come_from": [
-            "Récompense par défaut"
-        ]
+        "come_from": ["Récompense par défaut"]
     },
     "221001": {
         "id": "221001",
@@ -17967,9 +18639,7 @@
         "sub_type": "PhoneTheme",
         "rarity": 4,
         "icon": "icon/item/221001.png",
-        "come_from": [
-            "Obtenu au cours de l'événement Ramdam à l'allée des Aurums"
-        ]
+        "come_from": ["Obtenu au cours de l'événement Ramdam à l'allée des Aurums"]
     },
     "221002": {
         "id": "221002",
@@ -17987,9 +18657,7 @@
         "sub_type": "PhoneTheme",
         "rarity": 4,
         "icon": "icon/item/221003.png",
-        "come_from": [
-            "Obtenu au cours de l'événement Contes foxiens de l'étrange"
-        ]
+        "come_from": ["Obtenu au cours de l'événement Contes foxiens de l'étrange"]
     },
     "221004": {
         "id": "221004",
@@ -17998,9 +18666,7 @@
         "sub_type": "PhoneTheme",
         "rarity": 4,
         "icon": "icon/item/221004.png",
-        "come_from": [
-            "Obtenu après avoir amélioré la Statue de Chronou"
-        ]
+        "come_from": ["Obtenu après avoir amélioré la Statue de Chronou"]
     },
     "221005": {
         "id": "221005",
@@ -18009,9 +18675,7 @@
         "sub_type": "PhoneTheme",
         "rarity": 4,
         "icon": "icon/item/221005.png",
-        "come_from": [
-            "Obtenu dans l'événement « Cosmopoly »"
-        ]
+        "come_from": ["Obtenu dans l'événement « Cosmopoly »"]
     },
     "221006": {
         "id": "221006",
@@ -18020,9 +18684,7 @@
         "sub_type": "PhoneTheme",
         "rarity": 4,
         "icon": "icon/item/221006.png",
-        "come_from": [
-            "Fond d'écran du téléphone obtenu dans l'Univers parallèle : La Comédie humaine"
-        ]
+        "come_from": ["Échangeable à la Boutique de Herta"]
     },
     "221007": {
         "id": "221007",
@@ -22334,7 +22996,7 @@
     },
     "250602": {
         "id": "250602",
-        "name": "Herta édition collector",
+        "name": "Herta : Édition collector",
         "type": "Usable",
         "sub_type": "RogueMedal",
         "rarity": 4,
@@ -22357,6 +23019,24 @@
         "sub_type": "RogueMedal",
         "rarity": 4,
         "icon": "icon/item/IconRogueTournCollection_DrRatioPigeon.png",
+        "come_from": []
+    },
+    "250605": {
+        "id": "250605",
+        "name": "Héritage des héros",
+        "type": "Usable",
+        "sub_type": "RogueMedal",
+        "rarity": 4,
+        "icon": "icon/item/IconRogueTournCollection_TournTitanMedal.png",
+        "come_from": []
+    },
+    "250606": {
+        "id": "250606",
+        "name": "Mem (Version adorable)",
+        "type": "Usable",
+        "sub_type": "RogueMedal",
+        "rarity": 4,
+        "icon": "icon/item/IconRogueTournCollection_MimiPigeon.png",
         "come_from": []
     },
     "250700": {
@@ -22474,9 +23154,7 @@
         "sub_type": "NormalPet",
         "rarity": 4,
         "icon": "icon/item/251001.png",
-        "come_from": [
-            "Familier obtenu après l'événement Danse martiale des étoiles"
-        ]
+        "come_from": ["Familier obtenu après l'événement Danse martiale des étoiles"]
     },
     "252000": {
         "id": "252000",
@@ -22494,9 +23172,7 @@
         "sub_type": "PamSkin",
         "rarity": 5,
         "icon": "icon/item/252001.png",
-        "come_from": [
-            "Obtenu lors de l'événement Guide de décoration cosmique"
-        ]
+        "come_from": ["Obtenu lors de l'événement Guide de décoration cosmique"]
     },
     "270000": {
         "id": "270000",
@@ -22549,9 +23225,7 @@
         "sub_type": "Virtual",
         "rarity": 3,
         "icon": "icon/item/281001.png",
-        "come_from": [
-            "Obtenu dans la gestion du chargement dans l'allée des Aurums"
-        ]
+        "come_from": ["Obtenu dans la gestion du chargement dans l'allée des Aurums"]
     },
     "281002": {
         "id": "281002",
@@ -22659,6 +23333,15 @@
         "sub_type": "Virtual",
         "rarity": 3,
         "icon": "icon/item/281019.png",
+        "come_from": []
+    },
+    "281020": {
+        "id": "281020",
+        "name": "Rameau des rites",
+        "type": "Virtual",
+        "sub_type": "Virtual",
+        "rarity": 3,
+        "icon": "icon/item/281020.png",
         "come_from": []
     },
     "281022": {
@@ -22967,6 +23650,15 @@
         "icon": "icon/item/309001.png",
         "come_from": []
     },
+    "309008": {
+        "id": "309008",
+        "name": "Rencontre : L'Agence Agrou",
+        "type": "Usable",
+        "sub_type": "ForceOpitonalGift",
+        "rarity": 4,
+        "icon": "icon/item/309001.png",
+        "come_from": []
+    },
     "310001": {
         "id": "310001",
         "name": "Contrat d'aide aux pionniers de Herta",
@@ -23091,10 +23783,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/400004.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Distributeur automatique"
-        ]
+        "come_from": ["Omni-synthétiseur", "Distributeur automatique"]
     },
     "400005": {
         "id": "400005",
@@ -23103,9 +23792,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/400005.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "400006": {
         "id": "400006",
@@ -23114,10 +23801,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/400006.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Distributeur automatique"
-        ]
+        "come_from": ["Omni-synthétiseur", "Distributeur automatique"]
     },
     "400007": {
         "id": "400007",
@@ -23126,10 +23810,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/400007.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Distributeur automatique"
-        ]
+        "come_from": ["Omni-synthétiseur", "Distributeur automatique"]
     },
     "400008": {
         "id": "400008",
@@ -23138,9 +23819,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/400008.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "400009": {
         "id": "400009",
@@ -23149,10 +23828,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/140544.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Caravane de drakas (marchand ambulant)"
-        ]
+        "come_from": ["Omni-synthétiseur", "Caravane de drakas (marchand ambulant)"]
     },
     "401003": {
         "id": "401003",
@@ -23161,10 +23837,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401003.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Distributeur automatique"
-        ]
+        "come_from": ["Omni-synthétiseur", "Distributeur automatique"]
     },
     "401004": {
         "id": "401004",
@@ -23173,9 +23846,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401004.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "401005": {
         "id": "401005",
@@ -23184,9 +23855,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401005.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "401006": {
         "id": "401006",
@@ -23195,10 +23864,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401006.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Distributeur automatique"
-        ]
+        "come_from": ["Omni-synthétiseur", "Distributeur automatique"]
     },
     "401007": {
         "id": "401007",
@@ -23207,9 +23873,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401007.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "401008": {
         "id": "401008",
@@ -23218,10 +23882,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401008.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Distributeur automatique"
-        ]
+        "come_from": ["Omni-synthétiseur", "Distributeur automatique"]
     },
     "401009": {
         "id": "401009",
@@ -23230,9 +23891,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401009.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "401010": {
         "id": "401010",
@@ -23241,9 +23900,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401010.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "401011": {
         "id": "401011",
@@ -23252,9 +23909,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401011.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "401012": {
         "id": "401012",
@@ -23263,9 +23918,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401012.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "401013": {
         "id": "401013",
@@ -23274,9 +23927,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401013.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "401014": {
         "id": "401014",
@@ -23285,10 +23936,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401014.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Épices suprêmes"
-        ]
+        "come_from": ["Omni-synthétiseur", "Épices suprêmes"]
     },
     "401015": {
         "id": "401015",
@@ -23297,10 +23945,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401015.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Salon de thé de Du"
-        ]
+        "come_from": ["Omni-synthétiseur", "Salon de thé de Du"]
     },
     "401016": {
         "id": "401016",
@@ -23309,9 +23954,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401016.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "401017": {
         "id": "401017",
@@ -23320,9 +23963,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401017.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "401018": {
         "id": "401018",
@@ -23331,9 +23972,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401018.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "401019": {
         "id": "401019",
@@ -23342,9 +23981,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401019.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "401020": {
         "id": "401020",
@@ -23353,9 +23990,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401020.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "401021": {
         "id": "401021",
@@ -23364,10 +23999,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401021.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Chez Chrono"
-        ]
+        "come_from": ["Omni-synthétiseur", "Chez Chrono"]
     },
     "401022": {
         "id": "401022",
@@ -23376,10 +24008,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401022.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Chez Chrono"
-        ]
+        "come_from": ["Omni-synthétiseur", "Chez Chrono"]
     },
     "401023": {
         "id": "401023",
@@ -23388,10 +24017,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401023.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Chez Chrono"
-        ]
+        "come_from": ["Omni-synthétiseur", "Chez Chrono"]
     },
     "401024": {
         "id": "401024",
@@ -23400,10 +24026,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401024.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Chez Chrono"
-        ]
+        "come_from": ["Omni-synthétiseur", "Chez Chrono"]
     },
     "401025": {
         "id": "401025",
@@ -23412,10 +24035,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401025.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Anderson"
-        ]
+        "come_from": ["Omni-synthétiseur", "Anderson"]
     },
     "401026": {
         "id": "401026",
@@ -23424,10 +24044,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401026.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Chariot à popcorn"
-        ]
+        "come_from": ["Omni-synthétiseur", "Chariot à popcorn"]
     },
     "401027": {
         "id": "401027",
@@ -23436,10 +24053,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401027.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Chariot de glaces"
-        ]
+        "come_from": ["Omni-synthétiseur", "Chariot de glaces"]
     },
     "401028": {
         "id": "401028",
@@ -23448,10 +24062,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/140399.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Boutique du Pays des rêves"
-        ]
+        "come_from": ["Omni-synthétiseur", "Boutique du Pays des rêves"]
     },
     "401029": {
         "id": "401029",
@@ -23460,9 +24071,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401029.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "401030": {
         "id": "401030",
@@ -23471,9 +24080,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401030.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "401031": {
         "id": "401031",
@@ -23482,10 +24089,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401031.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Dîner marmoréen"
-        ]
+        "come_from": ["Omni-synthétiseur", "Dîner marmoréen"]
     },
     "401032": {
         "id": "401032",
@@ -23494,10 +24098,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401032.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Dîner marmoréen"
-        ]
+        "come_from": ["Omni-synthétiseur", "Dîner marmoréen"]
     },
     "401033": {
         "id": "401033",
@@ -23506,10 +24107,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401033.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Dîner marmoréen"
-        ]
+        "come_from": ["Omni-synthétiseur", "Dîner marmoréen"]
     },
     "402001": {
         "id": "402001",
@@ -23518,9 +24116,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402001.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "402002": {
         "id": "402002",
@@ -23529,9 +24125,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402002.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "402003": {
         "id": "402003",
@@ -23540,9 +24134,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402003.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "402004": {
         "id": "402004",
@@ -23551,9 +24143,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402004.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "402005": {
         "id": "402005",
@@ -23562,9 +24152,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402005.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "402006": {
         "id": "402006",
@@ -23573,9 +24161,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402006.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "402007": {
         "id": "402007",
@@ -23584,9 +24170,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402007.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "402008": {
         "id": "402008",
@@ -23595,9 +24179,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402008.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "402009": {
         "id": "402009",
@@ -23606,9 +24188,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402009.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "402010": {
         "id": "402010",
@@ -23617,9 +24197,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402010.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "402011": {
         "id": "402011",
@@ -23628,9 +24206,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402011.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "402012": {
         "id": "402012",
@@ -23639,9 +24215,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402012.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "402013": {
         "id": "402013",
@@ -23650,9 +24224,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402013.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "402014": {
         "id": "402014",
@@ -23661,9 +24233,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402014.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "402015": {
         "id": "402015",
@@ -23672,9 +24242,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402015.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "402016": {
         "id": "402016",
@@ -23683,9 +24251,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402016.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "402017": {
         "id": "402017",
@@ -23694,9 +24260,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402017.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "402018": {
         "id": "402018",
@@ -23705,9 +24269,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402018.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "402019": {
         "id": "402019",
@@ -23716,9 +24278,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402019.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "402020": {
         "id": "402020",
@@ -23727,10 +24287,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402020.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Salon de thé de Du"
-        ]
+        "come_from": ["Omni-synthétiseur", "Salon de thé de Du"]
     },
     "402021": {
         "id": "402021",
@@ -23739,10 +24296,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402021.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Hall de la longévité"
-        ]
+        "come_from": ["Omni-synthétiseur", "Hall de la longévité"]
     },
     "402022": {
         "id": "402022",
@@ -23751,10 +24305,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402022.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Hall de la longévité"
-        ]
+        "come_from": ["Omni-synthétiseur", "Hall de la longévité"]
     },
     "402023": {
         "id": "402023",
@@ -23763,9 +24314,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402023.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "402024": {
         "id": "402024",
@@ -23774,9 +24323,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402024.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "402025": {
         "id": "402025",
@@ -23785,10 +24332,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402025.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Chez Chrono"
-        ]
+        "come_from": ["Omni-synthétiseur", "Chez Chrono"]
     },
     "402026": {
         "id": "402026",
@@ -23797,10 +24341,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402026.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Boutique du Pays des rêves"
-        ]
+        "come_from": ["Omni-synthétiseur", "Boutique du Pays des rêves"]
     },
     "402027": {
         "id": "402027",
@@ -23809,10 +24350,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402027.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Boutique du Pays des rêves"
-        ]
+        "come_from": ["Omni-synthétiseur", "Boutique du Pays des rêves"]
     },
     "402028": {
         "id": "402028",
@@ -23821,10 +24359,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/140396.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Boutique du Pays des rêves"
-        ]
+        "come_from": ["Omni-synthétiseur", "Boutique du Pays des rêves"]
     },
     "402029": {
         "id": "402029",
@@ -23833,9 +24368,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402029.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "402030": {
         "id": "402030",
@@ -23844,9 +24377,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402030.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "402031": {
         "id": "402031",
@@ -23855,9 +24386,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402031.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "402032": {
         "id": "402032",
@@ -23866,10 +24395,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402032.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Dîner marmoréen"
-        ]
+        "come_from": ["Omni-synthétiseur", "Dîner marmoréen"]
     },
     "402033": {
         "id": "402033",
@@ -23878,10 +24404,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402033.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Forge de Chartonus"
-        ]
+        "come_from": ["Omni-synthétiseur", "Forge de Chartonus"]
     },
     "403001": {
         "id": "403001",
@@ -23890,9 +24413,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/403001.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "403002": {
         "id": "403002",
@@ -23901,9 +24422,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/403002.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "403003": {
         "id": "403003",
@@ -23912,9 +24431,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/403003.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "403004": {
         "id": "403004",
@@ -23923,9 +24440,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/403004.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "403005": {
         "id": "403005",
@@ -23934,9 +24449,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/403005.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "403006": {
         "id": "403006",
@@ -23945,9 +24458,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/403006.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "403007": {
         "id": "403007",
@@ -23956,10 +24467,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/403007.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Épices suprêmes"
-        ]
+        "come_from": ["Omni-synthétiseur", "Épices suprêmes"]
     },
     "403008": {
         "id": "403008",
@@ -23968,10 +24476,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/403008.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Bric-à-brac"
-        ]
+        "come_from": ["Omni-synthétiseur", "Bric-à-brac"]
     },
     "403009": {
         "id": "403009",
@@ -23980,10 +24485,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/403009.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Boutique du Pays des rêves"
-        ]
+        "come_from": ["Omni-synthétiseur", "Boutique du Pays des rêves"]
     },
     "403010": {
         "id": "403010",
@@ -23992,10 +24494,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/403010.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Boutique du Pays des rêves"
-        ]
+        "come_from": ["Omni-synthétiseur", "Boutique du Pays des rêves"]
     },
     "403011": {
         "id": "403011",
@@ -24004,10 +24503,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/403011.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Kirk"
-        ]
+        "come_from": ["Omni-synthétiseur", "Kirk"]
     },
     "403012": {
         "id": "403012",
@@ -24016,9 +24512,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/403012.png",
-        "come_from": [
-            "Omni-synthétiseur"
-        ]
+        "come_from": ["Omni-synthétiseur"]
     },
     "403013": {
         "id": "403013",
@@ -24027,10 +24521,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/403013.png",
-        "come_from": [
-            "Omni-synthétiseur",
-            "Caravane de drakas (marchand ambulant)"
-        ]
+        "come_from": ["Omni-synthétiseur", "Caravane de drakas (marchand ambulant)"]
     },
     "404004": {
         "id": "404004",
@@ -24786,9 +25277,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/408001.png",
-        "come_from": [
-            "Trouvé dans les objets destructibles sur Jarilo-VI"
-        ]
+        "come_from": ["Trouvé dans les objets destructibles sur Jarilo-VI"]
     },
     "408002": {
         "id": "408002",
@@ -24833,9 +25322,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/408201.png",
-        "come_from": [
-            "Stand de nourriture"
-        ]
+        "come_from": ["Stand de nourriture"]
     },
     "408202": {
         "id": "408202",
@@ -24844,9 +25331,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/408202.png",
-        "come_from": [
-            "Stand de nourriture"
-        ]
+        "come_from": ["Stand de nourriture"]
     },
     "408203": {
         "id": "408203",
@@ -24855,9 +25340,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/408203.png",
-        "come_from": [
-            "Stand de nourriture"
-        ]
+        "come_from": ["Stand de nourriture"]
     },
     "408204": {
         "id": "408204",
@@ -24866,9 +25349,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/408204.png",
-        "come_from": [
-            "Lynx, exploratrice de l'extrême"
-        ]
+        "come_from": ["Lynx, exploratrice de l'extrême"]
     },
     "408205": {
         "id": "408205",
@@ -24877,9 +25358,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/408205.png",
-        "come_from": [
-            "Bric-à-brac"
-        ]
+        "come_from": ["Bric-à-brac"]
     },
     "408206": {
         "id": "408206",
@@ -24888,9 +25367,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/408206.png",
-        "come_from": [
-            "Stand pharmaceutique de Yongren"
-        ]
+        "come_from": ["Stand pharmaceutique de Yongren"]
     },
     "408207": {
         "id": "408207",
@@ -24899,9 +25376,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/408207.png",
-        "come_from": [
-            "Stand pharmaceutique de Yongren"
-        ]
+        "come_from": ["Stand pharmaceutique de Yongren"]
     },
     "408208": {
         "id": "408208",
@@ -24910,9 +25385,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/190013.png",
-        "come_from": [
-            "Chariot de journaux"
-        ]
+        "come_from": ["Chariot de journaux"]
     },
     "408209": {
         "id": "408209",
@@ -24921,9 +25394,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/408209.png",
-        "come_from": [
-            "Boutique officielle Félicitâme™ du Fendeur des cieux"
-        ]
+        "come_from": ["Boutique officielle Félicitâme™ du Fendeur des cieux"]
     },
     "408401": {
         "id": "408401",
@@ -24932,9 +25403,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408401.png",
-        "come_from": [
-            "Stand de nourriture"
-        ]
+        "come_from": ["Stand de nourriture"]
     },
     "408402": {
         "id": "408402",
@@ -24943,9 +25412,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408402.png",
-        "come_from": [
-            "Stand de nourriture"
-        ]
+        "come_from": ["Stand de nourriture"]
     },
     "408403": {
         "id": "408403",
@@ -24954,9 +25421,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408403.png",
-        "come_from": [
-            "Stand de nourriture"
-        ]
+        "come_from": ["Stand de nourriture"]
     },
     "408404": {
         "id": "408404",
@@ -24965,9 +25430,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408404.png",
-        "come_from": [
-            "Stand de nourriture"
-        ]
+        "come_from": ["Stand de nourriture"]
     },
     "408405": {
         "id": "408405",
@@ -24976,9 +25439,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408405.png",
-        "come_from": [
-            "Distributeur automatique"
-        ]
+        "come_from": ["Distributeur automatique"]
     },
     "408406": {
         "id": "408406",
@@ -24987,9 +25448,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408406.png",
-        "come_from": [
-            "Distributeur automatique"
-        ]
+        "come_from": ["Distributeur automatique"]
     },
     "408407": {
         "id": "408407",
@@ -24998,9 +25457,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408407.png",
-        "come_from": [
-            "Stand de nourriture"
-        ]
+        "come_from": ["Stand de nourriture"]
     },
     "408408": {
         "id": "408408",
@@ -25009,9 +25466,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408408.png",
-        "come_from": [
-            "Stand de nourriture"
-        ]
+        "come_from": ["Stand de nourriture"]
     },
     "408409": {
         "id": "408409",
@@ -25020,9 +25475,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408409.png",
-        "come_from": [
-            "Lynx, exploratrice de l'extrême"
-        ]
+        "come_from": ["Lynx, exploratrice de l'extrême"]
     },
     "408410": {
         "id": "408410",
@@ -25031,9 +25484,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408410.png",
-        "come_from": [
-            "Point de récupération des colis expirés"
-        ]
+        "come_from": ["Point de récupération des colis expirés"]
     },
     "408411": {
         "id": "408411",
@@ -25042,9 +25493,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408411.png",
-        "come_from": [
-            "Point de récupération des colis expirés"
-        ]
+        "come_from": ["Point de récupération des colis expirés"]
     },
     "408412": {
         "id": "408412",
@@ -25053,9 +25502,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408412.png",
-        "come_from": [
-            "Point de récupération des colis expirés"
-        ]
+        "come_from": ["Point de récupération des colis expirés"]
     },
     "408413": {
         "id": "408413",
@@ -25064,9 +25511,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408413.png",
-        "come_from": [
-            "Bric-à-brac"
-        ]
+        "come_from": ["Bric-à-brac"]
     },
     "408414": {
         "id": "408414",
@@ -25075,9 +25520,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408414.png",
-        "come_from": [
-            "Hall de la longévité"
-        ]
+        "come_from": ["Hall de la longévité"]
     },
     "408415": {
         "id": "408415",
@@ -25086,9 +25529,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408415.png",
-        "come_from": [
-            "Chariot à popcorn"
-        ]
+        "come_from": ["Chariot à popcorn"]
     },
     "408416": {
         "id": "408416",
@@ -25097,9 +25538,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408416.png",
-        "come_from": [
-            "Boutique du Pays des rêves"
-        ]
+        "come_from": ["Boutique du Pays des rêves"]
     },
     "408417": {
         "id": "408417",
@@ -25108,9 +25547,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408417.png",
-        "come_from": [
-            "Boutique du Pays des rêves"
-        ]
+        "come_from": ["Boutique du Pays des rêves"]
     },
     "408418": {
         "id": "408418",
@@ -25119,9 +25556,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408418.png",
-        "come_from": [
-            "Boutique du Pays des rêves"
-        ]
+        "come_from": ["Boutique du Pays des rêves"]
     },
     "408419": {
         "id": "408419",
@@ -25130,9 +25565,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408419.png",
-        "come_from": [
-            "Casse-croûte de Jessie"
-        ]
+        "come_from": ["Casse-croûte de Jessie"]
     },
     "408420": {
         "id": "408420",
@@ -25141,9 +25574,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408420.png",
-        "come_from": [
-            "Kirk"
-        ]
+        "come_from": ["Kirk"]
     },
     "408421": {
         "id": "408421",
@@ -25152,9 +25583,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408421.png",
-        "come_from": [
-            "Kirk"
-        ]
+        "come_from": ["Kirk"]
     },
     "408422": {
         "id": "408422",
@@ -25163,9 +25592,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408422.png",
-        "come_from": [
-            "Casse-croûte de Jessie"
-        ]
+        "come_from": ["Casse-croûte de Jessie"]
     },
     "408423": {
         "id": "408423",
@@ -25174,9 +25601,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408423.png",
-        "come_from": [
-            "Vendeuse de snacks"
-        ]
+        "come_from": ["Vendeuse de snacks"]
     },
     "408424": {
         "id": "408424",
@@ -25185,9 +25610,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408424.png",
-        "come_from": [
-            "Dahf"
-        ]
+        "come_from": ["Dahf"]
     },
     "408425": {
         "id": "408425",
@@ -25196,9 +25619,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408425.png",
-        "come_from": [
-            "Dahf"
-        ]
+        "come_from": ["Dahf"]
     },
     "408426": {
         "id": "408426",
@@ -25207,9 +25628,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408426.png",
-        "come_from": [
-            "Vendeuse de snacks"
-        ]
+        "come_from": ["Vendeuse de snacks"]
     },
     "408427": {
         "id": "408427",
@@ -25218,9 +25637,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408427.png",
-        "come_from": [
-            "Groupe correctionnel d'Arma"
-        ]
+        "come_from": ["Groupe correctionnel d'Arma"]
     },
     "408428": {
         "id": "408428",
@@ -25229,9 +25646,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408428.png",
-        "come_from": [
-            "Recherches sur les produits chimiques correctionnels d'Arma"
-        ]
+        "come_from": ["Recherches sur les produits chimiques correctionnels d'Arma"]
     },
     "408429": {
         "id": "408429",
@@ -25240,9 +25655,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408429.png",
-        "come_from": [
-            "Plateforme médiatique de Yaoqing Sports"
-        ]
+        "come_from": ["Plateforme médiatique de Yaoqing Sports"]
     },
     "408430": {
         "id": "408430",
@@ -25251,9 +25664,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408430.png",
-        "come_from": [
-            "Plateforme médiatique de Yaoqing Sports"
-        ]
+        "come_from": ["Plateforme médiatique de Yaoqing Sports"]
     },
     "408431": {
         "id": "408431",
@@ -25262,9 +25673,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408431.png",
-        "come_from": [
-            "Plateforme médiatique de Yaoqing Sports"
-        ]
+        "come_from": ["Plateforme médiatique de Yaoqing Sports"]
     },
     "408432": {
         "id": "408432",
@@ -25273,9 +25682,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408432.png",
-        "come_from": [
-            "Chaletka"
-        ]
+        "come_from": ["Chaletka"]
     },
     "408433": {
         "id": "408433",
@@ -25284,9 +25691,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408433.png",
-        "come_from": [
-            "Chaletka"
-        ]
+        "come_from": ["Chaletka"]
     },
     "408434": {
         "id": "408434",
@@ -25295,9 +25700,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408434.png",
-        "come_from": [
-            "Chaletka"
-        ]
+        "come_from": ["Chaletka"]
     },
     "408435": {
         "id": "408435",
@@ -25306,9 +25709,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408435.png",
-        "come_from": [
-            "Richie"
-        ]
+        "come_from": ["Richie"]
     },
     "408436": {
         "id": "408436",
@@ -25317,9 +25718,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408436.png",
-        "come_from": [
-            "Chaletka"
-        ]
+        "come_from": ["Chaletka"]
     },
     "408437": {
         "id": "408437",
@@ -25328,9 +25727,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408437.png",
-        "come_from": [
-            "Forge de Chartonus"
-        ]
+        "come_from": ["Forge de Chartonus"]
     },
     "408438": {
         "id": "408438",
@@ -25339,9 +25736,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408438.png",
-        "come_from": [
-            "Trésor du temps"
-        ]
+        "come_from": ["Trésor du temps"]
     },
     "408439": {
         "id": "408439",
@@ -25350,9 +25745,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408439.png",
-        "come_from": [
-            "Trésor du temps"
-        ]
+        "come_from": ["Trésor du temps"]
     },
     "408440": {
         "id": "408440",
@@ -25361,9 +25754,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408440.png",
-        "come_from": [
-            "Caravane de drakas (marchand ambulant)"
-        ]
+        "come_from": ["Caravane de drakas (marchand ambulant)"]
     },
     "408601": {
         "id": "408601",
@@ -25372,9 +25763,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408601.png",
-        "come_from": [
-            "Stand de nourriture"
-        ]
+        "come_from": ["Stand de nourriture"]
     },
     "408602": {
         "id": "408602",
@@ -25383,9 +25772,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408602.png",
-        "come_from": [
-            "Stand de nourriture"
-        ]
+        "come_from": ["Stand de nourriture"]
     },
     "408603": {
         "id": "408603",
@@ -25394,9 +25781,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408603.png",
-        "come_from": [
-            "Le Comte insomniaque"
-        ]
+        "come_from": ["Le Comte insomniaque"]
     },
     "408604": {
         "id": "408604",
@@ -25405,9 +25790,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408604.png",
-        "come_from": [
-            "Nutri-trésor"
-        ]
+        "come_from": ["Nutri-trésor"]
     },
     "408605": {
         "id": "408605",
@@ -25416,9 +25799,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/140279.png",
-        "come_from": [
-            "Pavillon des délices"
-        ]
+        "come_from": ["Pavillon des délices"]
     },
     "408606": {
         "id": "408606",
@@ -25436,9 +25817,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408607.png",
-        "come_from": [
-            "Point de récupération des colis expirés"
-        ]
+        "come_from": ["Point de récupération des colis expirés"]
     },
     "408608": {
         "id": "408608",
@@ -25447,9 +25826,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408608.png",
-        "come_from": [
-            "Point de récupération des colis expirés"
-        ]
+        "come_from": ["Point de récupération des colis expirés"]
     },
     "408609": {
         "id": "408609",
@@ -25458,9 +25835,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408609.png",
-        "come_from": [
-            "Chez Chrono"
-        ]
+        "come_from": ["Chez Chrono"]
     },
     "408610": {
         "id": "408610",
@@ -25469,9 +25844,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408610.png",
-        "come_from": [
-            "Chez Chrono"
-        ]
+        "come_from": ["Chez Chrono"]
     },
     "408611": {
         "id": "408611",
@@ -25480,9 +25853,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408611.png",
-        "come_from": [
-            "Chez Chrono"
-        ]
+        "come_from": ["Chez Chrono"]
     },
     "408612": {
         "id": "408612",
@@ -25491,9 +25862,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408612.png",
-        "come_from": [
-            "Chez Chrono"
-        ]
+        "come_from": ["Chez Chrono"]
     },
     "408613": {
         "id": "408613",
@@ -25502,9 +25871,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408613.png",
-        "come_from": [
-            "Anderson"
-        ]
+        "come_from": ["Anderson"]
     },
     "408614": {
         "id": "408614",
@@ -25513,9 +25880,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408614.png",
-        "come_from": [
-            "Boutique du Pays des rêves"
-        ]
+        "come_from": ["Boutique du Pays des rêves"]
     },
     "408615": {
         "id": "408615",
@@ -25524,9 +25889,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/140397.png",
-        "come_from": [
-            "Boutique du Pays des rêves"
-        ]
+        "come_from": ["Boutique du Pays des rêves"]
     },
     "408616": {
         "id": "408616",
@@ -25535,9 +25898,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408616.png",
-        "come_from": [
-            "Boutique du Pays des rêves"
-        ]
+        "come_from": ["Boutique du Pays des rêves"]
     },
     "408617": {
         "id": "408617",
@@ -25546,9 +25907,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408617.png",
-        "come_from": [
-            "Oniricci"
-        ]
+        "come_from": ["Oniricci"]
     },
     "408618": {
         "id": "408618",
@@ -25557,9 +25916,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408618.png",
-        "come_from": [
-            "Oniricci"
-        ]
+        "come_from": ["Oniricci"]
     },
     "408619": {
         "id": "408619",
@@ -25568,9 +25925,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408619.png",
-        "come_from": [
-            "Oniricci"
-        ]
+        "come_from": ["Oniricci"]
     },
     "408620": {
         "id": "408620",
@@ -25579,9 +25934,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408620.png",
-        "come_from": [
-            "Restaurant sur le thème de Rêvopolis"
-        ]
+        "come_from": ["Restaurant sur le thème de Rêvopolis"]
     },
     "408621": {
         "id": "408621",
@@ -25590,9 +25943,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408622.png",
-        "come_from": [
-            "Restaurant sur le thème de Rêvopolis"
-        ]
+        "come_from": ["Restaurant sur le thème de Rêvopolis"]
     },
     "408622": {
         "id": "408622",
@@ -25601,9 +25952,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408621.png",
-        "come_from": [
-            "Restaurant sur le thème de Rêvopolis"
-        ]
+        "come_from": ["Restaurant sur le thème de Rêvopolis"]
     },
     "408623": {
         "id": "408623",
@@ -25612,9 +25961,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408623.png",
-        "come_from": [
-            "Restaurant sur le thème de Rêvopolis"
-        ]
+        "come_from": ["Restaurant sur le thème de Rêvopolis"]
     },
     "408624": {
         "id": "408624",
@@ -25623,9 +25970,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408624.png",
-        "come_from": [
-            "Casse-croûte de Jessie"
-        ]
+        "come_from": ["Casse-croûte de Jessie"]
     },
     "408625": {
         "id": "408625",
@@ -25634,9 +25979,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408625.png",
-        "come_from": [
-            "Kirk"
-        ]
+        "come_from": ["Kirk"]
     },
     "408626": {
         "id": "408626",
@@ -25645,9 +25988,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408626.png",
-        "come_from": [
-            "Auto-orchestre"
-        ]
+        "come_from": ["Auto-orchestre"]
     },
     "408627": {
         "id": "408627",
@@ -25656,9 +25997,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408627.png",
-        "come_from": [
-            "Auto-orchestre"
-        ]
+        "come_from": ["Auto-orchestre"]
     },
     "408628": {
         "id": "408628",
@@ -25667,9 +26006,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408628.png",
-        "come_from": [
-            "Vendeuse de snacks"
-        ]
+        "come_from": ["Vendeuse de snacks"]
     },
     "408629": {
         "id": "408629",
@@ -25678,9 +26015,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408629.png",
-        "come_from": [
-            "Vendeuse de snacks"
-        ]
+        "come_from": ["Vendeuse de snacks"]
     },
     "408630": {
         "id": "408630",
@@ -25689,9 +26024,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408630.png",
-        "come_from": [
-            "Vendeuse de snacks"
-        ]
+        "come_from": ["Vendeuse de snacks"]
     },
     "408631": {
         "id": "408631",
@@ -25700,9 +26033,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408631.png",
-        "come_from": [
-            "Groupe correctionnel d'Arma"
-        ]
+        "come_from": ["Groupe correctionnel d'Arma"]
     },
     "408632": {
         "id": "408632",
@@ -25711,9 +26042,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408632.png",
-        "come_from": [
-            "Recherches sur les produits chimiques correctionnels d'Arma"
-        ]
+        "come_from": ["Recherches sur les produits chimiques correctionnels d'Arma"]
     },
     "408633": {
         "id": "408633",
@@ -25722,9 +26051,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408633.png",
-        "come_from": [
-            "Plateforme médiatique de Yaoqing Sports"
-        ]
+        "come_from": ["Plateforme médiatique de Yaoqing Sports"]
     },
     "408634": {
         "id": "408634",
@@ -25733,9 +26060,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408634.png",
-        "come_from": [
-            "Richie"
-        ]
+        "come_from": ["Richie"]
     },
     "408635": {
         "id": "408635",
@@ -25744,9 +26069,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408635.png",
-        "come_from": [
-            "Richie"
-        ]
+        "come_from": ["Richie"]
     },
     "408636": {
         "id": "408636",
@@ -25755,9 +26078,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408636.png",
-        "come_from": [
-            "Comptoir de Thésée Voo"
-        ]
+        "come_from": ["Comptoir de Thésée Voo"]
     },
     "408637": {
         "id": "408637",
@@ -25766,9 +26087,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408637.png",
-        "come_from": [
-            "Comptoir de Thésée Voo"
-        ]
+        "come_from": ["Comptoir de Thésée Voo"]
     },
     "408638": {
         "id": "408638",
@@ -25777,9 +26096,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408638.png",
-        "come_from": [
-            "Comptoir de Thésée Voo"
-        ]
+        "come_from": ["Comptoir de Thésée Voo"]
     },
     "408639": {
         "id": "408639",
@@ -25788,9 +26105,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408639.png",
-        "come_from": [
-            "Forge de Chartonus"
-        ]
+        "come_from": ["Forge de Chartonus"]
     },
     "408801": {
         "id": "408801",
@@ -25799,9 +26114,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/408801.png",
-        "come_from": [
-            "Chariot de glaces"
-        ]
+        "come_from": ["Chariot de glaces"]
     },
     "408802": {
         "id": "408802",
@@ -25810,9 +26123,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/408802.png",
-        "come_from": [
-            "Boutique du Pays des rêves"
-        ]
+        "come_from": ["Boutique du Pays des rêves"]
     },
     "408803": {
         "id": "408803",
@@ -25821,9 +26132,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/408803.png",
-        "come_from": [
-            "Chaletka"
-        ]
+        "come_from": ["Chaletka"]
     },
     "408901": {
         "id": "408901",
@@ -25832,9 +26141,7 @@
         "sub_type": "FindChest",
         "rarity": 5,
         "icon": "icon/item/408901.png",
-        "come_from": [
-            "Récompenses de points du responsable des achats"
-        ]
+        "come_from": ["Récompenses de points du responsable des achats"]
     },
     "408902": {
         "id": "408902",
@@ -25843,9 +26150,7 @@
         "sub_type": "FindChest",
         "rarity": 5,
         "icon": "icon/item/408902.png",
-        "come_from": [
-            "Récompenses de points de la boutique souterraine"
-        ]
+        "come_from": ["Récompenses de points de la boutique souterraine"]
     },
     "408903": {
         "id": "408903",
@@ -25854,9 +26159,7 @@
         "sub_type": "FindChest",
         "rarity": 5,
         "icon": "icon/item/408903.png",
-        "come_from": [
-            "Récompenses de points de la Pagode du bijoutier"
-        ]
+        "come_from": ["Récompenses de points de la Pagode du bijoutier"]
     },
     "408904": {
         "id": "408904",
@@ -25865,9 +26168,7 @@
         "sub_type": "FindChest",
         "rarity": 5,
         "icon": "icon/item/408904.png",
-        "come_from": [
-            "Récompenses de niveau de la Statue de Chronou"
-        ]
+        "come_from": ["Récompenses de niveau de la Statue de Chronou"]
     },
     "408905": {
         "id": "408905",
@@ -25876,8 +26177,6 @@
         "sub_type": "FindChest",
         "rarity": 5,
         "icon": "icon/item/408905.png",
-        "come_from": [
-            "Récompenses de niveau du Cadeau des flots"
-        ]
+        "come_from": ["Récompenses de niveau du Cadeau des flots"]
     }
 }

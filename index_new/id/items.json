@@ -19,6 +19,7 @@
             "Calyx \"Great Mine\"",
             "Calyx \"Artisanship Commission\"",
             "Calyx \"Reverie Hotel - Dunia Mimpi\"",
+            "Calyx \"Hutan Bisikan\" Grove of Epiphany",
             "Hadiah Misi",
             "Hadiah Tugas",
             "Penukaran Ember"
@@ -67,10 +68,7 @@
         "sub_type": "Virtual",
         "rarity": 3,
         "icon": "icon/item/22.png",
-        "come_from": [
-            "Hadiah Misi",
-            "Mengonsumsi Trailblaze Power"
-        ]
+        "come_from": ["Hadiah Misi", "Mengonsumsi Trailblaze Power"]
     },
     "23": {
         "id": "23",
@@ -214,9 +212,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/201.png",
-        "come_from": [
-            "Hadiah Level"
-        ]
+        "come_from": ["Hadiah Level"]
     },
     "211": {
         "id": "211",
@@ -229,6 +225,7 @@
             "Calyx \"Outlying Snow Plains\"",
             "Calyx \"Cloudford\"",
             "Calyx \"Dream's Edge\"",
+            "Calyx \"Wilayah Suci Ramalan\" Janusopolis",
             "Hadiah Tugas"
         ]
     },
@@ -243,6 +240,7 @@
             "Calyx \"Outlying Snow Plains\"",
             "Calyx \"Cloudford\"",
             "Calyx \"Dream's Edge\"",
+            "Calyx \"Wilayah Suci Ramalan\" Janusopolis",
             "Pelatihan Harian",
             "Penukaran Ember"
         ]
@@ -258,6 +256,7 @@
             "Calyx \"Outlying Snow Plains\"",
             "Calyx \"Cloudford\"",
             "Calyx \"Dream's Edge\"",
+            "Calyx \"Wilayah Suci Ramalan\" Janusopolis",
             "\"Forgotten Hall\""
         ]
     },
@@ -272,6 +271,7 @@
             "Calyx \"Backwater Pass\"",
             "Calyx \"Divination Commission\"",
             "Calyx \"A Child's Dream\"",
+            "Calyx \"Reruntuhan Pertikaian\" Castrum Kremnos",
             "Hadiah Tugas"
         ]
     },
@@ -286,6 +286,7 @@
             "Calyx \"Backwater Pass\"",
             "Calyx \"Divination Commission\"",
             "Calyx \"A Child's Dream\"",
+            "Calyx \"Reruntuhan Pertikaian\" Castrum Kremnos",
             "Penukaran Ember"
         ]
     },
@@ -300,6 +301,7 @@
             "Calyx \"Backwater Pass\"",
             "Calyx \"Divination Commission\"",
             "Calyx \"A Child's Dream\"",
+            "Calyx \"Reruntuhan Pertikaian\" Castrum Kremnos",
             "\"Forgotten Hall\""
         ]
     },
@@ -310,9 +312,7 @@
         "sub_type": "Material",
         "rarity": 2,
         "icon": "icon/item/231.png",
-        "come_from": [
-            "Urai Relic"
-        ]
+        "come_from": ["Urai Relic"]
     },
     "232": {
         "id": "232",
@@ -321,11 +321,7 @@
         "sub_type": "Material",
         "rarity": 3,
         "icon": "icon/item/232.png",
-        "come_from": [
-            "Pelatihan Harian",
-            "Urai Relic",
-            "Penukaran Ember"
-        ]
+        "come_from": ["Pelatihan Harian", "Urai Relic", "Penukaran Ember"]
     },
     "233": {
         "id": "233",
@@ -334,9 +330,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/233.png",
-        "come_from": [
-            "\"Forgotten Hall\""
-        ]
+        "come_from": ["\"Forgotten Hall\""]
     },
     "234": {
         "id": "234",
@@ -354,9 +348,7 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/235.png",
-        "come_from": [
-            "Urai Relic"
-        ]
+        "come_from": ["Urai Relic"]
     },
     "236": {
         "id": "236",
@@ -365,9 +357,7 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/236.png",
-        "come_from": [
-            "Kehormatan Tanpa Nama"
-        ]
+        "come_from": ["Kehormatan Tanpa Nama"]
     },
     "237": {
         "id": "237",
@@ -389,10 +379,7 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/238.png",
-        "come_from": [
-            "Kehormatan Tanpa Nama",
-            "\"Omni-Synthesizer\" - Synthesis Material"
-        ]
+        "come_from": ["Kehormatan Tanpa Nama", "\"Omni-Synthesizer\" - Synthesis Material"]
     },
     "241": {
         "id": "241",
@@ -416,9 +403,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/251.png",
-        "come_from": [
-            "Warp"
-        ]
+        "come_from": ["Warp"]
     },
     "252": {
         "id": "252",
@@ -427,9 +412,7 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/252.png",
-        "come_from": [
-            "Warp"
-        ]
+        "come_from": ["Warp"]
     },
     "261": {
         "id": "261",
@@ -452,11 +435,7 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/262.png",
-        "come_from": [
-            "\"Forgotten Hall\"",
-            "\"Pure Fiction\"",
-            "\"Apocalyptic Shadow\""
-        ]
+        "come_from": ["\"Forgotten Hall\"", "\"Pure Fiction\"", "\"Apocalyptic Shadow\""]
     },
     "271": {
         "id": "271",
@@ -474,9 +453,7 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/503.png",
-        "come_from": [
-            "Hadiah Poin \"Simulated Universe\""
-        ]
+        "come_from": ["Hadiah Poin \"Simulated Universe\""]
     },
     "800": {
         "id": "800",
@@ -1057,6 +1034,24 @@
         "icon": "icon/item/11003.png",
         "come_from": []
     },
+    "11403": {
+        "id": "11403",
+        "name": "Tribbie's Eidolon",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11404": {
+        "id": "11404",
+        "name": "Mydei's Eidolon",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
     "18001": {
         "id": "18001",
         "name": "Shadow of Destruction",
@@ -1087,10 +1082,7 @@
         "sub_type": "Eidolon",
         "rarity": 5,
         "icon": "icon/item/18003.png",
-        "come_from": [
-            "Hadiah Misi Trailblaze",
-            "Jeweler's Pagoda"
-        ]
+        "come_from": ["Hadiah Misi Trailblaze", "Jeweler's Pagoda"]
     },
     "18004": {
         "id": "18004",
@@ -2971,6 +2963,81 @@
         "sub_type": "RelicSetShowOnly",
         "rarity": 5,
         "icon": "icon/item/71037.png",
+        "come_from": ["\"Omni-Synthesizer\" - Synthesis Relic"]
+    },
+    "83191": {
+        "id": "83191",
+        "name": "Bone Collection's Serene Demesne",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71042.png",
+        "come_from": []
+    },
+    "83192": {
+        "id": "83192",
+        "name": "Bone Collection's Serene Demesne",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71042.png",
+        "come_from": []
+    },
+    "83193": {
+        "id": "83193",
+        "name": "Bone Collection's Serene Demesne",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71042.png",
+        "come_from": []
+    },
+    "83194": {
+        "id": "83194",
+        "name": "Bone Collection's Serene Demesne",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71042.png",
+        "come_from": [
+            "Divergent Universe: Ekstraksi Planar Ornament",
+            "\"Omni-Synthesizer\" - Synthesis Relic"
+        ]
+    },
+    "83201": {
+        "id": "83201",
+        "name": "Giant Tree of Rapt Brooding",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71043.png",
+        "come_from": []
+    },
+    "83202": {
+        "id": "83202",
+        "name": "Giant Tree of Rapt Brooding",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71043.png",
+        "come_from": []
+    },
+    "83203": {
+        "id": "83203",
+        "name": "Giant Tree of Rapt Brooding",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71043.png",
+        "come_from": []
+    },
+    "83204": {
+        "id": "83204",
+        "name": "Giant Tree of Rapt Brooding",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71043.png",
         "come_from": [
             "Divergent Universe: Ekstraksi Planar Ornament",
             "\"Omni-Synthesizer\" - Synthesis Relic"
@@ -3028,9 +3095,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/110101.png",
-        "come_from": [
-            "Kehormatan Tanpa Nama"
-        ]
+        "come_from": ["Kehormatan Tanpa Nama"]
     },
     "110111": {
         "id": "110111",
@@ -3639,10 +3704,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/110400.png",
-        "come_from": [
-            "Hadiah Misi",
-            "Hadiah Level"
-        ]
+        "come_from": ["Hadiah Misi", "Hadiah Level"]
     },
     "110401": {
         "id": "110401",
@@ -3896,6 +3958,30 @@
             "\"Omni-Synthesizer\" - Pertukaran Material"
         ]
     },
+    "110436": {
+        "id": "110436",
+        "name": "Darkveil Moonlight",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/110436.png",
+        "come_from": [
+            "Stagnant Shadow \"Hutan Bisikan\" Grove of Epiphany",
+            "\"Omni-Synthesizer\" - Pertukaran Material"
+        ]
+    },
+    "110437": {
+        "id": "110437",
+        "name": "Harbinger of Strife",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/110437.png",
+        "come_from": [
+            "Stagnant Shadow \"Jurang Takdir\" Janusopolis",
+            "\"Omni-Synthesizer\" - Pertukaran Material"
+        ]
+    },
     "110501": {
         "id": "110501",
         "name": "Destroyer's Final Road",
@@ -3903,9 +3989,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/110501.png",
-        "come_from": [
-            "Echo of War \"Supply Zone\""
-        ]
+        "come_from": ["Echo of War \"Supply Zone\""]
     },
     "110502": {
         "id": "110502",
@@ -3914,9 +3998,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/110502.png",
-        "come_from": [
-            "Echo of War \"Everwinter Hill\""
-        ]
+        "come_from": ["Echo of War \"Everwinter Hill\""]
     },
     "110503": {
         "id": "110503",
@@ -3925,9 +4007,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/110503.png",
-        "come_from": [
-            "Echo of War \"Scalegorge Waterscape\""
-        ]
+        "come_from": ["Echo of War \"Scalegorge Waterscape\""]
     },
     "110504": {
         "id": "110504",
@@ -3936,9 +4016,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/110504.png",
-        "come_from": [
-            "Echo of War \"Seclusion Zone\""
-        ]
+        "come_from": ["Echo of War \"Seclusion Zone\""]
     },
     "110505": {
         "id": "110505",
@@ -3947,9 +4025,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/110505.png",
-        "come_from": [
-            "Echo of War \"Penacony Grand Theater\""
-        ]
+        "come_from": ["Echo of War \"Penacony Grand Theater\""]
     },
     "110506": {
         "id": "110506",
@@ -3958,8 +4034,18 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/110506.png",
+        "come_from": ["Echo of War \"Skysplitter\""]
+    },
+    "111000": {
+        "id": "111000",
+        "name": "Tears of Souls",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/111000.png",
         "come_from": [
-            "Echo of War \"Skysplitter\""
+            "Dijatuhkan musuh di \"Divergent Universe\"",
+            "Dijatuhkan musuh di \"Simulated Universe\""
         ]
     },
     "111001": {
@@ -4350,11 +4436,13 @@
         "icon": "icon/item/115001.png",
         "come_from": [
             "Dijatuhkan Titankin",
+            "Dijatuhkan Crepuscular Beast",
             "Dijatuhkan musuh di \"Divergent Universe\"",
             "Dijatuhkan musuh di \"Simulated Universe\"",
             "Hadiah Tugas",
             "Penukaran Ember",
-            "\"Omni-Synthesizer\" - Pertukaran Material"
+            "\"Omni-Synthesizer\" - Pertukaran Material",
+            "Calyx (Golden)"
         ]
     },
     "115002": {
@@ -4366,6 +4454,7 @@
         "icon": "icon/item/115002.png",
         "come_from": [
             "Dijatuhkan Titankin pada Level Equilibrium Lv. 2 atau lebih",
+            "Dijatuhkan Crepuscular Beast pada Level Equilibrium Lv. 2 atau lebih",
             "\"Omni-Synthesizer\" - Synthesis Material",
             "Dijatuhkan musuh di \"Divergent Universe\"",
             "Dijatuhkan musuh di \"Simulated Universe\"",
@@ -4381,6 +4470,54 @@
         "icon": "icon/item/115003.png",
         "come_from": [
             "Dijatuhkan Titankin pada Level Equilibrium Lv. 4 atau lebih",
+            "Dijatuhkan Crepuscular Beast pada Level Equilibrium Lv. 4 atau lebih",
+            "\"Omni-Synthesizer\" - Synthesis Material",
+            "Dijatuhkan musuh di \"Divergent Universe\"",
+            "Dijatuhkan musuh di \"Simulated Universe\"",
+            "\"Omni-Synthesizer\" - Pertukaran Material"
+        ]
+    },
+    "115011": {
+        "id": "115011",
+        "name": "Ethereal Omen",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 2,
+        "icon": "icon/item/115011.png",
+        "come_from": [
+            "Dijatuhkan ciptaan gelombang hitam",
+            "Dijatuhkan musuh di \"Divergent Universe\"",
+            "Dijatuhkan musuh di \"Simulated Universe\"",
+            "Hadiah Tugas",
+            "Penukaran Ember",
+            "\"Omni-Synthesizer\" - Pertukaran Material",
+            "Calyx (Golden)"
+        ]
+    },
+    "115012": {
+        "id": "115012",
+        "name": "Echoing Wail",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/115012.png",
+        "come_from": [
+            "Dijatuhkan ciptaan gelombang hitam pada Level Equilibrium Lv. 2 atau lebih",
+            "\"Omni-Synthesizer\" - Synthesis Material",
+            "Dijatuhkan musuh di \"Divergent Universe\"",
+            "Dijatuhkan musuh di \"Simulated Universe\"",
+            "\"Omni-Synthesizer\" - Pertukaran Material"
+        ]
+    },
+    "115013": {
+        "id": "115013",
+        "name": "Eternal Lament",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/115013.png",
+        "come_from": [
+            "Dijatuhkan ciptaan gelombang hitam pada Level Equilibrium Lv. 4 atau lebih",
             "\"Omni-Synthesizer\" - Synthesis Material",
             "Dijatuhkan musuh di \"Divergent Universe\"",
             "Dijatuhkan musuh di \"Simulated Universe\"",
@@ -4406,10 +4543,7 @@
         "sub_type": "Material",
         "rarity": 3,
         "icon": "icon/item/120001.png",
-        "come_from": [
-            "Diperoleh dari penjelajahan \"Jarilo-Ⅵ\"",
-            "Dari Misi Petualangan"
-        ]
+        "come_from": ["Diperoleh dari penjelajahan \"Jarilo-Ⅵ\"", "Dari Misi Petualangan"]
     },
     "120002": {
         "id": "120002",
@@ -4430,11 +4564,7 @@
         "sub_type": "Material",
         "rarity": 3,
         "icon": "icon/item/120003.png",
-        "come_from": [
-            "Penjelajahan \"Penacony\"",
-            "Misi Trailblaze",
-            "Misi Petualangan"
-        ]
+        "come_from": ["Penjelajahan \"Penacony\"", "Misi Trailblaze", "Misi Petualangan"]
     },
     "120004": {
         "id": "120004",
@@ -4492,10 +4622,7 @@
         "sub_type": "Material",
         "rarity": 3,
         "icon": "icon/item/122000.png",
-        "come_from": [
-            "Aideen Token Shop",
-            "Penjelajahan \"Penacony\""
-        ]
+        "come_from": ["Aideen Token Shop", "Penjelajahan \"Penacony\""]
     },
     "140000": {
         "id": "140000",
@@ -4513,9 +4640,7 @@
         "sub_type": "Mission",
         "rarity": 3,
         "icon": "icon/item/140004.png",
-        "come_from": [
-            "Objek yang bisa dihancurkan di \"Jarilo-Ⅵ\""
-        ]
+        "come_from": ["Objek yang bisa dihancurkan di \"Jarilo-Ⅵ\""]
     },
     "140017": {
         "id": "140017",
@@ -8511,9 +8636,25 @@
         "sub_type": "Mission",
         "rarity": 3,
         "icon": "icon/item/140531.png",
-        "come_from": [
-            "Diperoleh dari penjelajahan \"Amphoreus\""
-        ]
+        "come_from": ["Diperoleh dari penjelajahan \"Amphoreus\""]
+    },
+    "140532": {
+        "id": "140532",
+        "name": "Sumpah Ranting Emas",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140532.png",
+        "come_from": []
+    },
+    "140533": {
+        "id": "140533",
+        "name": "Sumpah Ranting Emas yang Membara",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140533.png",
+        "come_from": []
     },
     "140534": {
         "id": "140534",
@@ -8720,6 +8861,105 @@
         "sub_type": "Mission",
         "rarity": 3,
         "icon": "icon/item/140556.png",
+        "come_from": []
+    },
+    "140559": {
+        "id": "140559",
+        "name": "Izin Kerja Nicomachus",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/190020.png",
+        "come_from": []
+    },
+    "140560": {
+        "id": "140560",
+        "name": "Izin Kerja Andreas",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/190020.png",
+        "come_from": []
+    },
+    "140561": {
+        "id": "140561",
+        "name": "Izin Kerja Clio",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/190020.png",
+        "come_from": []
+    },
+    "140562": {
+        "id": "140562",
+        "name": "Tanaman Eksperimental Clio",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/180009.png",
+        "come_from": []
+    },
+    "140563": {
+        "id": "140563",
+        "name": "Buku Catatan Nicomachus",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "140564": {
+        "id": "140564",
+        "name": "Panduan Obat Ritual Andreas",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/402008.png",
+        "come_from": []
+    },
+    "140565": {
+        "id": "140565",
+        "name": "Pedang Artakama",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140534.png",
+        "come_from": []
+    },
+    "140566": {
+        "id": "140566",
+        "name": "Madu Darah Ilahi",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140567.png",
+        "come_from": []
+    },
+    "140567": {
+        "id": "140567",
+        "name": "Benang Tenun",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140566.png",
+        "come_from": []
+    },
+    "140568": {
+        "id": "140568",
+        "name": "Medali \"Juara Kerja\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140568.png",
+        "come_from": []
+    },
+    "140569": {
+        "id": "140569",
+        "name": "Benih Api \"Waktu\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140569.png",
         "come_from": []
     },
     "149957": {
@@ -9523,6 +9763,60 @@
         "icon": "icon/item/140117.png",
         "come_from": []
     },
+    "150063": {
+        "id": "150063",
+        "name": "Prasasti Ode \"Wilayah Suci Ramalan\" 1",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/150063.png",
+        "come_from": []
+    },
+    "150064": {
+        "id": "150064",
+        "name": "Prasasti Ode \"Wilayah Suci Ramalan\" 2",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/150064.png",
+        "come_from": []
+    },
+    "150065": {
+        "id": "150065",
+        "name": "Prasasti Ode \"Hutan Bisikan\" 1",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/150065.png",
+        "come_from": []
+    },
+    "150066": {
+        "id": "150066",
+        "name": "Prasasti Ode \"Hutan Bisikan\" 2",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/150066.png",
+        "come_from": []
+    },
+    "150067": {
+        "id": "150067",
+        "name": "Catatan Ramalan Tenunan Emas: \"Wilayah Suci Ramalan\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "150068": {
+        "id": "150068",
+        "name": "Catatan Ramalan Tenunan Emas: \"Hutan Bisikan\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
     "180001": {
         "id": "180001",
         "name": "Solid Water",
@@ -9608,11 +9902,7 @@
         "sub_type": "Material",
         "rarity": 1,
         "icon": "icon/item/180008.png",
-        "come_from": [
-            "Hadiah Tugas",
-            "Oldies Depot",
-            "Calyx (Golden)"
-        ]
+        "come_from": ["Hadiah Tugas", "Oldies Depot", "Calyx (Golden)"]
     },
     "180009": {
         "id": "180009",
@@ -9621,11 +9911,7 @@
         "sub_type": "Material",
         "rarity": 1,
         "icon": "icon/item/180009.png",
-        "come_from": [
-            "Hadiah Tugas",
-            "Longevity Hall",
-            "Calyx (Golden)"
-        ]
+        "come_from": ["Hadiah Tugas", "Longevity Hall", "Calyx (Golden)"]
     },
     "180010": {
         "id": "180010",
@@ -9679,7 +9965,8 @@
         "come_from": [
             "Dijatuhkan Furiae Warrior dan musuh lainnya di \"Reruntuhan Pertikaian\" Castrum Kremnos",
             "Objek yang bisa dihancurkan di \"Amphoreus\"",
-            "Hadiah Tugas"
+            "Hadiah Tugas",
+            "Calyx (Golden)"
         ]
     },
     "181001": {
@@ -9819,10 +10106,7 @@
         "sub_type": "Material",
         "rarity": 2,
         "icon": "icon/item/181011.png",
-        "come_from": [
-            "Hadiah Tugas",
-            "Oldies Depot"
-        ]
+        "come_from": ["Hadiah Tugas", "Oldies Depot"]
     },
     "181012": {
         "id": "181012",
@@ -9831,10 +10115,7 @@
         "sub_type": "Material",
         "rarity": 2,
         "icon": "icon/item/181012.png",
-        "come_from": [
-            "Hadiah Tugas",
-            "Longevity Hall"
-        ]
+        "come_from": ["Hadiah Tugas", "Longevity Hall"]
     },
     "181013": {
         "id": "181013",
@@ -9843,10 +10124,7 @@
         "sub_type": "Material",
         "rarity": 2,
         "icon": "icon/item/181013.png",
-        "come_from": [
-            "Lingling's Medicine Stand",
-            "Calyx (Golden)"
-        ]
+        "come_from": ["Lingling's Medicine Stand", "Calyx (Golden)"]
     },
     "181014": {
         "id": "181014",
@@ -9909,7 +10187,8 @@
         "icon": "icon/item/181018.png",
         "come_from": [
             "Dijatuhkan Furiae Warrior dan musuh lainnya di \"Reruntuhan Pertikaian\" Castrum Kremnos",
-            "Objek yang bisa dihancurkan di \"Amphoreus\""
+            "Objek yang bisa dihancurkan di \"Amphoreus\"",
+            "Calyx (Golden)"
         ]
     },
     "182001": {
@@ -9919,9 +10198,7 @@
         "sub_type": "Material",
         "rarity": 3,
         "icon": "icon/item/182001.png",
-        "come_from": [
-            "Dijatuhkan Voidranger: Reaver dan musuh lainnya di \"Storage Zone\""
-        ]
+        "come_from": ["Dijatuhkan Voidranger: Reaver dan musuh lainnya di \"Storage Zone\""]
     },
     "182002": {
         "id": "182002",
@@ -9930,9 +10207,7 @@
         "sub_type": "Material",
         "rarity": 3,
         "icon": "icon/item/182002.png",
-        "come_from": [
-            "Dijatuhkan Mara-Struck Soldier dan musuh lainnya di \"Cloudford\""
-        ]
+        "come_from": ["Dijatuhkan Mara-Struck Soldier dan musuh lainnya di \"Cloudford\""]
     },
     "182003": {
         "id": "182003",
@@ -9941,9 +10216,7 @@
         "sub_type": "Material",
         "rarity": 3,
         "icon": "icon/item/182003.png",
-        "come_from": [
-            "Grocery Stand"
-        ]
+        "come_from": ["Grocery Stand"]
     },
     "182004": {
         "id": "182004",
@@ -9963,9 +10236,7 @@
         "sub_type": "Material",
         "rarity": 3,
         "icon": "icon/item/182005.png",
-        "come_from": [
-            "Dijatuhkan Imaginary Weaver dan musuh lainnya di \"Rivet Town\""
-        ]
+        "come_from": ["Dijatuhkan Imaginary Weaver dan musuh lainnya di \"Rivet Town\""]
     },
     "182006": {
         "id": "182006",
@@ -9974,9 +10245,7 @@
         "sub_type": "Material",
         "rarity": 3,
         "icon": "icon/item/182006.png",
-        "come_from": [
-            "Dijatuhkan Automaton dan musuh lainnya di \"Robot Settlement\""
-        ]
+        "come_from": ["Dijatuhkan Automaton dan musuh lainnya di \"Robot Settlement\""]
     },
     "182007": {
         "id": "182007",
@@ -9996,9 +10265,7 @@
         "sub_type": "Material",
         "rarity": 3,
         "icon": "icon/item/182008.png",
-        "come_from": [
-            "Lingling's Medicine Stand"
-        ]
+        "come_from": ["Lingling's Medicine Stand"]
     },
     "182009": {
         "id": "182009",
@@ -10041,9 +10308,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/183001.png",
-        "come_from": [
-            "Dijatuhkan Mara-Struck Soldier dan musuh lainnya di \"Cloudford\""
-        ]
+        "come_from": ["Dijatuhkan Mara-Struck Soldier dan musuh lainnya di \"Cloudford\""]
     },
     "183002": {
         "id": "183002",
@@ -10052,9 +10317,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/183002.png",
-        "come_from": [
-            "Dijatuhkan Automaton dan musuh lainnya di \"Robot Settlement\""
-        ]
+        "come_from": ["Dijatuhkan Automaton dan musuh lainnya di \"Robot Settlement\""]
     },
     "183003": {
         "id": "183003",
@@ -10074,9 +10337,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/183004.png",
-        "come_from": [
-            "Dijatuhkan Imaginary Weaver dan musuh lainnya di \"Rivet Town\""
-        ]
+        "come_from": ["Dijatuhkan Imaginary Weaver dan musuh lainnya di \"Rivet Town\""]
     },
     "183005": {
         "id": "183005",
@@ -15838,7 +16099,7 @@
     },
     "190749": {
         "id": "190749",
-        "name": "Partitur Harpa Air \"Tarian Siklus Ombak\"",
+        "name": "Partitur Lira Air \"Tarian Siklus Ombak\"",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -16230,6 +16491,375 @@
         "sub_type": "Book",
         "rarity": 1,
         "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190793": {
+        "id": "190793",
+        "name": "Laporan Kerja Harian Chimera",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190794": {
+        "id": "190794",
+        "name": "Catatan Peninggalan Gorgo, Ibu Mydei",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190795": {
+        "id": "190795",
+        "name": "Panduan Kebugaran untuk Pemula di Sekolah Penarikan Batu",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190020.png",
+        "come_from": []
+    },
+    "190796": {
+        "id": "190796",
+        "name": "Teori Dualitas Cerces",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190018.png",
+        "come_from": []
+    },
+    "190797": {
+        "id": "190797",
+        "name": "Di Luar Tirai",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190798": {
+        "id": "190798",
+        "name": "Epitaf Sang Raja",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190020.png",
+        "come_from": []
+    },
+    "190799": {
+        "id": "190799",
+        "name": "Catatan Ahli Ilusi",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190800": {
+        "id": "190800",
+        "name": "Panduan Kerja Chimera (Edisi Ketiga)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190801": {
+        "id": "190801",
+        "name": "Legenda Pengurus Chimera",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190020.png",
+        "come_from": []
+    },
+    "190802": {
+        "id": "190802",
+        "name": "Catatan Pengakuan",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190018.png",
+        "come_from": []
+    },
+    "190803": {
+        "id": "190803",
+        "name": "Resep Rahasia Saffron",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190018.png",
+        "come_from": []
+    },
+    "190804": {
+        "id": "190804",
+        "name": "Surat untuk Keluarga yang Tak Terkirim",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190805": {
+        "id": "190805",
+        "name": "Dekrit Tujuh Orang Bijak",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190806": {
+        "id": "190806",
+        "name": "Brosur Penerimaan Murid Sekolah Simpul",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190020.png",
+        "come_from": []
+    },
+    "190807": {
+        "id": "190807",
+        "name": "Dasar Teori Kesadaran Sekolah Terakota",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190018.png",
+        "come_from": []
+    },
+    "190808": {
+        "id": "190808",
+        "name": "Surat Rahasia Mortis",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190809": {
+        "id": "190809",
+        "name": "Kumpulan Cerita Mengharukan",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190810": {
+        "id": "190810",
+        "name": "Daftar Rute Kuda Ilahi yang Rusak",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190811": {
+        "id": "190811",
+        "name": "Catatan Ekstrapolasi Labirin: Peninggalan Kuil",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190018.png",
+        "come_from": []
+    },
+    "190812": {
+        "id": "190812",
+        "name": "Kesimpulan Labirin (Bagian 1)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190813": {
+        "id": "190813",
+        "name": "Kesimpulan Labirin (Bagian 2)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190814": {
+        "id": "190814",
+        "name": "Kesimpulan Labirin (Bagian 3)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190815": {
+        "id": "190815",
+        "name": "Kesimpulan Labirin (Bagian 4)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190816": {
+        "id": "190816",
+        "name": "Kesimpulan Labirin (Bagian 5)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190817": {
+        "id": "190817",
+        "name": "Kesimpulan Labirin (Bagian 6)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190818": {
+        "id": "190818",
+        "name": "Kesimpulan Labirin (Bagian 7)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190819": {
+        "id": "190819",
+        "name": "Kesimpulan Labirin (Bagian 8)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190820": {
+        "id": "190820",
+        "name": "Kesimpulan Labirin (Bagian 9)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190821": {
+        "id": "190821",
+        "name": "Kesimpulan Labirin (Bagian 10)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190822": {
+        "id": "190822",
+        "name": "Kesimpulan Labirin (Bagian 11)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190823": {
+        "id": "190823",
+        "name": "Kesimpulan Labirin (Bagian 12)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190017.png",
+        "come_from": []
+    },
+    "190824": {
+        "id": "190824",
+        "name": "Uji Kebenaran Ramalan",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190020.png",
+        "come_from": []
+    },
+    "190825": {
+        "id": "190825",
+        "name": "Laporan Berkala Grove yang Belum Dikirim",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190018.png",
+        "come_from": []
+    },
+    "190826": {
+        "id": "190826",
+        "name": "Kutipan Prasasti Panduan untuk Tanaman Grove",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190020.png",
+        "come_from": []
+    },
+    "190827": {
+        "id": "190827",
+        "name": "Catatan Seorang Sarjana Terakota (Kutipan)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190018.png",
+        "come_from": []
+    },
+    "190828": {
+        "id": "190828",
+        "name": "Tentang Karakteristik Ritual Berdasarkan Wilayah (Kutipan)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190020.png",
+        "come_from": []
+    },
+    "190829": {
+        "id": "190829",
+        "name": "Lagu Musim Takdir",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190020.png",
+        "come_from": []
+    },
+    "190830": {
+        "id": "190830",
+        "name": "Gema Ilahi: Perjalanan",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190019.png",
+        "come_from": []
+    },
+    "190831": {
+        "id": "190831",
+        "name": "Gema Ilahi: Rasionalitas",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190019.png",
+        "come_from": []
+    },
+    "190832": {
+        "id": "190832",
+        "name": "Gema Ilahi: Romansa",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190019.png",
+        "come_from": []
+    },
+    "190833": {
+        "id": "190833",
+        "name": "Log Perintisan Amphoreus 2",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190020.png",
         "come_from": []
     },
     "190901": {
@@ -17861,6 +18491,51 @@
         "icon": "icon/item/210001.png",
         "come_from": []
     },
+    "210388": {
+        "id": "210388",
+        "name": "\"Strumming Time\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210389": {
+        "id": "210389",
+        "name": "\"Shattered Mortal Realms\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210390": {
+        "id": "210390",
+        "name": "\"Scattered Manuscripts\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210391": {
+        "id": "210391",
+        "name": "\"Dusk of Rationality\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210392": {
+        "id": "210392",
+        "name": "\"A Hunt for the Divine\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
     "220000": {
         "id": "220000",
         "name": "Seni Bahasa",
@@ -17868,9 +18543,7 @@
         "sub_type": "ChatBubble",
         "rarity": 4,
         "icon": "icon/item/220000.png",
-        "come_from": [
-            "Hadiah Default"
-        ]
+        "come_from": ["Hadiah Default"]
     },
     "220001": {
         "id": "220001",
@@ -17879,9 +18552,7 @@
         "sub_type": "ChatBubble",
         "rarity": 4,
         "icon": "icon/item/220001.png",
-        "come_from": [
-            "Diperoleh dari Event \"Pencarian Harta Karun Bawah Tanah\""
-        ]
+        "come_from": ["Diperoleh dari Event \"Pencarian Harta Karun Bawah Tanah\""]
     },
     "220002": {
         "id": "220002",
@@ -17890,9 +18561,7 @@
         "sub_type": "ChatBubble",
         "rarity": 4,
         "icon": "icon/item/220002.png",
-        "come_from": [
-            "Diperoleh dari event \"Perang Aetherium\""
-        ]
+        "come_from": ["Diperoleh dari event \"Perang Aetherium\""]
     },
     "220003": {
         "id": "220003",
@@ -17901,9 +18570,7 @@
         "sub_type": "ChatBubble",
         "rarity": 4,
         "icon": "icon/item/220003.png",
-        "come_from": [
-            "Diperoleh dari event \"Budi Daya Makhluk Eksotis\""
-        ]
+        "come_from": ["Diperoleh dari event \"Budi Daya Makhluk Eksotis\""]
     },
     "220004": {
         "id": "220004",
@@ -17912,9 +18579,7 @@
         "sub_type": "ChatBubble",
         "rarity": 4,
         "icon": "icon/item/220004.png",
-        "come_from": [
-            "Diperoleh dari event Anekdot Dalam Gelas"
-        ]
+        "come_from": ["Diperoleh dari event Anekdot Dalam Gelas"]
     },
     "220005": {
         "id": "220005",
@@ -17923,9 +18588,7 @@
         "sub_type": "ChatBubble",
         "rarity": 4,
         "icon": "icon/item/220005.png",
-        "come_from": [
-            "Bingkai Pesan yang diperoleh dari event \"Kenangan Mimpi Indah\""
-        ]
+        "come_from": ["Bingkai Pesan yang diperoleh dari event \"Kenangan Mimpi Indah\""]
     },
     "220006": {
         "id": "220006",
@@ -17949,6 +18612,15 @@
             "Bingkai Pesan yang diperoleh dari event \"Teknik Ninja Perburuan Nada\""
         ]
     },
+    "220008": {
+        "id": "220008",
+        "name": "Operasi Besar Chimera",
+        "type": "Usable",
+        "sub_type": "ChatBubble",
+        "rarity": 4,
+        "icon": "icon/item/220008.png",
+        "come_from": ["Bingkai Pesan yang diperoleh dari event \"Kantor Auu-Auu\""]
+    },
     "221000": {
         "id": "221000",
         "name": "Perjalanan Nameless",
@@ -17956,9 +18628,7 @@
         "sub_type": "PhoneTheme",
         "rarity": 4,
         "icon": "icon/item/221000.png",
-        "come_from": [
-            "Hadiah Default"
-        ]
+        "come_from": ["Hadiah Default"]
     },
     "221001": {
         "id": "221001",
@@ -17967,9 +18637,7 @@
         "sub_type": "PhoneTheme",
         "rarity": 4,
         "icon": "icon/item/221001.png",
-        "come_from": [
-            "Diperoleh dari Event \"Hiruk Pikuk Aurum Alley\""
-        ]
+        "come_from": ["Diperoleh dari Event \"Hiruk Pikuk Aurum Alley\""]
     },
     "221002": {
         "id": "221002",
@@ -17987,9 +18655,7 @@
         "sub_type": "PhoneTheme",
         "rarity": 4,
         "icon": "icon/item/221003.png",
-        "come_from": [
-            "Diperoleh dari Event \"Cerita Mistis Foxian\""
-        ]
+        "come_from": ["Diperoleh dari Event \"Cerita Mistis Foxian\""]
     },
     "221004": {
         "id": "221004",
@@ -17998,9 +18664,7 @@
         "sub_type": "PhoneTheme",
         "rarity": 4,
         "icon": "icon/item/221004.png",
-        "come_from": [
-            "Diperoleh dari hadiah level \"Patung Clockie\""
-        ]
+        "come_from": ["Diperoleh dari hadiah level \"Patung Clockie\""]
     },
     "221005": {
         "id": "221005",
@@ -18009,9 +18673,7 @@
         "sub_type": "PhoneTheme",
         "rarity": 4,
         "icon": "icon/item/221005.png",
-        "come_from": [
-            "Diperoleh dari Event \"Perjalanan Antarbintang\""
-        ]
+        "come_from": ["Diperoleh dari Event \"Perjalanan Antarbintang\""]
     },
     "221006": {
         "id": "221006",
@@ -18020,9 +18682,7 @@
         "sub_type": "PhoneTheme",
         "rarity": 4,
         "icon": "icon/item/221006.png",
-        "come_from": [
-            "Wallpaper ponsel yang diperoleh dari \"Divergent Universe: Komedi Duniawi\""
-        ]
+        "come_from": ["Dapat diperoleh melalui penukaran di \"Toko Herta\""]
     },
     "221007": {
         "id": "221007",
@@ -22359,6 +23019,24 @@
         "icon": "icon/item/IconRogueTournCollection_DrRatioPigeon.png",
         "come_from": []
     },
+    "250605": {
+        "id": "250605",
+        "name": "Jejak Pahlawan",
+        "type": "Usable",
+        "sub_type": "RogueMedal",
+        "rarity": 4,
+        "icon": "icon/item/IconRogueTournCollection_TournTitanMedal.png",
+        "come_from": []
+    },
+    "250606": {
+        "id": "250606",
+        "name": "Mem: Edisi Ekstra Imut",
+        "type": "Usable",
+        "sub_type": "RogueMedal",
+        "rarity": 4,
+        "icon": "icon/item/IconRogueTournCollection_MimiPigeon.png",
+        "come_from": []
+    },
     "250700": {
         "id": "250700",
         "name": "Taktik Rahasia: Serangan Tipu-Tipu",
@@ -22474,9 +23152,7 @@
         "sub_type": "NormalPet",
         "rarity": 4,
         "icon": "icon/item/251001.png",
-        "come_from": [
-            "Peliharaan yang diperoleh setelah event \"Ritual Bela Diri\""
-        ]
+        "come_from": ["Peliharaan yang diperoleh setelah event \"Ritual Bela Diri\""]
     },
     "252000": {
         "id": "252000",
@@ -22494,9 +23170,7 @@
         "sub_type": "PamSkin",
         "rarity": 5,
         "icon": "icon/item/252001.png",
-        "come_from": [
-            "Diperoleh dari event \"Panduan Dekorasi Rumah Alam semesta\""
-        ]
+        "come_from": ["Diperoleh dari event \"Panduan Dekorasi Rumah Alam semesta\""]
     },
     "270000": {
         "id": "270000",
@@ -22549,9 +23223,7 @@
         "sub_type": "Virtual",
         "rarity": 3,
         "icon": "icon/item/281001.png",
-        "come_from": [
-            "Diperoleh dari Penataan Barang di Dermaga Aurum Alley"
-        ]
+        "come_from": ["Diperoleh dari Penataan Barang di Dermaga Aurum Alley"]
     },
     "281002": {
         "id": "281002",
@@ -22659,6 +23331,15 @@
         "sub_type": "Virtual",
         "rarity": 3,
         "icon": "icon/item/281019.png",
+        "come_from": []
+    },
+    "281020": {
+        "id": "281020",
+        "name": "Cabang Doa",
+        "type": "Virtual",
+        "sub_type": "Virtual",
+        "rarity": 3,
+        "icon": "icon/item/281020.png",
         "come_from": []
     },
     "281022": {
@@ -22967,6 +23648,15 @@
         "icon": "icon/item/309001.png",
         "come_from": []
     },
+    "309008": {
+        "id": "309008",
+        "name": "Fateful Crossings: \"Kantor Auu-Auu\"",
+        "type": "Usable",
+        "sub_type": "ForceOpitonalGift",
+        "rarity": 4,
+        "icon": "icon/item/309001.png",
+        "come_from": []
+    },
     "310001": {
         "id": "310001",
         "name": "Herta Contract: Trailblaze Aid",
@@ -23091,10 +23781,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/400004.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Vending Machine"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Vending Machine"]
     },
     "400005": {
         "id": "400005",
@@ -23103,9 +23790,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/400005.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "400006": {
         "id": "400006",
@@ -23114,10 +23799,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/400006.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Vending Machine"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Vending Machine"]
     },
     "400007": {
         "id": "400007",
@@ -23126,10 +23808,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/400007.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Vending Machine"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Vending Machine"]
     },
     "400008": {
         "id": "400008",
@@ -23138,9 +23817,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/400008.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "400009": {
         "id": "400009",
@@ -23149,10 +23826,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/140544.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Pedagang Dromas (Pedagang Keliling)"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Karavan Dromas (Pedagang Keliling)"]
     },
     "401003": {
         "id": "401003",
@@ -23161,10 +23835,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401003.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Vending Machine"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Vending Machine"]
     },
     "401004": {
         "id": "401004",
@@ -23173,9 +23844,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401004.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "401005": {
         "id": "401005",
@@ -23184,9 +23853,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401005.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "401006": {
         "id": "401006",
@@ -23195,10 +23862,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401006.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Vending Machine"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Vending Machine"]
     },
     "401007": {
         "id": "401007",
@@ -23207,9 +23871,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401007.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "401008": {
         "id": "401008",
@@ -23218,10 +23880,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401008.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Vending Machine"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Vending Machine"]
     },
     "401009": {
         "id": "401009",
@@ -23230,9 +23889,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401009.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "401010": {
         "id": "401010",
@@ -23241,9 +23898,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401010.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "401011": {
         "id": "401011",
@@ -23252,9 +23907,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401011.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "401012": {
         "id": "401012",
@@ -23263,9 +23916,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401012.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "401013": {
         "id": "401013",
@@ -23274,9 +23925,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401013.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "401014": {
         "id": "401014",
@@ -23285,10 +23934,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401014.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Spices Supreme"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Spices Supreme"]
     },
     "401015": {
         "id": "401015",
@@ -23297,10 +23943,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401015.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Du's Teahouse"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Du's Teahouse"]
     },
     "401016": {
         "id": "401016",
@@ -23309,9 +23952,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401016.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "401017": {
         "id": "401017",
@@ -23320,9 +23961,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401017.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "401018": {
         "id": "401018",
@@ -23331,9 +23970,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401018.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "401019": {
         "id": "401019",
@@ -23342,9 +23979,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401019.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "401020": {
         "id": "401020",
@@ -23353,9 +23988,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401020.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "401021": {
         "id": "401021",
@@ -23364,10 +23997,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401021.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Clock Diner"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Clock Diner"]
     },
     "401022": {
         "id": "401022",
@@ -23376,10 +24006,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401022.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Clock Diner"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Clock Diner"]
     },
     "401023": {
         "id": "401023",
@@ -23388,10 +24015,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401023.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Clock Diner"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Clock Diner"]
     },
     "401024": {
         "id": "401024",
@@ -23400,10 +24024,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401024.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Clock Diner"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Clock Diner"]
     },
     "401025": {
         "id": "401025",
@@ -23412,10 +24033,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401025.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Anderson"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Anderson"]
     },
     "401026": {
         "id": "401026",
@@ -23424,10 +24042,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401026.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Popcorn Food Truck"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Popcorn Food Truck"]
     },
     "401027": {
         "id": "401027",
@@ -23436,10 +24051,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401027.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Ice Cream Trolley"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Ice Cream Trolley"]
     },
     "401028": {
         "id": "401028",
@@ -23448,10 +24060,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/140399.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Dreamscape Sales Store"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Dreamscape Sales Store"]
     },
     "401029": {
         "id": "401029",
@@ -23460,9 +24069,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401029.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "401030": {
         "id": "401030",
@@ -23471,9 +24078,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401030.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "401031": {
         "id": "401031",
@@ -23482,10 +24087,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401031.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Restoran Marmoreal"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Restoran Marmoreal"]
     },
     "401032": {
         "id": "401032",
@@ -23494,10 +24096,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401032.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Restoran Marmoreal"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Restoran Marmoreal"]
     },
     "401033": {
         "id": "401033",
@@ -23506,10 +24105,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/401033.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Restoran Marmoreal"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Restoran Marmoreal"]
     },
     "402001": {
         "id": "402001",
@@ -23518,9 +24114,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402001.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "402002": {
         "id": "402002",
@@ -23529,9 +24123,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402002.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "402003": {
         "id": "402003",
@@ -23540,9 +24132,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402003.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "402004": {
         "id": "402004",
@@ -23551,9 +24141,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402004.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "402005": {
         "id": "402005",
@@ -23562,9 +24150,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402005.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "402006": {
         "id": "402006",
@@ -23573,9 +24159,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402006.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "402007": {
         "id": "402007",
@@ -23584,9 +24168,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402007.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "402008": {
         "id": "402008",
@@ -23595,9 +24177,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402008.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "402009": {
         "id": "402009",
@@ -23606,9 +24186,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402009.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "402010": {
         "id": "402010",
@@ -23617,9 +24195,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402010.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "402011": {
         "id": "402011",
@@ -23628,9 +24204,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402011.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "402012": {
         "id": "402012",
@@ -23639,9 +24213,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402012.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "402013": {
         "id": "402013",
@@ -23650,9 +24222,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402013.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "402014": {
         "id": "402014",
@@ -23661,9 +24231,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402014.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "402015": {
         "id": "402015",
@@ -23672,9 +24240,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402015.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "402016": {
         "id": "402016",
@@ -23683,9 +24249,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402016.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "402017": {
         "id": "402017",
@@ -23694,9 +24258,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402017.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "402018": {
         "id": "402018",
@@ -23705,9 +24267,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402018.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "402019": {
         "id": "402019",
@@ -23716,9 +24276,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402019.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "402020": {
         "id": "402020",
@@ -23727,10 +24285,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402020.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Du's Teahouse"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Du's Teahouse"]
     },
     "402021": {
         "id": "402021",
@@ -23739,10 +24294,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402021.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Longevity Hall"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Longevity Hall"]
     },
     "402022": {
         "id": "402022",
@@ -23751,10 +24303,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402022.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Longevity Hall"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Longevity Hall"]
     },
     "402023": {
         "id": "402023",
@@ -23763,9 +24312,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402023.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "402024": {
         "id": "402024",
@@ -23774,9 +24321,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402024.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "402025": {
         "id": "402025",
@@ -23785,10 +24330,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402025.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Clock Diner"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Clock Diner"]
     },
     "402026": {
         "id": "402026",
@@ -23797,10 +24339,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402026.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Dreamscape Sales Store"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Dreamscape Sales Store"]
     },
     "402027": {
         "id": "402027",
@@ -23809,10 +24348,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402027.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Dreamscape Sales Store"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Dreamscape Sales Store"]
     },
     "402028": {
         "id": "402028",
@@ -23821,10 +24357,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/140396.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Dreamscape Sales Store"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Dreamscape Sales Store"]
     },
     "402029": {
         "id": "402029",
@@ -23833,9 +24366,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402029.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "402030": {
         "id": "402030",
@@ -23844,9 +24375,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402030.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "402031": {
         "id": "402031",
@@ -23855,9 +24384,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402031.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "402032": {
         "id": "402032",
@@ -23866,10 +24393,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402032.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Restoran Marmoreal"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Restoran Marmoreal"]
     },
     "402033": {
         "id": "402033",
@@ -23878,10 +24402,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/402033.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Toko Pandai Besi Chartonus"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Toko Pandai Besi Chartonus"]
     },
     "403001": {
         "id": "403001",
@@ -23890,9 +24411,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/403001.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "403002": {
         "id": "403002",
@@ -23901,9 +24420,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/403002.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "403003": {
         "id": "403003",
@@ -23912,9 +24429,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/403003.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "403004": {
         "id": "403004",
@@ -23923,9 +24438,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/403004.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "403005": {
         "id": "403005",
@@ -23934,9 +24447,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/403005.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "403006": {
         "id": "403006",
@@ -23945,9 +24456,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/403006.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "403007": {
         "id": "403007",
@@ -23956,10 +24465,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/403007.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Spices Supreme"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Spices Supreme"]
     },
     "403008": {
         "id": "403008",
@@ -23968,10 +24474,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/403008.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Oldies Depot"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Oldies Depot"]
     },
     "403009": {
         "id": "403009",
@@ -23980,10 +24483,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/403009.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Dreamscape Sales Store"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Dreamscape Sales Store"]
     },
     "403010": {
         "id": "403010",
@@ -23992,10 +24492,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/403010.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Dreamscape Sales Store"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Dreamscape Sales Store"]
     },
     "403011": {
         "id": "403011",
@@ -24004,10 +24501,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/403011.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Kirk"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Kirk"]
     },
     "403012": {
         "id": "403012",
@@ -24016,9 +24510,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/403012.png",
-        "come_from": [
-            "\"Omni-Synthesizer\""
-        ]
+        "come_from": ["\"Omni-Synthesizer\""]
     },
     "403013": {
         "id": "403013",
@@ -24027,10 +24519,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/403013.png",
-        "come_from": [
-            "\"Omni-Synthesizer\"",
-            "Pedagang Dromas (Pedagang Keliling)"
-        ]
+        "come_from": ["\"Omni-Synthesizer\"", "Karavan Dromas (Pedagang Keliling)"]
     },
     "404004": {
         "id": "404004",
@@ -24786,9 +25275,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/408001.png",
-        "come_from": [
-            "Objek yang bisa dihancurkan di \"Jarilo-Ⅵ\""
-        ]
+        "come_from": ["Objek yang bisa dihancurkan di \"Jarilo-Ⅵ\""]
     },
     "408002": {
         "id": "408002",
@@ -24833,9 +25320,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/408201.png",
-        "come_from": [
-            "Food Stall"
-        ]
+        "come_from": ["Food Stall"]
     },
     "408202": {
         "id": "408202",
@@ -24844,9 +25329,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/408202.png",
-        "come_from": [
-            "Food Stall"
-        ]
+        "come_from": ["Food Stall"]
     },
     "408203": {
         "id": "408203",
@@ -24855,9 +25338,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/408203.png",
-        "come_from": [
-            "Food Stall"
-        ]
+        "come_from": ["Food Stall"]
     },
     "408204": {
         "id": "408204",
@@ -24866,9 +25347,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/408204.png",
-        "come_from": [
-            "Penjelajah Alam: Lynx"
-        ]
+        "come_from": ["Penjelajah Alam: Lynx"]
     },
     "408205": {
         "id": "408205",
@@ -24877,9 +25356,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/408205.png",
-        "come_from": [
-            "Oldies Depot"
-        ]
+        "come_from": ["Oldies Depot"]
     },
     "408206": {
         "id": "408206",
@@ -24888,9 +25365,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/408206.png",
-        "come_from": [
-            "Yongren's Medicine Stand"
-        ]
+        "come_from": ["Yongren's Medicine Stand"]
     },
     "408207": {
         "id": "408207",
@@ -24899,9 +25374,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/408207.png",
-        "come_from": [
-            "Yongren's Medicine Stand"
-        ]
+        "come_from": ["Yongren's Medicine Stand"]
     },
     "408208": {
         "id": "408208",
@@ -24910,9 +25383,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/190013.png",
-        "come_from": [
-            "Newspaper Trolley"
-        ]
+        "come_from": ["Newspaper Trolley"]
     },
     "408209": {
         "id": "408209",
@@ -24921,9 +25392,7 @@
         "sub_type": "Food",
         "rarity": 1,
         "icon": "icon/item/408209.png",
-        "come_from": [
-            "Toko Flagship Resmi SoulGlad™ (Cabang Skysplitter)"
-        ]
+        "come_from": ["Toko Flagship Resmi SoulGlad™ (Cabang Skysplitter)"]
     },
     "408401": {
         "id": "408401",
@@ -24932,9 +25401,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408401.png",
-        "come_from": [
-            "Food Stall"
-        ]
+        "come_from": ["Food Stall"]
     },
     "408402": {
         "id": "408402",
@@ -24943,9 +25410,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408402.png",
-        "come_from": [
-            "Food Stall"
-        ]
+        "come_from": ["Food Stall"]
     },
     "408403": {
         "id": "408403",
@@ -24954,9 +25419,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408403.png",
-        "come_from": [
-            "Food Stall"
-        ]
+        "come_from": ["Food Stall"]
     },
     "408404": {
         "id": "408404",
@@ -24965,9 +25428,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408404.png",
-        "come_from": [
-            "Food Stall"
-        ]
+        "come_from": ["Food Stall"]
     },
     "408405": {
         "id": "408405",
@@ -24976,9 +25437,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408405.png",
-        "come_from": [
-            "Vending Machine"
-        ]
+        "come_from": ["Vending Machine"]
     },
     "408406": {
         "id": "408406",
@@ -24987,9 +25446,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408406.png",
-        "come_from": [
-            "Vending Machine"
-        ]
+        "come_from": ["Vending Machine"]
     },
     "408407": {
         "id": "408407",
@@ -24998,9 +25455,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408407.png",
-        "come_from": [
-            "Food Stall"
-        ]
+        "come_from": ["Food Stall"]
     },
     "408408": {
         "id": "408408",
@@ -25009,9 +25464,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408408.png",
-        "come_from": [
-            "Food Stall"
-        ]
+        "come_from": ["Food Stall"]
     },
     "408409": {
         "id": "408409",
@@ -25020,9 +25473,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408409.png",
-        "come_from": [
-            "Penjelajah Alam: Lynx"
-        ]
+        "come_from": ["Penjelajah Alam: Lynx"]
     },
     "408410": {
         "id": "408410",
@@ -25031,9 +25482,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408410.png",
-        "come_from": [
-            "Procurement Point for Expired Parcels"
-        ]
+        "come_from": ["Procurement Point for Expired Parcels"]
     },
     "408411": {
         "id": "408411",
@@ -25042,9 +25491,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408411.png",
-        "come_from": [
-            "Procurement Point for Expired Parcels"
-        ]
+        "come_from": ["Procurement Point for Expired Parcels"]
     },
     "408412": {
         "id": "408412",
@@ -25053,9 +25500,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408412.png",
-        "come_from": [
-            "Procurement Point for Expired Parcels"
-        ]
+        "come_from": ["Procurement Point for Expired Parcels"]
     },
     "408413": {
         "id": "408413",
@@ -25064,9 +25509,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408413.png",
-        "come_from": [
-            "Oldies Depot"
-        ]
+        "come_from": ["Oldies Depot"]
     },
     "408414": {
         "id": "408414",
@@ -25075,9 +25518,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408414.png",
-        "come_from": [
-            "Longevity Hall"
-        ]
+        "come_from": ["Longevity Hall"]
     },
     "408415": {
         "id": "408415",
@@ -25086,9 +25527,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408415.png",
-        "come_from": [
-            "Popcorn Food Truck"
-        ]
+        "come_from": ["Popcorn Food Truck"]
     },
     "408416": {
         "id": "408416",
@@ -25097,9 +25536,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408416.png",
-        "come_from": [
-            "Dreamscape Sales Store"
-        ]
+        "come_from": ["Dreamscape Sales Store"]
     },
     "408417": {
         "id": "408417",
@@ -25108,9 +25545,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408417.png",
-        "come_from": [
-            "Dreamscape Sales Store"
-        ]
+        "come_from": ["Dreamscape Sales Store"]
     },
     "408418": {
         "id": "408418",
@@ -25119,9 +25554,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408418.png",
-        "come_from": [
-            "Dreamscape Sales Store"
-        ]
+        "come_from": ["Dreamscape Sales Store"]
     },
     "408419": {
         "id": "408419",
@@ -25130,9 +25563,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408419.png",
-        "come_from": [
-            "Jessie's Snack"
-        ]
+        "come_from": ["Jessie's Snack"]
     },
     "408420": {
         "id": "408420",
@@ -25141,9 +25572,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408420.png",
-        "come_from": [
-            "Kirk"
-        ]
+        "come_from": ["Kirk"]
     },
     "408421": {
         "id": "408421",
@@ -25152,9 +25581,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408421.png",
-        "come_from": [
-            "Kirk"
-        ]
+        "come_from": ["Kirk"]
     },
     "408422": {
         "id": "408422",
@@ -25163,9 +25590,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408422.png",
-        "come_from": [
-            "Jessie's Snack"
-        ]
+        "come_from": ["Jessie's Snack"]
     },
     "408423": {
         "id": "408423",
@@ -25174,9 +25599,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408423.png",
-        "come_from": [
-            "Penjual Camilan"
-        ]
+        "come_from": ["Penjual Camilan"]
     },
     "408424": {
         "id": "408424",
@@ -25185,9 +25608,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408424.png",
-        "come_from": [
-            "Dahf"
-        ]
+        "come_from": ["Dahf"]
     },
     "408425": {
         "id": "408425",
@@ -25196,9 +25617,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408425.png",
-        "come_from": [
-            "Dahf"
-        ]
+        "come_from": ["Dahf"]
     },
     "408426": {
         "id": "408426",
@@ -25207,9 +25626,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408426.png",
-        "come_from": [
-            "Penjual Camilan"
-        ]
+        "come_from": ["Penjual Camilan"]
     },
     "408427": {
         "id": "408427",
@@ -25218,9 +25635,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408427.png",
-        "come_from": [
-            "Serikat Lapas Arma"
-        ]
+        "come_from": ["Serikat Lapas Arma"]
     },
     "408428": {
         "id": "408428",
@@ -25229,9 +25644,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408428.png",
-        "come_from": [
-            "Institut Penelitian Bahan Kimia Rumah Tangga Grup Serikat Lapas Arma"
-        ]
+        "come_from": ["Institut Penelitian Bahan Kimia Rumah Tangga Grup Serikat Lapas Arma"]
     },
     "408429": {
         "id": "408429",
@@ -25240,9 +25653,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408429.png",
-        "come_from": [
-            "Pusat Media \"Gelora Yaoqing\""
-        ]
+        "come_from": ["Pusat Media \"Gelora Yaoqing\""]
     },
     "408430": {
         "id": "408430",
@@ -25251,9 +25662,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408430.png",
-        "come_from": [
-            "Pusat Media \"Gelora Yaoqing\""
-        ]
+        "come_from": ["Pusat Media \"Gelora Yaoqing\""]
     },
     "408431": {
         "id": "408431",
@@ -25262,9 +25671,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408431.png",
-        "come_from": [
-            "Pusat Media \"Gelora Yaoqing\""
-        ]
+        "come_from": ["Pusat Media \"Gelora Yaoqing\""]
     },
     "408432": {
         "id": "408432",
@@ -25273,9 +25680,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408432.png",
-        "come_from": [
-            "Chaletka"
-        ]
+        "come_from": ["Chaletka"]
     },
     "408433": {
         "id": "408433",
@@ -25284,9 +25689,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408433.png",
-        "come_from": [
-            "Chaletka"
-        ]
+        "come_from": ["Chaletka"]
     },
     "408434": {
         "id": "408434",
@@ -25295,9 +25698,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408434.png",
-        "come_from": [
-            "Chaletka"
-        ]
+        "come_from": ["Chaletka"]
     },
     "408435": {
         "id": "408435",
@@ -25306,9 +25707,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408435.png",
-        "come_from": [
-            "Makmur"
-        ]
+        "come_from": ["Makmur"]
     },
     "408436": {
         "id": "408436",
@@ -25317,9 +25716,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408436.png",
-        "come_from": [
-            "Chaletka"
-        ]
+        "come_from": ["Chaletka"]
     },
     "408437": {
         "id": "408437",
@@ -25328,9 +25725,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408437.png",
-        "come_from": [
-            "Toko Pandai Besi Chartonus"
-        ]
+        "come_from": ["Toko Pandai Besi Chartonus"]
     },
     "408438": {
         "id": "408438",
@@ -25339,9 +25734,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408438.png",
-        "come_from": [
-            "Harta Karun Waktu"
-        ]
+        "come_from": ["Harta Karun Waktu"]
     },
     "408439": {
         "id": "408439",
@@ -25350,9 +25743,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408439.png",
-        "come_from": [
-            "Harta Karun Waktu"
-        ]
+        "come_from": ["Harta Karun Waktu"]
     },
     "408440": {
         "id": "408440",
@@ -25361,9 +25752,7 @@
         "sub_type": "Food",
         "rarity": 2,
         "icon": "icon/item/408440.png",
-        "come_from": [
-            "Pedagang Dromas (Pedagang Keliling)"
-        ]
+        "come_from": ["Karavan Dromas (Pedagang Keliling)"]
     },
     "408601": {
         "id": "408601",
@@ -25372,9 +25761,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408601.png",
-        "come_from": [
-            "Food Stall"
-        ]
+        "come_from": ["Food Stall"]
     },
     "408602": {
         "id": "408602",
@@ -25383,9 +25770,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408602.png",
-        "come_from": [
-            "Food Stall"
-        ]
+        "come_from": ["Food Stall"]
     },
     "408603": {
         "id": "408603",
@@ -25394,9 +25779,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408603.png",
-        "come_from": [
-            "Sleepless Earl"
-        ]
+        "come_from": ["Sleepless Earl"]
     },
     "408604": {
         "id": "408604",
@@ -25405,9 +25788,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408604.png",
-        "come_from": [
-            "NutriTreasures"
-        ]
+        "come_from": ["NutriTreasures"]
     },
     "408605": {
         "id": "408605",
@@ -25416,9 +25797,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/140279.png",
-        "come_from": [
-            "Delicacy Pavilion"
-        ]
+        "come_from": ["Delicacy Pavilion"]
     },
     "408606": {
         "id": "408606",
@@ -25436,9 +25815,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408607.png",
-        "come_from": [
-            "Procurement Point for Expired Parcels"
-        ]
+        "come_from": ["Procurement Point for Expired Parcels"]
     },
     "408608": {
         "id": "408608",
@@ -25447,9 +25824,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408608.png",
-        "come_from": [
-            "Procurement Point for Expired Parcels"
-        ]
+        "come_from": ["Procurement Point for Expired Parcels"]
     },
     "408609": {
         "id": "408609",
@@ -25458,9 +25833,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408609.png",
-        "come_from": [
-            "Clock Diner"
-        ]
+        "come_from": ["Clock Diner"]
     },
     "408610": {
         "id": "408610",
@@ -25469,9 +25842,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408610.png",
-        "come_from": [
-            "Clock Diner"
-        ]
+        "come_from": ["Clock Diner"]
     },
     "408611": {
         "id": "408611",
@@ -25480,9 +25851,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408611.png",
-        "come_from": [
-            "Clock Diner"
-        ]
+        "come_from": ["Clock Diner"]
     },
     "408612": {
         "id": "408612",
@@ -25491,9 +25860,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408612.png",
-        "come_from": [
-            "Clock Diner"
-        ]
+        "come_from": ["Clock Diner"]
     },
     "408613": {
         "id": "408613",
@@ -25502,9 +25869,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408613.png",
-        "come_from": [
-            "Anderson"
-        ]
+        "come_from": ["Anderson"]
     },
     "408614": {
         "id": "408614",
@@ -25513,9 +25878,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408614.png",
-        "come_from": [
-            "Dreamscape Sales Store"
-        ]
+        "come_from": ["Dreamscape Sales Store"]
     },
     "408615": {
         "id": "408615",
@@ -25524,9 +25887,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/140397.png",
-        "come_from": [
-            "Dreamscape Sales Store"
-        ]
+        "come_from": ["Dreamscape Sales Store"]
     },
     "408616": {
         "id": "408616",
@@ -25535,9 +25896,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408616.png",
-        "come_from": [
-            "Dreamscape Sales Store"
-        ]
+        "come_from": ["Dreamscape Sales Store"]
     },
     "408617": {
         "id": "408617",
@@ -25546,9 +25905,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408617.png",
-        "come_from": [
-            "Dreamjoy Fashion Store"
-        ]
+        "come_from": ["Dreamjoy Fashion Store"]
     },
     "408618": {
         "id": "408618",
@@ -25557,9 +25914,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408618.png",
-        "come_from": [
-            "Dreamjoy Fashion Store"
-        ]
+        "come_from": ["Dreamjoy Fashion Store"]
     },
     "408619": {
         "id": "408619",
@@ -25568,9 +25923,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408619.png",
-        "come_from": [
-            "Dreamjoy Fashion Store"
-        ]
+        "come_from": ["Dreamjoy Fashion Store"]
     },
     "408620": {
         "id": "408620",
@@ -25579,9 +25932,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408620.png",
-        "come_from": [
-            "Dreamville-Themed Restaurant"
-        ]
+        "come_from": ["Dreamville-Themed Restaurant"]
     },
     "408621": {
         "id": "408621",
@@ -25590,9 +25941,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408622.png",
-        "come_from": [
-            "Dreamville-Themed Restaurant"
-        ]
+        "come_from": ["Dreamville-Themed Restaurant"]
     },
     "408622": {
         "id": "408622",
@@ -25601,9 +25950,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408621.png",
-        "come_from": [
-            "Dreamville-Themed Restaurant"
-        ]
+        "come_from": ["Dreamville-Themed Restaurant"]
     },
     "408623": {
         "id": "408623",
@@ -25612,9 +25959,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408623.png",
-        "come_from": [
-            "Dreamville-Themed Restaurant"
-        ]
+        "come_from": ["Dreamville-Themed Restaurant"]
     },
     "408624": {
         "id": "408624",
@@ -25623,9 +25968,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408624.png",
-        "come_from": [
-            "Jessie's Snack"
-        ]
+        "come_from": ["Jessie's Snack"]
     },
     "408625": {
         "id": "408625",
@@ -25634,9 +25977,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408625.png",
-        "come_from": [
-            "Kirk"
-        ]
+        "come_from": ["Kirk"]
     },
     "408626": {
         "id": "408626",
@@ -25645,9 +25986,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408626.png",
-        "come_from": [
-            "Auto Band"
-        ]
+        "come_from": ["Auto Band"]
     },
     "408627": {
         "id": "408627",
@@ -25656,9 +25995,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408627.png",
-        "come_from": [
-            "Auto Band"
-        ]
+        "come_from": ["Auto Band"]
     },
     "408628": {
         "id": "408628",
@@ -25667,9 +26004,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408628.png",
-        "come_from": [
-            "Penjual Camilan"
-        ]
+        "come_from": ["Penjual Camilan"]
     },
     "408629": {
         "id": "408629",
@@ -25678,9 +26013,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408629.png",
-        "come_from": [
-            "Penjual Camilan"
-        ]
+        "come_from": ["Penjual Camilan"]
     },
     "408630": {
         "id": "408630",
@@ -25689,9 +26022,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408630.png",
-        "come_from": [
-            "Penjual Camilan"
-        ]
+        "come_from": ["Penjual Camilan"]
     },
     "408631": {
         "id": "408631",
@@ -25700,9 +26031,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408631.png",
-        "come_from": [
-            "Serikat Lapas Arma"
-        ]
+        "come_from": ["Serikat Lapas Arma"]
     },
     "408632": {
         "id": "408632",
@@ -25711,9 +26040,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408632.png",
-        "come_from": [
-            "Institut Penelitian Bahan Kimia Rumah Tangga Grup Serikat Lapas Arma"
-        ]
+        "come_from": ["Institut Penelitian Bahan Kimia Rumah Tangga Grup Serikat Lapas Arma"]
     },
     "408633": {
         "id": "408633",
@@ -25722,9 +26049,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408633.png",
-        "come_from": [
-            "Pusat Media \"Gelora Yaoqing\""
-        ]
+        "come_from": ["Pusat Media \"Gelora Yaoqing\""]
     },
     "408634": {
         "id": "408634",
@@ -25733,9 +26058,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408634.png",
-        "come_from": [
-            "Makmur"
-        ]
+        "come_from": ["Makmur"]
     },
     "408635": {
         "id": "408635",
@@ -25744,9 +26067,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408635.png",
-        "come_from": [
-            "Makmur"
-        ]
+        "come_from": ["Makmur"]
     },
     "408636": {
         "id": "408636",
@@ -25755,9 +26076,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408636.png",
-        "come_from": [
-            "Meja Bar \"Bacot\""
-        ]
+        "come_from": ["Meja Bar \"Bacot\""]
     },
     "408637": {
         "id": "408637",
@@ -25766,9 +26085,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408637.png",
-        "come_from": [
-            "Meja Bar \"Bacot\""
-        ]
+        "come_from": ["Meja Bar \"Bacot\""]
     },
     "408638": {
         "id": "408638",
@@ -25777,9 +26094,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408638.png",
-        "come_from": [
-            "Meja Bar \"Bacot\""
-        ]
+        "come_from": ["Meja Bar \"Bacot\""]
     },
     "408639": {
         "id": "408639",
@@ -25788,9 +26103,7 @@
         "sub_type": "Food",
         "rarity": 3,
         "icon": "icon/item/408639.png",
-        "come_from": [
-            "Toko Pandai Besi Chartonus"
-        ]
+        "come_from": ["Toko Pandai Besi Chartonus"]
     },
     "408801": {
         "id": "408801",
@@ -25799,9 +26112,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/408801.png",
-        "come_from": [
-            "Ice Cream Trolley"
-        ]
+        "come_from": ["Ice Cream Trolley"]
     },
     "408802": {
         "id": "408802",
@@ -25810,9 +26121,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/408802.png",
-        "come_from": [
-            "Dreamscape Sales Store"
-        ]
+        "come_from": ["Dreamscape Sales Store"]
     },
     "408803": {
         "id": "408803",
@@ -25821,9 +26130,7 @@
         "sub_type": "Food",
         "rarity": 4,
         "icon": "icon/item/408803.png",
-        "come_from": [
-            "Chaletka"
-        ]
+        "come_from": ["Chaletka"]
     },
     "408901": {
         "id": "408901",
@@ -25832,9 +26139,7 @@
         "sub_type": "FindChest",
         "rarity": 5,
         "icon": "icon/item/408901.png",
-        "come_from": [
-            "Diperoleh dari Hadiah Poin \"Internal Purchase Officer\""
-        ]
+        "come_from": ["Diperoleh dari Hadiah Poin \"Internal Purchase Officer\""]
     },
     "408902": {
         "id": "408902",
@@ -25843,9 +26148,7 @@
         "sub_type": "FindChest",
         "rarity": 5,
         "icon": "icon/item/408902.png",
-        "come_from": [
-            "Diperoleh dari Hadiah Poin \"Underground Shop\""
-        ]
+        "come_from": ["Diperoleh dari Hadiah Poin \"Underground Shop\""]
     },
     "408903": {
         "id": "408903",
@@ -25854,9 +26157,7 @@
         "sub_type": "FindChest",
         "rarity": 5,
         "icon": "icon/item/408903.png",
-        "come_from": [
-            "Diperoleh dari Hadiah Poin \"Jeweler's Pagoda\""
-        ]
+        "come_from": ["Diperoleh dari Hadiah Poin \"Jeweler's Pagoda\""]
     },
     "408904": {
         "id": "408904",
@@ -25865,9 +26166,7 @@
         "sub_type": "FindChest",
         "rarity": 5,
         "icon": "icon/item/408904.png",
-        "come_from": [
-            "Diperoleh dari Hadiah Level \"Patung Clockie\""
-        ]
+        "come_from": ["Diperoleh dari Hadiah Level \"Patung Clockie\""]
     },
     "408905": {
         "id": "408905",
@@ -25876,8 +26175,6 @@
         "sub_type": "FindChest",
         "rarity": 5,
         "icon": "icon/item/408905.png",
-        "come_from": [
-            "Diperoleh dari Hadiah Level \"Hadiah Pasang Surut\""
-        ]
+        "come_from": ["Diperoleh dari Hadiah Level \"Hadiah Pasang Surut\""]
     }
 }
