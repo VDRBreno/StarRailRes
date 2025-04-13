@@ -1,1 +1,1 @@
-{"id":"120","name":"风举云飞的勇烈","desc":["攻击力提高12%。","使装备者的暴击率提高6%，装备者施放追加攻击时，使终结技造成的伤害提高36%，持续1回合。"],"properties":[[{"type":"AttackAddedRatio","value":0.12}],[{"type":"CriticalChanceBase","value":0.06}]],"icon":"icon/relic/120.png","guide_overview":["guide/Nwflower/relic_set/120.png"]}
+{"id":"120","name":"风举云飞的勇烈","desc":["攻击力提高12%。","使装备者的暴击率提高6%，装备者施放追加攻击时，使终结技造成的伤害提高36%，持续1回合。"],"properties":[[{"type":"AttackAddedRatio","value":0.12}],[{"type":"CriticalChanceBase","value":0.06}]],"icon":"icon/relic/120.png"}

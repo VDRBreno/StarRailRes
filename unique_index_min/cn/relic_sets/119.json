@@ -1,1 +1,1 @@
-{"id":"119","name":"荡除蠹灾的铁骑","desc":["击破特攻提高16%。","当装备者的击破特攻大于等于150%时，对敌方目标造成的击破伤害无视其10%的防御力。当装备者的击破特攻大于等于250%时，对敌方目标造成的超击破伤害额外无视其15%的防御力。"],"properties":[[{"type":"BreakDamageAddedRatioBase","value":0.16}],[]],"icon":"icon/relic/119.png","guide_overview":["guide/Nwflower/relic_set/119.png"]}
+{"id":"119","name":"荡除蠹灾的铁骑","desc":["击破特攻提高16%。","当装备者的击破特攻大于等于150%时，对敌方目标造成的击破伤害无视其10%的防御力。当装备者的击破特攻大于等于250%时，对敌方目标造成的超击破伤害额外无视其15%的防御力。"],"properties":[[{"type":"BreakDamageAddedRatioBase","value":0.16}],[]],"icon":"icon/relic/119.png"}

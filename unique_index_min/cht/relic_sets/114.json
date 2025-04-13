@@ -1,1 +1,1 @@
-{"id":"114","name":"駭域漫遊的信使","desc":["速度提高6%。","當裝備者對我方目標施放終結技時，我方全體速度提高12%，持續1回合，該效果無法疊加。"],"properties":[[{"type":"SpeedAddedRatio","value":0.06}],[]],"icon":"icon/relic/114.png","guide_overview":[]}
+{"id":"114","name":"駭域漫遊的信使","desc":["速度提高6%。","當裝備者對我方目標施放終結技時，我方全體速度提高12%，持續1回合，該效果無法疊加。"],"properties":[[{"type":"SpeedAddedRatio","value":0.06}],[]],"icon":"icon/relic/114.png"}

@@ -1,0 +1,1 @@
+{"id":"1405103","name":"质性的嬗变","max_level":1,"desc":"敌方目标每拥有1个不同属性的弱点，那刻夏对其造成的伤害无视#1[i]%的防御力，最多计入7个。","params":[[0.04]],"anchor":"Point08","pre_points":[],"level_up_skills":[],"levels":[{"promotion":6,"level":0,"properties":[],"materials":[{"id":"2","num":160000},{"id":"110203","num":8},{"id":"241","num":1},{"id":"110505","num":1}]}],"icon":"icon/skill/1405_skilltree3.png"}

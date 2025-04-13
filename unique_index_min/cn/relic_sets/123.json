@@ -1,1 +1,1 @@
-{"id":"123","name":"凯歌祝捷的英豪","desc":["攻击力提高12%。","装备者的忆灵在场时，装备者的速度提高6%，装备者的忆灵攻击时，装备者和忆灵的暴击伤害提高30%，持续2回合。"],"properties":[[{"type":"AttackAddedRatio","value":0.12}],[]],"icon":"icon/relic/123.png","guide_overview":[]}
+{"id":"123","name":"凯歌祝捷的英豪","desc":["攻击力提高12%。","装备者的忆灵在场时，装备者的速度提高6%，装备者的忆灵攻击时，装备者和忆灵的暴击伤害提高30%，持续2回合。"],"properties":[[{"type":"AttackAddedRatio","value":0.12}],[]],"icon":"icon/relic/123.png"}

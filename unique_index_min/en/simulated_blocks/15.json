@@ -1,1 +1,1 @@
-{"id":"15","name":"Boss","desc":"Boss Domain. Defeat the Boss in this domain to pass this plane.","icon":"icon/block/SceneNaviRogueNousDlcBossIcon.png","color":"#ffffffff"}
+{"id":"15","name":"Boss","desc":"Mutation beacon. Enemies in the domains with this beacon will become \"Bugs.\" After winning a battle, receive additional Cosmic Fragments.","icon":"icon/block/RogueNousDlcBossIcon.png","icon_board":"icon/block/SceneNaviRogueNousDlcBossIcon.png","color":"#ffffffff"}

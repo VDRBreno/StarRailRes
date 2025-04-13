@@ -1,0 +1,1 @@
+{"id":"1140705","name":"静寂を揺るがす怒哮","max_level":10,"element":"","type":"MemospriteTalent","type_text":"精霊天賦","effect":"Support","effect_text":"サポート","simple_desc":"召喚された時、味方全体の与ダメージをアップする。","desc":"死竜が召喚された時、味方全体の与ダメージ+#1[i]%、#2[i]ターン継続。","params":[[0.1,3],[0.1,3],[0.1,3],[0.1,3],[0.1,3],[0.1,3],[0.1,3],[0.1,3],[0.1,3],[0.1,3]],"icon":"icon/skill/1407_memosprite_talent.png"}

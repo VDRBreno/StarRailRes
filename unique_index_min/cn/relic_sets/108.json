@@ -1,1 +1,1 @@
-{"id":"108","name":"繁星璀璨的天才","desc":["量子属性伤害提高10%。","当装备者对敌方目标造成伤害时，无视其10%的防御力。若目标拥有量子属性弱点，额外无视其10%的防御力。"],"properties":[[{"type":"QuantumAddedRatio","value":0.1}],[]],"icon":"icon/relic/108.png","guide_overview":["guide/Nwflower/relic_set/108.png"]}
+{"id":"108","name":"繁星璀璨的天才","desc":["量子属性伤害提高10%。","当装备者对敌方目标造成伤害时，无视其10%的防御力。若目标拥有量子属性弱点，额外无视其10%的防御力。"],"properties":[[{"type":"QuantumAddedRatio","value":0.1}],[]],"icon":"icon/relic/108.png"}

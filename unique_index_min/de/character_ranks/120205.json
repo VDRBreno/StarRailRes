@@ -1,1 +1,1 @@
-{"id":"120205","name":"Flanierende Kokotte","rank":5,"desc":"Fertigkeitsstufe +2 bis max. St. 15. Talentstufe +2 bis max. St. 15.","materials":[{"id":"11202","num":1}],"level_up_skills":[{"id":"120202","num":2},{"id":"120204","num":2}],"icon":"icon/skill/1202_ultimate.png"}
+{"id":"120205","name":"Flanierende Kokotte","rank":5,"desc":"Fertigkeitsstufe +2 bis max. St. 15. Talentstufe +2 bis max. St. 15.","materials":[{"id":"11202","num":1}],"level_up_skills":[{"id":"120202","num":2},{"id":"120204","num":2}],"icon":"icon/skill/1202_skill.png"}

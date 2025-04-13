@@ -1,1 +1,1 @@
-{"id":"120603","name":"传古剑流","rank":3,"desc":"终结技等级+2，最多不超过15级；天赋等级+2，最多不超过15级。","materials":[{"id":"11206","num":1}],"level_up_skills":[{"id":"120603","num":2},{"id":"120604","num":2}],"icon":"icon/skill/1206_skill.png"}
+{"id":"120603","name":"传古剑流","rank":3,"desc":"终结技等级+2，最多不超过15级；天赋等级+2，最多不超过15级。","materials":[{"id":"11206","num":1}],"level_up_skills":[{"id":"120603","num":2},{"id":"120604","num":2}],"icon":"icon/skill/1206_ultimate.png"}

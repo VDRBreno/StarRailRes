@@ -1,1 +1,1 @@
-{"id":"116","name":"幽锁深牢的系囚","desc":["攻击力提高12%。","敌方目标每承受1个持续伤害效果，装备者对其造成伤害时就无视其6%的防御力，最多计入3个持续伤害效果。"],"properties":[[{"type":"AttackAddedRatio","value":0.12}],[]],"icon":"icon/relic/116.png","guide_overview":["guide/Nwflower/relic_set/116.png"]}
+{"id":"116","name":"幽锁深牢的系囚","desc":["攻击力提高12%。","敌方目标每承受1个持续伤害效果，装备者对其造成伤害时就无视其6%的防御力，最多计入3个持续伤害效果。"],"properties":[[{"type":"AttackAddedRatio","value":0.12}],[]],"icon":"icon/relic/116.png"}

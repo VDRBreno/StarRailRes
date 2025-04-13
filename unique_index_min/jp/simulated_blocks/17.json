@@ -1,1 +1,1 @@
-{"id":"17","name":"イベント・異常","desc":"特殊イベントエリア。このエリアでは比較的にリスクが大きいイベントに遭遇しやすくなる。","icon":"icon/block/SceneNaviRogueNousSpEventIcon.png","color":"#c979ff"}
+{"id":"17","name":"イベント・異常","desc":"祝福プーマンのビーコン。このビーコンがあるエリア内での戦闘では、プーマンが出現する。プーマンを倒すと追加の祝福を獲得できる。","icon":"icon/block/RogueNousSpEventIcon.png","icon_board":"icon/block/SceneNaviRogueNousSpEventIcon.png","color":"#c979ff"}

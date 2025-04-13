@@ -1,1 +1,1 @@
-{"id":"674240","name":"Executor","desc":"Os Danos Contínuos recebidos por inimigos-alvo podem ser CRIT. A Chance de CRIT/o Dano CRIT é igual a 20% da Chance de CRIT/no Dano CRIT total dos personagens, com o Dano CRIT limitado a 120%.","enhanced_desc":""}
+{"id":"674240","name":"Executor","desc":"Os Danos Contínuos recebidos por inimigos-alvo podem ser CRIT. A Chance de CRIT/Dano CRIT é igual a 20% da Chance de CRIT/Dano CRIT total dos todos os personagens aliados, com o Dano CRIT limitado a 120%.","enhanced_desc":""}

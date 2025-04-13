@@ -1,1 +1,1 @@
-{"id":"111","name":"유성을 쫓는 괴도","desc":["격파 특수효과 16% 증가","장착한 캐릭터의 격파 특수효과가 16% 증가한다. 장착한 캐릭터는 적의 약점을 격파한 후 에너지를 3pt 회복한다"],"properties":[[{"type":"BreakDamageAddedRatioBase","value":0.16}],[{"type":"BreakDamageAddedRatioBase","value":0.16}]],"icon":"icon/relic/111.png","guide_overview":[]}
+{"id":"111","name":"유성을 쫓는 괴도","desc":["격파 특수효과 16% 증가","장착한 캐릭터의 격파 특수효과가 16% 증가한다. 장착한 캐릭터는 적의 약점을 격파한 후 에너지를 3pt 회복한다"],"properties":[[{"type":"BreakDamageAddedRatioBase","value":0.16}],[{"type":"BreakDamageAddedRatioBase","value":0.16}]],"icon":"icon/relic/111.png"}

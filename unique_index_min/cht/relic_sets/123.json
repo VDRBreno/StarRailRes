@@ -1,1 +1,1 @@
-{"id":"123","name":"凱歌祝捷的英豪","desc":["攻擊力提高12%。","裝備者的憶靈在場時，裝備者的速度提高6%，裝備者的憶靈攻擊時，裝備者和憶靈的暴擊傷害提高30%，持續2回合。"],"properties":[[{"type":"AttackAddedRatio","value":0.12}],[]],"icon":"icon/relic/123.png","guide_overview":[]}
+{"id":"123","name":"凱歌祝捷的英豪","desc":["攻擊力提高12%。","裝備者的憶靈在場時，裝備者的速度提高6%，裝備者的憶靈攻擊時，裝備者和憶靈的暴擊傷害提高30%，持續2回合。"],"properties":[[{"type":"AttackAddedRatio","value":0.12}],[]],"icon":"icon/relic/123.png"}

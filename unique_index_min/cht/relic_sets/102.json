@@ -1,1 +1,1 @@
-{"id":"102","name":"野穗伴行的快槍手","desc":["攻擊力提高12%。","使裝備者的速度提高6%、普通攻擊造成的傷害提高10%。"],"properties":[[{"type":"AttackAddedRatio","value":0.12}],[{"type":"SpeedAddedRatio","value":0.06}]],"icon":"icon/relic/102.png","guide_overview":[]}
+{"id":"102","name":"野穗伴行的快槍手","desc":["攻擊力提高12%。","使裝備者的速度提高6%、普通攻擊造成的傷害提高10%。"],"properties":[[{"type":"AttackAddedRatio","value":0.12}],[{"type":"SpeedAddedRatio","value":0.06}]],"icon":"icon/relic/102.png"}

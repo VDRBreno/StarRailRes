@@ -1,1 +1,1 @@
-{"id":"121205","name":"어둠에 잠긴 삼태성","rank":5,"desc":"전투 스킬 레벨+2, 최대 Lv.15. 일반 공격 레벨+1, 최대 Lv.10","materials":[{"id":"11212","num":1}],"level_up_skills":[{"id":"121202","num":2},{"id":"121201","num":1},{"id":"121209","num":2}],"icon":"icon/skill/1212_ultimate.png"}
+{"id":"121205","name":"어둠에 잠긴 삼태성","rank":5,"desc":"전투 스킬 레벨+2, 최대 Lv.15. 일반 공격 레벨+1, 최대 Lv.10","materials":[{"id":"11212","num":1}],"level_up_skills":[{"id":"121202","num":2},{"id":"121201","num":1},{"id":"121209","num":2}],"icon":"icon/skill/1212_skill.png"}

@@ -1,1 +1,1 @@
-{"id":"101","name":"Transeúnte de la nube pasajera","desc":["Curación realizada +10%.","Al entrar en combate, el equipo recupera inmediatamente 1 pt. de habilidad básica."],"properties":[[{"type":"HealRatioBase","value":0.1}],[]],"icon":"icon/relic/101.png","guide_overview":[]}
+{"id":"101","name":"Transeúnte de la nube pasajera","desc":["Curación realizada +10%.","Al entrar en combate, el equipo recupera inmediatamente 1 pt. de habilidad básica."],"properties":[[{"type":"HealRatioBase","value":0.1}],[]],"icon":"icon/relic/101.png"}

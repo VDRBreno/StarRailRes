@@ -1,1 +1,1 @@
-{"id":"317","name":"沉陆海域露莎卡","desc":["使装备者的能量恢复效率提高5%，如果装备者不是编队中的第一位角色，使编队中的第一位角色攻击力提高12%。"],"properties":[[{"type":"SPRatioBase","value":0.05}]],"icon":"icon/relic/317.png","guide_overview":[]}
+{"id":"317","name":"沉陆海域露莎卡","desc":["使装备者的能量恢复效率提高5%，如果装备者不是编队中的第一位角色，使编队中的第一位角色攻击力提高12%。"],"properties":[[{"type":"SPRatioBase","value":0.05}]],"icon":"icon/relic/317.png"}

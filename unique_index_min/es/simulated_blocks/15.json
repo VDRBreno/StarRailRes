@@ -1,1 +1,1 @@
-{"id":"15","name":"Jefe","desc":"Zona de jefe. Derrota al jefe de esta zona para superar este plano.","icon":"icon/block/SceneNaviRogueNousDlcBossIcon.png","color":"#ffffffff"}
+{"id":"15","name":"Jefe","desc":"Baliza de mutación. Los enemigos de la zona que tenga esta baliza se convierten en enemigos con errores. Tras ganar la batalla, se obtienen fragmentos cósmicos adicionales.","icon":"icon/block/RogueNousDlcBossIcon.png","icon_board":"icon/block/SceneNaviRogueNousDlcBossIcon.png","color":"#ffffffff"}

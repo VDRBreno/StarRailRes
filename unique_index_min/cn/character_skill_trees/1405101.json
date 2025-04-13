@@ -1,0 +1,1 @@
+{"id":"1405101","name":"流浪的能指","max_level":1,"desc":"施放普攻时，额外恢复#1[i]点能量。\n回合开始时，若场上不存在处于【质性揭露】状态的敌方目标，立即恢复#2[i]点能量。","params":[[10,30]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110201","num":3},{"id":"110505","num":1}]}],"icon":"icon/skill/1405_skilltree1.png"}

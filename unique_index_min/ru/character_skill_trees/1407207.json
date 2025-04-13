@@ -1,0 +1,1 @@
+{"id":"1407207","name":"Усиление крит. шанса","max_level":1,"desc":"","params":[],"anchor":"Point15","pre_points":["1407102"],"level_up_skills":[],"levels":[{"promotion":5,"level":0,"properties":[{"type":"CriticalChanceBase","value":0.04}],"materials":[{"id":"2","num":45000},{"id":"110253","num":3},{"id":"115013","num":3}]}],"icon":"icon/property/IconCriticalChance.png"}

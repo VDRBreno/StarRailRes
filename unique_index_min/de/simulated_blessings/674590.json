@@ -1,1 +1,1 @@
-{"id":"674590","name":"Vorreiter von Kremnos","desc":"Fügt ein Verbündeter einem Gegner Schwächebruch zu, wird Blazar um 25% seiner max. LP aufgeladen. Wenn alle Gegner Schwächebruch erlitten haben, wird Blaze zu Beginn der Runde von Verbündeten nicht zurückgesetzt.","enhanced_desc":""}
+{"id":"674590","name":"Vorreiter von Kremnos","desc":"Wenn ein Verbündeter einem Gegner Schwächebruch zufügt, wird Blazar um 25% der max. LP aufgeladen. Wenn alle Gegner Schwächebruch erleiden, wird Blazar zu Beginn der Runde von Verbündeten nicht entfernt.","enhanced_desc":""}

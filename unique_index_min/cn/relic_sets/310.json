@@ -1,1 +1,1 @@
-{"id":"310","name":"折断的龙骨","desc":["使装备者的效果抵抗提高10%。当装备者的效果抵抗大于等于30%时，我方全体暴击伤害提高10%。"],"properties":[[{"type":"StatusResistanceBase","value":0.1}]],"icon":"icon/relic/310.png","guide_overview":["guide/Nwflower/relic_set/310.png"]}
+{"id":"310","name":"折断的龙骨","desc":["使装备者的效果抵抗提高10%。当装备者的效果抵抗大于等于30%时，我方全体暴击伤害提高10%。"],"properties":[[{"type":"StatusResistanceBase","value":0.1}]],"icon":"icon/relic/310.png"}

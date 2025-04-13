@@ -1,1 +1,1 @@
-{"id":"104","name":"Hunter of Glacial Forest","desc":["Increases Ice DMG by 10%.","After the wearer uses their Ultimate, their CRIT DMG increases by 25% for 2 turn(s)."],"properties":[[{"type":"IceAddedRatio","value":0.1}],[]],"icon":"icon/relic/104.png","guide_overview":[]}
+{"id":"104","name":"Hunter of Glacial Forest","desc":["Increases Ice DMG by 10%.","After the wearer uses their Ultimate, their CRIT DMG increases by 25% for 2 turn(s)."],"properties":[[{"type":"IceAddedRatio","value":0.1}],[]],"icon":"icon/relic/104.png"}

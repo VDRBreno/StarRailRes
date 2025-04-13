@@ -1,1 +1,1 @@
-{"id":"17","name":"Ereignis: Anomalie","desc":"Region mit Sonderereignis. In dieser Region triffst du mit höherer Wahrscheinlichkeit auf größere Gefahren.","icon":"icon/block/SceneNaviRogueNousSpEventIcon.png","color":"#c979ff"}
+{"id":"17","name":"Ereignis: Anomalie","desc":"Leuchtfeuer von Segens-Sparschwein. Ist dieses Leuchtfeuer in einer Region aktiv, befindet sich dort ein Sparschwein. Besiege es, um zusätzliche Segen zu erhalten.","icon":"icon/block/RogueNousSpEventIcon.png","icon_board":"icon/block/SceneNaviRogueNousSpEventIcon.png","color":"#c979ff"}

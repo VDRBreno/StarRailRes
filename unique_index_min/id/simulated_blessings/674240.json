@@ -1,1 +1,1 @@
-{"id":"674240","name":"Executor","desc":"DoT yang diterima target musuh dapat CRIT Hit. CRIT Rate/CRIT DMG adalah sebesar 20% dari total CRIT Rate/CRIT DMG karakter. CRIT DMG maksimal tidak melebihi 120%.","enhanced_desc":""}
+{"id":"674240","name":"Executor","desc":"DoT yang diterima target musuh dapat CRIT Hit. CRIT Rate/CRIT DMG adalah sebesar 20% dari total CRIT Rate/CRIT DMG seluruh karakter tim. CRIT DMG maksimal tidak melebihi 120%.","enhanced_desc":""}

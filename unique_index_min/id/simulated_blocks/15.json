@@ -1,1 +1,1 @@
-{"id":"15","name":"Boss","desc":"Zona — Boss: Kalahkan Boss di Zona ini untuk menyelesaikan permukaan saat ini.","icon":"icon/block/SceneNaviRogueNousDlcBossIcon.png","color":"#ffffffff"}
+{"id":"15","name":"Boss","desc":"Beacon Mutation: Musuh yang memiliki Beacon ini pada Zona akan menjadi musuh \"Bug\". Setelah memenangkan pertempuran, akan memperoleh tambahan Cosmic Fragment.","icon":"icon/block/RogueNousDlcBossIcon.png","icon_board":"icon/block/SceneNaviRogueNousDlcBossIcon.png","color":"#ffffffff"}

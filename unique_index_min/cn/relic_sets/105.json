@@ -1,1 +1,1 @@
-{"id":"105","name":"街头出身的拳王","desc":["物理属性伤害提高10%。","当装备者施放攻击或受到攻击后，其在本场战斗中攻击力提高5%，最多叠加5层。"],"properties":[[{"type":"PhysicalAddedRatio","value":0.1}],[]],"icon":"icon/relic/105.png","guide_overview":["guide/Nwflower/relic_set/105.png"]}
+{"id":"105","name":"街头出身的拳王","desc":["物理属性伤害提高10%。","当装备者施放攻击或受到攻击后，其在本场战斗中攻击力提高5%，最多叠加5层。"],"properties":[[{"type":"PhysicalAddedRatio","value":0.1}],[]],"icon":"icon/relic/105.png"}

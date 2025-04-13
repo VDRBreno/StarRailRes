@@ -1,1 +1,1 @@
-{"id":"110105","name":"Imparable","rank":5,"desc":"Niv. de habilidad básica +2 (máximo: nivel 15). Niv. de ATQ básico +1 (máximo: nivel 10).","materials":[{"id":"11101","num":1}],"level_up_skills":[{"id":"110102","num":2},{"id":"110101","num":1}],"icon":"icon/skill/1101_ultimate.png"}
+{"id":"110105","name":"Imparable","rank":5,"desc":"Niv. de habilidad básica +2 (máximo: nivel 15). Niv. de ATQ básico +1 (máximo: nivel 10).","materials":[{"id":"11101","num":1}],"level_up_skills":[{"id":"110102","num":2},{"id":"110101","num":1}],"icon":"icon/skill/1101_skill.png"}

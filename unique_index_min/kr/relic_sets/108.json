@@ -1,1 +1,1 @@
-{"id":"108","name":"별처럼 빛나는 천재","desc":["양자 속성 피해 10% 증가","장착한 캐릭터는 적에게 피해를 줄 때 10%의 방어력을 무시한다. 목표가 양자 속성 약점을 보유할 경우, 추가로 10%의 방어력을 무시한다"],"properties":[[{"type":"QuantumAddedRatio","value":0.1}],[]],"icon":"icon/relic/108.png","guide_overview":[]}
+{"id":"108","name":"별처럼 빛나는 천재","desc":["양자 속성 피해 10% 증가","장착한 캐릭터는 적에게 피해를 줄 때 10%의 방어력을 무시한다. 목표가 양자 속성 약점을 보유할 경우, 추가로 10%의 방어력을 무시한다"],"properties":[[{"type":"QuantumAddedRatio","value":0.1}],[]],"icon":"icon/relic/108.png"}

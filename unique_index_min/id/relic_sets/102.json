@@ -1,1 +1,1 @@
-{"id":"102","name":"Musketeer of Wild Wheat","desc":["ATK +12%.","SPD pengguna +6%, DMG yang diakibatkan Basic Attack pengguna +10%."],"properties":[[{"type":"AttackAddedRatio","value":0.12}],[{"type":"SpeedAddedRatio","value":0.06}]],"icon":"icon/relic/102.png","guide_overview":[]}
+{"id":"102","name":"Musketeer of Wild Wheat","desc":["ATK +12%.","SPD pengguna +6%, DMG yang diakibatkan Basic Attack pengguna +10%."],"properties":[[{"type":"AttackAddedRatio","value":0.12}],[{"type":"SpeedAddedRatio","value":0.06}]],"icon":"icon/relic/102.png"}

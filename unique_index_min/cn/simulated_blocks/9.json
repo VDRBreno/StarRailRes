@@ -1,1 +1,1 @@
-{"id":"9","name":"事件•虫群","desc":"特殊事件区域，在这个区域中做的选择会提高虫群警戒值。虫群警戒值越高，这个区域中的事件会变得更危险。","icon":"icon/block/SceneNaviRogueDlcRandomIcon.png","color":"#c979ffff"}
+{"id":"9","name":"事件•虫群","desc":"特殊事件区域，在这个区域中做的选择会提高虫群警戒值。虫群警戒值越高，这个区域中的事件会变得更危险。","icon":"icon/block/RogueDlcRandomIcon.png","icon_board":"icon/block/SceneNaviRogueDlcRandomIcon.png","color":"#c979ffff"}

@@ -1,1 +1,1 @@
-{"id":"3","name":"전투","desc":"전투 구역. 이 구역에서 적에게 승리하면 축복을 획득할 수 있습니다","icon":"icon/block/SceneNaviRogueFoeIcon.png","color":"#ffffffd9"}
+{"id":"3","name":"전투","desc":"전투 구역. 이 구역에서 적에게 승리하면 축복을 획득할 수 있습니다","icon":"icon/block/RogueFoeIcon.png","icon_board":"icon/block/SceneNaviRogueFoeIcon.png","color":"#ffffffd9"}

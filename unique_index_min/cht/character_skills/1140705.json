@@ -1,0 +1,1 @@
+{"id":"1140705","name":"震徹寂壤的怒嘯","max_level":10,"element":"","type":"MemospriteTalent","type_text":"憶靈天賦","effect":"Support","effect_text":"輔助","simple_desc":"被召喚時，使我方全體造成的傷害提高。","desc":"死龍被召喚時，我方全體造成的傷害提高#1[i]%，持續#2[i]回合。","params":[[0.1,3],[0.1,3],[0.1,3],[0.1,3],[0.1,3],[0.1,3],[0.1,3],[0.1,3],[0.1,3],[0.1,3]],"icon":"icon/skill/1407_memosprite_talent.png"}

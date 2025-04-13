@@ -1,1 +1,1 @@
-{"id":"101","name":"Passerby of Wandering Cloud","desc":["Increases Outgoing Healing by 10%.","At the start of the battle, immediately regenerates 1 Skill Point."],"properties":[[{"type":"HealRatioBase","value":0.1}],[]],"icon":"icon/relic/101.png","guide_overview":[]}
+{"id":"101","name":"Passerby of Wandering Cloud","desc":["Increases Outgoing Healing by 10%.","At the start of the battle, immediately regenerates 1 Skill Point."],"properties":[[{"type":"HealRatioBase","value":0.1}],[]],"icon":"icon/relic/101.png"}

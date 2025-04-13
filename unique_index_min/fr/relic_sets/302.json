@@ -1,1 +1,1 @@
-{"id":"302","name":"Flotte de l'éternel","desc":["Augmente les PV max du porteur de 12%. Lorsque sa VIT est supérieure ou égale à 120, l'ATQ de tous les alliés augmente de 8%."],"properties":[[{"type":"HPAddedRatio","value":0.12}]],"icon":"icon/relic/302.png","guide_overview":[]}
+{"id":"302","name":"Flotte de l'éternel","desc":["Augmente les PV max du porteur de 12%. Lorsque sa VIT est supérieure ou égale à 120, l'ATQ de tous les alliés augmente de 8%."],"properties":[[{"type":"HPAddedRatio","value":0.12}]],"icon":"icon/relic/302.png"}

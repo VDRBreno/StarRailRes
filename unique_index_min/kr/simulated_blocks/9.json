@@ -1,1 +1,1 @@
-{"id":"9","name":"사건•곤충 떼","desc":"특수 사건 구역. 이 구역에서의 선택은 곤충 떼 경계치를 증가시킵니다. 곤충 떼 경계치가 높을수록 이 구역의 사건이 더욱 위험해집니다","icon":"icon/block/SceneNaviRogueDlcRandomIcon.png","color":"#c979ffff"}
+{"id":"9","name":"사건•곤충 떼","desc":"특수 사건 구역. 이 구역에서의 선택은 곤충 떼 경계치를 증가시킵니다. 곤충 떼 경계치가 높을수록 이 구역의 사건이 더욱 위험해집니다","icon":"icon/block/RogueDlcRandomIcon.png","icon_board":"icon/block/SceneNaviRogueDlcRandomIcon.png","color":"#c979ffff"}

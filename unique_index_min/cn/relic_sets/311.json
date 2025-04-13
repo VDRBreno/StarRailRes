@@ -1,1 +1,1 @@
-{"id":"311","name":"苍穹战线格拉默","desc":["使装备者的攻击力提高12%。当装备者的速度大于等于135/160时，使装备者造成的伤害提高12%/18%。"],"properties":[[{"type":"AttackAddedRatio","value":0.12}]],"icon":"icon/relic/311.png","guide_overview":["guide/Nwflower/relic_set/311.png"]}
+{"id":"311","name":"苍穹战线格拉默","desc":["使装备者的攻击力提高12%。当装备者的速度大于等于135/160时，使装备者造成的伤害提高12%/18%。"],"properties":[[{"type":"AttackAddedRatio","value":0.12}]],"icon":"icon/relic/311.png"}

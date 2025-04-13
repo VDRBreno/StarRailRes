@@ -1,1 +1,1 @@
-{"id":"100103","name":"Erinnerung an alles","rank":3,"desc":"Ultimate-Stufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10.","materials":[{"id":"11001","num":1}],"level_up_skills":[{"id":"100103","num":2},{"id":"100101","num":1}],"icon":"icon/skill/1001_skill.png"}
+{"id":"100103","name":"Erinnerung an alles","rank":3,"desc":"Ultimate-Stufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10.","materials":[{"id":"11001","num":1}],"level_up_skills":[{"id":"100103","num":2},{"id":"100101","num":1}],"icon":"icon/skill/1001_ultimate.png"}

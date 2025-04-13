@@ -1,1 +1,1 @@
-{"id":"301","name":"Estación sellaespacios","desc":["El ATQ del portador aumenta en un 12%. Cuando su VEL es igual o superior a 120, el ATQ aumenta en un 12% adicional."],"properties":[[{"type":"AttackAddedRatio","value":0.12}]],"icon":"icon/relic/301.png","guide_overview":[]}
+{"id":"301","name":"Estación sellaespacios","desc":["El ATQ del portador aumenta en un 12%. Cuando su VEL es igual o superior a 120, el ATQ aumenta en un 12% adicional."],"properties":[[{"type":"AttackAddedRatio","value":0.12}]],"icon":"icon/relic/301.png"}

@@ -1,1 +1,1 @@
-{"id":"140303","name":"Tresor des Morgengrauens","rank":3,"desc":"Ultimate-Stufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10.","materials":[{"id":"11403","num":1}],"level_up_skills":[{"id":"140303","num":2},{"id":"140301","num":1}],"icon":"icon/skill/1403_skill.png"}
+{"id":"140303","name":"Tresor des Morgengrauens","rank":3,"desc":"Ultimate-Stufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10.","materials":[{"id":"11403","num":1}],"level_up_skills":[{"id":"140303","num":2},{"id":"140301","num":1}],"icon":"icon/skill/1403_ultimate.png"}

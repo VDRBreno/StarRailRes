@@ -1,1 +1,1 @@
-{"type":"ThunderResistance","name":"Aumento de RES a Rayo","field":"lightning_res","affix":true,"ratio":false,"percent":true,"order":28,"icon":"icon/property/IconThunderResistanceDelta.png"}
+{"type":"ThunderResistance","name":"Aumento de RES a Rayo","field":"thunder_res","affix":true,"ratio":false,"percent":true,"order":28,"icon":"icon/property/IconThunderResistanceDelta.png"}

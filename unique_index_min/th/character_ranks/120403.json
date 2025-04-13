@@ -1,1 +1,1 @@
-{"id":"120403","name":"Strike, Suns Subdued","rank":3,"desc":"เลเวลท่าไม้ตาย +2 สูงสุดไม่เกิน Lv.15 และเลเวลการโจมตีปกติ +1 สูงสุดไม่เกิน Lv.10","materials":[{"id":"11204","num":1}],"level_up_skills":[{"id":"120403","num":2},{"id":"120401","num":1}],"icon":"icon/skill/1204_skill.png"}
+{"id":"120403","name":"Strike, Suns Subdued","rank":3,"desc":"เลเวลท่าไม้ตาย +2 สูงสุดไม่เกิน Lv.15 และเลเวลการโจมตีปกติ +1 สูงสุดไม่เกิน Lv.10","materials":[{"id":"11204","num":1}],"level_up_skills":[{"id":"120403","num":2},{"id":"120401","num":1}],"icon":"icon/skill/1204_ultimate.png"}

@@ -1,1 +1,1 @@
-{"id":"140303","name":"{RUBY_B#ゆうや}朝焼{RUBY_E#}けの{RUBY_B#たからもの}宝物{RUBY_E#}","rank":3,"desc":"必殺技のLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。","materials":[{"id":"11403","num":1}],"level_up_skills":[{"id":"140303","num":2},{"id":"140301","num":1}],"icon":"icon/skill/1403_skill.png"}
+{"id":"140303","name":"{RUBY_B#あさや}朝焼{RUBY_E#}けの{RUBY_B#たからもの}宝物{RUBY_E#}","rank":3,"desc":"必殺技のLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。","materials":[{"id":"11403","num":1}],"level_up_skills":[{"id":"140303","num":2},{"id":"140301","num":1}],"icon":"icon/skill/1403_ultimate.png"}

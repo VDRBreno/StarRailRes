@@ -1,1 +1,1 @@
-{"id":"11","name":"Boss","desc":"Region – Boss. Besiege den Boss in dieser Region, um diese Ebene abzuschließen.","icon":"icon/block/SceneNaviRogueBossIcon.png","color":"#ffffffff"}
+{"id":"11","name":"Boss","desc":"Region – Spezialboss. Durch das Besiegen von Der Schwarm: Treustachel (komplett) in dieser Region kann diese Runde der Universum-Simulation abgeschlossen werden.","icon":"icon/block/RogueBossIcon.png","icon_board":"icon/block/SceneNaviRogueBossIcon.png","color":"#ffffffff"}

@@ -1,1 +1,1 @@
-{"id":"301","name":"Space Sealing Station","desc":["ATK ของผู้สวมใส่เพิ่มขึ้น 12% เมื่อความเร็วของผู้สวมใส่เท่ากับหรือมากกว่า 120 ATK จะเพิ่มขึ้นอีก 12%"],"properties":[[{"type":"AttackAddedRatio","value":0.12}]],"icon":"icon/relic/301.png","guide_overview":[]}
+{"id":"301","name":"Space Sealing Station","desc":["ATK ของผู้สวมใส่เพิ่มขึ้น 12% เมื่อความเร็วของผู้สวมใส่เท่ากับหรือมากกว่า 120 ATK จะเพิ่มขึ้นอีก 12%"],"properties":[[{"type":"AttackAddedRatio","value":0.12}]],"icon":"icon/relic/301.png"}

@@ -1,1 +1,1 @@
-{"id":"15","name":"보스","desc":"보스 구역. 이 구역에서 보스에게 승리하면 이번 차원을 클리어할 수 있습니다","icon":"icon/block/SceneNaviRogueNousDlcBossIcon.png","color":"#ffffffff"}
+{"id":"15","name":"보스","desc":"이질화 비콘. 해당 비콘을 보유한 구역의 적은 「오류」 상태가 되며 전투 승리 후 추가로 우주 조각을 획득할 수 있습니다","icon":"icon/block/RogueNousDlcBossIcon.png","icon_board":"icon/block/SceneNaviRogueNousDlcBossIcon.png","color":"#ffffffff"}

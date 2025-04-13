@@ -1,1 +1,1 @@
-{"id":"122303","name":"追奔","rank":3,"desc":"終結技等級+2，最多不超過15級；天賦等級+2，最多不超過15級。","materials":[{"id":"11223","num":1}],"level_up_skills":[{"id":"122303","num":2},{"id":"122304","num":2}],"icon":"icon/skill/1223_skill.png"}
+{"id":"122303","name":"追奔","rank":3,"desc":"終結技等級+2，最多不超過15級；天賦等級+2，最多不超過15級。","materials":[{"id":"11223","num":1}],"level_up_skills":[{"id":"122303","num":2},{"id":"122304","num":2}],"icon":"icon/skill/1223_ultimate.png"}

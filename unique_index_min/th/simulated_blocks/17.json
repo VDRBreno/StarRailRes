@@ -1,1 +1,1 @@
-{"id":"17","name":"อิเวนต์: ความผิดปกติ","desc":"พื้นที่อิเวนต์พิเศษ ในพื้นที่นี้ จะพบกับอิเวนต์ที่มีความเสี่ยงสูงได้ง่ายขึ้น","icon":"icon/block/SceneNaviRogueNousSpEventIcon.png","color":"#c979ff"}
+{"id":"17","name":"อิเวนต์: ความผิดปกติ","desc":"สัญญาณ Trotter พร จะมี Trotter ปรากฏตัวขึ้นในการต่อสู้ของพื้นที่ที่มีสัญญาณนี้ หลังจากกำจัดมัน จะได้รับพรเพิ่มเติม","icon":"icon/block/RogueNousSpEventIcon.png","icon_board":"icon/block/SceneNaviRogueNousSpEventIcon.png","color":"#c979ff"}

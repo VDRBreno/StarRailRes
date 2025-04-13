@@ -1,0 +1,1 @@
+{"id":"1405103","name":"質性的嬗變","max_level":1,"desc":"敵方目標每擁有1個不同屬性的弱點，那刻夏對其造成的傷害無視#1[i]%的防禦力，最多計入7個。","params":[[0.04]],"anchor":"Point08","pre_points":[],"level_up_skills":[],"levels":[{"promotion":6,"level":0,"properties":[],"materials":[{"id":"2","num":160000},{"id":"110203","num":8},{"id":"241","num":1},{"id":"110505","num":1}]}],"icon":"icon/skill/1405_skilltree3.png"}

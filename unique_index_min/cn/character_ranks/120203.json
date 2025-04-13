@@ -1,1 +1,1 @@
-{"id":"120203","name":"青丘遗泽","rank":3,"desc":"终结技等级+2，最多不超过15级；普攻等级+1，最多不超过10级。","materials":[{"id":"11202","num":1}],"level_up_skills":[{"id":"120203","num":2},{"id":"120201","num":1}],"icon":"icon/skill/1202_skill.png"}
+{"id":"120203","name":"青丘遗泽","rank":3,"desc":"终结技等级+2，最多不超过15级；普攻等级+1，最多不超过10级。","materials":[{"id":"11202","num":1}],"level_up_skills":[{"id":"120203","num":2},{"id":"120201","num":1}],"icon":"icon/skill/1202_ultimate.png"}

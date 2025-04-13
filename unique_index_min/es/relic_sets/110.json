@@ -1,1 +1,1 @@
-{"id":"110","name":"Águila del crepúsculo","desc":["Daño de Viento +10%.","Cuando el portador utiliza la habilidad definitiva, su acción se adelanta un 25%."],"properties":[[{"type":"WindAddedRatio","value":0.1}],[]],"icon":"icon/relic/110.png","guide_overview":[]}
+{"id":"110","name":"Águila del crepúsculo","desc":["Daño de Viento +10%.","Cuando el portador utiliza la habilidad definitiva, su acción se adelanta un 25%."],"properties":[[{"type":"WindAddedRatio","value":0.1}],[]],"icon":"icon/relic/110.png"}

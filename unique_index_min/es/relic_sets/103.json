@@ -1,1 +1,1 @@
-{"id":"103","name":"Paladina de la Iglesia de la Corte Inmaculada","desc":["DEF +15%.","El efecto de escudo otorgado por el portador aumenta en un 20%."],"properties":[[{"type":"DefenceAddedRatio","value":0.15}],[]],"icon":"icon/relic/103.png","guide_overview":[]}
+{"id":"103","name":"Paladina de la Iglesia de la Corte Inmaculada","desc":["DEF +15%.","El efecto de escudo otorgado por el portador aumenta en un 20%."],"properties":[[{"type":"DefenceAddedRatio","value":0.15}],[]],"icon":"icon/relic/103.png"}

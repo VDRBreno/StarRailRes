@@ -1,1 +1,1 @@
-{"type":"ThunderAddedRatio","name":"Lightning DMG Meningkat","field":"lightning_dmg","affix":true,"ratio":false,"percent":true,"order":27,"icon":"icon/property/IconThunderAddedRatio.png"}
+{"type":"ThunderAddedRatio","name":"Lightning DMG Meningkat","field":"thunder_dmg","affix":true,"ratio":false,"percent":true,"order":27,"icon":"icon/property/IconThunderAddedRatio.png"}

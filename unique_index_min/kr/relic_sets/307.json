@@ -1,1 +1,1 @@
-{"id":"307","name":"도적국 탈리아","desc":["장착한 캐릭터의 격파 특수효과가 16% 증가한다. 장착한 캐릭터의 속도가 145 이상일 경우 격파 특수효과가 추가로 20% 증가한다"],"properties":[[{"type":"BreakDamageAddedRatioBase","value":0.16}]],"icon":"icon/relic/307.png","guide_overview":[]}
+{"id":"307","name":"도적국 탈리아","desc":["장착한 캐릭터의 격파 특수효과가 16% 증가한다. 장착한 캐릭터의 속도가 145 이상일 경우 격파 특수효과가 추가로 20% 증가한다"],"properties":[[{"type":"BreakDamageAddedRatioBase","value":0.16}]],"icon":"icon/relic/307.png"}

@@ -1,1 +1,1 @@
-{"id":"101","name":"Vagabond foulenuage","desc":["Augmente les soins prodigués de 10%.","Récupère immédiatement 1 point de compétence en début de combat."],"properties":[[{"type":"HealRatioBase","value":0.1}],[]],"icon":"icon/relic/101.png","guide_overview":[]}
+{"id":"101","name":"Vagabond foulenuage","desc":["Augmente les soins prodigués de 10%.","Récupère immédiatement 1 point de compétence en début de combat."],"properties":[[{"type":"HealRatioBase","value":0.1}],[]],"icon":"icon/relic/101.png"}

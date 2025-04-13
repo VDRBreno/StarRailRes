@@ -1,1 +1,1 @@
-{"id":"120","name":"風舉雲飛的勇烈","desc":["攻擊力提高12%。","使裝備者的暴擊率提高6%。裝備者發動追加攻擊時，使終結技造成的傷害提高36%，持續1回合。"],"properties":[[{"type":"AttackAddedRatio","value":0.12}],[{"type":"CriticalChanceBase","value":0.06}]],"icon":"icon/relic/120.png","guide_overview":[]}
+{"id":"120","name":"風舉雲飛的勇烈","desc":["攻擊力提高12%。","使裝備者的暴擊率提高6%。裝備者發動追加攻擊時，使終結技造成的傷害提高36%，持續1回合。"],"properties":[[{"type":"AttackAddedRatio","value":0.12}],[{"type":"CriticalChanceBase","value":0.06}]],"icon":"icon/relic/120.png"}

@@ -1,1 +1,1 @@
-{"id":"101","name":"Passerby of Wandering Cloud","desc":["การรักษาเพิ่มขึ้น 10%","เมื่อเริ่มต้นการต่อสู้ จะฟื้นฟูแต้มสกิลต่อสู้ของฝ่ายตัวเอง 1 แต้มโดยทันที"],"properties":[[{"type":"HealRatioBase","value":0.1}],[]],"icon":"icon/relic/101.png","guide_overview":[]}
+{"id":"101","name":"Passerby of Wandering Cloud","desc":["การรักษาเพิ่มขึ้น 10%","เมื่อเริ่มต้นการต่อสู้ จะฟื้นฟูแต้มสกิลต่อสู้ของฝ่ายตัวเอง 1 แต้มโดยทันที"],"properties":[[{"type":"HealRatioBase","value":0.1}],[]],"icon":"icon/relic/101.png"}

@@ -1,1 +1,1 @@
-{"id":"102","name":"草の穂ガンマン","desc":["攻撃力+12%。","装備キャラの速度+6%、通常攻撃によるダメージ+10%。"],"properties":[[{"type":"AttackAddedRatio","value":0.12}],[{"type":"SpeedAddedRatio","value":0.06}]],"icon":"icon/relic/102.png","guide_overview":[]}
+{"id":"102","name":"草の穂ガンマン","desc":["攻撃力+12%。","装備キャラの速度+6%、通常攻撃によるダメージ+10%。"],"properties":[[{"type":"AttackAddedRatio","value":0.12}],[{"type":"SpeedAddedRatio","value":0.06}]],"icon":"icon/relic/102.png"}

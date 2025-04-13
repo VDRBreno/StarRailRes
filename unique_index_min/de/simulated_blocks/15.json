@@ -1,1 +1,1 @@
-{"id":"15","name":"Boss","desc":"Region – Boss. Besiege den Boss in dieser Region, um diese Ebene abzuschließen.","icon":"icon/block/SceneNaviRogueNousDlcBossIcon.png","color":"#ffffffff"}
+{"id":"15","name":"Boss","desc":"Mutationsleuchtfeuer. Ist dieses Leuchtfeuer in einer Region aktiv, werden die Gegner dort zu „Fehlern“. Nach einem Sieg werden mehr Kosmische Fragmente verliehen.","icon":"icon/block/RogueNousDlcBossIcon.png","icon_board":"icon/block/SceneNaviRogueNousDlcBossIcon.png","color":"#ffffffff"}

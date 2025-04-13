@@ -1,1 +1,1 @@
-{"id":"111","name":"流星追迹的怪盗","desc":["击破特攻提高16%。","使装备者的击破特攻提高16%。当装备者击破敌方目标弱点后，恢复3点能量。"],"properties":[[{"type":"BreakDamageAddedRatioBase","value":0.16}],[{"type":"BreakDamageAddedRatioBase","value":0.16}]],"icon":"icon/relic/111.png","guide_overview":["guide/Nwflower/relic_set/111.png"]}
+{"id":"111","name":"流星追迹的怪盗","desc":["击破特攻提高16%。","使装备者的击破特攻提高16%。当装备者击破敌方目标弱点后，恢复3点能量。"],"properties":[[{"type":"BreakDamageAddedRatioBase","value":0.16}],[{"type":"BreakDamageAddedRatioBase","value":0.16}]],"icon":"icon/relic/111.png"}

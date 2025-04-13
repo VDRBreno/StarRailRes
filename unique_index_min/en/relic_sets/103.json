@@ -1,1 +1,1 @@
-{"id":"103","name":"Knight of Purity Palace","desc":["Increases DEF by 15%.","Increases the max DMG that can be absorbed by the Shield created by the wearer by 20%."],"properties":[[{"type":"DefenceAddedRatio","value":0.15}],[]],"icon":"icon/relic/103.png","guide_overview":[]}
+{"id":"103","name":"Knight of Purity Palace","desc":["Increases DEF by 15%.","Increases the max DMG that can be absorbed by the Shield created by the wearer by 20%."],"properties":[[{"type":"DefenceAddedRatio","value":0.15}],[]],"icon":"icon/relic/103.png"}

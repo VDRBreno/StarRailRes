@@ -1,1 +1,1 @@
-{"id":"15","name":"Chefe","desc":"Domínio de Chefe. Derrote o Chefe neste domínio para passar este plano.","icon":"icon/block/SceneNaviRogueNousDlcBossIcon.png","color":"#ffffffff"}
+{"id":"15","name":"Chefe","desc":"Sinalizador de Mutação. Inimigos com este sinalizador em domínios irão adquirir \"Erros\". Após vencer uma batalha, recebem Fragmentos Cósmicos adicionais.","icon":"icon/block/RogueNousDlcBossIcon.png","icon_board":"icon/block/SceneNaviRogueNousDlcBossIcon.png","color":"#ffffffff"}

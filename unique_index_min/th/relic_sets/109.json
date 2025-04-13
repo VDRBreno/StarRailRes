@@ -1,1 +1,1 @@
-{"id":"109","name":"Band of Sizzling Thunder","desc":["DMG สายฟ้าเพิ่มขึ้น 10%","เมื่อผู้สวมใส่ใช้สกิลต่อสู้ ATK ของผู้สวมใส่จะเพิ่มขึ้น 20% เป็นเวลา 1 เทิร์น"],"properties":[[{"type":"ThunderAddedRatio","value":0.1}],[]],"icon":"icon/relic/109.png","guide_overview":[]}
+{"id":"109","name":"Band of Sizzling Thunder","desc":["DMG สายฟ้าเพิ่มขึ้น 10%","เมื่อผู้สวมใส่ใช้สกิลต่อสู้ ATK ของผู้สวมใส่จะเพิ่มขึ้น 20% เป็นเวลา 1 เทิร์น"],"properties":[[{"type":"ThunderAddedRatio","value":0.1}],[]],"icon":"icon/relic/109.png"}

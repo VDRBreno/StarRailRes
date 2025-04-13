@@ -1,1 +1,1 @@
-{"id":"17","name":"Evento: anomalía","desc":"Zona de evento especial. En esta zona es más probable que encuentres eventos de alto riesgo.","icon":"icon/block/SceneNaviRogueNousSpEventIcon.png","color":"#c979ff"}
+{"id":"17","name":"Evento: anomalía","desc":"Baliza de Chanchito de bendiciones. En la zona que tenga esta baliza aparecerá un Chanchito de bendiciones. Tras derrotarlo, se obtienen bendiciones adicionales.","icon":"icon/block/RogueNousSpEventIcon.png","icon_board":"icon/block/SceneNaviRogueNousSpEventIcon.png","color":"#c979ff"}

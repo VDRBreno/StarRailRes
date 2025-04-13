@@ -1,1 +1,1 @@
-{"id":"301","name":"太空封印站","desc":["使裝備者的攻擊力提高12%。當裝備者的速度大於等於120時，攻擊力額外提高12%。"],"properties":[[{"type":"AttackAddedRatio","value":0.12}]],"icon":"icon/relic/301.png","guide_overview":[]}
+{"id":"301","name":"太空封印站","desc":["使裝備者的攻擊力提高12%。當裝備者的速度大於等於120時，攻擊力額外提高12%。"],"properties":[[{"type":"AttackAddedRatio","value":0.12}]],"icon":"icon/relic/301.png"}

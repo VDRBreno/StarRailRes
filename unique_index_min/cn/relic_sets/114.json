@@ -1,1 +1,1 @@
-{"id":"114","name":"骇域漫游的信使","desc":["速度提高6%。","当装备者对我方目标施放终结技时，我方全体速度提高12%，持续1回合，该效果无法叠加。"],"properties":[[{"type":"SpeedAddedRatio","value":0.06}],[]],"icon":"icon/relic/114.png","guide_overview":["guide/Nwflower/relic_set/114.png"]}
+{"id":"114","name":"骇域漫游的信使","desc":["速度提高6%。","当装备者对我方目标施放终结技时，我方全体速度提高12%，持续1回合，该效果无法叠加。"],"properties":[[{"type":"SpeedAddedRatio","value":0.06}],[]],"icon":"icon/relic/114.png"}

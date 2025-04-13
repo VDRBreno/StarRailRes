@@ -1,1 +1,1 @@
-{"id":"120503","name":"冶煉玄鋼，銑淬寒芒","rank":3,"desc":"終結技等級+2，最多不超過15級；天賦等級+2，最多不超過15級。","materials":[{"id":"11205","num":1}],"level_up_skills":[{"id":"120503","num":2},{"id":"120504","num":2}],"icon":"icon/skill/1205_skill.png"}
+{"id":"120503","name":"冶煉玄鋼，銑淬寒芒","rank":3,"desc":"終結技等級+2，最多不超過15級；天賦等級+2，最多不超過15級。","materials":[{"id":"11205","num":1}],"level_up_skills":[{"id":"120503","num":2},{"id":"120504","num":2}],"icon":"icon/skill/1205_ultimate.png"}

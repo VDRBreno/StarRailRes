@@ -1,1 +1,1 @@
-{"id":"11","name":"Jefe","desc":"Zona de jefe. Derrota al jefe de esta zona para superar este plano.","icon":"icon/block/SceneNaviRogueBossIcon.png","color":"#ffffffff"}
+{"id":"11","name":"Jefe","desc":"Zona de jefe especial. Derrota al Gran Insecto Aguijoneador del Enjambre (intacto) en esta zona para superar esta ronda del Universo Simulado.","icon":"icon/block/RogueBossIcon.png","icon_board":"icon/block/SceneNaviRogueBossIcon.png","color":"#ffffffff"}

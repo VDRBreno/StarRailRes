@@ -1,1 +1,1 @@
-{"id":"124","name":"哀歌覆国的诗人","desc":["量子属性伤害提高10%。","使装备者的速度降低8%。进入战斗前，若装备者的速度小于110/95，使装备者的暴击率提高20%/32%。该效果同时对装备者的忆灵生效。"],"properties":[[{"type":"QuantumAddedRatio","value":0.1}],[{"type":"SpeedAddedRatio","value":-0.08}]],"icon":"icon/relic/124.png","guide_overview":[]}
+{"id":"124","name":"哀歌覆国的诗人","desc":["量子属性伤害提高10%。","使装备者的速度降低8%。进入战斗前，若装备者的速度小于110/95，使装备者的暴击率提高20%/32%。该效果同时对装备者的忆灵生效。"],"properties":[[{"type":"QuantumAddedRatio","value":0.1}],[{"type":"SpeedAddedRatio","value":-0.08}]],"icon":"icon/relic/124.png"}

@@ -1,1 +1,1 @@
-{"id":"3","name":"Batalla","desc":"Zona de batalla. Derrota enemigos en esta zona para obtener bendiciones.","icon":"icon/block/SceneNaviRogueFoeIcon.png","color":"#ffffffd9"}
+{"id":"3","name":"Batalla","desc":"Zona de batalla. Derrota enemigos en esta zona para obtener bendiciones.","icon":"icon/block/RogueFoeIcon.png","icon_board":"icon/block/SceneNaviRogueFoeIcon.png","color":"#ffffffd9"}

@@ -1,1 +1,1 @@
-{"id":"318","name":"奇想天外のバナダイス","desc":["装備キャラの会心ダメージ+16%。装備キャラが召喚したターゲットがフィールド上にいる場合、さらに会心ダメージ+32%。"],"properties":[[{"type":"CriticalDamageBase","value":0.16}]],"icon":"icon/relic/318.png","guide_overview":[]}
+{"id":"318","name":"奇想天外のバナダイス","desc":["装備キャラの会心ダメージ+16%。装備キャラが召喚したターゲットがフィールド上にいる場合、さらに会心ダメージ+32%。"],"properties":[[{"type":"CriticalDamageBase","value":0.16}]],"icon":"icon/relic/318.png"}

@@ -1,1 +1,1 @@
-{"id":"109","name":"雷鳴轟くバンド","desc":["雷属性ダメージ+10%。","装備キャラが戦闘スキルを発動した時、装備キャラの攻撃力+20%、1ターン継続。"],"properties":[[{"type":"ThunderAddedRatio","value":0.1}],[]],"icon":"icon/relic/109.png","guide_overview":[]}
+{"id":"109","name":"雷鳴轟くバンド","desc":["雷属性ダメージ+10%。","装備キャラが戦闘スキルを発動した時、装備キャラの攻撃力+20%、1ターン継続。"],"properties":[[{"type":"ThunderAddedRatio","value":0.1}],[]],"icon":"icon/relic/109.png"}

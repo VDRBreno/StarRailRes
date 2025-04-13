@@ -1,1 +1,1 @@
-{"id":"15","name":"頭目","desc":"頭目區域，在這個區域中戰勝頭目可以完成本次元。","icon":"icon/block/SceneNaviRogueNousDlcBossIcon.png","color":"#ffffffff"}
+{"id":"15","name":"頭目","desc":"異化信標，帶有該信標的區域中敵人將變成「錯誤」的敵人。戰鬥勝利後獲得額外的宇宙碎片。","icon":"icon/block/RogueNousDlcBossIcon.png","icon_board":"icon/block/SceneNaviRogueNousDlcBossIcon.png","color":"#ffffffff"}

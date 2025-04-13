@@ -1,1 +1,1 @@
-{"id":"674240","name":"Executor","desc":"DoTs taken by enemy targets can CRIT. The CRIT Rate/CRIT DMG is equal to 20% of characters' total CRIT Rate/CRIT DMG, with CRIT DMG capped at 120%.","enhanced_desc":""}
+{"id":"674240","name":"Executor","desc":"DoTs taken by enemy targets can CRIT. The CRIT Rate/CRIT DMG is equal to 20% of all ally characters' total CRIT Rate/CRIT DMG, with CRIT DMG capped at 120%.","enhanced_desc":""}

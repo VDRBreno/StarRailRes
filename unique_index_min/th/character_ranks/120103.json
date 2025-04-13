@@ -1,1 +1,1 @@
-{"id":"120103","name":"Read Between the Tiles","rank":3,"desc":"เลเวลท่าไม้ตาย +2 สูงสุดไม่เกิน Lv.15 และเลเวลพรสวรรค์ +2 สูงสุดไม่เกิน Lv.15","materials":[{"id":"11201","num":1}],"level_up_skills":[{"id":"120103","num":2},{"id":"120104","num":2}],"icon":"icon/skill/1201_skill.png"}
+{"id":"120103","name":"Read Between the Tiles","rank":3,"desc":"เลเวลท่าไม้ตาย +2 สูงสุดไม่เกิน Lv.15 และเลเวลพรสวรรค์ +2 สูงสุดไม่เกิน Lv.15","materials":[{"id":"11201","num":1}],"level_up_skills":[{"id":"120103","num":2},{"id":"120104","num":2}],"icon":"icon/skill/1201_ultimate.png"}

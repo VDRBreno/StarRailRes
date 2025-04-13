@@ -1,1 +1,1 @@
-{"id":"309","name":"뭇별 경기장","desc":["장착한 캐릭터의 치명타 확률이 8% 증가한다. 장착한 캐릭터의 치명타 확률이 70% 이상일 경우, 일반 공격과 전투 스킬이 가하는 피해가 20% 증가한다"],"properties":[[{"type":"CriticalChanceBase","value":0.08}]],"icon":"icon/relic/309.png","guide_overview":[]}
+{"id":"309","name":"뭇별 경기장","desc":["장착한 캐릭터의 치명타 확률이 8% 증가한다. 장착한 캐릭터의 치명타 확률이 70% 이상일 경우, 일반 공격과 전투 스킬이 가하는 피해가 20% 증가한다"],"properties":[[{"type":"CriticalChanceBase","value":0.08}]],"icon":"icon/relic/309.png"}

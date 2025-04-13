@@ -1,1 +1,1 @@
-{"id":"113","name":"宝命長存の蒔者","desc":["最大HP+12%。","装備キャラが攻撃を受ける、または味方によってHPを消費させられた後、会心率+8%、2ターン継続。この効果は最大で2層累積できる。"],"properties":[[{"type":"HPAddedRatio","value":0.12}],[]],"icon":"icon/relic/113.png","guide_overview":[]}
+{"id":"113","name":"宝命長存の蒔者","desc":["最大HP+12%。","装備キャラが攻撃を受ける、または味方によってHPを消費させられた後、会心率+8%、2ターン継続。この効果は最大で2層累積できる。"],"properties":[[{"type":"HPAddedRatio","value":0.12}],[]],"icon":"icon/relic/113.png"}
