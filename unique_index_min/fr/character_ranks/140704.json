@@ -1,1 +1,1 @@
-{"id":"140704","name":"Repos de l'élégie","rank":4,"desc":"Lorsque Castorice est sur le champ de bataille, les soins reçus par tous les alliés augmentent de 20% lors de la restauration de PV.","materials":[{"id":"11407","num":1}],"level_up_skills":[],"icon":"icon/skill/1407_rank4.png"}
+{"id":"140704","name":"Repos de l'élégie","rank":4,"desc":"Lorsque Castorice est sur le champ de bataille, augmente de 20% les PV restaurés par les alliés recevant des soins.","materials":[{"id":"11407","num":1}],"level_up_skills":[],"icon":"icon/skill/1407_rank4.png"}

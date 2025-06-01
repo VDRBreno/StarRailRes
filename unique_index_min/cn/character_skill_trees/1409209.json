@@ -1,0 +1,1 @@
+{"id":"1409209","name":"效果抵抗强化","max_level":1,"desc":"","params":[],"anchor":"Point17","pre_points":["1409208"],"level_up_skills":[],"levels":[{"promotion":0,"level":75,"properties":[{"type":"StatusResistanceBase","value":0.08}],"materials":[{"id":"2","num":160000},{"id":"110253","num":8},{"id":"115003","num":8}]}],"icon":"icon/property/IconStatusResistance.png"}

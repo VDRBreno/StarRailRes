@@ -1,0 +1,1 @@
+{"id":"1406101","name":"神行宝鞋","max_level":1,"desc":"赛飞儿的速度大于等于140/170时，暴击率提高#1[i]%/#2[i]%，获得的记录值提高#3[i]%/#4[i]%。","params":[[0.25,0.5,0.5,1]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110221","num":3},{"id":"110507","num":1}]}],"icon":"icon/skill/1406_skilltree1.png"}

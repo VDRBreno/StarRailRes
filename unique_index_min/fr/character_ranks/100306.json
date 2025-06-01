@@ -1,1 +1,1 @@
-{"id":"100306","name":"En avant !","rank":6,"desc":"L'ultime inflige des DGT 2 fois supplémentaires, infligeant à chaque fois des DGT de feu équivalents à 40% des DGT initiaux à un ennemi aléatoire.","materials":[{"id":"11003","num":1}],"level_up_skills":[],"icon":"icon/skill/1003_rank6.png"}
+{"id":"100306","name":"En avant !","rank":6,"desc":"L'ultime inflige 2 instances de DGT de feu supplémentaires équivalents à 40% des DGT initiaux à un ennemi aléatoire.","materials":[{"id":"11003","num":1}],"level_up_skills":[],"icon":"icon/skill/1003_rank6.png"}

@@ -1,0 +1,1 @@
+{"id":"1406208","name":"効果命中強化","max_level":1,"desc":"","params":[],"anchor":"Point16","pre_points":["1406103"],"level_up_skills":[],"levels":[{"promotion":6,"level":0,"properties":[{"type":"StatusProbabilityBase","value":0.06}],"materials":[{"id":"2","num":160000},{"id":"110223","num":8},{"id":"115013","num":8}]}],"icon":"icon/property/IconStatusProbability.png"}

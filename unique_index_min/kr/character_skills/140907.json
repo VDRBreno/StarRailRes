@@ -1,0 +1,1 @@
+{"id":"140907","name":"날씨 좋고, 모든 게 귀엽고!","max_level":1,"element":"","type":"Maze","type_text":"비술","effect":"Restore","effect_text":"회복","simple_desc":"다음 전투 시작 시 모든 아군의 HP를 회복하고 HP 최대치를 증가시킨다","desc":"다음 전투 시작 시 모든 아군이 히아킨 HP 최대치의 #1[i]%+#2[i]만큼 HP를 회복하고, HP 최대치가 #3[i]% 증가한다, 지속 시간: #4[i]턴","params":[[0.3,600,0.2,2]],"icon":"icon/skill/1409_technique.png"}

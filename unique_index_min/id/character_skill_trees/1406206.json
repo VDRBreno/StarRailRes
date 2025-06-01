@@ -1,0 +1,1 @@
+{"id":"1406206","name":"Peningkatan DMG: Quantum","max_level":1,"desc":"","params":[],"anchor":"Point14","pre_points":["1406205"],"level_up_skills":[],"levels":[{"promotion":5,"level":0,"properties":[{"type":"QuantumAddedRatio","value":0.048}],"materials":[{"id":"2","num":45000},{"id":"110223","num":3},{"id":"115013","num":3}]}],"icon":"icon/property/IconQuantumAddedRatio.png"}

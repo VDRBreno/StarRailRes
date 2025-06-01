@@ -1,0 +1,1 @@
+{"id":"1140905","name":"展翼，奔向日輝","max_level":10,"element":"","type":"MemospriteTalent","type_text":"憶靈天賦","effect":"Enhance","effect_text":"強化","simple_desc":"被召喚時，為風堇恢復能量。","desc":"被召喚時，為風堇恢復#1[i]點能量，首次被召喚時，額外恢復#2[i]點能量。","params":[[15,30],[15,30],[15,30],[15,30],[15,30],[15,30],[15,30],[15,30],[15,30],[15,30]],"icon":"icon/skill/1409_memosprite_talent.png"}

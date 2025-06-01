@@ -1,1 +1,1 @@
-{"id":"140704","name":"Descanso arropado en lamentos","rank":4,"desc":"Cuando Castorice está en la batalla, la curación recibida de todos los aliados aumenta en un 20%.","materials":[{"id":"11407","num":1}],"level_up_skills":[],"icon":"icon/skill/1407_rank4.png"}
+{"id":"140704","name":"Descanso arropado en lamentos","rank":4,"desc":"Cuando Castorice está en la batalla, los PV regenerados por todos los aliados al recibir curación aumentan en un 20%.","materials":[{"id":"11407","num":1}],"level_up_skills":[],"icon":"icon/skill/1407_rank4.png"}

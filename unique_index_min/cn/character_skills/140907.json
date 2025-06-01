@@ -1,0 +1,1 @@
+{"id":"140907","name":"天气正好，万物可爱！","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Restore","effect_text":"回复","simple_desc":"下一次战斗开始时，为我方全体回复生命值并使生命上限提高。","desc":"下一次战斗开始时，为我方全体回复等同于风堇#1[i]%生命上限+#2[i]的生命值并使生命上限提高#3[i]%，持续#4[i]回合。","params":[[0.3,600,0.2,2]],"icon":"icon/skill/1409_technique.png"}

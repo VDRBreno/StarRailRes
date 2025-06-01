@@ -1,1 +1,1 @@
-{"id":"100306","name":"Trailblaze!","rank":6,"desc":"Ultimate deals DMG 2 extra times, each of which deals Fire DMG equal to 40% of the original DMG to a random enemy.","materials":[{"id":"11003","num":1}],"level_up_skills":[],"icon":"icon/skill/1003_rank6.png"}
+{"id":"100306","name":"Trailblaze!","rank":6,"desc":"Ultimate deals 2 extra instances of Fire DMG equal to 40% of the original DMG to one random enemy.","materials":[{"id":"11003","num":1}],"level_up_skills":[],"icon":"icon/skill/1003_rank6.png"}

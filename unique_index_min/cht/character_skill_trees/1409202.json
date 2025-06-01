@@ -1,0 +1,1 @@
+{"id":"1409202","name":"效果抗性強化","max_level":1,"desc":"","params":[],"anchor":"Point10","pre_points":["1409201"],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[{"type":"StatusResistanceBase","value":0.04}],"materials":[{"id":"2","num":4000},{"id":"110251","num":3},{"id":"115001","num":6}]}],"icon":"icon/property/IconStatusResistance.png"}
