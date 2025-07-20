@@ -1,1 +1,1 @@
-{"id":"140902","name":"わたしの{RUBY_B#にわ}庭{RUBY_E#}でくつろいで","rank":2,"desc":"味方のHPが減った時、速度+30%、2ターン継続。","materials":[{"id":"11409","num":1}],"level_up_skills":[],"icon":"icon/skill/1409_rank2.png"}
+{"id":"140902","name":"わたしの{RUBY_B#にわ}庭{RUBY_E#}で\nくつろいで","rank":2,"desc":"味方のHPが減った時、その味方の速度+30%、2ターン継続。","materials":[{"id":"11409","num":1}],"level_up_skills":[],"icon":"icon/skill/1409_rank2.png"}

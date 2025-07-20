@@ -1,0 +1,1 @@
+{"id":"11212210","name":"CRIT DMG Boost","max_level":1,"desc":"","params":[],"anchor":"Point18","pre_points":["11212208"],"level_up_skills":[],"levels":[{"promotion":0,"level":80,"properties":[{"type":"CriticalDamageBase","value":0.107}],"materials":[{"id":"2","num":160000},{"id":"110113","num":8},{"id":"113003","num":8}]}],"icon":"icon/property/IconCriticalDamage.png"}

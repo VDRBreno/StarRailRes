@@ -1,0 +1,1 @@
+{"id":"1121201","name":"빛나는 달빛","max_level":10,"element":"Ice","type":"Normal","type_text":"일반 공격","effect":"SingleAttack","effect_text":"단일 공격","simple_desc":"지정된 단일 적에게 소량의 얼음 속성 피해를 가한다","desc":"지정된 단일 적에게 경류 HP 최대치의 #1[i]%만큼 얼음 속성 피해를 가한다","params":[[0.25],[0.3],[0.35],[0.4],[0.45],[0.5],[0.55],[0.6],[0.65],[0.7]],"icon":"icon/skill/1212_basic_atk.png"}

@@ -1,1 +1,1 @@
-{"id":"140601","name":"{RUBY_B#かんさつ}観察{RUBY_E#}、\n{RUBY_B#きかい}機会{RUBY_E#}を{RUBY_B#うかが}伺{RUBY_E#}う","rank":1,"desc":"サフェルのダメージ記録値が本来の150%になる。天賦による追加攻撃を発動する時、サフェルの攻撃力+80%、2ターン継続。","materials":[{"id":"11406","num":1}],"level_up_skills":[],"icon":"icon/skill/1406_rank1.png"}
+{"id":"140601","name":"{RUBY_B#かんさつ}観察{RUBY_E#}、\n{RUBY_B#きかい}機会{RUBY_E#}を{RUBY_B#うかが}伺{RUBY_E#}う","rank":1,"desc":"サフェルが記録するダメージ記録値が本来の150%になる。天賦による追加攻撃を発動する時、サフェルの攻撃力+80%、2ターン継続。","materials":[{"id":"11406","num":1}],"level_up_skills":[],"icon":"icon/skill/1406_rank1.png"}

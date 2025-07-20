@@ -1,0 +1,1 @@
+{"id":"1100605","name":"Attaque par force brute","rank":5,"desc":"Niv. de l'ultime +2, jusqu'au Niv. 15 maximum.\nNiv. de l'ATQ normale +1, jusqu'au Niv. 10 maximum.","materials":[{"id":"11006","num":1}],"level_up_skills":[{"id":"1100603","num":2},{"id":"1100601","num":1}],"icon":"icon/skill/1100_ultimate.png"}

@@ -1,0 +1,1 @@
+{"id":"1014210","name":"Augmentation des DGT de vent","max_level":1,"desc":"","params":[],"anchor":"Point18","pre_points":["1014208"],"level_up_skills":[],"levels":[{"promotion":0,"level":80,"properties":[{"type":"WindAddedRatio","value":0.064}],"materials":[{"id":"2","num":160000},{"id":"110183","num":8},{"id":"111013","num":8}]}],"icon":"icon/property/IconWindAddedRatio.png"}

@@ -1,0 +1,1 @@
+{"id":"1408207","name":"เสริม DMG คริติคอล","max_level":1,"desc":"","params":[],"anchor":"Point15","pre_points":["1408206"],"level_up_skills":[],"levels":[{"promotion":5,"level":0,"properties":[{"type":"CriticalDamageBase","value":0.08}],"materials":[{"id":"2","num":45000},{"id":"110183","num":3},{"id":"115013","num":3}]}],"icon":"icon/property/IconCriticalDamage.png"}

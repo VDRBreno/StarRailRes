@@ -1,0 +1,1 @@
+{"id":"322","name":"Revelry by the Sea","desc":["Increases the wearer's ATK by 12%. When the wearer's ATK is higher than or equal to 2400/3600, increases the DoT DMG dealt by 12%/24% respectively."],"properties":[[{"type":"AttackAddedRatio","value":0.12}]],"icon":"icon/relic/322.png"}

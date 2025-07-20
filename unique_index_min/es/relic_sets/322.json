@@ -1,0 +1,1 @@
+{"id":"322","name":"Litoral embriagado","desc":["El ATQ del portador aumenta en un 12%. Cuando el ATQ del portador es igual o superior a 2400/3600, el Daño con el tiempo que inflige aumenta en un 12%/24% adicional."],"properties":[[{"type":"AttackAddedRatio","value":0.12}]],"icon":"icon/relic/322.png"}

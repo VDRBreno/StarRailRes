@@ -1,0 +1,1 @@
+{"id":"322","name":"酩酊の海域","desc":["装備キャラの攻撃力+12%。装備キャラの攻撃力が2400/3600以上の場合、与える持続ダメージがさらに+12%/24%。"],"properties":[[{"type":"AttackAddedRatio","value":0.12}]],"icon":"icon/relic/322.png"}

@@ -1,0 +1,1 @@
+{"id":"101407","name":"기사왕의 등장","max_level":1,"element":"","type":"Maze","type_text":"비술","effect":"Enhance","effect_text":"강화","simple_desc":"비술 사용 후 다음 전투 시작 시 [노심 공명]을 2pt 획득하고 공격력이 증가한다","desc":"비술 사용 후 다음 전투 시작 시 세이버의 공격력이 #1[i]% 증가한다, 지속 시간: #2[i]턴. 또한 [노심 공명]을 #3[i]pt 획득한다","params":[[0.35,2,2]],"icon":"icon/skill/1014_technique.png"}

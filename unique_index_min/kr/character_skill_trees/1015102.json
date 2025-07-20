@@ -1,0 +1,1 @@
+{"id":"1015102","name":"정의의 사자","max_level":1,"desc":"아처가 전투 진입 시 충전을 #1[i]pt 획득한다","params":[[1]],"anchor":"Point07","pre_points":[],"level_up_skills":[],"levels":[{"promotion":4,"level":0,"properties":[],"materials":[{"id":"2","num":20000},{"id":"110192","num":5},{"id":"241","num":1},{"id":"110502","num":1}]}],"icon":"icon/skill/1015_skilltree2.png"}

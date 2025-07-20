@@ -1,0 +1,1 @@
+{"id":"11212101","name":"사경","max_level":1,"desc":"[전백(轉魄)] 상태일 때 효과 저항이 #1[i]% 증가하고, 가하는 필살기 피해가 #2[i]% 증가한다","params":[[0.35,0.2]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110111","num":3},{"id":"110503","num":1}]}],"icon":"icon/skill/1212_skilltree1.png"}

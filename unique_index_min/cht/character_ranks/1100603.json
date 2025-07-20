@@ -1,0 +1,1 @@
+{"id":"1100603","name":"攻擊載荷","rank":3,"desc":"戰技等級+2，最多不超過15級；天賦等級+2，最多不超過15級。","materials":[{"id":"11006","num":1}],"level_up_skills":[{"id":"1100602","num":2},{"id":"1100604","num":2}],"icon":"icon/skill/1100_skill.png"}

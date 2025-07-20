@@ -1,0 +1,1 @@
+{"id":"1015101","name":"투영 마술","max_level":1,"desc":"아처가 필드에 있을 시 전투 스킬 포인트 최대치가 추가로 #1[i]pt 증가한다","params":[[2]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110191","num":3},{"id":"110502","num":1}]}],"icon":"icon/skill/1015_skilltree1.png"}

@@ -1,1 +1,1 @@
-{"id":"634108","name":"Fire-Crowned King","desc":"During the Night, the character in position 1 increases their final DMG dealt by 5% each time they take action, up to 80% within one Day/Night period. Resets when the Day/Night changes.","enhanced_desc":""}
+{"id":"634108","name":"Fire-Crowned King","desc":"During the Night, the first character in the current team increases their final DMG dealt by 5% each time they take action, up to 80% within one Day/Night period. Resets when the Day/Night changes.","enhanced_desc":""}

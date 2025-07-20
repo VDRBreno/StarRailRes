@@ -8,7 +8,6 @@
 /scripts/*.local
 /scripts/logs
 /scripts/*.log
-/scripts/*.lock
 /scripts/npm-debug.log*
 /scripts/yarn-debug.log*
 /scripts/yarn-error.log*

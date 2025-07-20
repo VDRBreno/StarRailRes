@@ -1,0 +1,1 @@
+{"id":"101407","name":"騎士王の出陣","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Enhance","effect_text":"強化","simple_desc":"秘技を使用した後、次の戦闘開始時、「炉心共鳴」を2層獲得し、攻撃力をアップする。","desc":"秘技を使用した後、次の戦闘開始時、セイバーの攻撃力+#1[i]%、#2[i]ターン継続。「炉心共鳴」を#3[i]層獲得する。","params":[[0.35,2,2]],"icon":"icon/skill/1014_technique.png"}

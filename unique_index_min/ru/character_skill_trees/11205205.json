@@ -1,0 +1,1 @@
+{"id":"11205205","name":"Усиление НР","max_level":1,"desc":"","params":[],"anchor":"Point13","pre_points":["11205102"],"level_up_skills":[],"levels":[{"promotion":4,"level":0,"properties":[{"type":"HPAddedRatio","value":0.06}],"materials":[{"id":"2","num":20000},{"id":"110112","num":5},{"id":"113002","num":4}]}],"icon":"icon/property/IconMaxHP.png"}

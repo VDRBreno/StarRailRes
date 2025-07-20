@@ -1,0 +1,1 @@
+{"id":"322","name":"Rives enivrantes","desc":["Augmente l'ATQ du porteur de 12%. Lorsque l'ATQ du porteur est supérieure ou égale à 2400/3600, augmente les dégâts sur la durée infligés de 12%/24%."],"properties":[[{"type":"AttackAddedRatio","value":0.12}]],"icon":"icon/relic/322.png"}

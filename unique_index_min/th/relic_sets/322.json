@@ -1,0 +1,1 @@
+{"id":"322","name":"Revelry by the Sea","desc":["ทำให้ ATK ของผู้สวมใส่เพิ่มขึ้น 12% เมื่อ ATK ของผู้สวมใส่ มากกว่าหรือเท่ากับ 2400/3600 จะทำให้ DMG ต่อเนื่องที่สร้างเพิ่มขึ้นอีก 12%/24%"],"properties":[[{"type":"AttackAddedRatio","value":0.12}]],"icon":"icon/relic/322.png"}

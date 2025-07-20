@@ -1,0 +1,1 @@
+{"id":"11005101","name":"고통","max_level":1,"desc":"아군의 효과 명중이 #1[i]% 이상일 시, 카프카가 해당 목표의 공격력을 #2[i]% 증가시킨다","params":[[0.75,1]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110151","num":3},{"id":"110503","num":1}]}],"icon":"icon/skill/1005_skilltree1.png"}

@@ -1,0 +1,1 @@
+{"id":"1100607","name":"|強制結束程式|","max_level":1,"element":"Quantum","type":"Maze","type_text":"秘技","effect":"MazeAttack","effect_text":"","simple_desc":"攻擊敵人，進入戰鬥後對敵方全體造成少量傷害，並無視弱點屬性削減韌性。","desc":"立即攻擊敵人，進入戰鬥後對敵方全體造成等同於銀狼#1[i]%攻擊力的量子屬性傷害，並無視弱點屬性削減敵方全體的韌性，擊破弱點時，觸發量子屬性的弱點擊破效果。","params":[[0.8]],"icon":"icon/skill/1006_technique.png"}

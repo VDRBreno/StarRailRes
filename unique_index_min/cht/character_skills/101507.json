@@ -1,0 +1,1 @@
+{"id":"101507","name":"千里眼","max_level":1,"element":"Quantum","type":"Maze","type_text":"秘技","effect":"MazeAttack","effect_text":"","simple_desc":"立即攻擊敵人，進入戰鬥後對敵方全體造成量子屬性傷害，並獲得充能。","desc":"立即攻擊敵人，進入戰鬥後對敵方全體造成等同於Archer#1[i]%攻擊力的量子屬性傷害，並獲得#2[i]點充能。","params":[[2,1]],"icon":"icon/skill/1015_technique.png"}

@@ -1,0 +1,1 @@
+{"id":"1015210","name":"피해 강화•양자","max_level":1,"desc":"","params":[],"anchor":"Point18","pre_points":["1015208"],"level_up_skills":[],"levels":[{"promotion":0,"level":80,"properties":[{"type":"QuantumAddedRatio","value":0.064}],"materials":[{"id":"2","num":160000},{"id":"110193","num":8},{"id":"111003","num":8}]}],"icon":"icon/property/IconQuantumAddedRatio.png"}

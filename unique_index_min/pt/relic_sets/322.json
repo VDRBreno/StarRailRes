@@ -1,0 +1,1 @@
+{"id":"322","name":"Folia à Beira-Mar","desc":["Aumenta o ATQ do usuário em 12%. Quando o ATQ do usuário for maior ou igual a 2400/3600, aumenta o Dano Contínuo causado em 12%/24%."],"properties":[[{"type":"AttackAddedRatio","value":0.12}]],"icon":"icon/relic/322.png"}

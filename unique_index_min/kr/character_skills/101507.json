@@ -1,0 +1,1 @@
+{"id":"101507","name":"천리안","max_level":1,"element":"Quantum","type":"Maze","type_text":"비술","effect":"MazeAttack","effect_text":"","simple_desc":"즉시 적을 공격하며, 전투 진입 후 모든 적에게 양자 속성 피해를 가하고 충전을 획득한다","desc":"즉시 적을 공격하며, 전투 진입 후 모든 적에게 아처 공격력의 #1[i]%만큼 양자 속성 피해를 가하고, 충전을 #2[i]pt 획득한다","params":[[2,1]],"icon":"icon/skill/1015_technique.png"}

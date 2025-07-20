@@ -1,1 +1,1 @@
-{"type":"BaseDefence","name":"Phòng Thủ Cơ Bản","field":"","affix":false,"ratio":false,"percent":false,"order":41,"icon":"icon/property/IconDefence.png"}
+{"type":"BaseDefence","name":"Phòng Thủ Cơ Bản","field":"def","affix":true,"ratio":false,"percent":false,"order":41,"icon":"icon/property/IconDefence.png"}

@@ -1,0 +1,1 @@
+{"id":"11006103","name":"註解","max_level":1,"desc":"銀狼每擁有#1[i]%效果命中，則額外提高#2[i]%攻擊力，最高不超過#3[i]%。","params":[[0.1,0.1,0.5]],"anchor":"Point08","pre_points":[],"level_up_skills":[],"levels":[{"promotion":6,"level":0,"properties":[],"materials":[{"id":"2","num":160000},{"id":"110153","num":8},{"id":"241","num":1},{"id":"110501","num":1}]}],"icon":"icon/skill/1006_skilltree3.png"}

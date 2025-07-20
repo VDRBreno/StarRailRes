@@ -1,0 +1,1 @@
+{"id":"11006101","name":"生成","max_level":1,"desc":"【缺陷】的持续时间增加#1[i]回合。每当有敌方目标的弱点被击破时，银狼有#2[i]%的基础概率对该目标植入1个随机【缺陷】。","params":[[1,1]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110151","num":3},{"id":"110501","num":1}]}],"icon":"icon/skill/1006_skilltree1.png"}

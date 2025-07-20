@@ -1,0 +1,1 @@
+{"id":"101407","name":"骑士王的登场","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Enhance","effect_text":"强化","simple_desc":"使用秘技后，下一次战斗开始时获得2点【炉心共鸣】并提高攻击力。","desc":"使用秘技后，下一次战斗开始时Saber攻击力提高#1[i]%，持续#2[i]回合，并获得#3[i]点【炉心共鸣】。","params":[[0.35,2,2]],"icon":"icon/skill/1014_technique.png"}
