@@ -6793,6 +6793,1521 @@
         ],
         "icon": "icon/property/IconIceAddedRatio.png"
     },
+    "1014001": {
+        "id": "1014001",
+        "name": "",
+        "max_level": 6,
+        "desc": "",
+        "params": [],
+        "anchor": "Point01",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "101401", "num": 1 },
+            { "id": "101408", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110181", "num": 3 },
+                    { "id": "111011", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110182", "num": 3 },
+                    { "id": "111012", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110182", "num": 5 },
+                    { "id": "111012", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110183", "num": 3 },
+                    { "id": "111013", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110183", "num": 8 },
+                    { "id": "111013", "num": 4 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1014_basic_atk.png"
+    },
+    "1014002": {
+        "id": "1014002",
+        "name": "",
+        "max_level": 10,
+        "desc": "",
+        "params": [],
+        "anchor": "Point02",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "101402", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 1,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "111011", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110181", "num": 3 },
+                    { "id": "111011", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110182", "num": 3 },
+                    { "id": "111012", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110182", "num": 5 },
+                    { "id": "111012", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 30000 },
+                    { "id": "110182", "num": 7 },
+                    { "id": "111012", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110183", "num": 3 },
+                    { "id": "111013", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 80000 },
+                    { "id": "110183", "num": 5 },
+                    { "id": "110501", "num": 1 },
+                    { "id": "111013", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110183", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110501", "num": 1 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 300000 },
+                    { "id": "110183", "num": 14 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110501", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1014_skill.png"
+    },
+    "1014003": {
+        "id": "1014003",
+        "name": "",
+        "max_level": 10,
+        "desc": "",
+        "params": [],
+        "anchor": "Point03",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "101403", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 1,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "111011", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110181", "num": 3 },
+                    { "id": "111011", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110182", "num": 3 },
+                    { "id": "111012", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110182", "num": 5 },
+                    { "id": "111012", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 30000 },
+                    { "id": "110182", "num": 7 },
+                    { "id": "111012", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110183", "num": 3 },
+                    { "id": "111013", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 80000 },
+                    { "id": "110183", "num": 5 },
+                    { "id": "110501", "num": 1 },
+                    { "id": "111013", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110183", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110501", "num": 1 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 300000 },
+                    { "id": "110183", "num": 14 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110501", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1014_ultimate.png"
+    },
+    "1014004": {
+        "id": "1014004",
+        "name": "",
+        "max_level": 10,
+        "desc": "",
+        "params": [],
+        "anchor": "Point04",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "101404", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 1,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "111011", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110181", "num": 3 },
+                    { "id": "111011", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110182", "num": 3 },
+                    { "id": "111012", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110182", "num": 5 },
+                    { "id": "111012", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 30000 },
+                    { "id": "110182", "num": 7 },
+                    { "id": "111012", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110183", "num": 3 },
+                    { "id": "111013", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 80000 },
+                    { "id": "110183", "num": 5 },
+                    { "id": "110501", "num": 1 },
+                    { "id": "111013", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110183", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110501", "num": 1 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 300000 },
+                    { "id": "110183", "num": 14 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110501", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1014_talent.png"
+    },
+    "1014007": {
+        "id": "1014007",
+        "name": "",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point05",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "101407", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            }
+        ],
+        "icon": "icon/skill/1014_technique.png"
+    },
+    "1014101": {
+        "id": "1014101",
+        "name": "Cavaleiro do Dragão",
+        "max_level": 1,
+        "desc": "Aumenta a Chance de CRIT de Saber em #1[i]%. Ao entrar em batalha e ao usar seu ATQ Básico Aprimorado, obtém o efeito \"Dispersão Arcana\". Sob este efeito, se Saber possuir \"Ressonância do Núcleo\" e sua Energia puder ser completamente regenerada ao usar sua Perícia consumindo \"Ressonância do Núcleo\", ela consome a \"Dispersão Arcana\" para recuperar 1 Ponto de Perícia para os aliados, e Saber age imediatamente.",
+        "params": [
+            [0.2, 0.4, 0.2]
+        ],
+        "anchor": "Point06",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110181", "num": 3 },
+                    { "id": "110501", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1014_skilltree1.png"
+    },
+    "1014102": {
+        "id": "1014102",
+        "name": "Bênção do Lago",
+        "max_level": 1,
+        "desc": "Saber pode acumular até #1[i] de Energia excedente. Após usar a Perícia Suprema, a Energia excedente é redefinida e uma quantidade correspondente é regenerada. Quando a batalha começa, se a Energia estiver abaixo de #3[i]%, ela é regenerada para #2[i]%.",
+        "params": [
+            [120, 0.6, 0.6]
+        ],
+        "anchor": "Point07",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110182", "num": 5 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110501", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1014_skilltree2.png"
+    },
+    "1014103": {
+        "id": "1014103",
+        "name": "Coroa de Estrelas",
+        "max_level": 1,
+        "desc": "Ao usar a Perícia, aumenta o Dano CRIT de Saber em #1[i]% por #2[i] rodadas. Durante esta batalha, para cada ponto de \"Ressonância do Núcleo\" obtido, aumenta o Dano CRIT de Saber em #3[i]%, acumulando até um máximo de #4[i] vez(es).",
+        "params": [
+            [0.5, 2, 0.04, 8]
+        ],
+        "anchor": "Point08",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110183", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110501", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1014_skilltree3.png"
+    },
+    "1014201": {
+        "id": "1014201",
+        "name": "Bônus de Dano: Vento",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point09",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 1,
+                "properties": [
+                    { "type": "WindAddedRatio", "value": 0.032 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "111011", "num": 2 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconWindAddedRatio.png"
+    },
+    "1014202": {
+        "id": "1014202",
+        "name": "Bônus de Chance de CRIT",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point10",
+        "pre_points": ["1014101"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [
+                    { "type": "CriticalChanceBase", "value": 0.027 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110181", "num": 3 },
+                    { "id": "111011", "num": 6 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconCriticalChance.png"
+    },
+    "1014203": {
+        "id": "1014203",
+        "name": "Bônus de Dano: Vento",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point11",
+        "pre_points": ["1014202"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [
+                    { "type": "WindAddedRatio", "value": 0.032 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110182", "num": 3 },
+                    { "id": "111012", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconWindAddedRatio.png"
+    },
+    "1014204": {
+        "id": "1014204",
+        "name": "Bônus de PV",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point12",
+        "pre_points": ["1014203"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [
+                    { "type": "HPAddedRatio", "value": 0.04 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110182", "num": 3 },
+                    { "id": "111012", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconMaxHP.png"
+    },
+    "1014205": {
+        "id": "1014205",
+        "name": "Bônus de Dano: Vento",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point13",
+        "pre_points": ["1014102"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [
+                    { "type": "WindAddedRatio", "value": 0.048 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110182", "num": 5 },
+                    { "id": "111012", "num": 4 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconWindAddedRatio.png"
+    },
+    "1014206": {
+        "id": "1014206",
+        "name": "Bônus de Chance de CRIT",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point14",
+        "pre_points": ["1014205"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [
+                    { "type": "CriticalChanceBase", "value": 0.04 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110183", "num": 3 },
+                    { "id": "111013", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconCriticalChance.png"
+    },
+    "1014207": {
+        "id": "1014207",
+        "name": "Bônus de Dano: Vento",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point15",
+        "pre_points": ["1014206"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [
+                    { "type": "WindAddedRatio", "value": 0.048 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110183", "num": 3 },
+                    { "id": "111013", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconWindAddedRatio.png"
+    },
+    "1014208": {
+        "id": "1014208",
+        "name": "Bônus de PV",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point16",
+        "pre_points": ["1014103"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [
+                    { "type": "HPAddedRatio", "value": 0.06 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110183", "num": 8 },
+                    { "id": "111013", "num": 8 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconMaxHP.png"
+    },
+    "1014209": {
+        "id": "1014209",
+        "name": "Bônus de Chance de CRIT",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point17",
+        "pre_points": ["1014208"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 75,
+                "properties": [
+                    { "type": "CriticalChanceBase", "value": 0.053 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110183", "num": 8 },
+                    { "id": "111013", "num": 8 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconCriticalChance.png"
+    },
+    "1014210": {
+        "id": "1014210",
+        "name": "Bônus de Dano: Vento",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point18",
+        "pre_points": ["1014208"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 80,
+                "properties": [
+                    { "type": "WindAddedRatio", "value": 0.064 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110183", "num": 8 },
+                    { "id": "111013", "num": 8 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconWindAddedRatio.png"
+    },
+    "1015001": {
+        "id": "1015001",
+        "name": "",
+        "max_level": 6,
+        "desc": "",
+        "params": [],
+        "anchor": "Point01",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "101501", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110191", "num": 3 },
+                    { "id": "111001", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110192", "num": 3 },
+                    { "id": "111002", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110192", "num": 5 },
+                    { "id": "111002", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110193", "num": 3 },
+                    { "id": "111003", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110193", "num": 8 },
+                    { "id": "111003", "num": 4 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1015_basic_atk.png"
+    },
+    "1015002": {
+        "id": "1015002",
+        "name": "",
+        "max_level": 10,
+        "desc": "",
+        "params": [],
+        "anchor": "Point02",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "101502", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 1,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "111001", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110191", "num": 3 },
+                    { "id": "111001", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110192", "num": 3 },
+                    { "id": "111002", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110192", "num": 5 },
+                    { "id": "111002", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 30000 },
+                    { "id": "110192", "num": 7 },
+                    { "id": "111002", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110193", "num": 3 },
+                    { "id": "111003", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 80000 },
+                    { "id": "110193", "num": 5 },
+                    { "id": "110502", "num": 1 },
+                    { "id": "111003", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110193", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110502", "num": 1 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 300000 },
+                    { "id": "110193", "num": 14 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110502", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1015_skill.png"
+    },
+    "1015003": {
+        "id": "1015003",
+        "name": "",
+        "max_level": 10,
+        "desc": "",
+        "params": [],
+        "anchor": "Point03",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "101503", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 1,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "111001", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110191", "num": 3 },
+                    { "id": "111001", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110192", "num": 3 },
+                    { "id": "111002", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110192", "num": 5 },
+                    { "id": "111002", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 30000 },
+                    { "id": "110192", "num": 7 },
+                    { "id": "111002", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110193", "num": 3 },
+                    { "id": "111003", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 80000 },
+                    { "id": "110193", "num": 5 },
+                    { "id": "110502", "num": 1 },
+                    { "id": "111003", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110193", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110502", "num": 1 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 300000 },
+                    { "id": "110193", "num": 14 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110502", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1015_ultimate.png"
+    },
+    "1015004": {
+        "id": "1015004",
+        "name": "",
+        "max_level": 10,
+        "desc": "",
+        "params": [],
+        "anchor": "Point04",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "101504", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 1,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "111001", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110191", "num": 3 },
+                    { "id": "111001", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110192", "num": 3 },
+                    { "id": "111002", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110192", "num": 5 },
+                    { "id": "111002", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 30000 },
+                    { "id": "110192", "num": 7 },
+                    { "id": "111002", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110193", "num": 3 },
+                    { "id": "111003", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 80000 },
+                    { "id": "110193", "num": 5 },
+                    { "id": "110502", "num": 1 },
+                    { "id": "111003", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110193", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110502", "num": 1 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 300000 },
+                    { "id": "110193", "num": 14 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110502", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1015_talent.png"
+    },
+    "1015007": {
+        "id": "1015007",
+        "name": "",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point05",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "101507", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            }
+        ],
+        "icon": "icon/skill/1015_technique.png"
+    },
+    "1015101": {
+        "id": "1015101",
+        "name": "Magia de Projeção",
+        "max_level": 1,
+        "desc": "Quando Archer está em campo, aumenta o limite máximo de Pontos de Perícia em #1[i].",
+        "params": [
+            [2]
+        ],
+        "anchor": "Point06",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110191", "num": 3 },
+                    { "id": "110502", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1015_skilltree1.png"
+    },
+    "1015102": {
+        "id": "1015102",
+        "name": "Herói da Justiça",
+        "max_level": 1,
+        "desc": "Quando Archer entra em batalha, ganha #1[i] ponto(s) de Carga.",
+        "params": [
+            [1]
+        ],
+        "anchor": "Point07",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110192", "num": 5 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110502", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1015_skilltree2.png"
+    },
+    "1015103": {
+        "id": "1015103",
+        "name": "Guardião",
+        "max_level": 1,
+        "desc": "Depois que os aliados ganham um Ponto de Perícia, se houver #3[i] Pontos de Perícia ou mais, aumenta o Dano CRIT de Archer em #1[i]% por #2[i] rodadas.",
+        "params": [
+            [1.2, 1, 4]
+        ],
+        "anchor": "Point08",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110193", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110502", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1015_skilltree3.png"
+    },
+    "1015201": {
+        "id": "1015201",
+        "name": "Bônus de Dano: Quântico",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point09",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 1,
+                "properties": [
+                    { "type": "QuantumAddedRatio", "value": 0.032 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "111001", "num": 2 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconQuantumAddedRatio.png"
+    },
+    "1015202": {
+        "id": "1015202",
+        "name": "Bônus de ATQ",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point10",
+        "pre_points": ["1015101"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [
+                    { "type": "AttackAddedRatio", "value": 0.04 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110191", "num": 3 },
+                    { "id": "111001", "num": 6 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconAttack.png"
+    },
+    "1015203": {
+        "id": "1015203",
+        "name": "Bônus de Dano: Quântico",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point11",
+        "pre_points": ["1015202"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [
+                    { "type": "QuantumAddedRatio", "value": 0.032 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110192", "num": 3 },
+                    { "id": "111002", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconQuantumAddedRatio.png"
+    },
+    "1015204": {
+        "id": "1015204",
+        "name": "Bônus de Chance de CRIT",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point12",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [
+                    { "type": "CriticalChanceBase", "value": 0.027 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110192", "num": 3 },
+                    { "id": "111002", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconCriticalChance.png"
+    },
+    "1015205": {
+        "id": "1015205",
+        "name": "Bônus de Dano: Quântico",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point13",
+        "pre_points": ["1015102"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [
+                    { "type": "QuantumAddedRatio", "value": 0.048 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110192", "num": 5 },
+                    { "id": "111002", "num": 4 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconQuantumAddedRatio.png"
+    },
+    "1015206": {
+        "id": "1015206",
+        "name": "Bônus de ATQ",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point14",
+        "pre_points": ["1015205"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [
+                    { "type": "AttackAddedRatio", "value": 0.06 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110193", "num": 3 },
+                    { "id": "111003", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconAttack.png"
+    },
+    "1015207": {
+        "id": "1015207",
+        "name": "Bônus de Dano: Quântico",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point15",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [
+                    { "type": "QuantumAddedRatio", "value": 0.048 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110193", "num": 3 },
+                    { "id": "111003", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconQuantumAddedRatio.png"
+    },
+    "1015208": {
+        "id": "1015208",
+        "name": "Bônus de Chance de CRIT",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point16",
+        "pre_points": ["1015103"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [
+                    { "type": "CriticalChanceBase", "value": 0.04 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110193", "num": 8 },
+                    { "id": "111003", "num": 8 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconCriticalChance.png"
+    },
+    "1015209": {
+        "id": "1015209",
+        "name": "Bônus de ATQ",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point17",
+        "pre_points": ["1015208"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 75,
+                "properties": [
+                    { "type": "AttackAddedRatio", "value": 0.08 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110193", "num": 8 },
+                    { "id": "111003", "num": 8 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconAttack.png"
+    },
+    "1015210": {
+        "id": "1015210",
+        "name": "Bônus de Dano: Quântico",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point18",
+        "pre_points": ["1015208"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 80,
+                "properties": [
+                    { "type": "QuantumAddedRatio", "value": 0.064 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110193", "num": 8 },
+                    { "id": "111003", "num": 8 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconQuantumAddedRatio.png"
+    },
     "1101001": {
         "id": "1101001",
         "name": "",
@@ -19334,7 +20849,7 @@
         "id": "1205102",
         "name": "Mortes Sem Fim",
         "max_level": 1,
-        "desc": "Se Blade atingir um inimigo com Quebra de Fraqueza após usar \"Floresta de Espadas\", ele restaura PV igual a #1[i]% dos seus PV máximos + #2[i].",
+        "desc": "Se Blade atingir um inimigo afligido com Quebra de Fraqueza após usar \"Floresta de Espadas\", ele restaura PV em um valor igual a #1[i]% dos seus PV máximos + #2[i].",
         "params": [
             [0.05, 100]
         ],
@@ -40486,7 +42001,7 @@
         "id": "1310101",
         "name": "Módulo α: Explosão Anti-Lag",
         "max_level": 1,
-        "desc": "Durante a Combustão Completa, atacar inimigos que não têm Fraqueza contra Fogo também pode reduzir sua Tenacidade, com o efeito sendo equivalente a #1[i]% da Redução de Tenacidade original das habilidades.",
+        "desc": "Durante a \"Combustão Completa\", atacar inimigos que não têm Fraqueza contra Fogo também pode reduzir sua Tenacidade, com o efeito sendo equivalente a #1[i]% da Redução de Tenacidade original das habilidades.",
         "params": [
             [0.55]
         ],
@@ -48962,7 +50477,7 @@
         "id": "1406101",
         "name": "Passos Empíreos",
         "max_level": 1,
-        "desc": "Quando a VEL de Cipher for maior ou igual a 140/170, aumenta a Chance de CRIT em #1[i]%/#2[i]%, e o valor registrado em #3[i]%/#4[i]%.",
+        "desc": "Quando a VEL de Cipher for maior ou igual a 140/170, aumenta a Chance de CRIT em #1[i]%/#2[i]%, e a contagem ganha aumenta em #3[i]%/#4[i]%.",
         "params": [
             [0.25, 0.5, 0.5, 1]
         ],
@@ -48987,7 +50502,7 @@
         "id": "1406102",
         "name": "300 Renegados",
         "max_level": 1,
-        "desc": "Cipher registrará #1[i]% do Dano que não for Dano Verdadeiro causado pelos aliados-alvo aos inimigos-alvo, exceto o \"Patrono\". O Dano Sobressalente não é registrado.",
+        "desc": "Cipher pode registrar #1[i]% do Dano que não for Dano Verdadeiro causado pelos aliados-alvo aos inimigos-alvo, exceto o \"Patrono\". O Dano Sobressalente não é registrado.",
         "params": [
             [0.08]
         ],
@@ -50190,6 +51705,767 @@
         ],
         "icon": "icon/skill/1407_memosprite_talent.png"
     },
+    "1408001": {
+        "id": "1408001",
+        "name": "",
+        "max_level": 6,
+        "desc": "",
+        "params": [],
+        "anchor": "Point01",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "140801", "num": 1 },
+            { "id": "140808", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110181", "num": 3 },
+                    { "id": "115011", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110182", "num": 3 },
+                    { "id": "115012", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110182", "num": 5 },
+                    { "id": "115012", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110183", "num": 3 },
+                    { "id": "115013", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110183", "num": 8 },
+                    { "id": "115013", "num": 4 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1408_basic_atk.png"
+    },
+    "1408002": {
+        "id": "1408002",
+        "name": "",
+        "max_level": 10,
+        "desc": "",
+        "params": [],
+        "anchor": "Point02",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "140802", "num": 1 },
+            { "id": "140809", "num": 1 },
+            { "id": "140811", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 1,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "115011", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110181", "num": 3 },
+                    { "id": "115011", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110182", "num": 3 },
+                    { "id": "115012", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110182", "num": 5 },
+                    { "id": "115012", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 30000 },
+                    { "id": "110182", "num": 7 },
+                    { "id": "115012", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110183", "num": 3 },
+                    { "id": "115013", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 80000 },
+                    { "id": "110183", "num": 5 },
+                    { "id": "110507", "num": 1 },
+                    { "id": "115013", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110183", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110507", "num": 1 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 300000 },
+                    { "id": "110183", "num": 14 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110507", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1408_skill.png"
+    },
+    "1408003": {
+        "id": "1408003",
+        "name": "",
+        "max_level": 10,
+        "desc": "",
+        "params": [],
+        "anchor": "Point03",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "140803", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 1,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "115011", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110181", "num": 3 },
+                    { "id": "115011", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110182", "num": 3 },
+                    { "id": "115012", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110182", "num": 5 },
+                    { "id": "115012", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 30000 },
+                    { "id": "110182", "num": 7 },
+                    { "id": "115012", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110183", "num": 3 },
+                    { "id": "115013", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 80000 },
+                    { "id": "110183", "num": 5 },
+                    { "id": "110507", "num": 1 },
+                    { "id": "115013", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110183", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110507", "num": 1 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 300000 },
+                    { "id": "110183", "num": 14 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110507", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1408_ultimate.png"
+    },
+    "1408004": {
+        "id": "1408004",
+        "name": "",
+        "max_level": 10,
+        "desc": "",
+        "params": [],
+        "anchor": "Point04",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "140804", "num": 1 },
+            { "id": "140805", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 1,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "115011", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110181", "num": 3 },
+                    { "id": "115011", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110182", "num": 3 },
+                    { "id": "115012", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110182", "num": 5 },
+                    { "id": "115012", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 30000 },
+                    { "id": "110182", "num": 7 },
+                    { "id": "115012", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110183", "num": 3 },
+                    { "id": "115013", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 80000 },
+                    { "id": "110183", "num": 5 },
+                    { "id": "110507", "num": 1 },
+                    { "id": "115013", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110183", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110507", "num": 1 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 300000 },
+                    { "id": "110183", "num": 14 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110507", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1408_talent.png"
+    },
+    "1408007": {
+        "id": "1408007",
+        "name": "",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point05",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "140807", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            }
+        ],
+        "icon": "icon/skill/1408_technique.png"
+    },
+    "1408101": {
+        "id": "1408101",
+        "name": "Marcha para o Esquecimento",
+        "max_level": 1,
+        "desc": "Quando a batalha começa, ganha #2[i] ponto(s) de \"Chama Primordial\". Quando a transformação acaba, ganha #1[i] ponto(s) de \"Chama Primordial\".",
+        "params": [
+            [3, 1]
+        ],
+        "anchor": "Point06",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110181", "num": 3 },
+                    { "id": "110507", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1408_skilltree1.png"
+    },
+    "1408102": {
+        "id": "1408102",
+        "name": "Encarnação em Chamas",
+        "max_level": 1,
+        "desc": "Ao receber efeitos de Cura ou Escudos de um aliado, o Dano causado aumenta em #1[i]% por #2[i] rodada(s). Este efeito não pode ser ativado repetidamente dentro da mesma rodada.\nAo receber efeitos de regeneração de Energia fornecidos por aliados, obtém #3[i] ponto(s) de \"Chama Primordial\".",
+        "params": [
+            [0.45, 4, 1]
+        ],
+        "anchor": "Point07",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110182", "num": 5 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110507", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1408_skilltree2.png"
+    },
+    "1408103": {
+        "id": "1408103",
+        "name": "Aura Heroica",
+        "max_level": 1,
+        "desc": "Ao entrar em batalha ou quando a transformação acaba, aumenta o ATQ em #1[i]%. Este efeito pode acumular até #2[i] vez(es).",
+        "params": [
+            [0.5, 2]
+        ],
+        "anchor": "Point08",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110183", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110507", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1408_skilltree3.png"
+    },
+    "1408201": {
+        "id": "1408201",
+        "name": "Bônus de Dano CRIT",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point09",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 1,
+                "properties": [
+                    { "type": "CriticalDamageBase", "value": 0.053 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "115011", "num": 2 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconCriticalDamage.png"
+    },
+    "1408202": {
+        "id": "1408202",
+        "name": "Bônus de Chance de CRIT",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point10",
+        "pre_points": ["1408101"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [
+                    { "type": "CriticalChanceBase", "value": 0.027 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110181", "num": 3 },
+                    { "id": "115011", "num": 6 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconCriticalChance.png"
+    },
+    "1408203": {
+        "id": "1408203",
+        "name": "Bônus de Dano CRIT",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point11",
+        "pre_points": ["1408202"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [
+                    { "type": "CriticalDamageBase", "value": 0.053 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110182", "num": 3 },
+                    { "id": "115012", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconCriticalDamage.png"
+    },
+    "1408204": {
+        "id": "1408204",
+        "name": "Bônus de VEL",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point12",
+        "pre_points": ["1408203"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [
+                    { "type": "SpeedDelta", "value": 2 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110182", "num": 3 },
+                    { "id": "115012", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconSpeed.png"
+    },
+    "1408205": {
+        "id": "1408205",
+        "name": "Bônus de Dano CRIT",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point13",
+        "pre_points": ["1408102"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [
+                    { "type": "CriticalDamageBase", "value": 0.08 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110182", "num": 5 },
+                    { "id": "115012", "num": 4 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconCriticalDamage.png"
+    },
+    "1408206": {
+        "id": "1408206",
+        "name": "Bônus de Chance de CRIT",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point14",
+        "pre_points": ["1408205"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [
+                    { "type": "CriticalChanceBase", "value": 0.04 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110183", "num": 3 },
+                    { "id": "115013", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconCriticalChance.png"
+    },
+    "1408207": {
+        "id": "1408207",
+        "name": "Bônus de Dano CRIT",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point15",
+        "pre_points": ["1408206"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [
+                    { "type": "CriticalDamageBase", "value": 0.08 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110183", "num": 3 },
+                    { "id": "115013", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconCriticalDamage.png"
+    },
+    "1408208": {
+        "id": "1408208",
+        "name": "Bônus de VEL",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point16",
+        "pre_points": ["1408103"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [
+                    { "type": "SpeedDelta", "value": 3 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110183", "num": 8 },
+                    { "id": "115013", "num": 8 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconSpeed.png"
+    },
+    "1408209": {
+        "id": "1408209",
+        "name": "Bônus de Chance de CRIT",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point17",
+        "pre_points": ["1408208"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 75,
+                "properties": [
+                    { "type": "CriticalChanceBase", "value": 0.053 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110183", "num": 8 },
+                    { "id": "115013", "num": 8 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconCriticalChance.png"
+    },
+    "1408210": {
+        "id": "1408210",
+        "name": "Bônus de Dano CRIT",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point18",
+        "pre_points": ["1408208"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 80,
+                "properties": [
+                    { "type": "CriticalDamageBase", "value": 0.107 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110183", "num": 8 },
+                    { "id": "115013", "num": 8 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconCriticalDamage.png"
+    },
     "1409001": {
         "id": "1409001",
         "name": "",
@@ -50625,7 +52901,7 @@
         "id": "1409101",
         "name": "Sorriso Sombrio",
         "max_level": 1,
-        "desc": "Aumenta a Chance de CRIT de Hyacine e Ikinha em #1[i]%. Ao fornecer cura a um aliado-alvo com PV menores ou iguais a #2[i]% dos PV máximos desta unidade, aumenta a Cura Realizada de Hyacine e Ikinha em #3[i]%.",
+        "desc": "Aumenta a Chance de CRIT de Hyacine e Ikinha em #1[i]%. Ao fornecer cura a um aliado-alvo com PV iguais ou inferiores a #2[i]% de seus PV máximos , aumenta a Cura Realizada de Hyacine e Ikinha em #3[i]%.",
         "params": [
             [1, 0.5, 0.25]
         ],
@@ -56105,7 +58381,7 @@
         "id": "8007103",
         "name": "Imãs e Grandes Correntes",
         "max_level": 1,
-        "desc": "Quando a Energia Máxima do aliado-alvo que possui \"Suporte da Mem\" é maior que #1[i], para cada #2[i] de Energia excedente, aumenta adicionalmente o multiplicador do Dano Verdadeiro causado através do \"Suporte da Mem\" em #3[f1]%, até um aumento máximo de #4[i]%.",
+        "desc": "Quando a Energia Máxima do aliado-alvo que possui \"Suporte da Mem\" é maior que #1[i], para cada #2[i] de Energia excedente, aumenta adicionalmente o multiplicador do Dano Verdadeiro causado através do \"Suporte da Mem\" em #3[i]%, até um aumento máximo de #4[i]%.",
         "params": [
             [100, 10, 0.02, 0.2]
         ],
@@ -57005,7 +59281,7 @@
         "id": "8008103",
         "name": "Imãs e Grandes Correntes",
         "max_level": 1,
-        "desc": "Quando a Energia Máxima do aliado-alvo que possui \"Suporte da Mem\" é maior que #1[i], para cada #2[i] de Energia excedente, aumenta adicionalmente o multiplicador do Dano Verdadeiro causado através do \"Suporte da Mem\" em #3[f1]%, até um aumento máximo de #4[i]%.",
+        "desc": "Quando a Energia Máxima do aliado-alvo que possui \"Suporte da Mem\" é maior que #1[i], para cada #2[i] de Energia excedente, aumenta adicionalmente o multiplicador do Dano Verdadeiro causado através do \"Suporte da Mem\" em #3[i]%, até um aumento máximo de #4[i]%.",
         "params": [
             [100, 10, 0.02, 0.2]
         ],
@@ -57420,5 +59696,3035 @@
             }
         ],
         "icon": "icon/skill/8008_memosprite_talent.png"
+    },
+    "11005001": {
+        "id": "11005001",
+        "name": "",
+        "max_level": 6,
+        "desc": "",
+        "params": [],
+        "anchor": "Point01",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "1100501", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110151", "num": 3 },
+                    { "id": "111011", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110152", "num": 3 },
+                    { "id": "111012", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110152", "num": 5 },
+                    { "id": "111012", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110153", "num": 3 },
+                    { "id": "111013", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110153", "num": 8 },
+                    { "id": "111013", "num": 4 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1005_basic_atk.png"
+    },
+    "11005002": {
+        "id": "11005002",
+        "name": "",
+        "max_level": 10,
+        "desc": "",
+        "params": [],
+        "anchor": "Point02",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "1100502", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 1,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "111011", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110151", "num": 3 },
+                    { "id": "111011", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110152", "num": 3 },
+                    { "id": "111012", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110152", "num": 5 },
+                    { "id": "111012", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 30000 },
+                    { "id": "110152", "num": 7 },
+                    { "id": "111012", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110153", "num": 3 },
+                    { "id": "111013", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 80000 },
+                    { "id": "110153", "num": 5 },
+                    { "id": "110503", "num": 1 },
+                    { "id": "111013", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110153", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110503", "num": 1 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 300000 },
+                    { "id": "110153", "num": 14 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110503", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1005_skill.png"
+    },
+    "11005003": {
+        "id": "11005003",
+        "name": "",
+        "max_level": 10,
+        "desc": "",
+        "params": [],
+        "anchor": "Point03",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "1100503", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 1,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "111011", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110151", "num": 3 },
+                    { "id": "111011", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110152", "num": 3 },
+                    { "id": "111012", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110152", "num": 5 },
+                    { "id": "111012", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 30000 },
+                    { "id": "110152", "num": 7 },
+                    { "id": "111012", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110153", "num": 3 },
+                    { "id": "111013", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 80000 },
+                    { "id": "110153", "num": 5 },
+                    { "id": "110503", "num": 1 },
+                    { "id": "111013", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110153", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110503", "num": 1 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 300000 },
+                    { "id": "110153", "num": 14 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110503", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1005_ultimate.png"
+    },
+    "11005004": {
+        "id": "11005004",
+        "name": "",
+        "max_level": 10,
+        "desc": "",
+        "params": [],
+        "anchor": "Point04",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "1100504", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 1,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "111011", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110151", "num": 3 },
+                    { "id": "111011", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110152", "num": 3 },
+                    { "id": "111012", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110152", "num": 5 },
+                    { "id": "111012", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 30000 },
+                    { "id": "110152", "num": 7 },
+                    { "id": "111012", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110153", "num": 3 },
+                    { "id": "111013", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 80000 },
+                    { "id": "110153", "num": 5 },
+                    { "id": "110503", "num": 1 },
+                    { "id": "111013", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110153", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110503", "num": 1 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 300000 },
+                    { "id": "110153", "num": 14 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110503", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1005_talent.png"
+    },
+    "11005007": {
+        "id": "11005007",
+        "name": "",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point05",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "1100507", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            }
+        ],
+        "icon": "icon/skill/1005_technique.png"
+    },
+    "11005101": {
+        "id": "11005101",
+        "name": "Tortura",
+        "max_level": 1,
+        "desc": "Quando a Taxa de Acerto de Efeito do aliado-alvo for #1[i]% ou maior, Kafka aumenta o ATQ do alvo em #2[i]%.",
+        "params": [
+            [0.75, 1]
+        ],
+        "anchor": "Point06",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110151", "num": 3 },
+                    { "id": "110503", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1005_skilltree1.png"
+    },
+    "11005102": {
+        "id": "11005102",
+        "name": "Pilhagem",
+        "max_level": 1,
+        "desc": "Se um inimigo-alvo com \"Choque\" for derrotado, Kafka regenera adicionalmente #1[i] de Energia.",
+        "params": [
+            [5]
+        ],
+        "anchor": "Point07",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110152", "num": 5 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110503", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1005_skilltree2.png"
+    },
+    "11005103": {
+        "id": "11005103",
+        "name": "Espinhos",
+        "max_level": 1,
+        "desc": "Após usar a Perícia Suprema, restaura em 1 a contagem de ativação do Ataque Extra do Talento. E o Ataque Extra do Talento pode fazer com que todas as penalidades de Dano Contínuo atualmente no alvo produzam imediatamente Dano igual a #1[i]% do Dano original.",
+        "params": [
+            [0.8]
+        ],
+        "anchor": "Point08",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110153", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110503", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1005_skilltree3.png"
+    },
+    "11005201": {
+        "id": "11005201",
+        "name": "Bônus de ATQ",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point09",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 1,
+                "properties": [
+                    { "type": "AttackAddedRatio", "value": 0.04 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "111011", "num": 2 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconAttack.png"
+    },
+    "11005202": {
+        "id": "11005202",
+        "name": "Taxa de Acerto de Efeito",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point10",
+        "pre_points": ["11005101"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [
+                    { "type": "StatusProbabilityBase", "value": 0.04 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110151", "num": 3 },
+                    { "id": "111011", "num": 6 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconStatusProbability.png"
+    },
+    "11005203": {
+        "id": "11005203",
+        "name": "Bônus de ATQ",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point11",
+        "pre_points": ["11005202"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [
+                    { "type": "AttackAddedRatio", "value": 0.04 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110152", "num": 3 },
+                    { "id": "111012", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconAttack.png"
+    },
+    "11005204": {
+        "id": "11005204",
+        "name": "Bônus de PV",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point12",
+        "pre_points": ["11005203"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [
+                    { "type": "HPAddedRatio", "value": 0.04 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110152", "num": 3 },
+                    { "id": "111012", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconMaxHP.png"
+    },
+    "11005205": {
+        "id": "11005205",
+        "name": "Bônus de ATQ",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point13",
+        "pre_points": ["11005102"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [
+                    { "type": "AttackAddedRatio", "value": 0.06 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110152", "num": 5 },
+                    { "id": "111012", "num": 4 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconAttack.png"
+    },
+    "11005206": {
+        "id": "11005206",
+        "name": "Taxa de Acerto de Efeito",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point14",
+        "pre_points": ["11005205"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [
+                    { "type": "StatusProbabilityBase", "value": 0.06 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110153", "num": 3 },
+                    { "id": "111013", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconStatusProbability.png"
+    },
+    "11005207": {
+        "id": "11005207",
+        "name": "Bônus de ATQ",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point15",
+        "pre_points": ["11005206"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [
+                    { "type": "AttackAddedRatio", "value": 0.06 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110153", "num": 3 },
+                    { "id": "111013", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconAttack.png"
+    },
+    "11005208": {
+        "id": "11005208",
+        "name": "Bônus de PV",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point16",
+        "pre_points": ["11005103"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [
+                    { "type": "HPAddedRatio", "value": 0.06 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110153", "num": 8 },
+                    { "id": "111013", "num": 8 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconMaxHP.png"
+    },
+    "11005209": {
+        "id": "11005209",
+        "name": "Taxa de Acerto de Efeito",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point17",
+        "pre_points": ["11005103"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 75,
+                "properties": [
+                    { "type": "StatusProbabilityBase", "value": 0.08 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110153", "num": 8 },
+                    { "id": "111013", "num": 8 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconStatusProbability.png"
+    },
+    "11005210": {
+        "id": "11005210",
+        "name": "Bônus de ATQ",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point18",
+        "pre_points": ["11005201"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 80,
+                "properties": [
+                    { "type": "AttackAddedRatio", "value": 0.08 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110153", "num": 8 },
+                    { "id": "111013", "num": 8 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconAttack.png"
+    },
+    "11006001": {
+        "id": "11006001",
+        "name": "",
+        "max_level": 6,
+        "desc": "",
+        "params": [],
+        "anchor": "Point01",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "1100601", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110151", "num": 3 },
+                    { "id": "112011", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110152", "num": 3 },
+                    { "id": "112012", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110152", "num": 5 },
+                    { "id": "112012", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110153", "num": 3 },
+                    { "id": "112013", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110153", "num": 8 },
+                    { "id": "112013", "num": 4 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1006_basic_atk.png"
+    },
+    "11006002": {
+        "id": "11006002",
+        "name": "",
+        "max_level": 10,
+        "desc": "",
+        "params": [],
+        "anchor": "Point02",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "1100602", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 1,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "112011", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110151", "num": 3 },
+                    { "id": "112011", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110152", "num": 3 },
+                    { "id": "112012", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110152", "num": 5 },
+                    { "id": "112012", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 30000 },
+                    { "id": "110152", "num": 7 },
+                    { "id": "112012", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110153", "num": 3 },
+                    { "id": "112013", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 80000 },
+                    { "id": "110153", "num": 5 },
+                    { "id": "110501", "num": 1 },
+                    { "id": "112013", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110153", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110501", "num": 1 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 300000 },
+                    { "id": "110153", "num": 14 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110501", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1006_skill.png"
+    },
+    "11006003": {
+        "id": "11006003",
+        "name": "",
+        "max_level": 10,
+        "desc": "",
+        "params": [],
+        "anchor": "Point03",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "1100603", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 1,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "112011", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110151", "num": 3 },
+                    { "id": "112011", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110152", "num": 3 },
+                    { "id": "112012", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110152", "num": 5 },
+                    { "id": "112012", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 30000 },
+                    { "id": "110152", "num": 7 },
+                    { "id": "112012", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110153", "num": 3 },
+                    { "id": "112013", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 80000 },
+                    { "id": "110153", "num": 5 },
+                    { "id": "110501", "num": 1 },
+                    { "id": "112013", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110153", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110501", "num": 1 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 300000 },
+                    { "id": "110153", "num": 14 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110501", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1006_ultimate.png"
+    },
+    "11006004": {
+        "id": "11006004",
+        "name": "",
+        "max_level": 10,
+        "desc": "",
+        "params": [],
+        "anchor": "Point04",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "1100604", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 1,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "112011", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110151", "num": 3 },
+                    { "id": "112011", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110152", "num": 3 },
+                    { "id": "112012", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110152", "num": 5 },
+                    { "id": "112012", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 30000 },
+                    { "id": "110152", "num": 7 },
+                    { "id": "112012", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110153", "num": 3 },
+                    { "id": "112013", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 80000 },
+                    { "id": "110153", "num": 5 },
+                    { "id": "110501", "num": 1 },
+                    { "id": "112013", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110153", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110501", "num": 1 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 300000 },
+                    { "id": "110153", "num": 14 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110501", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1006_talent.png"
+    },
+    "11006007": {
+        "id": "11006007",
+        "name": "",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point05",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "1100607", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            }
+        ],
+        "icon": "icon/skill/1006_technique.png"
+    },
+    "11006101": {
+        "id": "11006101",
+        "name": "Geração",
+        "max_level": 1,
+        "desc": "A duração do \"Erro\" é estendida em #1[i] rodada(s). Sempre que um inimigo-alvo é afligido por Quebra de Fraqueza, Loba Prateada tem uma chance-base de #2[i]% de implantar 1 \"Erro\" aleatório nesse alvo.",
+        "params": [
+            [1, 1]
+        ],
+        "anchor": "Point06",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110151", "num": 3 },
+                    { "id": "110501", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1006_skilltree1.png"
+    },
+    "11006102": {
+        "id": "11006102",
+        "name": "Injeção",
+        "max_level": 1,
+        "desc": "Quando a batalha começa, regenera imediatamente #1[i] de Energia. Quando a rodada da Loba Prateada começa, ela regenera #2[i] de Energia.",
+        "params": [
+            [20, 5]
+        ],
+        "anchor": "Point07",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110152", "num": 5 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110501", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1006_skilltree2.png"
+    },
+    "11006103": {
+        "id": "11006103",
+        "name": "Comentário Adicional",
+        "max_level": 1,
+        "desc": "Para cada #1[i]% de Taxa de Acerto de Efeito que Loba Prateada possui, aumenta adicionalmente seu ATQ em #2[i]%, até um máximo de #3[i]%.",
+        "params": [
+            [0.1, 0.1, 0.5]
+        ],
+        "anchor": "Point08",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110153", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110501", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1006_skilltree3.png"
+    },
+    "11006201": {
+        "id": "11006201",
+        "name": "Bônus de ATQ",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point09",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 1,
+                "properties": [
+                    { "type": "AttackAddedRatio", "value": 0.04 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "112011", "num": 2 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconAttack.png"
+    },
+    "11006202": {
+        "id": "11006202",
+        "name": "Bônus de Taxa de Acerto de Efeito",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point10",
+        "pre_points": ["11006101"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [
+                    { "type": "StatusProbabilityBase", "value": 0.04 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110151", "num": 3 },
+                    { "id": "112011", "num": 6 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconStatusProbability.png"
+    },
+    "11006203": {
+        "id": "11006203",
+        "name": "Bônus de ATQ",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point11",
+        "pre_points": ["11006202"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [
+                    { "type": "AttackAddedRatio", "value": 0.04 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110152", "num": 3 },
+                    { "id": "112012", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconAttack.png"
+    },
+    "11006204": {
+        "id": "11006204",
+        "name": "Bônus de Dano: Quântico",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point12",
+        "pre_points": ["11006203"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [
+                    { "type": "QuantumAddedRatio", "value": 0.032 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110152", "num": 3 },
+                    { "id": "112012", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconQuantumAddedRatio.png"
+    },
+    "11006205": {
+        "id": "11006205",
+        "name": "Bônus de ATQ",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point13",
+        "pre_points": ["11006102"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [
+                    { "type": "AttackAddedRatio", "value": 0.06 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110152", "num": 5 },
+                    { "id": "112012", "num": 4 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconAttack.png"
+    },
+    "11006206": {
+        "id": "11006206",
+        "name": "Bônus de Taxa de Acerto de Efeito",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point14",
+        "pre_points": ["11006205"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [
+                    { "type": "StatusProbabilityBase", "value": 0.06 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110153", "num": 3 },
+                    { "id": "112013", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconStatusProbability.png"
+    },
+    "11006207": {
+        "id": "11006207",
+        "name": "Bônus de ATQ",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point15",
+        "pre_points": ["11006206"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [
+                    { "type": "AttackAddedRatio", "value": 0.06 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110153", "num": 3 },
+                    { "id": "112013", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconAttack.png"
+    },
+    "11006208": {
+        "id": "11006208",
+        "name": "Bônus de Dano: Quântico",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point16",
+        "pre_points": ["11006103"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [
+                    { "type": "QuantumAddedRatio", "value": 0.048 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110153", "num": 8 },
+                    { "id": "112013", "num": 8 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconQuantumAddedRatio.png"
+    },
+    "11006209": {
+        "id": "11006209",
+        "name": "Bônus de Taxa de Acerto de Efeito",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point17",
+        "pre_points": ["11006103"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 75,
+                "properties": [
+                    { "type": "StatusProbabilityBase", "value": 0.08 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110153", "num": 8 },
+                    { "id": "112013", "num": 8 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconStatusProbability.png"
+    },
+    "11006210": {
+        "id": "11006210",
+        "name": "Bônus de ATQ",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point18",
+        "pre_points": ["11006201"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 80,
+                "properties": [
+                    { "type": "AttackAddedRatio", "value": 0.08 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110153", "num": 8 },
+                    { "id": "112013", "num": 8 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconAttack.png"
+    },
+    "11205001": {
+        "id": "11205001",
+        "name": "",
+        "max_level": 6,
+        "desc": "",
+        "params": [],
+        "anchor": "Point01",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "1120501", "num": 1 },
+            { "id": "1120508", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110111", "num": 3 },
+                    { "id": "113001", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110112", "num": 3 },
+                    { "id": "113002", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110112", "num": 5 },
+                    { "id": "113002", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110113", "num": 3 },
+                    { "id": "113003", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110113", "num": 8 },
+                    { "id": "113003", "num": 4 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1205_basic_atk.png"
+    },
+    "11205002": {
+        "id": "11205002",
+        "name": "",
+        "max_level": 10,
+        "desc": "",
+        "params": [],
+        "anchor": "Point02",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "1120502", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 1,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "113001", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110111", "num": 3 },
+                    { "id": "113001", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110112", "num": 3 },
+                    { "id": "113002", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110112", "num": 5 },
+                    { "id": "113002", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 30000 },
+                    { "id": "110112", "num": 7 },
+                    { "id": "113002", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110113", "num": 3 },
+                    { "id": "113003", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 80000 },
+                    { "id": "110113", "num": 5 },
+                    { "id": "110503", "num": 1 },
+                    { "id": "113003", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110113", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110503", "num": 1 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 300000 },
+                    { "id": "110113", "num": 14 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110503", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1205_skill.png"
+    },
+    "11205003": {
+        "id": "11205003",
+        "name": "",
+        "max_level": 10,
+        "desc": "",
+        "params": [],
+        "anchor": "Point03",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "1120503", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 1,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "113001", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110111", "num": 3 },
+                    { "id": "113001", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110112", "num": 3 },
+                    { "id": "113002", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110112", "num": 5 },
+                    { "id": "113002", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 30000 },
+                    { "id": "110112", "num": 7 },
+                    { "id": "113002", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110113", "num": 3 },
+                    { "id": "113003", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 80000 },
+                    { "id": "110113", "num": 5 },
+                    { "id": "110503", "num": 1 },
+                    { "id": "113003", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110113", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110503", "num": 1 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 300000 },
+                    { "id": "110113", "num": 14 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110503", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1205_ultimate.png"
+    },
+    "11205004": {
+        "id": "11205004",
+        "name": "",
+        "max_level": 10,
+        "desc": "",
+        "params": [],
+        "anchor": "Point04",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "1120504", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 1,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "113001", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110111", "num": 3 },
+                    { "id": "113001", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110112", "num": 3 },
+                    { "id": "113002", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110112", "num": 5 },
+                    { "id": "113002", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 30000 },
+                    { "id": "110112", "num": 7 },
+                    { "id": "113002", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110113", "num": 3 },
+                    { "id": "113003", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 80000 },
+                    { "id": "110113", "num": 5 },
+                    { "id": "110503", "num": 1 },
+                    { "id": "113003", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110113", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110503", "num": 1 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 300000 },
+                    { "id": "110113", "num": 14 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110503", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1205_talent.png"
+    },
+    "11205007": {
+        "id": "11205007",
+        "name": "",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point05",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "1120507", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            }
+        ],
+        "icon": "icon/skill/1205_technique.png"
+    },
+    "11205101": {
+        "id": "11205101",
+        "name": "Vita Infinita",
+        "max_level": 1,
+        "desc": "Quando Blade utiliza sua Perícia Suprema, a quantidade liberada do total de PV perdidos é alterada para #1[i]%.",
+        "params": [
+            [0.5]
+        ],
+        "anchor": "Point06",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110111", "num": 3 },
+                    { "id": "110503", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1205_skilltree1.png"
+    },
+    "11205102": {
+        "id": "11205102",
+        "name": "Mortes Sem Fim",
+        "max_level": 1,
+        "desc": "Os PV restaurados por cura aumentam em #2[i]%. Após receber cura, converte #1[i]% do valor curado para a contagem de PV perdidos da Perícia Suprema.",
+        "params": [
+            [0.25, 0.2]
+        ],
+        "anchor": "Point07",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110112", "num": 5 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110503", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1205_skilltree2.png"
+    },
+    "11205103": {
+        "id": "11205103",
+        "name": "Ciclone de Destruição",
+        "max_level": 1,
+        "desc": "Aumenta o Dano de Ataque Extra causado pelo Talento em #1[i]% e regenera adicionalmente #2[i] de energia.",
+        "params": [
+            [0.2, 15]
+        ],
+        "anchor": "Point08",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110113", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110503", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1205_skilltree3.png"
+    },
+    "11205201": {
+        "id": "11205201",
+        "name": "Bônus de PV",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point09",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 1,
+                "properties": [
+                    { "type": "HPAddedRatio", "value": 0.04 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "113001", "num": 2 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconMaxHP.png"
+    },
+    "11205202": {
+        "id": "11205202",
+        "name": "Bônus de Chance de CRIT",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point10",
+        "pre_points": ["11205101"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [
+                    { "type": "CriticalChanceBase", "value": 0.027 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110111", "num": 3 },
+                    { "id": "113001", "num": 6 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconCriticalChance.png"
+    },
+    "11205203": {
+        "id": "11205203",
+        "name": "Bônus de PV",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point11",
+        "pre_points": ["11205202"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [
+                    { "type": "HPAddedRatio", "value": 0.04 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110112", "num": 3 },
+                    { "id": "113002", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconMaxHP.png"
+    },
+    "11205204": {
+        "id": "11205204",
+        "name": "Bônus de RES a Efeito",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point12",
+        "pre_points": ["11205203"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [
+                    { "type": "StatusResistanceBase", "value": 0.04 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110112", "num": 3 },
+                    { "id": "113002", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconStatusResistance.png"
+    },
+    "11205205": {
+        "id": "11205205",
+        "name": "Bônus de PV",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point13",
+        "pre_points": ["11205102"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [
+                    { "type": "HPAddedRatio", "value": 0.06 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110112", "num": 5 },
+                    { "id": "113002", "num": 4 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconMaxHP.png"
+    },
+    "11205206": {
+        "id": "11205206",
+        "name": "Bônus de Chance de CRIT",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point14",
+        "pre_points": ["11205205"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [
+                    { "type": "CriticalChanceBase", "value": 0.04 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110113", "num": 3 },
+                    { "id": "113003", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconCriticalChance.png"
+    },
+    "11205207": {
+        "id": "11205207",
+        "name": "Bônus de PV",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point15",
+        "pre_points": ["11205206"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [
+                    { "type": "HPAddedRatio", "value": 0.06 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110113", "num": 3 },
+                    { "id": "113003", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconMaxHP.png"
+    },
+    "11205208": {
+        "id": "11205208",
+        "name": "Bônus de RES a Efeito",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point16",
+        "pre_points": ["11205103"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [
+                    { "type": "StatusResistanceBase", "value": 0.06 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110113", "num": 8 },
+                    { "id": "113003", "num": 8 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconStatusResistance.png"
+    },
+    "11205209": {
+        "id": "11205209",
+        "name": "Bônus de Chance de CRIT",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point17",
+        "pre_points": ["11205208"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 75,
+                "properties": [
+                    { "type": "CriticalChanceBase", "value": 0.053 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110113", "num": 8 },
+                    { "id": "113003", "num": 8 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconCriticalChance.png"
+    },
+    "11205210": {
+        "id": "11205210",
+        "name": "Bônus de PV",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point18",
+        "pre_points": ["11205208"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 80,
+                "properties": [
+                    { "type": "HPAddedRatio", "value": 0.08 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110113", "num": 8 },
+                    { "id": "113003", "num": 8 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconMaxHP.png"
+    },
+    "11212001": {
+        "id": "11212001",
+        "name": "",
+        "max_level": 6,
+        "desc": "",
+        "params": [],
+        "anchor": "Point01",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "1121201", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110111", "num": 3 },
+                    { "id": "113001", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110112", "num": 3 },
+                    { "id": "113002", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110112", "num": 5 },
+                    { "id": "113002", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110113", "num": 3 },
+                    { "id": "113003", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110113", "num": 8 },
+                    { "id": "113003", "num": 4 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1212_basic_atk.png"
+    },
+    "11212002": {
+        "id": "11212002",
+        "name": "",
+        "max_level": 10,
+        "desc": "",
+        "params": [],
+        "anchor": "Point02",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "1121202", "num": 1 },
+            { "id": "1121209", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 1,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "113001", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110111", "num": 3 },
+                    { "id": "113001", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110112", "num": 3 },
+                    { "id": "113002", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110112", "num": 5 },
+                    { "id": "113002", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 30000 },
+                    { "id": "110112", "num": 7 },
+                    { "id": "113002", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110113", "num": 3 },
+                    { "id": "113003", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 80000 },
+                    { "id": "110113", "num": 5 },
+                    { "id": "110503", "num": 1 },
+                    { "id": "113003", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110113", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110503", "num": 1 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 300000 },
+                    { "id": "110113", "num": 14 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110503", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1212_skill.png"
+    },
+    "11212003": {
+        "id": "11212003",
+        "name": "",
+        "max_level": 10,
+        "desc": "",
+        "params": [],
+        "anchor": "Point03",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "1121203", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 1,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "113001", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110111", "num": 3 },
+                    { "id": "113001", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110112", "num": 3 },
+                    { "id": "113002", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110112", "num": 5 },
+                    { "id": "113002", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 30000 },
+                    { "id": "110112", "num": 7 },
+                    { "id": "113002", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110113", "num": 3 },
+                    { "id": "113003", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 80000 },
+                    { "id": "110113", "num": 5 },
+                    { "id": "110503", "num": 1 },
+                    { "id": "113003", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110113", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110503", "num": 1 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 300000 },
+                    { "id": "110113", "num": 14 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110503", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1212_ultimate.png"
+    },
+    "11212004": {
+        "id": "11212004",
+        "name": "",
+        "max_level": 10,
+        "desc": "",
+        "params": [],
+        "anchor": "Point04",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "1121204", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 1,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "113001", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110111", "num": 3 },
+                    { "id": "113001", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110112", "num": 3 },
+                    { "id": "113002", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110112", "num": 5 },
+                    { "id": "113002", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 30000 },
+                    { "id": "110112", "num": 7 },
+                    { "id": "113002", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110113", "num": 3 },
+                    { "id": "113003", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 80000 },
+                    { "id": "110113", "num": 5 },
+                    { "id": "110503", "num": 1 },
+                    { "id": "113003", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110113", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110503", "num": 1 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 300000 },
+                    { "id": "110113", "num": 14 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110503", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1212_talent.png"
+    },
+    "11212007": {
+        "id": "11212007",
+        "name": "",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point05",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "1121207", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            }
+        ],
+        "icon": "icon/skill/1212_technique.png"
+    },
+    "11212101": {
+        "id": "11212101",
+        "name": "Reino da Morte",
+        "max_level": 1,
+        "desc": "Enquanto estiver no estado de \"Transmigração Espectral\", a RES a Efeito aumenta em #1[i]% e o Dano causado pela Perícia Suprema aumenta em #2[i]%.",
+        "params": [
+            [0.35, 0.2]
+        ],
+        "anchor": "Point06",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110111", "num": 3 },
+                    { "id": "110503", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1212_skilltree1.png"
+    },
+    "11212102": {
+        "id": "11212102",
+        "name": "Campeã da Espada",
+        "max_level": 1,
+        "desc": "Após usar \"Clarão Transcendente\", regenera adicionalmente #1[i] de Energia. E após usar \"Lua Sobre o Rio Glacial\", regenera adicionalmente #2[i] de Energia.",
+        "params": [
+            [15, 8]
+        ],
+        "anchor": "Point07",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110112", "num": 5 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110503", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1212_skilltree2.png"
+    },
+    "11212103": {
+        "id": "11212103",
+        "name": "Ira Gélida",
+        "max_level": 1,
+        "desc": "Ao obter \"Sizígia\", se seu limite de acúmulos tiver sido atingido, o próximo ataque de Jingliu ignora #1[i]% da DEF do alvo.",
+        "params": [
+            [0.25]
+        ],
+        "anchor": "Point08",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110113", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110503", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1212_skilltree3.png"
+    },
+    "11212201": {
+        "id": "11212201",
+        "name": "Bônus de Dano CRIT",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point09",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 1,
+                "properties": [
+                    { "type": "CriticalDamageBase", "value": 0.053 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "113001", "num": 2 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconCriticalDamage.png"
+    },
+    "11212202": {
+        "id": "11212202",
+        "name": "Bônus de VEL",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point10",
+        "pre_points": ["11212101"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [
+                    { "type": "SpeedDelta", "value": 2 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110111", "num": 3 },
+                    { "id": "113001", "num": 6 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconSpeed.png"
+    },
+    "11212203": {
+        "id": "11212203",
+        "name": "Bônus de Dano CRIT",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point11",
+        "pre_points": ["11212202"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [
+                    { "type": "CriticalDamageBase", "value": 0.053 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110112", "num": 3 },
+                    { "id": "113002", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconCriticalDamage.png"
+    },
+    "11212204": {
+        "id": "11212204",
+        "name": "Bônus de PV",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point12",
+        "pre_points": ["11212203"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [
+                    { "type": "HPAddedRatio", "value": 0.04 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110112", "num": 3 },
+                    { "id": "113002", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconMaxHP.png"
+    },
+    "11212205": {
+        "id": "11212205",
+        "name": "Bônus de Dano CRIT",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point13",
+        "pre_points": ["11212102"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [
+                    { "type": "CriticalDamageBase", "value": 0.08 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110112", "num": 5 },
+                    { "id": "113002", "num": 4 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconCriticalDamage.png"
+    },
+    "11212206": {
+        "id": "11212206",
+        "name": "Bônus de VEL",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point14",
+        "pre_points": ["11212205"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [
+                    { "type": "SpeedDelta", "value": 3 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110113", "num": 3 },
+                    { "id": "113003", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconSpeed.png"
+    },
+    "11212207": {
+        "id": "11212207",
+        "name": "Bônus de Dano CRIT",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point15",
+        "pre_points": ["11212206"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [
+                    { "type": "CriticalDamageBase", "value": 0.08 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110113", "num": 3 },
+                    { "id": "113003", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconCriticalDamage.png"
+    },
+    "11212208": {
+        "id": "11212208",
+        "name": "Bônus de PV",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point16",
+        "pre_points": ["11212103"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [
+                    { "type": "HPAddedRatio", "value": 0.06 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110113", "num": 8 },
+                    { "id": "113003", "num": 8 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconMaxHP.png"
+    },
+    "11212209": {
+        "id": "11212209",
+        "name": "Bônus de VEL",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point17",
+        "pre_points": ["11212208"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 75,
+                "properties": [
+                    { "type": "SpeedDelta", "value": 4 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110113", "num": 8 },
+                    { "id": "113003", "num": 8 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconSpeed.png"
+    },
+    "11212210": {
+        "id": "11212210",
+        "name": "Bônus de Dano CRIT",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point18",
+        "pre_points": ["11212208"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 80,
+                "properties": [
+                    { "type": "CriticalDamageBase", "value": 0.107 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110113", "num": 8 },
+                    { "id": "113003", "num": 8 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconCriticalDamage.png"
     }
 }
