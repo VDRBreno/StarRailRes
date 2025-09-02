@@ -1,1 +1,1 @@
-{"id":"181015","name":"Đói Bụng","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181015.png","come_from":["Khách Sạn Mộng Mơ: Meme Vùng Hồi Ức \"Tim Tôi Tan Nát\" hoặc kẻ địch khác","Penacony: Vật Có Thể Phá Hủy rơi"]}
+{"id":"181015","name":"Đói Bụng","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181015.png","come_from":["Khách Sạn Mộng Mơ: Meme Vùng Hồi Ức \"Tim Tôi Tan Nát\" hoặc kẻ địch khác","Penacony: Vật Có Thể Phá Hủy rơi"]}

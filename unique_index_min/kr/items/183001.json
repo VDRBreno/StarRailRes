@@ -1,1 +1,1 @@
-{"id":"183001","name":"차원수의 잎","type":"Material","sub_type":"Material","rarity":4,"icon":"icon/item/183001.png","come_from":["마각의 몸 병사 등 적 드랍 [구름나루]"]}
+{"id":"183001","name":"차원수의 잎","type":"Material","sub_type":"ComposeMaterial","rarity":4,"icon":"icon/item/183001.png","come_from":["마각의 몸 병사 등 적 드랍 [구름나루]"]}

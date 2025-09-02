@@ -1,1 +1,1 @@
-{"id":"180012","name":"녹슨 톱니바퀴","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180012.png","come_from":["레버리 호텔: 나쁜꿈 극단의 Mr. 라운드 스크린 등 적 드랍","「페나코니」 파괴 가능한 물체 드랍","의뢰 보상","퍼디난드"]}
+{"id":"180012","name":"녹슨 톱니바퀴","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180012.png","come_from":["레버리 호텔: 나쁜꿈 극단의 Mr. 라운드 스크린 등 적 드랍","「페나코니」 파괴 가능한 물체 드랍","의뢰 보상","퍼디난드"]}

@@ -1,1 +1,1 @@
-{"id":"180010","name":"An Nhàn","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180010.png","come_from":["Khách Sạn Mộng Mơ: Meme Vùng Hồi Ức \"Tầm Mắt Khắp Nơi\" hoặc kẻ địch khác","Penacony: Vật Có Thể Phá Hủy rơi","Thưởng Ủy Thác","Đài Hoa Nhân Tạo (Vàng)"]}
+{"id":"180010","name":"An Nhàn","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180010.png","come_from":["Khách Sạn Mộng Mơ: Meme Vùng Hồi Ức \"Tầm Mắt Khắp Nơi\" hoặc kẻ địch khác","Penacony: Vật Có Thể Phá Hủy rơi","Thưởng Ủy Thác","Đài Hoa Nhân Tạo (Vàng)"]}

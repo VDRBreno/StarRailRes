@@ -1,1 +1,1 @@
-{"id":"182010","name":"Gel térmico","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/183006.png","come_from":["De Sr. Pantallarredonda u otros enemigos en el Hotel Fantasía","Ferdinand"]}
+{"id":"182010","name":"Gel térmico","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/183006.png","come_from":["De Sr. Pantallarredonda u otros enemigos en el Hotel Fantasía","Ferdinand"]}

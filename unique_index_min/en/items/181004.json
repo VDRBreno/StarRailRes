@@ -1,1 +1,1 @@
-{"id":"181004","name":"Feather of Flame","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181004.png","come_from":["Cloudford: Mara-Struck Soldiers or other enemies","Found in destructible objects in Jarilo-VI","Administrative District Shop"]}
+{"id":"181004","name":"Feather of Flame","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181004.png","come_from":["Cloudford: Mara-Struck Soldiers or other enemies","Found in destructible objects in Jarilo-VI","Administrative District Shop"]}

@@ -1,1 +1,1 @@
-{"id":"181016","name":"Alter Backenzahn","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181016.png","come_from":["Truppe der Albträume: „Herr Flimmerkiste“ im Hotel Reverie und andere Gegner","Penacony: zerstörbare Objekte","Auftragsbelohnungen","Ferdinand"]}
+{"id":"181016","name":"Alter Backenzahn","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181016.png","come_from":["Truppe der Albträume: „Herr Flimmerkiste“ im Hotel Reverie und andere Gegner","Penacony: zerstörbare Objekte","Auftragsbelohnungen","Ferdinand"]}

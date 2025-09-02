@@ -1,1 +1,1 @@
-{"id":"180012","name":"锈迹齿轮","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180012.png","come_from":["惊梦剧团的圆幕先生等敌方掉落【白日梦酒店】","「匹诺康尼」可破坏物掉落","委托奖励","斐迪南德"]}
+{"id":"180012","name":"锈迹齿轮","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180012.png","come_from":["惊梦剧团的圆幕先生等敌方掉落【白日梦酒店】","「匹诺康尼」可破坏物掉落","委托奖励","斐迪南德"]}

@@ -1,1 +1,1 @@
-{"id":"181004","name":"Pena de Chama","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181004.png","come_from":["Vau-Nuvem: Soldados Marafílico ou outros inimigos","Encontre em objetos destrutíveis em Jarilo-VI","Loja do Distrito Administrativo"]}
+{"id":"181004","name":"Pena de Chama","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181004.png","come_from":["Vau-Nuvem: Soldados Marafílico ou outros inimigos","Encontre em objetos destrutíveis em Jarilo-VI","Loja do Distrito Administrativo"]}

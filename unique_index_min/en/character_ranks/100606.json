@@ -1,1 +1,1 @@
-{"id":"100606","name":"Overlay Network","rank":6,"desc":"For every debuff the enemy target has, the DMG dealt by Silver Wolf increases by 20%, up to a limit of 100%.","materials":[{"id":"11006","num":1}],"level_up_skills":[],"icon":"icon/skill/1006_rank6.png"}
+{"id":"100606","name":"Overlay Network","rank":6,"desc":"For every debuff the enemy target has, the DMG dealt by Silver Wolf to it increases by 20%, up to a max increase of 100%.","materials":[{"id":"11006","num":1}],"level_up_skills":[],"icon":"icon/skill/1006_rank6.png"}

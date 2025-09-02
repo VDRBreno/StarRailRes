@@ -1,1 +1,1 @@
-{"id":"181004","name":"火の羽根","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181004.png","come_from":["魔陰の身・兵卒などの敵からドロップ「流雲渡し」","「ヤリーロ-VI」の破壊できるオブジェクトからドロップ","行政区ショップ"]}
+{"id":"181004","name":"火の羽根","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181004.png","come_from":["魔陰の身・兵卒などの敵からドロップ「流雲渡し」","「ヤリーロ-VI」の破壊できるオブジェクトからドロップ","行政区ショップ"]}

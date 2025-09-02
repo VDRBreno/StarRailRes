@@ -1,1 +1,1 @@
-{"id":"181003","name":"蛋白米","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181003.png","come_from":["虚卒•掠夺者等敌方掉落【收容舱段】","「空间站『黑塔』」可破坏物掉落","杂货小摊"]}
+{"id":"181003","name":"蛋白米","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181003.png","come_from":["虚卒•掠夺者等敌方掉落【收容舱段】","「空间站『黑塔』」可破坏物掉落","杂货小摊"]}

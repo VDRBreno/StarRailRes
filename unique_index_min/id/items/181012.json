@@ -1,1 +1,1 @@
-{"id":"181012","name":"Extract of Medicinal Herbs","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181012.png","come_from":["Hadiah Tugas","Longevity Hall"]}
+{"id":"181012","name":"Extract of Medicinal Herbs","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181012.png","come_from":["Hadiah Tugas","Longevity Hall"]}

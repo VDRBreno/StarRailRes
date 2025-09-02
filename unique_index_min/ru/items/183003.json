@@ -1,1 +1,1 @@
-{"id":"183003","name":"Слёзный кристалл славной смерти","type":"Material","sub_type":"Material","rarity":4,"icon":"icon/item/183003.png","come_from":["Коридор исчезающего эха: тени вечнозимья и другие противники"]}
+{"id":"183003","name":"Слёзный кристалл славной смерти","type":"Material","sub_type":"ComposeMaterial","rarity":4,"icon":"icon/item/183003.png","come_from":["Коридор исчезающего эха: тени вечнозимья и другие противники"]}

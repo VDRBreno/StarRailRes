@@ -1,1 +1,1 @@
-{"id":"183004","name":"Nœuds de Mythus","type":"Material","sub_type":"Material","rarity":4,"icon":"icon/item/183004.png","come_from":["Tisseuse imaginaire ou autre ennemi de la Ville de Rivet"]}
+{"id":"183004","name":"Nœuds de Mythus","type":"Material","sub_type":"ComposeMaterial","rarity":4,"icon":"icon/item/183004.png","come_from":["Tisseuse imaginaire ou autre ennemi de la Ville de Rivet"]}

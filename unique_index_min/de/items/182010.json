@@ -1,1 +1,1 @@
-{"id":"182010","name":"Wärmeleitgel","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/183006.png","come_from":["Truppe der Albträume: „Herr Flimmerkiste“ im Hotel Reverie und andere Gegner","Ferdinand"]}
+{"id":"182010","name":"Wärmeleitgel","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/183006.png","come_from":["Truppe der Albträume: „Herr Flimmerkiste“ im Hotel Reverie und andere Gegner","Ferdinand"]}

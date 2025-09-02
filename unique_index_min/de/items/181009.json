@@ -1,1 +1,1 @@
-{"id":"181009","name":"Blatt des Imaginären","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181009.png","come_from":["Abgelegener Pass: Flammensprosse oder andere Gegner","Verkaufsstand"]}
+{"id":"181009","name":"Blatt des Imaginären","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181009.png","come_from":["Abgelegener Pass: Flammensprosse oder andere Gegner","Verkaufsstand"]}

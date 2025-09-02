@@ -1,1 +1,1 @@
-{"id":"180008","name":"Partes de Engenho Descartadas","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180008.png","come_from":["Recompensas de Atribuição","Depósito de Antiguidades","Cálice (Dourado)"]}
+{"id":"180008","name":"Partes de Engenho Descartadas","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180008.png","come_from":["Recompensas de Atribuição","Depósito de Antiguidades","Cálice (Dourado)"]}

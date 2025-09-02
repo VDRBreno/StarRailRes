@@ -1,1 +1,1 @@
-{"id":"182003","name":"Pedra da Caça","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/182003.png","come_from":["Banca de Mercearia"]}
+{"id":"182003","name":"Pedra da Caça","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/182003.png","come_from":["Banca de Mercearia"]}

@@ -1,1 +1,1 @@
-{"id":"182001","name":"Materia extraña de la Destrucción","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/182001.png","come_from":["De Saqueadores del Vacío y otros enemigos (Zona de almacenamiento)"]}
+{"id":"182001","name":"Materia extraña de la Destrucción","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/182001.png","come_from":["De Saqueadores del Vacío y otros enemigos (Zona de almacenamiento)"]}

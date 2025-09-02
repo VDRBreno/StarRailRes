@@ -1,1 +1,1 @@
-{"id":"111003","name":"蠢动原核","type":"Material","sub_type":"Material","rarity":4,"icon":"icon/item/111003.png","come_from":["突破至均衡等级4后，部分裂界造物掉落","「万能合成机」- 材料合成","「差分宇宙」中敌方掉落","「模拟宇宙」中敌方掉落","「万能合成机」- 材料置换"]}
+{"id":"111003","name":"蠢动原核","type":"Material","sub_type":"CommonMonsterDrop","rarity":4,"icon":"icon/item/111003.png","come_from":["突破至均衡等级4后，部分裂界造物掉落","「万能合成机」- 材料合成","「差分宇宙」中敌方掉落","「模拟宇宙」中敌方掉落","「万能合成机」- 材料置换"]}

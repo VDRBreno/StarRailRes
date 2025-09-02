@@ -1,1 +1,1 @@
-{"id":"183006","name":"Cubo mecánico","type":"Material","sub_type":"Material","rarity":4,"icon":"icon/item/182010.png","come_from":["De Sr. Pantallarredonda u otros enemigos en el Hotel Fantasía","Ferdinand"]}
+{"id":"183006","name":"Cubo mecánico","type":"Material","sub_type":"ComposeMaterial","rarity":4,"icon":"icon/item/182010.png","come_from":["De Sr. Pantallarredonda u otros enemigos en el Hotel Fantasía","Ferdinand"]}

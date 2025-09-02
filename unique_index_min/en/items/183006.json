@@ -1,1 +1,1 @@
-{"id":"183006","name":"Mechanical Cube","type":"Material","sub_type":"Material","rarity":4,"icon":"icon/item/182010.png","come_from":["The Reverie Hotel: Dreamjolt Troupe's Mr. Domescreen or other enemies","Ferdinand"]}
+{"id":"183006","name":"Mechanical Cube","type":"Material","sub_type":"ComposeMaterial","rarity":4,"icon":"icon/item/182010.png","come_from":["The Reverie Hotel: Dreamjolt Troupe's Mr. Domescreen or other enemies","Ferdinand"]}

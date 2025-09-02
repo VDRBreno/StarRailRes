@@ -1,0 +1,1 @@
+{"id":"1410203","name":"GES-Erhöhung","max_level":1,"desc":"","params":[],"anchor":"Point11","pre_points":["1410202"],"level_up_skills":[],"levels":[{"promotion":3,"level":0,"properties":[{"type":"SpeedDelta","value":2}],"materials":[{"id":"2","num":10000},{"id":"110222","num":3},{"id":"115002","num":3}]}],"icon":"icon/property/IconSpeed.png"}

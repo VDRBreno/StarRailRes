@@ -1,1 +1,1 @@
-{"id":"182005","name":"Твёрдый кусочек Небытия","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/182005.png","come_from":["Заклёпкоград: Мнимый ткач и другие противники"]}
+{"id":"182005","name":"Твёрдый кусочек Небытия","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/182005.png","come_from":["Заклёпкоград: Мнимый ткач и другие противники"]}

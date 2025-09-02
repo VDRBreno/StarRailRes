@@ -1,1 +1,1 @@
-{"id":"181005","name":"Kern aus Eis","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181005.png","come_from":["Korridor der verhallenden Echos: Immerwinter-Schattenwandler oder andere Gegner","Laden im Verwaltungsbezirk"]}
+{"id":"181005","name":"Kern aus Eis","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181005.png","come_from":["Korridor der verhallenden Echos: Immerwinter-Schattenwandler oder andere Gegner","Laden im Verwaltungsbezirk"]}

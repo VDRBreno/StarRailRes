@@ -1,1 +1,1 @@
-{"id":"181007","name":"Lốc Xoáy","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181007.png","come_from":["Cảng Lưu Vân: Lính Gác Nhập Ma hoặc kẻ địch khác","[Jarilo-VI] Vật Có Thể Phá Hủy rơi","Quầy Tạp Hóa","Cửa Hàng Khu Hành Chính"]}
+{"id":"181007","name":"Lốc Xoáy","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181007.png","come_from":["Cảng Lưu Vân: Lính Gác Nhập Ma hoặc kẻ địch khác","[Jarilo-VI] Vật Có Thể Phá Hủy rơi","Quầy Tạp Hóa","Cửa Hàng Khu Hành Chính"]}

@@ -1,1 +1,1 @@
-{"id":"181010","name":"Meteoric Alloy","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181010.png","come_from":["Robot Settlement: Automatons or other enemies","Found in destructible objects in Jarilo-VI","Administrative District Shop"]}
+{"id":"181010","name":"Meteoric Alloy","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181010.png","come_from":["Robot Settlement: Automatons or other enemies","Found in destructible objects in Jarilo-VI","Administrative District Shop"]}

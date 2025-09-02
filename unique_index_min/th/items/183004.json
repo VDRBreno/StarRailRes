@@ -1,1 +1,1 @@
-{"id":"183004","name":"Mythus Knots","type":"Material","sub_type":"Material","rarity":4,"icon":"icon/item/183004.png","come_from":["ดรอปจาก Imaginary Weaver และศัตรูอื่นๆ ใน \"Rivet Town\""]}
+{"id":"183004","name":"Mythus Knots","type":"Material","sub_type":"ComposeMaterial","rarity":4,"icon":"icon/item/183004.png","come_from":["ดรอปจาก Imaginary Weaver และศัตรูอื่นๆ ใน \"Rivet Town\""]}

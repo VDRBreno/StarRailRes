@@ -1,1 +1,1 @@
-{"id":"182009","name":"Le Bruit et la Fureur","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/182009.png","come_from":["Créature mémorielle « Crève-cœur » ou autre ennemi de l'Hôtel Rêverie"]}
+{"id":"182009","name":"Le Bruit et la Fureur","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/182009.png","come_from":["Créature mémorielle « Crève-cœur » ou autre ennemi de l'Hôtel Rêverie"]}

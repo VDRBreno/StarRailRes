@@ -1,1 +1,1 @@
-{"id":"181011","name":"Звено нефритовых счётов","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181011.png","come_from":["Награды за поручения","Лавка старьёвщика"]}
+{"id":"181011","name":"Звено нефритовых счётов","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181011.png","come_from":["Награды за поручения","Лавка старьёвщика"]}

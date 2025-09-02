@@ -1,1 +1,1 @@
-{"id":"181012","name":"Экстракт из лечебных трав","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181012.png","come_from":["Награды за поручения","«Зал долголетия»"]}
+{"id":"181012","name":"Экстракт из лечебных трав","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181012.png","come_from":["Награды за поручения","«Зал долголетия»"]}

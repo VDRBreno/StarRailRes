@@ -1,1 +1,1 @@
-{"id":"180002","name":"Đồ Ăn Cơ Bản","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180002.png","come_from":["[Trạm Không Gian Herta] Vật Có Thể Phá Hủy rơi","Cửa Hàng Khu Hành Chính"]}
+{"id":"180002","name":"Đồ Ăn Cơ Bản","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180002.png","come_from":["[Trạm Không Gian Herta] Vật Có Thể Phá Hủy rơi","Cửa Hàng Khu Hành Chính"]}

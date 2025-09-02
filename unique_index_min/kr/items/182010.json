@@ -1,1 +1,1 @@
-{"id":"182010","name":"서멀 그리스","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/183006.png","come_from":["레버리 호텔: 나쁜꿈 극단의 Mr. 라운드 스크린 등 적 드랍","퍼디난드"]}
+{"id":"182010","name":"서멀 그리스","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/183006.png","come_from":["레버리 호텔: 나쁜꿈 극단의 Mr. 라운드 스크린 등 적 드랍","퍼디난드"]}

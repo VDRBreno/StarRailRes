@@ -1,1 +1,1 @@
-{"id":"181008","name":"量子漣漪","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181008.png","come_from":["虛數織葉者等敵人掉落【鉚釘鎮】","行政區商店"]}
+{"id":"181008","name":"量子漣漪","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181008.png","come_from":["虛數織葉者等敵人掉落【鉚釘鎮】","行政區商店"]}

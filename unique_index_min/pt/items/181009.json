@@ -1,1 +1,1 @@
-{"id":"181009","name":"Folha de Imaginário","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181009.png","come_from":["Passagem do Remanso: Proles da Chama ou outros inimigos","Banca de Mercearia"]}
+{"id":"181009","name":"Folha de Imaginário","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181009.png","come_from":["Passagem do Remanso: Proles da Chama ou outros inimigos","Banca de Mercearia"]}

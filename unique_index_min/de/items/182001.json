@@ -1,1 +1,1 @@
-{"id":"182001","name":"Seltsame Materie der Zerstörung","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/182001.png","come_from":["Lagerzone: Leeren-Ranger: Plünderer oder andere Gegner"]}
+{"id":"182001","name":"Seltsame Materie der Zerstörung","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/182001.png","come_from":["Lagerzone: Leeren-Ranger: Plünderer oder andere Gegner"]}

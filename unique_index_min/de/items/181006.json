@@ -1,1 +1,1 @@
-{"id":"181006","name":"Auge des Blitzes","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181006.png","come_from":["Korridor der verhallenden Echos: Immerwinter-Schattenwandler oder andere Gegner","Verkaufsstand","Laden im Verwaltungsbezirk"]}
+{"id":"181006","name":"Auge des Blitzes","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181006.png","come_from":["Korridor der verhallenden Echos: Immerwinter-Schattenwandler oder andere Gegner","Verkaufsstand","Laden im Verwaltungsbezirk"]}

@@ -1,1 +1,1 @@
-{"id":"181017","name":"Cành Tư Duy","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181017.png","come_from":["\"Tàn Tích Phân Tranh\" Thành Kremnos: Đấu Sĩ Thần Phạt hoặc kẻ địch khác","Amphoreus: Vật Có Thể Phá Hủy rơi","Thưởng Ủy Thác"]}
+{"id":"181017","name":"Cành Tư Duy","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181017.png","come_from":["\"Tàn Tích Phân Tranh\" Thành Kremnos: Đấu Sĩ Thần Phạt hoặc kẻ địch khác","Amphoreus: Vật Có Thể Phá Hủy rơi","Thưởng Ủy Thác"]}

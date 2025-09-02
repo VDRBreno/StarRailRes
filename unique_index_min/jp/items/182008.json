@@ -1,1 +1,1 @@
-{"id":"182008","name":"龍鱗珊瑚","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/182008.png","come_from":["冷の薬材屋"]}
+{"id":"182008","name":"龍鱗珊瑚","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/182008.png","come_from":["冷の薬材屋"]}

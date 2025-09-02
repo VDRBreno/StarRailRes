@@ -1,1 +1,1 @@
-{"id":"180002","name":"Basic Ingredient","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180002.png","come_from":["Objek yang bisa dihancurkan di \"Stasiun Luar Angkasa 'Herta'\"","Administrative District Shop"]}
+{"id":"180002","name":"Basic Ingredient","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180002.png","come_from":["Objek yang bisa dihancurkan di \"Stasiun Luar Angkasa 'Herta'\"","Administrative District Shop"]}

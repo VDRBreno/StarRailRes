@@ -1,1 +1,1 @@
-{"id":"183001","name":"換境樹葉","type":"Material","sub_type":"Material","rarity":4,"icon":"icon/item/183001.png","come_from":["魔陰身士卒等敵人掉落【流雲渡】"]}
+{"id":"183001","name":"換境樹葉","type":"Material","sub_type":"ComposeMaterial","rarity":4,"icon":"icon/item/183001.png","come_from":["魔陰身士卒等敵人掉落【流雲渡】"]}

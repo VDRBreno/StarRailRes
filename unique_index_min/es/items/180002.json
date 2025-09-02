@@ -1,1 +1,1 @@
-{"id":"180002","name":"Ingredientes básicos","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180002.png","come_from":["De objetos destruibles de la Estación Espacial Herta","Tienda del distrito administrativo"]}
+{"id":"180002","name":"Ingredientes básicos","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180002.png","come_from":["De objetos destruibles de la Estación Espacial Herta","Tienda del distrito administrativo"]}

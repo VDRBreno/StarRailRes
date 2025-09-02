@@ -1,1 +1,1 @@
-{"id":"181001","name":"零件","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181001.png","come_from":["自動機兵等敵人掉落【機械聚落】","「太空站『黑塔』」可破壞物掉落","行政區商店","擬造花萼（金）"]}
+{"id":"181001","name":"零件","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181001.png","come_from":["自動機兵等敵人掉落【機械聚落】","「太空站『黑塔』」可破壞物掉落","行政區商店","擬造花萼（金）"]}

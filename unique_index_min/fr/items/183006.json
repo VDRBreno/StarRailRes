@@ -1,1 +1,1 @@
-{"id":"183006","name":"Cube mécanique","type":"Material","sub_type":"Material","rarity":4,"icon":"icon/item/182010.png","come_from":["Écrantateur de la Troupe Chocmar ou autres ennemis de l'Hôtel Rêverie","Ferdinand"]}
+{"id":"183006","name":"Cube mécanique","type":"Material","sub_type":"ComposeMaterial","rarity":4,"icon":"icon/item/182010.png","come_from":["Écrantateur de la Troupe Chocmar ou autres ennemis de l'Hôtel Rêverie","Ferdinand"]}

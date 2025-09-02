@@ -1,1 +1,1 @@
-{"id":"180007","name":"Семена","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180007.png","come_from":["Разрушаемые предметы на Ярило-VI","Бакалейный ларёк","Магазин в Административном районе"]}
+{"id":"180007","name":"Семена","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180007.png","come_from":["Разрушаемые предметы на Ярило-VI","Бакалейный ларёк","Магазин в Административном районе"]}

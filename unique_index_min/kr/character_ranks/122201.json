@@ -1,1 +1,1 @@
-{"id":"122201","name":"파사의 향기","rank":1,"desc":"영사의 약점 격파 효율이 50% 증가한다. 적의 약점이 격파될 시 해당 적의 방어력이 20% 감소한다","materials":[{"id":"11222","num":1}],"level_up_skills":[],"icon":"icon/skill/1222_rank1.png"}
+{"id":"122201","name":"파사의 향기","rank":1,"desc":"영사의 약점 격파 효율이 50% 증가한다. 적 유닛의 약점이 격파될 시 해당 적의 방어력이 20% 감소한다","materials":[{"id":"11222","num":1}],"level_up_skills":[],"icon":"icon/skill/1222_rank1.png"}

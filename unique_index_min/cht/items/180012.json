@@ -1,1 +1,1 @@
-{"id":"180012","name":"鏽跡齒輪","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180012.png","come_from":["驚夢劇團的圓幕先生等敵人掉落【白日夢飯店】","「匹諾康尼」可破壞物掉落","委託獎勵","斐迪南"]}
+{"id":"180012","name":"鏽跡齒輪","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180012.png","come_from":["驚夢劇團的圓幕先生等敵人掉落【白日夢飯店】","「匹諾康尼」可破壞物掉落","委託獎勵","斐迪南"]}

@@ -1,1 +1,1 @@
-{"id":"182005","name":"虚無の金属片","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/182005.png","come_from":["虚数の葉を織る者などの敵からドロップ「リベットタウン」"]}
+{"id":"182005","name":"虚無の金属片","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/182005.png","come_from":["虚数の葉を織る者などの敵からドロップ「リベットタウン」"]}

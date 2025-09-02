@@ -1,1 +1,1 @@
-{"id":"183004","name":"Mythosknoten","type":"Material","sub_type":"Material","rarity":4,"icon":"icon/item/183004.png","come_from":["Nietstadt: Imaginäre Weber oder andere Gegner"]}
+{"id":"183004","name":"Mythosknoten","type":"Material","sub_type":"ComposeMaterial","rarity":4,"icon":"icon/item/183004.png","come_from":["Nietstadt: Imaginäre Weber oder andere Gegner"]}

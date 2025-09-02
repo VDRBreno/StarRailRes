@@ -1,1 +1,1 @@
-{"id":"181015","name":"Hambre","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181015.png","come_from":["De Rompecorazones u otros enemigos en el Hotel Fantasía","De objetos destruibles de Colonipenal"]}
+{"id":"181015","name":"Hambre","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181015.png","come_from":["De Rompecorazones u otros enemigos en el Hotel Fantasía","De objetos destruibles de Colonipenal"]}

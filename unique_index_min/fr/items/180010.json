@@ -1,1 +1,1 @@
-{"id":"180010","name":"Tranquillité","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180010.png","come_from":["Créature mémorielle « L'Omniscient » ou autre ennemi de l'Hôtel Rêverie","Objets destructibles de Penacony","Récompense d'affectation","Calice doré"]}
+{"id":"180010","name":"Tranquillité","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180010.png","come_from":["Créature mémorielle « L'Omniscient » ou autre ennemi de l'Hôtel Rêverie","Objets destructibles de Penacony","Récompense d'affectation","Calice doré"]}

@@ -1,1 +1,1 @@
-{"id":"180012","name":"Rusty Gear","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180012.png","come_from":["ดรอปจาก Mr. Domescreen แห่งคณะละครฝันผวา และละศัตรูอื่นๆ ใน \"โรงแรม Reverie\"","ดรอปจากไอเทมที่สามารถทำลายได้ใน \"Penacony\"","รางวัลคำขอ","Ferdinand"]}
+{"id":"180012","name":"Rusty Gear","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180012.png","come_from":["ดรอปจาก Mr. Domescreen แห่งคณะละครฝันผวา และละศัตรูอื่นๆ ใน \"โรงแรม Reverie\"","ดรอปจากไอเทมที่สามารถทำลายได้ใน \"Penacony\"","รางวัลคำขอ","Ferdinand"]}

@@ -1,1 +1,1 @@
-{"id":"181005","name":"얼음 코어","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181005.png","come_from":["영원한 겨울의 재난 등 적 드랍 [잔향의 회랑]","행정구역 상점"]}
+{"id":"181005","name":"얼음 코어","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181005.png","come_from":["영원한 겨울의 재난 등 적 드랍 [잔향의 회랑]","행정구역 상점"]}

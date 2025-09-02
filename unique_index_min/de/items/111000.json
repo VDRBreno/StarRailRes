@@ -1,1 +1,1 @@
-{"id":"111000","name":"Seelentränen","type":"Material","sub_type":"Material","rarity":4,"icon":"icon/item/111000.png","come_from":["Gegner in Divergentes Universum","Gegner in Universum-Simulation"]}
+{"id":"111000","name":"Seelentränen","type":"Material","sub_type":"CommonMonsterDrop","rarity":4,"icon":"icon/item/111000.png","come_from":["Gegner in Divergentes Universum","Gegner in Universum-Simulation"]}

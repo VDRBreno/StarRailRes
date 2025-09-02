@@ -1,1 +1,1 @@
-{"id":"182002","name":"Ambra des Überflusses","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/182002.png","come_from":["Wolkenfurt: Von Mara befallene Soldaten oder andere Gegner"]}
+{"id":"182002","name":"Ambra des Überflusses","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/182002.png","come_from":["Wolkenfurt: Von Mara befallene Soldaten oder andere Gegner"]}

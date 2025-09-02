@@ -1,1 +1,1 @@
-{"id":"182011","name":"絹糸の紡錘","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/182011.png","come_from":["天罰の闘士などの敵からドロップ「『紛争の爪痕』クレムノス」"]}
+{"id":"182011","name":"絹糸の紡錘","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/182011.png","come_from":["天罰の闘士などの敵からドロップ「『紛争の爪痕』クレムノス」"]}

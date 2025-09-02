@@ -1,1 +1,1 @@
-{"id":"182001","name":"毀滅異質","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/182001.png","come_from":["虛卒•掠奪者等敵人掉落【收容艙段】"]}
+{"id":"182001","name":"毀滅異質","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/182001.png","come_from":["虛卒•掠奪者等敵人掉落【收容艙段】"]}

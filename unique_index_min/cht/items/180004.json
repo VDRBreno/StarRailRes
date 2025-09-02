@@ -1,1 +1,1 @@
-{"id":"180004","name":"燃素","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180004.png","come_from":["炎華造物等敵方掉落【邊緣通道】","「太空站『黑塔』」可破壞物掉落","行政區商店"]}
+{"id":"180004","name":"燃素","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180004.png","come_from":["炎華造物等敵方掉落【邊緣通道】","「太空站『黑塔』」可破壞物掉落","行政區商店"]}

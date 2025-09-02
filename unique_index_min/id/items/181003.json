@@ -1,1 +1,1 @@
-{"id":"181003","name":"Protein Rice","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181003.png","come_from":["Dijatuhkan Voidranger: Reaver dan musuh lainnya di \"Storage Zone\"","Objek yang bisa dihancurkan di \"Stasiun Luar Angkasa 'Herta'\"","Grocery Stand"]}
+{"id":"181003","name":"Protein Rice","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181003.png","come_from":["Dijatuhkan Voidranger: Reaver dan musuh lainnya di \"Storage Zone\"","Objek yang bisa dihancurkan di \"Stasiun Luar Angkasa 'Herta'\"","Grocery Stand"]}

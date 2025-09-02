@@ -1,1 +1,1 @@
-{"id":"182004","name":"Preservation Construction Material","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/182004.png","come_from":["ดรอปจาก Everwinter Shadewalker และศัตรูอื่นๆ ใน \"Corridor of Fading Echoes\""]}
+{"id":"182004","name":"Preservation Construction Material","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/182004.png","come_from":["ดรอปจาก Everwinter Shadewalker และศัตรูอื่นๆ ใน \"Corridor of Fading Echoes\""]}

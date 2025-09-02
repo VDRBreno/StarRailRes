@@ -1,1 +1,1 @@
-{"id":"182004","name":"存護の建材","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/182004.png","come_from":["永冬の災影などの敵からドロップ「残響回廊」"]}
+{"id":"182004","name":"存護の建材","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/182004.png","come_from":["永冬の災影などの敵からドロップ「残響回廊」"]}

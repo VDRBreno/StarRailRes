@@ -1,0 +1,1 @@
+{"id":"1410207","name":"เสริมความเร็ว","max_level":1,"desc":"","params":[],"anchor":"Point15","pre_points":["1410206"],"level_up_skills":[],"levels":[{"promotion":5,"level":0,"properties":[{"type":"SpeedDelta","value":3}],"materials":[{"id":"2","num":45000},{"id":"110223","num":3},{"id":"115003","num":3}]}],"icon":"icon/property/IconSpeed.png"}

@@ -1,1 +1,1 @@
-{"id":"180012","name":"Engrenage rouillé","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180012.png","come_from":["Écrantateur de la Troupe Chocmar ou autres ennemis de l'Hôtel Rêverie","Objets destructibles de Penacony","Récompense d'affectation","Ferdinand"]}
+{"id":"180012","name":"Engrenage rouillé","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180012.png","come_from":["Écrantateur de la Troupe Chocmar ou autres ennemis de l'Hôtel Rêverie","Objets destructibles de Penacony","Récompense d'affectation","Ferdinand"]}

@@ -1,1 +1,1 @@
-{"id":"183002","name":"Llama de fase","type":"Material","sub_type":"Material","rarity":4,"icon":"icon/item/183002.png","come_from":["De Autómatas y otros enemigos (Asentamiento robot)"]}
+{"id":"183002","name":"Llama de fase","type":"Material","sub_type":"ComposeMaterial","rarity":4,"icon":"icon/item/183002.png","come_from":["De Autómatas y otros enemigos (Asentamiento robot)"]}

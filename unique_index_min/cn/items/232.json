@@ -1,1 +1,1 @@
-{"id":"232","name":"遗失碎金","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/232.png","come_from":["每日实训","遗器分解","余烬兑换"]}
+{"id":"232","name":"遗失碎金","type":"Material","sub_type":"RelicExp","rarity":3,"icon":"icon/item/232.png","come_from":["每日实训","遗器分解","余烬兑换"]}

@@ -1,1 +1,1 @@
-{"id":"182006","name":"Casca de Árvore da Erudição","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/182006.png","come_from":["Assentamento de Robôs: Autômatos ou outros inimigos"]}
+{"id":"182006","name":"Casca de Árvore da Erudição","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/182006.png","come_from":["Assentamento de Robôs: Autômatos ou outros inimigos"]}

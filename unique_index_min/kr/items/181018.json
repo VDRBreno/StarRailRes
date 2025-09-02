@@ -1,1 +1,1 @@
-{"id":"181018","name":"심수 암염","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181018.png","come_from":["천벌의 투사 등 적 드랍 [「분쟁의 폐허」 크렘노스성]","「앰포리어스」 파괴 가능한 물체 드랍","모조 꽃받침(금)"]}
+{"id":"181018","name":"심수 암염","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181018.png","come_from":["천벌의 투사 등 적 드랍 [「분쟁의 폐허」 크렘노스성]","「앰포리어스」 파괴 가능한 물체 드랍","모조 꽃받침(금)"]}

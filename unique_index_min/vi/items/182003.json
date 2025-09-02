@@ -1,1 +1,1 @@
-{"id":"182003","name":"Đá Săn Bắn","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/182003.png","come_from":["Quầy Tạp Hóa"]}
+{"id":"182003","name":"Đá Săn Bắn","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/182003.png","come_from":["Quầy Tạp Hóa"]}

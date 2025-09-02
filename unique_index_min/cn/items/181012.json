@@ -1,1 +1,1 @@
-{"id":"181012","name":"药草提取物","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181012.png","come_from":["委托奖励","寿考堂"]}
+{"id":"181012","name":"药草提取物","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181012.png","come_from":["委托奖励","寿考堂"]}

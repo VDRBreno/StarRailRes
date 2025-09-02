@@ -1,1 +1,1 @@
-{"id":"182002","name":"豐饒香涎","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/182002.png","come_from":["魔陰身士卒等敵人掉落【流雲渡】"]}
+{"id":"182002","name":"豐饒香涎","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/182002.png","come_from":["魔陰身士卒等敵人掉落【流雲渡】"]}

@@ -1,1 +1,1 @@
-{"id":"180007","name":"Hạt Giống","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180007.png","come_from":["[Jarilo-VI] Vật Có Thể Phá Hủy rơi","Quầy Tạp Hóa","Cửa Hàng Khu Hành Chính"]}
+{"id":"180007","name":"Hạt Giống","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180007.png","come_from":["[Jarilo-VI] Vật Có Thể Phá Hủy rơi","Quầy Tạp Hóa","Cửa Hàng Khu Hành Chính"]}

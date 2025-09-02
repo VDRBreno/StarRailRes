@@ -1,1 +1,1 @@
-{"id":"111000","name":"영의 눈물","type":"Material","sub_type":"Material","rarity":4,"icon":"icon/item/111000.png","come_from":["「차분화 우주」 적 드랍","「시뮬레이션 우주」 적 드랍"]}
+{"id":"111000","name":"영의 눈물","type":"Material","sub_type":"CommonMonsterDrop","rarity":4,"icon":"icon/item/111000.png","come_from":["「차분화 우주」 적 드랍","「시뮬레이션 우주」 적 드랍"]}

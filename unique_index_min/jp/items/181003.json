@@ -1,1 +1,1 @@
-{"id":"181003","name":"タンパク米","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181003.png","come_from":["ヴォイドレンジャー・略奪などの敵からドロップ「収容部分」","「宇宙のステーション『ヘルタ』」の破壊できるオブジェクトからドロップ","雑貨店"]}
+{"id":"181003","name":"タンパク米","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181003.png","come_from":["ヴォイドレンジャー・略奪などの敵からドロップ「収容部分」","「宇宙のステーション『ヘルタ』」の破壊できるオブジェクトからドロップ","雑貨店"]}

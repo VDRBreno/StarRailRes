@@ -1,1 +1,1 @@
-{"id":"182002","name":"豊穣香液","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/182002.png","come_from":["魔陰の身・兵卒などの敵からドロップ「流雲渡し」"]}
+{"id":"182002","name":"豊穣香液","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/182002.png","come_from":["魔陰の身・兵卒などの敵からドロップ「流雲渡し」"]}

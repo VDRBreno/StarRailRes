@@ -1,1 +1,1 @@
-{"id":"181010","name":"陨铁","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181010.png","come_from":["自动机兵等敌方掉落【机械聚落】","「雅利洛-Ⅵ」可破坏物掉落","行政区商店"]}
+{"id":"181010","name":"陨铁","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181010.png","come_from":["自动机兵等敌方掉落【机械聚落】","「雅利洛-Ⅵ」可破坏物掉落","行政区商店"]}

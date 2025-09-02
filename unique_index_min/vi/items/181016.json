@@ -1,1 +1,1 @@
-{"id":"181016","name":"Răng Hàm Cũ","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181016.png","come_from":["Khách Sạn Mộng Mơ: Đoàn Kịch Ác Mộng - Quý Ngài Màn Hình hoặc kẻ địch khác","Penacony: Vật Có Thể Phá Hủy rơi","Thưởng Ủy Thác","Ferdinand"]}
+{"id":"181016","name":"Răng Hàm Cũ","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181016.png","come_from":["Khách Sạn Mộng Mơ: Đoàn Kịch Ác Mộng - Quý Ngài Màn Hình hoặc kẻ địch khác","Penacony: Vật Có Thể Phá Hủy rơi","Thưởng Ủy Thác","Ferdinand"]}

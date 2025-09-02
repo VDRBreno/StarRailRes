@@ -1,0 +1,1 @@
+{"id":"1410101","name":"征服的劍旗","max_level":1,"desc":"戰鬥開始時，海瑟音展開與終結技效果相同的結界，結界持續#1[i]回合。每當海瑟音展開結界時，恢復#2[i]個戰技點。","params":[[3,1]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110221","num":3},{"id":"110507","num":1}]}],"icon":"icon/skill/1410_skilltree1.png"}

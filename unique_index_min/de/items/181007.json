@@ -1,1 +1,1 @@
-{"id":"181007","name":"Vortex des Windes","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181007.png","come_from":["Wolkenfurt: Von Mara befallene Soldaten oder andere Gegner","Jarilo-VI: Zerstörbare Objekte","Verkaufsstand","Laden im Verwaltungsbezirk"]}
+{"id":"181007","name":"Vortex des Windes","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181007.png","come_from":["Wolkenfurt: Von Mara befallene Soldaten oder andere Gegner","Jarilo-VI: Zerstörbare Objekte","Verkaufsstand","Laden im Verwaltungsbezirk"]}

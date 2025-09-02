@@ -1,1 +1,1 @@
-{"id":"232","name":"遺失砕金","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/232.png","come_from":["デイリー訓練","遺物分解","エンバー交換"]}
+{"id":"232","name":"遺失砕金","type":"Material","sub_type":"RelicExp","rarity":3,"icon":"icon/item/232.png","come_from":["デイリー訓練","遺物分解","エンバー交換"]}

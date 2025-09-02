@@ -1,1 +1,1 @@
-{"id":"181015","name":"Fome","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181015.png","come_from":["O Hotel Devaneio: Mimema da Zona da Memória \"Destruidor de Corações\" ou outros inimigos","Penacony: Objetos Destrutíveis"]}
+{"id":"181015","name":"Fome","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181015.png","come_from":["O Hotel Devaneio: Mimema da Zona da Memória \"Destruidor de Corações\" ou outros inimigos","Penacony: Objetos Destrutíveis"]}

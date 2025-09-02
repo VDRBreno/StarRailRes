@@ -1,1 +1,1 @@
-{"id":"183006","name":"Cubo Mecânico","type":"Material","sub_type":"Material","rarity":4,"icon":"icon/item/182010.png","come_from":["O Hotel Devaneio: Sr. Tela de Redoma da Trupe dos Pesadelos Amargos ou outros inimigos","Ferdinand"]}
+{"id":"183006","name":"Cubo Mecânico","type":"Material","sub_type":"ComposeMaterial","rarity":4,"icon":"icon/item/182010.png","come_from":["O Hotel Devaneio: Sr. Tela de Redoma da Trupe dos Pesadelos Amargos ou outros inimigos","Ferdinand"]}

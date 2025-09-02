@@ -1,0 +1,1 @@
+{"id":"1412204","name":"Bonificación de PV","max_level":1,"desc":"","params":[],"anchor":"Point12","pre_points":["1412201"],"level_up_skills":[],"levels":[{"promotion":3,"level":0,"properties":[{"type":"HPAddedRatio","value":0.04}],"materials":[{"id":"2","num":10000},{"id":"110232","num":3},{"id":"115012","num":3}]}],"icon":"icon/property/IconMaxHP.png"}

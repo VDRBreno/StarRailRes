@@ -1,1 +1,1 @@
-{"id":"180002","name":"Basiszutaten","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180002.png","come_from":["Herta-Raumstation: Zerstörbare Objekte","Laden im Verwaltungsbezirk"]}
+{"id":"180002","name":"Basiszutaten","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180002.png","come_from":["Herta-Raumstation: Zerstörbare Objekte","Laden im Verwaltungsbezirk"]}

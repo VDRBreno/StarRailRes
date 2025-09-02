@@ -1,1 +1,1 @@
-{"id":"181007","name":"風の渦","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181007.png","come_from":["魔陰の身・兵卒などの敵からドロップ「流雲渡し」","「ヤリーロ-VI」の破壊できるオブジェクトからドロップ","雑貨店","行政区ショップ"]}
+{"id":"181007","name":"風の渦","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181007.png","come_from":["魔陰の身・兵卒などの敵からドロップ「流雲渡し」","「ヤリーロ-VI」の破壊できるオブジェクトからドロップ","雑貨店","行政区ショップ"]}

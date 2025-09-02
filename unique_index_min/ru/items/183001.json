@@ -1,1 +1,1 @@
-{"id":"183001","name":"Межпространственный лист","type":"Material","sub_type":"Material","rarity":4,"icon":"icon/item/183001.png","come_from":["Облачная переправа: поражённые Марой солдаты и другие противники"]}
+{"id":"183001","name":"Межпространственный лист","type":"Material","sub_type":"ComposeMaterial","rarity":4,"icon":"icon/item/183001.png","come_from":["Облачная переправа: поражённые Марой солдаты и другие противники"]}

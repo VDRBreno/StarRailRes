@@ -1,1 +1,1 @@
-{"id":"182001","name":"Matéria Estranha de Destruição","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/182001.png","come_from":["Zona de Armazenamento: Guarda-Vazio: Furtadores ou outros inimigos"]}
+{"id":"182001","name":"Matéria Estranha de Destruição","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/182001.png","come_from":["Zona de Armazenamento: Guarda-Vazio: Furtadores ou outros inimigos"]}

@@ -1,1 +1,1 @@
-{"id":"183006","name":"機械立方","type":"Material","sub_type":"Material","rarity":4,"icon":"icon/item/182010.png","come_from":["驚夢劇團的圓幕先生等敵人掉落【白日夢飯店】","斐迪南"]}
+{"id":"183006","name":"機械立方","type":"Material","sub_type":"ComposeMaterial","rarity":4,"icon":"icon/item/182010.png","come_from":["驚夢劇團的圓幕先生等敵人掉落【白日夢飯店】","斐迪南"]}

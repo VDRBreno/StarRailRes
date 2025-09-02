@@ -1,1 +1,1 @@
-{"id":"181015","name":"饥饿","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181015.png","come_from":["忆域迷因「我心支离破碎」等敌方掉落【白日梦酒店】","「匹诺康尼」可破坏物掉落"]}
+{"id":"181015","name":"饥饿","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181015.png","come_from":["忆域迷因「我心支离破碎」等敌方掉落【白日梦酒店】","「匹诺康尼」可破坏物掉落"]}

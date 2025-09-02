@@ -1,1 +1,1 @@
-{"id":"180002","name":"基本食材","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180002.png","come_from":["「太空站『黑塔』」可破壞物掉落","行政區商店"]}
+{"id":"180002","name":"基本食材","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180002.png","come_from":["「太空站『黑塔』」可破壞物掉落","行政區商店"]}

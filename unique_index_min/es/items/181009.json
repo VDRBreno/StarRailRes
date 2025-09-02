@@ -1,1 +1,1 @@
-{"id":"181009","name":"Hoja imaginaria","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181009.png","come_from":["De Engendros Ígneos y otros enemigos (Paso del Remanso)","Bazar"]}
+{"id":"181009","name":"Hoja imaginaria","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181009.png","come_from":["De Engendros Ígneos y otros enemigos (Paso del Remanso)","Bazar"]}

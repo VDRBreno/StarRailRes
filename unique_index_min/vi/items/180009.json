@@ -1,1 +1,1 @@
-{"id":"180009","name":"Bông Lúa Cao Bằng Người","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180009.png","come_from":["Thưởng Ủy Thác","Trường Sinh Đường","Đài Hoa Nhân Tạo (Vàng)"]}
+{"id":"180009","name":"Bông Lúa Cao Bằng Người","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180009.png","come_from":["Thưởng Ủy Thác","Trường Sinh Đường","Đài Hoa Nhân Tạo (Vàng)"]}

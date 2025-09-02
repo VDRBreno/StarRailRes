@@ -1,1 +1,1 @@
-{"id":"182005","name":"공허의 파편","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/182005.png","come_from":["허수 방직꾼 등 적 드랍 [리벳 타운]"]}
+{"id":"182005","name":"공허의 파편","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/182005.png","come_from":["허수 방직꾼 등 적 드랍 [리벳 타운]"]}

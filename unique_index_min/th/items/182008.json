@@ -1,1 +1,1 @@
-{"id":"182008","name":"Dragon Scale Coral","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/182008.png","come_from":["แผงขายยาของ Lingling"]}
+{"id":"182008","name":"Dragon Scale Coral","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/182008.png","come_from":["แผงขายยาของ Lingling"]}

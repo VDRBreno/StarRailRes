@@ -1,1 +1,1 @@
-{"id":"182002","name":"Ambergris of Abundance","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/182002.png","come_from":["Cloudford: Mara-Struck Soldiers or other enemies"]}
+{"id":"182002","name":"Ambergris of Abundance","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/182002.png","come_from":["Cloudford: Mara-Struck Soldiers or other enemies"]}

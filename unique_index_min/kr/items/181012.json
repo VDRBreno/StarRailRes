@@ -1,1 +1,1 @@
-{"id":"181012","name":"약초 추출물","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181012.png","come_from":["의뢰 보상","장수당"]}
+{"id":"181012","name":"약초 추출물","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181012.png","come_from":["의뢰 보상","장수당"]}

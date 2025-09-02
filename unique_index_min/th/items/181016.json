@@ -1,1 +1,1 @@
-{"id":"181016","name":"Old Molar","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181016.png","come_from":["ดรอปจาก Mr. Domescreen แห่งคณะละครฝันผวา และละศัตรูอื่นๆ ใน \"โรงแรม Reverie\"","ดรอปจากไอเทมที่สามารถทำลายได้ใน \"Penacony\"","รางวัลคำขอ","Ferdinand"]}
+{"id":"181016","name":"Old Molar","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181016.png","come_from":["ดรอปจาก Mr. Domescreen แห่งคณะละครฝันผวา และละศัตรูอื่นๆ ใน \"โรงแรม Reverie\"","ดรอปจากไอเทมที่สามารถทำลายได้ใน \"Penacony\"","รางวัลคำขอ","Ferdinand"]}

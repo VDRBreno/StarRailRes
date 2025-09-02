@@ -1,0 +1,1 @@
+{"id":"1412207","name":"เสริม DMG - ลม","max_level":1,"desc":"","params":[],"anchor":"Point15","pre_points":["1412201"],"level_up_skills":[],"levels":[{"promotion":5,"level":0,"properties":[{"type":"WindAddedRatio","value":0.048}],"materials":[{"id":"2","num":45000},{"id":"110233","num":3},{"id":"115013","num":3}]}],"icon":"icon/property/IconWindAddedRatio.png"}

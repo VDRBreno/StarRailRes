@@ -1,1 +1,1 @@
-{"id":"183002","name":"Phase Flame","type":"Material","sub_type":"Material","rarity":4,"icon":"icon/item/183002.png","come_from":["Robot Settlement: Automatons or other enemies"]}
+{"id":"183002","name":"Phase Flame","type":"Material","sub_type":"ComposeMaterial","rarity":4,"icon":"icon/item/183002.png","come_from":["Robot Settlement: Automatons or other enemies"]}

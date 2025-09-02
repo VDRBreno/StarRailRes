@@ -1,1 +1,1 @@
-{"id":"181016","name":"古びた大臼歯","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181016.png","come_from":["ナイトメア劇団・Mr.円幕などの敵からドロップ「ホテル・レバリー」","「ピノコニー」の破壊できるオブジェクトからドロップ","依頼報酬","フェルディナンド"]}
+{"id":"181016","name":"古びた大臼歯","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181016.png","come_from":["ナイトメア劇団・Mr.円幕などの敵からドロップ「ホテル・レバリー」","「ピノコニー」の破壊できるオブジェクトからドロップ","依頼報酬","フェルディナンド"]}

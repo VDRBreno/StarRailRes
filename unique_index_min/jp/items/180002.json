@@ -1,1 +1,1 @@
-{"id":"180002","name":"基本食材","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180002.png","come_from":["「宇宙のステーション『ヘルタ』」の破壊できるオブジェクトからドロップ","行政区ショップ"]}
+{"id":"180002","name":"基本食材","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180002.png","come_from":["「宇宙のステーション『ヘルタ』」の破壊できるオブジェクトからドロップ","行政区ショップ"]}

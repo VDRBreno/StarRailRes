@@ -1,1 +1,1 @@
-{"id":"181012","name":"Extracto de hierbas medicinales","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181012.png","come_from":["Recompensa de encargo","Salón de la Longevidad"]}
+{"id":"181012","name":"Extracto de hierbas medicinales","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181012.png","come_from":["Recompensa de encargo","Salón de la Longevidad"]}

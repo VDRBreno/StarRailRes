@@ -1,1 +1,1 @@
-{"id":"181009","name":"虚数残叶","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181009.png","come_from":["炎华造物等敌方掉落【边缘通路】","杂货小摊"]}
+{"id":"181009","name":"虚数残叶","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181009.png","come_from":["炎华造物等敌方掉落【边缘通路】","杂货小摊"]}

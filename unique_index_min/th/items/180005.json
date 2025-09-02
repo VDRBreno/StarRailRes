@@ -1,1 +1,1 @@
-{"id":"180005","name":"Metal","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180005.png","come_from":["ดรอปจากไอเทมที่สามารถทำลายได้ใน \"สถานีอวกาศ 'Herta'\"","Administrative District Shop"]}
+{"id":"180005","name":"Metal","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180005.png","come_from":["ดรอปจากไอเทมที่สามารถทำลายได้ใน \"สถานีอวกาศ 'Herta'\"","Administrative District Shop"]}

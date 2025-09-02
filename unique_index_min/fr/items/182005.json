@@ -1,1 +1,1 @@
-{"id":"182005","name":"Fragment dur de la Nihilité","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/182005.png","come_from":["Tisseuse imaginaire ou autre ennemi de la Ville de Rivet"]}
+{"id":"182005","name":"Fragment dur de la Nihilité","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/182005.png","come_from":["Tisseuse imaginaire ou autre ennemi de la Ville de Rivet"]}

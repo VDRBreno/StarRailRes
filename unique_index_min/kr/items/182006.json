@@ -1,1 +1,1 @@
-{"id":"182006","name":"지식의 나무껍질","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/182006.png","come_from":["자동 기갑병 등 적 드랍 [기계 부락]"]}
+{"id":"182006","name":"지식의 나무껍질","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/182006.png","come_from":["자동 기갑병 등 적 드랍 [기계 부락]"]}

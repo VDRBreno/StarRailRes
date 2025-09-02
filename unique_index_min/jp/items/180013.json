@@ -1,1 +1,1 @@
-{"id":"180013","name":"鮮やかな残羽","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180013.png","come_from":["天罰の闘士などの敵からドロップ「『紛争の爪痕』クレムノス」","「オンパロス」の破壊できるオブジェクトからドロップ","依頼報酬","疑似花萼（金）"]}
+{"id":"180013","name":"鮮やかな残羽","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180013.png","come_from":["天罰の闘士などの敵からドロップ「『紛争の爪痕』クレムノス」","「オンパロス」の破壊できるオブジェクトからドロップ","依頼報酬","疑似花萼（金）"]}

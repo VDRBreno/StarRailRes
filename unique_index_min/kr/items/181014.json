@@ -1,1 +1,1 @@
-{"id":"181014","name":"아득함","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181014.png","come_from":["레버리 호텔: 기억의 영역 밈 「산산조각난 내 마음」 등 적 드랍","「페나코니」 파괴 가능한 물체 드랍","모조 꽃받침(금)"]}
+{"id":"181014","name":"아득함","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181014.png","come_from":["레버리 호텔: 기억의 영역 밈 「산산조각난 내 마음」 등 적 드랍","「페나코니」 파괴 가능한 물체 드랍","모조 꽃받침(금)"]}

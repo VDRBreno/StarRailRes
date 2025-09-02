@@ -1,1 +1,1 @@
-{"id":"182009","name":"O Som e a Fúria","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/182009.png","come_from":["O Hotel Devaneio: Mimema da Zona da Memória \"Destruidor de Corações\" ou outros inimigos"]}
+{"id":"182009","name":"O Som e a Fúria","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/182009.png","come_from":["O Hotel Devaneio: Mimema da Zona da Memória \"Destruidor de Corações\" ou outros inimigos"]}

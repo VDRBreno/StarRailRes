@@ -1,1 +1,1 @@
-{"id":"182010","name":"Gel Térmico","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/183006.png","come_from":["O Hotel Devaneio: Sr. Tela de Redoma da Trupe dos Pesadelos Amargos ou outros inimigos","Ferdinand"]}
+{"id":"182010","name":"Gel Térmico","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/183006.png","come_from":["O Hotel Devaneio: Sr. Tela de Redoma da Trupe dos Pesadelos Amargos ou outros inimigos","Ferdinand"]}

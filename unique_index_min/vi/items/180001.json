@@ -1,1 +1,1 @@
-{"id":"180001","name":"Nước Sạch Thể Rắn","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180001.png","come_from":["Khoang Thu Dung: Baryon hoặc kẻ địch khác","[Jarilo-VI] Vật Có Thể Phá Hủy rơi","Cửa Hàng Khu Hành Chính","Đài Hoa Nhân Tạo (Vàng)"]}
+{"id":"180001","name":"Nước Sạch Thể Rắn","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180001.png","come_from":["Khoang Thu Dung: Baryon hoặc kẻ địch khác","[Jarilo-VI] Vật Có Thể Phá Hủy rơi","Cửa Hàng Khu Hành Chính","Đài Hoa Nhân Tạo (Vàng)"]}

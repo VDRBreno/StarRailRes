@@ -1,1 +1,1 @@
-{"id":"182010","name":"Thermal Gel","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/183006.png","come_from":["ดรอปจาก Mr. Domescreen แห่งคณะละครฝันผวา และละศัตรูอื่นๆ ใน \"โรงแรม Reverie\"","Ferdinand"]}
+{"id":"182010","name":"Thermal Gel","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/183006.png","come_from":["ดรอปจาก Mr. Domescreen แห่งคณะละครฝันผวา และละศัตรูอื่นๆ ใน \"โรงแรม Reverie\"","Ferdinand"]}

@@ -1,0 +1,1 @@
+{"id":"141207","name":"先發優勢","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Support","effect_text":"輔助","simple_desc":"使當下行動角色獲得【軍功】，下一次戰鬥開始時自動對持有【軍功】的角色施放戰技。","desc":"使用秘技後獲得【軍功】，切換行動角色時【軍功】轉移至當下行動角色。下一次戰鬥開始時自動對持有【軍功】的角色施放1次戰技，此次戰技不消耗戰技點。","params":[],"icon":"icon/skill/1412_technique.png"}

@@ -1,1 +1,1 @@
-{"id":"181004","name":"화염 깃털","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181004.png","come_from":["마각의 몸 병사 등 적 드랍 [구름나루]","「야릴로-Ⅵ」 파괴 가능한 물체 드랍","행정구역 상점"]}
+{"id":"181004","name":"화염 깃털","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181004.png","come_from":["마각의 몸 병사 등 적 드랍 [구름나루]","「야릴로-Ⅵ」 파괴 가능한 물체 드랍","행정구역 상점"]}

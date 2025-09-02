@@ -1,1 +1,1 @@
-{"id":"180008","name":"Discarded Ingenium Parts","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180008.png","come_from":["Assignment Rewards","Oldies Depot","Calyx (Golden)"]}
+{"id":"180008","name":"Discarded Ingenium Parts","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180008.png","come_from":["Assignment Rewards","Oldies Depot","Calyx (Golden)"]}

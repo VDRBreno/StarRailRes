@@ -1,1 +1,1 @@
-{"id":"182011","name":"Веретено для шёлка","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/182011.png","come_from":["Руины раздора каструма Кремноса: Воин ярости и другие противники"]}
+{"id":"182011","name":"Веретено для шёлка","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/182011.png","come_from":["Руины раздора каструма Кремноса: Воин ярости и другие противники"]}

@@ -1,1 +1,1 @@
-{"id":"181018","name":"深髓岩鹽","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181018.png","come_from":["天譴鬥士等敵方掉落【「紛爭荒墟」懸鋒城】","「翁法羅斯」可破壞物掉落","擬造花萼（金）"]}
+{"id":"181018","name":"深髓岩鹽","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181018.png","come_from":["天譴鬥士等敵方掉落【「紛爭荒墟」懸鋒城】","「翁法羅斯」可破壞物掉落","擬造花萼（金）"]}

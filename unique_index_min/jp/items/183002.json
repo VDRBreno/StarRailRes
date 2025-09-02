@@ -1,1 +1,1 @@
-{"id":"183002","name":"位相霊火","type":"Material","sub_type":"Material","rarity":4,"icon":"icon/item/183002.png","come_from":["自動機兵などの敵からドロップ「機械集落」"]}
+{"id":"183002","name":"位相霊火","type":"Material","sub_type":"ComposeMaterial","rarity":4,"icon":"icon/item/183002.png","come_from":["自動機兵などの敵からドロップ「機械集落」"]}

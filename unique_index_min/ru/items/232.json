@@ -1,1 +1,1 @@
-{"id":"232","name":"Утраченные золотые частицы","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/232.png","come_from":["Ежедневная тренировка","Разбор Реликвий","Неугасаемый пепел"]}
+{"id":"232","name":"Утраченные золотые частицы","type":"Material","sub_type":"RelicExp","rarity":3,"icon":"icon/item/232.png","come_from":["Ежедневная тренировка","Разбор Реликвий","Неугасаемый пепел"]}

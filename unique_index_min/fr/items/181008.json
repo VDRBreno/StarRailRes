@@ -1,1 +1,1 @@
-{"id":"181008","name":"Ondulations quantiques","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181008.png","come_from":["Tisseuse imaginaire ou autre ennemi de la Ville de Rivet","Boutique du District administratif"]}
+{"id":"181008","name":"Ondulations quantiques","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181008.png","come_from":["Tisseuse imaginaire ou autre ennemi de la Ville de Rivet","Boutique du District administratif"]}

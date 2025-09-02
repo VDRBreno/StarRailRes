@@ -1,1 +1,1 @@
-{"id":"181003","name":"단백질 쌀","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181003.png","come_from":["허졸•약탈자 등 적 드랍 [보관 캐빈]","「우주정거장 『헤르타』」 파괴 가능한 물체 드랍","잡화 노점"]}
+{"id":"181003","name":"단백질 쌀","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181003.png","come_from":["허졸•약탈자 등 적 드랍 [보관 캐빈]","「우주정거장 『헤르타』」 파괴 가능한 물체 드랍","잡화 노점"]}

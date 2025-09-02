@@ -1,1 +1,1 @@
-{"id":"181008","name":"量子涟漪","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181008.png","come_from":["虚数织叶者等敌方掉落【铆钉镇】","行政区商店"]}
+{"id":"181008","name":"量子涟漪","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181008.png","come_from":["虚数织叶者等敌方掉落【铆钉镇】","行政区商店"]}

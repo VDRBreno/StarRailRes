@@ -1,1 +1,1 @@
-{"id":"180011","name":"꿈의 파편","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180011.png","come_from":["레버리 호텔: 기억의 영역 밈 「어디에나 존재하는 시선」 등 적 드랍","「페나코니」 파괴 가능한 물체 드랍","의뢰 보상","모조 꽃받침(금)"]}
+{"id":"180011","name":"꿈의 파편","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180011.png","come_from":["레버리 호텔: 기억의 영역 밈 「어디에나 존재하는 시선」 등 적 드랍","「페나코니」 파괴 가능한 물체 드랍","의뢰 보상","모조 꽃받침(금)"]}

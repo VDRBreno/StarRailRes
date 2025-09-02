@@ -1,1 +1,1 @@
-{"id":"183005","name":"Agotamiento","type":"Material","sub_type":"Material","rarity":4,"icon":"icon/item/183005.png","come_from":["De Rompecorazones u otros enemigos en el Hotel Fantasía"]}
+{"id":"183005","name":"Agotamiento","type":"Material","sub_type":"ComposeMaterial","rarity":4,"icon":"icon/item/183005.png","come_from":["De Rompecorazones u otros enemigos en el Hotel Fantasía"]}

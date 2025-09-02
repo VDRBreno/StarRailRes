@@ -1,1 +1,1 @@
-{"id":"181001","name":"Mechanische Teile","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181001.png","come_from":["Robotersiedlung: Automatons oder andere Gegner","Herta-Raumstation: Zerstörbare Objekte","Laden im Verwaltungsbezirk","Blütenkelch (Golden)"]}
+{"id":"181001","name":"Mechanische Teile","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181001.png","come_from":["Robotersiedlung: Automatons oder andere Gegner","Herta-Raumstation: Zerstörbare Objekte","Laden im Verwaltungsbezirk","Blütenkelch (Golden)"]}

@@ -1,1 +1,1 @@
-{"id":"180013","name":"醒目残翎","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180013.png","come_from":["天谴斗士等敌方掉落【「纷争荒墟」悬锋城】","「翁法罗斯」可破坏物掉落","委托奖励","拟造花萼（金）"]}
+{"id":"180013","name":"醒目残翎","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180013.png","come_from":["天谴斗士等敌方掉落【「纷争荒墟」悬锋城】","「翁法罗斯」可破坏物掉落","委托奖励","拟造花萼（金）"]}

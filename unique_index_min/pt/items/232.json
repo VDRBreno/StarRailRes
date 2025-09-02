@@ -1,1 +1,1 @@
-{"id":"232","name":"Fragmento Dourado Perdido","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/232.png","come_from":["Treinamento Diário","Decompor Relíquia","Troca de Brasas"]}
+{"id":"232","name":"Fragmento Dourado Perdido","type":"Material","sub_type":"RelicExp","rarity":3,"icon":"icon/item/232.png","come_from":["Treinamento Diário","Decompor Relíquia","Troca de Brasas"]}

@@ -1,0 +1,1 @@
+{"id":"1410201","name":"Cường Hóa Tốc Độ","max_level":1,"desc":"","params":[],"anchor":"Point09","pre_points":[],"level_up_skills":[],"levels":[{"promotion":0,"level":1,"properties":[{"type":"SpeedDelta","value":2}],"materials":[{"id":"2","num":2500},{"id":"115001","num":2}]}],"icon":"icon/property/IconSpeed.png"}

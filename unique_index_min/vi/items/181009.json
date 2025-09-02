@@ -1,1 +1,1 @@
-{"id":"181009","name":"Mảnh Lá Số Ảo","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181009.png","come_from":["Lằn Ranh: Tạo Vật Bừng Lửa hoặc kẻ địch khác","Quầy Tạp Hóa"]}
+{"id":"181009","name":"Mảnh Lá Số Ảo","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181009.png","come_from":["Lằn Ranh: Tạo Vật Bừng Lửa hoặc kẻ địch khác","Quầy Tạp Hóa"]}

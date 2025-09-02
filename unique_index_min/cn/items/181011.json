@@ -1,1 +1,1 @@
-{"id":"181011","name":"玉兆单元","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181011.png","come_from":["委托奖励","陈机铺"]}
+{"id":"181011","name":"玉兆单元","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181011.png","come_from":["委托奖励","陈机铺"]}

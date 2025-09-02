@@ -1,1 +1,1 @@
-{"id":"181008","name":"양자의 물결","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181008.png","come_from":["허수 방직꾼 등 적 드랍 [리벳 타운]","행정구역 상점"]}
+{"id":"181008","name":"양자의 물결","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181008.png","come_from":["허수 방직꾼 등 적 드랍 [리벳 타운]","행정구역 상점"]}

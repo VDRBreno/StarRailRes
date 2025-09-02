@@ -1,1 +1,1 @@
-{"id":"183006","name":"メカキューブ","type":"Material","sub_type":"Material","rarity":4,"icon":"icon/item/182010.png","come_from":["ナイトメア劇団・Mr.円幕などの敵からドロップ「ホテル・レバリー」","フェルディナンド"]}
+{"id":"183006","name":"メカキューブ","type":"Material","sub_type":"ComposeMaterial","rarity":4,"icon":"icon/item/182010.png","come_from":["ナイトメア劇団・Mr.円幕などの敵からドロップ「ホテル・レバリー」","フェルディナンド"]}

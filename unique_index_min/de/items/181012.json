@@ -1,1 +1,1 @@
-{"id":"181012","name":"Extrakt von Heilkräutern","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181012.png","come_from":["Auftragsbelohnungen","Halle der Langlebigkeit"]}
+{"id":"181012","name":"Extrakt von Heilkräutern","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181012.png","come_from":["Auftragsbelohnungen","Halle der Langlebigkeit"]}

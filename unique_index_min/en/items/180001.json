@@ -1,1 +1,1 @@
-{"id":"180001","name":"Solid Water","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180001.png","come_from":["Storage Zone: Baryons or other enemies","Found in destructible objects in Jarilo-VI","Administrative District Shop","Calyx (Golden)"]}
+{"id":"180001","name":"Solid Water","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180001.png","come_from":["Storage Zone: Baryons or other enemies","Found in destructible objects in Jarilo-VI","Administrative District Shop","Calyx (Golden)"]}

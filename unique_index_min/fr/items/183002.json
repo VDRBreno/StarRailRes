@@ -1,1 +1,1 @@
-{"id":"183002","name":"Flamme de phase","type":"Material","sub_type":"Material","rarity":4,"icon":"icon/item/183002.png","come_from":["Automate ou autre ennemi de la Colonie de robots"]}
+{"id":"183002","name":"Flamme de phase","type":"Material","sub_type":"ComposeMaterial","rarity":4,"icon":"icon/item/183002.png","come_from":["Automate ou autre ennemi de la Colonie de robots"]}

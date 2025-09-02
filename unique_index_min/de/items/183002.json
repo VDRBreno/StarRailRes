@@ -1,1 +1,1 @@
-{"id":"183002","name":"Phasenflamme","type":"Material","sub_type":"Material","rarity":4,"icon":"icon/item/183002.png","come_from":["Robotersiedlung: Automatons oder andere Gegner"]}
+{"id":"183002","name":"Phasenflamme","type":"Material","sub_type":"ComposeMaterial","rarity":4,"icon":"icon/item/183002.png","come_from":["Robotersiedlung: Automatons oder andere Gegner"]}

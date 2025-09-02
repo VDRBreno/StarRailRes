@@ -1,1 +1,1 @@
-{"id":"180009","name":"Épis géants de lutte contre la faim","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180009.png","come_from":["Récompenses d'affectation","Hall de la longévité","Calice doré"]}
+{"id":"180009","name":"Épis géants de lutte contre la faim","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180009.png","come_from":["Récompenses d'affectation","Hall de la longévité","Calice doré"]}

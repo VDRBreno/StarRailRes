@@ -1,0 +1,1 @@
+{"id":"141207","name":"先手优势","max_level":1,"element":"","type":"Maze","type_text":"秘技","effect":"Support","effect_text":"辅助","simple_desc":"使当前行动角色获得【军功】，下一次战斗开始时自动对持有【军功】的角色施放战技。","desc":"使用秘技后获得【军功】，切换行动角色时【军功】转移至当前行动角色。下一次战斗开始时自动对持有【军功】的角色施放1次战技，此次战技不消耗战技点。","params":[],"icon":"icon/skill/1412_technique.png"}

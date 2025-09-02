@@ -1,1 +1,1 @@
-{"id":"181018","name":"Deep Marrow Rock Salt","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181018.png","come_from":["Enemies such as Furiae Warriors drop \"Strife Ruins Castrum Kremnos\"","Destructible objects in Amphoreus","Calyx (Golden)"]}
+{"id":"181018","name":"Deep Marrow Rock Salt","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181018.png","come_from":["Enemies such as Furiae Warriors drop \"Strife Ruins Castrum Kremnos\"","Destructible objects in Amphoreus","Calyx (Golden)"]}

@@ -1,1 +1,1 @@
-{"id":"111000","name":"灵之珠泪","type":"Material","sub_type":"Material","rarity":4,"icon":"icon/item/111000.png","come_from":["「差分宇宙」中敌方掉落","「模拟宇宙」中敌方掉落"]}
+{"id":"111000","name":"灵之珠泪","type":"Material","sub_type":"CommonMonsterDrop","rarity":4,"icon":"icon/item/111000.png","come_from":["「差分宇宙」中敌方掉落","「模拟宇宙」中敌方掉落"]}

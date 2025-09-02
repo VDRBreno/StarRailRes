@@ -1,0 +1,1 @@
+{"id":"1412201","name":"Bônus de Dano: Vento","max_level":1,"desc":"","params":[],"anchor":"Point09","pre_points":[],"level_up_skills":[],"levels":[{"promotion":0,"level":1,"properties":[{"type":"WindAddedRatio","value":0.032}],"materials":[{"id":"2","num":2500},{"id":"115011","num":2}]}],"icon":"icon/property/IconWindAddedRatio.png"}

@@ -1,1 +1,1 @@
-{"id":"182002","name":"Ambre gris de l'Abondance","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/182002.png","come_from":["Soldat frappé par le mara ou autre ennemi de Passenuage"]}
+{"id":"182002","name":"Ambre gris de l'Abondance","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/182002.png","come_from":["Soldat frappé par le mara ou autre ennemi de Passenuage"]}

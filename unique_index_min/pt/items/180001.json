@@ -1,1 +1,1 @@
-{"id":"180001","name":"Água Sólida","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180001.png","come_from":["Zona de Armazenamento: Baryons ou outros inimigos","Encontre em objetos destrutíveis em Jarilo-VI","Loja do Distrito Administrativo","Cálice (Dourado)"]}
+{"id":"180001","name":"Água Sólida","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180001.png","come_from":["Zona de Armazenamento: Baryons ou outros inimigos","Encontre em objetos destrutíveis em Jarilo-VI","Loja do Distrito Administrativo","Cálice (Dourado)"]}

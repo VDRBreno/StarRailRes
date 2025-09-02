@@ -1,1 +1,1 @@
-{"id":"181003","name":"Arroz Proteico","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181003.png","come_from":["Zona de Armazenamento: Guarda-Vazio: Furtadores ou outros inimigos","Encontre em objetos destrutíveis na Estação Espacial Herta","Banca de Mercearia"]}
+{"id":"181003","name":"Arroz Proteico","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181003.png","come_from":["Zona de Armazenamento: Guarda-Vazio: Furtadores ou outros inimigos","Encontre em objetos destrutíveis na Estação Espacial Herta","Banca de Mercearia"]}

@@ -1,1 +1,1 @@
-{"id":"180006","name":"Gaseous liquid","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180006.png","come_from":["Objek yang bisa dihancurkan di \"Jarilo-Ⅵ\"","Grocery Stand","Toko Administrative District","Calyx (Golden)"]}
+{"id":"180006","name":"Gaseous liquid","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180006.png","come_from":["Objek yang bisa dihancurkan di \"Jarilo-Ⅵ\"","Grocery Stand","Toko Administrative District","Calyx (Golden)"]}

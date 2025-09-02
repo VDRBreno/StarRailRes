@@ -1,1 +1,1 @@
-{"id":"180007","name":"Seed","type":"Material","sub_type":"Material","rarity":1,"icon":"icon/item/180007.png","come_from":["ดรอปจากไอเทมที่สามารถทำลายได้ใน \"Jarilo-Ⅵ\"","แผงขายของชำ","Administrative District Shop"]}
+{"id":"180007","name":"Seed","type":"Material","sub_type":"ComposeMaterial","rarity":1,"icon":"icon/item/180007.png","come_from":["ดรอปจากไอเทมที่สามารถทำลายได้ใน \"Jarilo-Ⅵ\"","แผงขายของชำ","Administrative District Shop"]}

@@ -1,1 +1,1 @@
-{"id":"100602","name":"Zombienetzwerk","rank":2,"desc":"Tritt ein Gegner in den Kampf ein, wird sein Effekt-WDS um 20% reduziert.","materials":[{"id":"11006","num":1}],"level_up_skills":[],"icon":"icon/skill/1006_rank2.png"}
+{"id":"100602","name":"Zombienetzwerk","rank":2,"desc":"Beim Kampfeintritt eines Gegners wird sein Effekt-WDS um 20% reduziert.","materials":[{"id":"11006","num":1}],"level_up_skills":[],"icon":"icon/skill/1006_rank2.png"}

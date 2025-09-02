@@ -1,1 +1,1 @@
-{"id":"181003","name":"Gạo Protein","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181003.png","come_from":["Khoang Thu Dung: Chiến Binh Hư Không - Kẻ Cướp Đoạt hoặc kẻ địch khác","[Trạm Không Gian Herta] Vật Có Thể Phá Hủy rơi","Quầy Tạp Hóa"]}
+{"id":"181003","name":"Gạo Protein","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181003.png","come_from":["Khoang Thu Dung: Chiến Binh Hư Không - Kẻ Cướp Đoạt hoặc kẻ địch khác","[Trạm Không Gian Herta] Vật Có Thể Phá Hủy rơi","Quầy Tạp Hóa"]}

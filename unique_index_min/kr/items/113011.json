@@ -1,1 +1,1 @@
-{"id":"113011","name":"공조 기계 부품","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/113011.png","come_from":["신들린 기교 드랍","「차분화 우주」 적 드랍","「시뮬레이션 우주」 적 드랍","의뢰 보상","잔화 교환","「만능 합성기」- 재료 치환","모조 꽃받침(금)"]}
+{"id":"113011","name":"공조 기계 부품","type":"Material","sub_type":"CommonMonsterDrop","rarity":2,"icon":"icon/item/113011.png","come_from":["신들린 기교 드랍","「차분화 우주」 적 드랍","「시뮬레이션 우주」 적 드랍","의뢰 보상","잔화 교환","「만능 합성기」- 재료 치환","모조 꽃받침(금)"]}

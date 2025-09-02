@@ -1,1 +1,1 @@
-{"id":"181010","name":"Meteorische Legierung","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181010.png","come_from":["Robotersiedlung: Automatons oder andere Gegner","Jarilo-VI: Zerstörbare Objekte","Laden im Verwaltungsbezirk"]}
+{"id":"181010","name":"Meteorische Legierung","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181010.png","come_from":["Robotersiedlung: Automatons oder andere Gegner","Jarilo-VI: Zerstörbare Objekte","Laden im Verwaltungsbezirk"]}

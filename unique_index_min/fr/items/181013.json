@@ -1,1 +1,1 @@
-{"id":"181013","name":"Asperge de cochinchine","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181013.png","come_from":["Stand pharmaceutique de Lingling","Calice doré"]}
+{"id":"181013","name":"Asperge de cochinchine","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181013.png","come_from":["Stand pharmaceutique de Lingling","Calice doré"]}

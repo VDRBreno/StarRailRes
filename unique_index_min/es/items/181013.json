@@ -1,1 +1,1 @@
-{"id":"181013","name":"Tian dong","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181013.png","come_from":["Puesto de ingredientes medicinales de Lingling","Cáliz (oro)"]}
+{"id":"181013","name":"Tian dong","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181013.png","come_from":["Puesto de ingredientes medicinales de Lingling","Cáliz (oro)"]}

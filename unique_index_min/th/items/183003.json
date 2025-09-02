@@ -1,1 +1,1 @@
-{"id":"183003","name":"Tear Crystal of Glorious Death","type":"Material","sub_type":"Material","rarity":4,"icon":"icon/item/183003.png","come_from":["ดรอปจาก Everwinter Shadewalker และศัตรูอื่นๆ ใน \"Corridor of Fading Echoes\""]}
+{"id":"183003","name":"Tear Crystal of Glorious Death","type":"Material","sub_type":"ComposeMaterial","rarity":4,"icon":"icon/item/183003.png","come_from":["ดรอปจาก Everwinter Shadewalker และศัตรูอื่นๆ ใน \"Corridor of Fading Echoes\""]}

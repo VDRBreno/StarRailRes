@@ -1,1 +1,1 @@
-{"id":"111011","name":"약탈의 본능","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/111011.png","come_from":["반물질 군단 드랍","「차분화 우주」 적 드랍","「시뮬레이션 우주」 적 드랍","의뢰 보상","잔화 교환","「만능 합성기」- 재료 치환","모조 꽃받침(금)"]}
+{"id":"111011","name":"약탈의 본능","type":"Material","sub_type":"CommonMonsterDrop","rarity":2,"icon":"icon/item/111011.png","come_from":["반물질 군단 드랍","「차분화 우주」 적 드랍","「시뮬레이션 우주」 적 드랍","의뢰 보상","잔화 교환","「만능 합성기」- 재료 치환","모조 꽃받침(금)"]}

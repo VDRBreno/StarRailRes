@@ -1,1 +1,1 @@
-{"id":"181006","name":"번개의 눈","type":"Material","sub_type":"Material","rarity":2,"icon":"icon/item/181006.png","come_from":["영원한 겨울의 재난 등 적 드랍 [잔향의 회랑]","잡화 노점","행정구역 상점"]}
+{"id":"181006","name":"번개의 눈","type":"Material","sub_type":"ComposeMaterial","rarity":2,"icon":"icon/item/181006.png","come_from":["영원한 겨울의 재난 등 적 드랍 [잔향의 회랑]","잡화 노점","행정구역 상점"]}

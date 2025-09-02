@@ -1,1 +1,1 @@
-{"id":"182002","name":"풍요의 향기","type":"Material","sub_type":"Material","rarity":3,"icon":"icon/item/182002.png","come_from":["마각의 몸 병사 등 적 드랍 [구름나루]"]}
+{"id":"182002","name":"풍요의 향기","type":"Material","sub_type":"ComposeMaterial","rarity":3,"icon":"icon/item/182002.png","come_from":["마각의 몸 병사 등 적 드랍 [구름나루]"]}
