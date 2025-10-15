@@ -1,1 +1,1 @@
-{"type":"WindResistance","name":"Aumento de RES a Viento","field":"wind_res","affix":true,"ratio":false,"percent":true,"order":30,"icon":"icon/property/IconWindResistanceDelta.png"}
+{"type":"WindResistance","name":"Aumento de RES a Viento","field":"wind_res","affix":true,"ratio":false,"percent":true,"order":31,"icon":"icon/property/IconWindResistanceDelta.png"}

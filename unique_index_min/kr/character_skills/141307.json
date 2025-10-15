@@ -1,0 +1,1 @@
+{"id":"141307","name":"차가운 비가 내리기를","max_level":1,"element":"","type":"Maze","type_text":"비술","effect":"Support","effect_text":"서포트","simple_desc":"다음 전투 시작 시 전투 스킬과 동일한 기억 정령 치명타 피해 증가 효과를 획득하고, 추가로 [기억 물질]을 획득한다","desc":"비술을 사용하면 다음 전투 시작 시 전투 스킬과 동일한 모든 아군 기억 정령 치명타 피해 증가 효과를 획득하고, [기억 물질]을 #1[i]pt 획득한다","params":[[1,1]],"icon":"icon/skill/1413_technique.png"}

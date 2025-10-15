@@ -1,1 +1,1 @@
-{"type":"WindResistance","name":"바람 속성 저항 증가","field":"wind_res","affix":true,"ratio":false,"percent":true,"order":30,"icon":"icon/property/IconWindResistanceDelta.png"}
+{"type":"WindResistance","name":"바람 속성 저항 증가","field":"wind_res","affix":true,"ratio":false,"percent":true,"order":31,"icon":"icon/property/IconWindResistanceDelta.png"}

@@ -1,0 +1,1 @@
+{"id":"1413203","name":"เสริมอัตราคริติคอล","max_level":1,"desc":"","params":[],"anchor":"Point11","pre_points":["1413201"],"level_up_skills":[],"levels":[{"promotion":3,"level":0,"properties":[{"type":"CriticalChanceBase","value":0.027}],"materials":[{"id":"2","num":9000},{"id":"110252","num":3},{"id":"115012","num":2}]}],"icon":"icon/property/IconCriticalChance.png"}

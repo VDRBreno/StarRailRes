@@ -1,1 +1,1 @@
-{"type":"WindAddedRatio","name":"เพิ่ม DMG ลม","field":"wind_dmg","affix":true,"ratio":false,"percent":true,"order":29,"icon":"icon/property/IconWindAddedRatio.png"}
+{"type":"WindAddedRatio","name":"เพิ่ม DMG ลม","field":"wind_dmg","affix":true,"ratio":false,"percent":true,"order":30,"icon":"icon/property/IconWindAddedRatio.png"}

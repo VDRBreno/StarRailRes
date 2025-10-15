@@ -1,0 +1,1 @@
+{"id":"1414101","name":"神秀","max_level":1,"desc":"施放战技时，使成为【同袍】的目标攻击力提高，提高数值等同于丹恒•腾荒#1[i]%攻击力。","params":[[0.15]],"anchor":"Point06","pre_points":["1414201"],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110211","num":3},{"id":"110507","num":1}]}],"icon":"icon/skill/1414_skilltree1.png"}

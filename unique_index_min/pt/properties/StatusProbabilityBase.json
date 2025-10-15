@@ -1,1 +1,1 @@
-{"type":"StatusProbabilityBase","name":"Taxa de Acerto de Efeito","field":"effect_hit","affix":true,"ratio":false,"percent":true,"order":19,"icon":"icon/property/IconStatusProbability.png"}
+{"type":"StatusProbabilityBase","name":"Taxa de Acerto de Efeito","field":"effect_hit","affix":true,"ratio":false,"percent":true,"order":20,"icon":"icon/property/IconStatusProbability.png"}

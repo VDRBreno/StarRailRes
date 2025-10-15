@@ -1,1 +1,1 @@
-{"type":"HealRatioBase","name":"Bonus für bewirkte Heilung","field":"heal_rate","affix":true,"ratio":false,"percent":true,"order":16,"icon":"icon/property/IconHealRatio.png"}
+{"type":"HealRatioBase","name":"Bonus für bewirkte Heilung","field":"heal_rate","affix":true,"ratio":false,"percent":true,"order":17,"icon":"icon/property/IconHealRatio.png"}
