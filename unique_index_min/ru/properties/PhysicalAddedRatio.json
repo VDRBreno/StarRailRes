@@ -1,1 +1,1 @@
-{"type":"PhysicalAddedRatio","name":"Бонус физ. урона","field":"physical_dmg","affix":true,"ratio":false,"percent":true,"order":22,"icon":"icon/property/IconPhysicalAddedRatio.png"}
+{"type":"PhysicalAddedRatio","name":"Бонус физ. урона","field":"physical_dmg","affix":true,"ratio":false,"percent":true,"order":24,"icon":"icon/property/IconPhysicalAddedRatio.png"}

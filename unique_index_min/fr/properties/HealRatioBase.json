@@ -1,1 +1,1 @@
-{"type":"HealRatioBase","name":"Augm. des soins prodigués","field":"heal_rate","affix":true,"ratio":false,"percent":true,"order":17,"icon":"icon/property/IconHealRatio.png"}
+{"type":"HealRatioBase","name":"Augm. des soins prodigués","field":"heal_rate","affix":true,"ratio":false,"percent":true,"order":19,"icon":"icon/property/IconHealRatio.png"}

@@ -1,0 +1,1 @@
+{"id":"323","name":"Amphoreus, la terre éternelle","desc":["Augmente les chances de coup critique du porteur de 8%. Lorsque le mnémesprit du porteur est sur le champ de bataille, la VIT de tous les alliés augmente de 8%. Cet effet n'est pas cumulable."],"properties":[[{"type":"CriticalChanceBase","value":0.08}]],"icon":"icon/relic/323.png"}

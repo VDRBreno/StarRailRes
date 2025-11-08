@@ -1,1 +1,1 @@
-{"type":"WindResistance","name":"เพิ่มความต้านทานลม","field":"wind_res","affix":true,"ratio":false,"percent":true,"order":31,"icon":"icon/property/IconWindResistanceDelta.png"}
+{"type":"WindResistance","name":"เพิ่มความต้านทานลม","field":"wind_res","affix":true,"ratio":false,"percent":true,"order":33,"icon":"icon/property/IconWindResistanceDelta.png"}

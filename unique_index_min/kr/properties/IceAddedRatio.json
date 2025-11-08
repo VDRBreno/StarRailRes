@@ -1,1 +1,1 @@
-{"type":"IceAddedRatio","name":"얼음 속성 피해 증가","field":"ice_dmg","affix":true,"ratio":false,"percent":true,"order":26,"icon":"icon/property/IconIceAddedRatio.png"}
+{"type":"IceAddedRatio","name":"얼음 속성 피해 증가","field":"ice_dmg","affix":true,"ratio":false,"percent":true,"order":28,"icon":"icon/property/IconIceAddedRatio.png"}

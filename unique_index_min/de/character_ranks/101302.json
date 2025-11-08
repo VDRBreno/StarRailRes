@@ -1,1 +1,1 @@
-{"id":"101302","name":"Triumph und Verfolgung","rank":2,"desc":"Erhöht für jede Auslösung des Talents die KRIT-Rate von Herta um 3%. Dieser Effekt ist bis zu 5-mal stapelbar.","materials":[{"id":"11013","num":1}],"level_up_skills":[],"icon":"icon/skill/1013_rank2.png"}
+{"id":"101302","name":"Triumph und Verfolgung","rank":2,"desc":"Erhöht für jede Auslösung des Talents die KRIT-Rate dieser Einheit um 3%. Dieser Effekt ist bis zu 5-mal stapelbar.","materials":[{"id":"11013","num":1}],"level_up_skills":[],"icon":"icon/skill/1013_rank2.png"}

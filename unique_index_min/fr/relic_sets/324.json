@@ -1,0 +1,1 @@
+{"id":"324","name":"Tengoku@Stream","desc":["Augmente les DGT critiques du porteur de 16%. Lorsque 3 points de compétence ou plus sont consommés dans un même tour, les DGT critiques du porteur augmentent de 32% pendant 3 tours."],"properties":[[{"type":"CriticalDamageBase","value":0.16}]],"icon":"icon/relic/324.png"}

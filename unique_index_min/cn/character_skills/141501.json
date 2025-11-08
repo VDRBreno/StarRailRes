@@ -1,0 +1,1 @@
+{"id":"141501","name":"看，希望的起始！","max_level":10,"element":"Ice","type":"Normal","type_text":"普攻","effect":"SingleAttack","effect_text":"单攻","simple_desc":"获得【追忆】并对敌方单体造成少量冰属性伤害。","desc":"获得#2[i]点【追忆】并对指定敌方单体造成等同于昔涟#1[i]%生命上限的冰属性伤害。","params":[[0.25,1],[0.3,1],[0.35,1],[0.4,1],[0.45,1],[0.5,1],[0.55,1],[0.6,1],[0.65,1],[0.7,1]],"icon":"icon/skill/1415_basic_atk.png"}

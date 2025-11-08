@@ -1,0 +1,1 @@
+{"id":"323","name":"Amphoreus, a Terra Eterna","desc":["Aumenta a Chance de CRIT do usuário em 8%. Enquanto o Memoespírito do usuário estiver em campo, aumenta a VEL de todos os aliados em 8%. Este efeito não pode ser acumulado."],"properties":[[{"type":"CriticalChanceBase","value":0.08}]],"icon":"icon/relic/323.png"}

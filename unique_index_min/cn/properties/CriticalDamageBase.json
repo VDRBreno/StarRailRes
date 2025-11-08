@@ -1,1 +1,1 @@
-{"type":"CriticalDamageBase","name":"暴击伤害","field":"crit_dmg","affix":true,"ratio":false,"percent":true,"order":16,"icon":"icon/property/IconCriticalDamage.png"}
+{"type":"CriticalDamageBase","name":"暴击伤害","field":"crit_dmg","affix":true,"ratio":false,"percent":true,"order":18,"icon":"icon/property/IconCriticalDamage.png"}

@@ -1,1 +1,1 @@
-{"type":"SPRatioBase","name":"Скорость восстановления энергии","field":"sp_rate","affix":true,"ratio":false,"percent":true,"order":19,"icon":"icon/property/IconEnergyRecovery.png"}
+{"type":"SPRatioBase","name":"Скорость восстановления энергии","field":"sp_rate","affix":true,"ratio":false,"percent":true,"order":21,"icon":"icon/property/IconEnergyRecovery.png"}

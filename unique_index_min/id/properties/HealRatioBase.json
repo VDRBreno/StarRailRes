@@ -1,1 +1,1 @@
-{"type":"HealRatioBase","name":"Outgoing Healing Boost","field":"heal_rate","affix":true,"ratio":false,"percent":true,"order":17,"icon":"icon/property/IconHealRatio.png"}
+{"type":"HealRatioBase","name":"Outgoing Healing Boost","field":"heal_rate","affix":true,"ratio":false,"percent":true,"order":19,"icon":"icon/property/IconHealRatio.png"}

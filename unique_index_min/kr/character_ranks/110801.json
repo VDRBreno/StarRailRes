@@ -1,1 +1,1 @@
-{"id":"110801","name":"곱절의 사랑","rank":1,"desc":"전투 스킬 발동 시 임의의 단일 적에게 추가로 1회 피해를 가한다","materials":[{"id":"11108","num":1}],"level_up_skills":[],"icon":"icon/skill/1108_rank1.png"}
+{"id":"110801","name":"곱절의 사랑","rank":1,"desc":"전투 스킬 발동 시 랜덤 단일 적에게 추가로 피해를 1회 가한다","materials":[{"id":"11108","num":1}],"level_up_skills":[],"icon":"icon/skill/1108_rank1.png"}

@@ -1,1 +1,1 @@
-{"type":"FireAddedRatio","name":"화염 속성 피해 증가","field":"fire_dmg","affix":true,"ratio":false,"percent":true,"order":24,"icon":"icon/property/IconFireAddedRatio.png"}
+{"type":"FireAddedRatio","name":"화염 속성 피해 증가","field":"fire_dmg","affix":true,"ratio":false,"percent":true,"order":26,"icon":"icon/property/IconFireAddedRatio.png"}

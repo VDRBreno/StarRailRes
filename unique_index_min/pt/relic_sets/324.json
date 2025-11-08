@@ -1,0 +1,1 @@
+{"id":"324","name":"Tengoku@Stream","desc":["Aumenta o Dano CRIT do usuário em 16%. Se 3 ou mais Pontos de Perícia forem consumidos na mesma rodada, aumenta adicionalmente o Dano CRIT do usuário em 32%, durando por 3 rodadas."],"properties":[[{"type":"CriticalDamageBase","value":0.16}]],"icon":"icon/relic/324.png"}

@@ -1,1 +1,1 @@
-{"type":"WindAddedRatio","name":"Augm. des DGT de vent","field":"wind_dmg","affix":true,"ratio":false,"percent":true,"order":30,"icon":"icon/property/IconWindAddedRatio.png"}
+{"type":"WindAddedRatio","name":"Augm. des DGT de vent","field":"wind_dmg","affix":true,"ratio":false,"percent":true,"order":32,"icon":"icon/property/IconWindAddedRatio.png"}

@@ -1,0 +1,1 @@
+{"id":"324","name":"Tengoku@sala de chat","desc":["El Daño CRIT del portador aumenta en un 16%. Si el portador consume 3 o más pts. de habilidad básica en el mismo turno, su Daño CRIT aumenta en un 32% adicional durante 3 turnos."],"properties":[[{"type":"CriticalDamageBase","value":0.16}]],"icon":"icon/relic/324.png"}

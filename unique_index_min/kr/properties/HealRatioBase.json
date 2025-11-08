@@ -1,1 +1,1 @@
-{"type":"HealRatioBase","name":"치유량 보너스","field":"heal_rate","affix":true,"ratio":false,"percent":true,"order":17,"icon":"icon/property/IconHealRatio.png"}
+{"type":"HealRatioBase","name":"치유량 보너스","field":"heal_rate","affix":true,"ratio":false,"percent":true,"order":19,"icon":"icon/property/IconHealRatio.png"}
