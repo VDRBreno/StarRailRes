@@ -1409,6 +1409,16 @@
         "preview": "image/light_cone_preview/23049.png",
         "portrait": "image/light_cone_portrait/23049.png"
     },
+    "23050": {
+        "id": "23050",
+        "name": "Đừng Quên Ngọn Lửa Của Cô Ấy",
+        "rarity": 5,
+        "path": "Warlock",
+        "desc": "\"Lại đây, đến bên ta...\"\nMột mảnh ký ức sống động được ngọn lửa dẫn lối, bao bọc thân thể và tâm hồn của cô ấy.\nQuá khứ chìm vào nấm mộ, đó có phải là sự thật?\n\"Suỵt, đừng khóc, đừng từ chối...\"\nCô ấy khắc sâu hình bóng mình vào tâm trí người khác, ánh mắt xa lạ dần trở nên thân thuộc.\n\"Nhớ ra rồi chứ?\"\nTro tàn của ký ức xưa cũ tan biến hết, gương mặt vương chút hương hoa say đắm...\n\"Ta, chính là ký ức của ngươi.\"",
+        "icon": "icon/light_cone/23050.png",
+        "preview": "image/light_cone_preview/23050.png",
+        "portrait": "image/light_cone_portrait/23050.png"
+    },
     "23051": {
         "id": "23051",
         "name": "Dù Núi Sông Vạn Dặm",

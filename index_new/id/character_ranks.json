@@ -4223,7 +4223,7 @@
         "id": "130903",
         "name": "Inverted Tuning",
         "rank": 3,
-        "desc": "Level Skill +2, maksimal Lv. 15. Level Ultimate +2, maksimal Lv. 15.",
+        "desc": "Level Skill +2, maksimal Lv. 15; Level Ultimate +2, maksimal Lv. 15.",
         "materials": [
             { "id": "11309", "num": 1 }
         ],
@@ -4707,6 +4707,78 @@
         ],
         "level_up_skills": [],
         "icon": "icon/skill/1317_rank6.png"
+    },
+    "132101": {
+        "id": "132101",
+        "name": "When a Bud Readies to Bloom",
+        "rank": 1,
+        "desc": "Super Break DMG Multiplier dari Talent untuk \"Dance Partner\" berlaku untuk seluruh karakter tim, dan Multiplier untuk \"Dance Partner\" meningkat ekstra 40%. Setelah \"Dance Partner\" melancarkan serangan, akan mengakibatkan ekstra Pengurangan Toughness dalam jumlah tetap sebesar 25% Max Toughness pada target musuh yang terkena serangan (minimal 10, maksimal 300). Setiap target musuh hanya dapat memicu efek ini 1 kali. Kesempatan pemicuan target musuh akan direset setelah target tersebut terkena serangan mematikan.",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1321_rank1.png"
+    },
+    "132102": {
+        "id": "132102",
+        "name": "Fresh, Ethereal, and Beloved",
+        "rank": 2,
+        "desc": "Saat The Dahlia berada di medan pertempuran, RES Seluruh Tipe seluruh musuh berkurang 20%. Saat target musuh memasuki medan pertempuran, segera memasuki status \"Wilt\" selama 3 giliran.",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1321_rank2.png"
+    },
+    "132103": {
+        "id": "132103",
+        "name": "Pity Its Petals Thin as Mist",
+        "rank": 3,
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "132103", "num": 2 },
+            { "id": "132101", "num": 1 }
+        ],
+        "icon": "icon/skill/1321_ultimate.png"
+    },
+    "132104": {
+        "id": "132104",
+        "name": "Pity Its Heart Gnawed by Worms",
+        "rank": 4,
+        "desc": "Frekuensi DMG Serangan Lanjutan dari Talent bertambah 5 kali, saat dilancarkan akan meningkatkan 12% DMG yang diterima seluruh target musuh, berlangsung selama 2 giliran.",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1321_rank4.png"
+    },
+    "132105": {
+        "id": "132105",
+        "name": "Fallen, Decayed, and Despised",
+        "rank": 5,
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "132102", "num": 2 },
+            { "id": "132104", "num": 2 }
+        ],
+        "icon": "icon/skill/1321_skill.png"
+    },
+    "132106": {
+        "id": "132106",
+        "name": "And Yet, Always, Deathly Beautiful",
+        "rank": 6,
+        "desc": "Break Effect \"Dance Partner\" meningkat 150%. Saat melancarkan Serangan Lanjutan dari Talent, akan mendahulukan aksi semua \"Dance Partner\" yang berikutnya sebesar 20%.",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1321_rank6.png"
     },
     "140101": {
         "id": "140101",

@@ -1454,6 +1454,31 @@
         "title": "Cirene",
         "desc": "La hija de Elisios, la hija pura de Anāsrava de Amphoreus, también es el alma del cetro δ-me13, el Demiurgo.\nEn el epílogo de la epopeya, los recuerdos de la joven viajan a contrarreloj, transformándose en \"PhiLia093\" en el origen de los tiempos, cerrando así el ciclo de causa y efecto."
     },
+    "10311": {
+        "id": "10311",
+        "title": "Constanza, \"la Dalia\"",
+        "desc": "Una codiciosa Incineradora que traicionó sucesivamente a la Vía de la Destrucción y al Jardín de los Recuerdos.\nVaga sola por el universo, intentando agotar todas las posibilidades de la vida."
+    },
+    "10312": {
+        "id": "10312",
+        "title": "Caballeros de Hierro de Glamoth",
+        "desc": "Armas nacidas para la guerra y Andavías de la Propagación.\nDesde el momento de su nacimiento, su destino es convertirse en cenizas junto a sus enemigos mortales."
+    },
+    "10313": {
+        "id": "10313",
+        "title": "Terminus",
+        "desc": "El Eón que preside la Vía de la Conclusión nacerá cuando aparezca cualquiera de los \"Cuatro Apocalipsis\" y avanzará contra el tiempo.\nEn ese momento, transformará todo su poder divino en una colonia de gatos negros que deambulará por todo el cosmos, murmurando una profecía que está destinada a cumplirse."
+    },
+    "10314": {
+        "id": "10314",
+        "title": "Maestro de los sueños",
+        "desc": "El auténtico líder de la rama de La Familia en Colonipenal. Su cuerpo físico fue destruido, pero su conciencia espiritual permea el dulce sueño.\nUtilizando el Estelaron, se sacrificó por el Orden y permitió que Ena, el Eón caído, regresara brevemente a la vida."
+    },
+    "10315": {
+        "id": "10315",
+        "title": "Sueño del roble carcomido",
+        "desc": "Los sueños hundidos en la Zona de los Recuerdos primitiva ahora están repletos del zumbido de la Propagación.\nAquí, una mentira se convierte en otra, y la Grandiosa regresa en medio del miedo."
+    },
     "20000": {
         "id": "20000",
         "title": "Volviendo a la perspectiva {F#de la}{M#del} Trazacaminos...",
@@ -1714,6 +1739,11 @@
         "title": "Los recuerdos de Khaslana se desbordan como una marea gigante...",
         "desc": "En nombre de quien sostiene el mundo, que Kefale nunca olvide su deseo."
     },
+    "20079": {
+        "id": "20079",
+        "title": "Los recuerdos de Robin aparecen poco a poco...",
+        "desc": "Esa fue la primera vez que entraste al sueño, y Robin, quien te dio la bienvenida, estaba sufriendo por la pérdida de su voz..."
+    },
     "20080": {
         "id": "20080",
         "title": "Cambiando a la perspectiva de Dan Heng...",
@@ -1734,6 +1764,31 @@
         "title": "Cambiando a la perspectiva de Dan Heng...",
         "desc": "Dan Heng regresó a Amphoreus, determinado a encontrar a {NICKNAME} y a reunirse con Siete de Marzo..."
     },
+    "20084": {
+        "id": "20084",
+        "title": "Los recuerdos de Robin aparecen poco a poco...",
+        "desc": "De vuelta a la perspectiva de Robin, donde una conspiración se oculta en la historia del Arrecife Flujosueño y espera ser revelada..."
+    },
+    "20085": {
+        "id": "20085",
+        "title": "Los recuerdos de la Dalia aparecen poco a poco...",
+        "desc": "En el extraño sueño en el que nunca has estado, la Dalia quiere mostrarte su verdadero rostro..."
+    },
+    "20088": {
+        "id": "20088",
+        "title": "Los recuerdos de Luciérnaga aparecen poco a poco...",
+        "desc": "Con la ayuda de Silver Wolf, Luciérnaga se prepara para infiltrarse en Colonipenal..."
+    },
+    "20089": {
+        "id": "20089",
+        "title": "Los recuerdos de Luciérnaga aparecen poco a poco...",
+        "desc": "Luciérnaga y tú se separan debido al ataque de la Muerte. Ahora, ella se encuentra con otro de sus compañeros..."
+    },
+    "20090": {
+        "id": "20090",
+        "title": "Los recuerdos de Luciérnaga aparecen poco a poco...",
+        "desc": "De vuelta con Luciérnaga... Inesperadamente, se ve envuelta en la fase final del plan del maestro de los sueños..."
+    },
     "20091": {
         "id": "20091",
         "title": "Cambiando a la perspectiva de Himeko...",
@@ -1748,5 +1803,15 @@
         "id": "20093",
         "title": "La historia de Cirene aún no ha terminado...",
         "desc": "Ferrotumba está en silencio, pero la historia aún no ha terminado..."
+    },
+    "20094": {
+        "id": "20094",
+        "title": "Los recuerdos de Luciérnaga aparecen poco a poco...",
+        "desc": "La larga noche está por terminar, y las polillas vuelan hacia el fuego."
+    },
+    "20095": {
+        "id": "20095",
+        "title": "Los recuerdos de Robin aparecen poco a poco...",
+        "desc": "La perspectiva vuelve a Robin, quien incluso después de liberarse del sueño de Ena, aún no ha logrado disipar la crisis que enfrenta..."
     }
 }

@@ -1359,6 +1359,54 @@
         "hide_desc": "※ Schreibe den letzten Satz dieses Epos.",
         "hide": false
     },
+    "4034801": {
+        "id": "4034801",
+        "series_id": "3",
+        "title": "Grabinschrift des Edlen",
+        "desc": "Der Preis für das Festhalten an Überzeugungen ist oft der verlorene Rückweg.",
+        "hide_desc": "※ Erlebe aus Glühwürmchens Perspektive das Wiedersehen mit AR-214.",
+        "hide": false
+    },
+    "4034802": {
+        "id": "4034802",
+        "series_id": "3",
+        "title": "Vergangenheit, die Spiegelung der Zukunft",
+        "desc": "Die Zeit tanzt auf Messers Schneide. Nur das Licht kann zur Zukunft durchdringen.",
+        "hide_desc": "※ Werde {F#Zeugin}{M#Zeuge} des Zusammentreffens der Endgültigkeit und des Trailblaze.",
+        "hide": false
+    },
+    "4034803": {
+        "id": "4034803",
+        "series_id": "3",
+        "title": "Zum Fliegen braucht man keinen Grund",
+        "desc": "Auch wenn es schon zu spät ist, können wir immer noch die Lieder singen, die wir kennen.",
+        "hide_desc": "※ Werde {F#Zeugin}{M#Zeuge} des Harmoniefests der Traumgäste.",
+        "hide": false
+    },
+    "4034804": {
+        "id": "4034804",
+        "series_id": "3",
+        "title": "Leben und Tod liegen dicht beieinander",
+        "desc": "Die Zeit setzt alles Leben in Flammen und lässt es wieder erlöschen.",
+        "hide_desc": "※ Enthülle die Wahrheit über Terminus.",
+        "hide": false
+    },
+    "4034805": {
+        "id": "4034805",
+        "series_id": "3",
+        "title": "Erinnerungen sind der Prolog der Träume",
+        "desc": "※ Erfülle dein Versprechen an Glühwürmchen.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4034806": {
+        "id": "4034806",
+        "series_id": "3",
+        "title": "Das Vergessen ist der Schlussvorhang des Traums",
+        "desc": "※ Finde die Erinnerung, die die Dahlie dir hinterlassen hat.",
+        "hide_desc": "",
+        "hide": true
+    },
     "4040101": {
         "id": "4040101",
         "series_id": "4",
@@ -3302,6 +3350,30 @@
         "desc": "Erhalte alle Wohndekorationen aus Amphoreus.",
         "hide_desc": "",
         "hide": true
+    },
+    "4044801": {
+        "id": "4044801",
+        "series_id": "4",
+        "title": "Vision der Endzeit",
+        "desc": "Repariere alle defekten Traumuhren in „Traum der nagenden Eiche“.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044802": {
+        "id": "4044802",
+        "series_id": "4",
+        "title": "Meine Sünden sind mir stets gegenwärtig",
+        "desc": "Erhalte den Brief des Traummeisters auf den unbeschrittenen Pfaden in „Traum der nagenden Eiche“.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044803": {
+        "id": "4044803",
+        "series_id": "4",
+        "title": "Auf den Irrwegen bleiben nur Spiegelbilder",
+        "desc": "Folge in den unentdeckten Pfaden in „Traum der nagenden Eiche“ einem anderen Pfad.",
+        "hide_desc": "",
+        "hide": false
     },
     "4051001": {
         "id": "4051001",
@@ -8063,6 +8135,94 @@
         "hide_desc": "",
         "hide": false
     },
+    "4054801": {
+        "id": "4054801",
+        "series_id": "5",
+        "title": "Traumgeflüster des ewigen Schlafes",
+        "desc": "Durchlebe alte Träume in „Traum der nagenden Eiche“.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054802": {
+        "id": "4054802",
+        "series_id": "5",
+        "title": "Grand Slam",
+        "desc": "Gewinne 8-mal ein Turnier bei der „Awuuh-Meisterschaft von Chrysos“.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054803": {
+        "id": "4054803",
+        "series_id": "5",
+        "title": "Chimären-Meister",
+        "desc": "Erreiche den Rang Gold bei der „Awuuh-Meisterschaft von Chrysos“.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054804": {
+        "id": "4054804",
+        "series_id": "5",
+        "title": "Sieg an der Startlinie",
+        "desc": "Schließe die Qualifizierungskämpfe der Weltmeisterschaft der Chimären bei der „Awuuh-Meisterschaft von Chrysos“ ab.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054805": {
+        "id": "4054805",
+        "series_id": "5",
+        "title": "Legendärer Herausforderer",
+        "desc": "Gewinne 8-mal einen Kampf gegen Spieler bei der „Awuuh-Meisterschaft von Chrysos“.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054806": {
+        "id": "4054806",
+        "series_id": "5",
+        "title": "Regionalmeister von Okhema",
+        "desc": "Besiege im Modus Chrysos-Showdown bei der „Awuuh-Meisterschaft von Chrysos“ alle Chimären-Trainer.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054807": {
+        "id": "4054807",
+        "series_id": "7",
+        "title": "Qliphoth-Zähler",
+        "desc": "Stelle in einem Kampf beliebiger Schwierigkeit gegen „Wächter des Großschwertes“ 12-mal die „LP-Zahl“ von verbündeten Figuren wieder her.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054808": {
+        "id": "4054808",
+        "series_id": "7",
+        "title": "Transzendenter Schuss",
+        "desc": "Besiege in einem Kampf beliebiger Schwierigkeit gegen „Erderschütterer Leo“ mit deinen Verbündeten insgesamt 15-mal „Ziel in der hinteren Reihe“.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054809": {
+        "id": "4054809",
+        "series_id": "7",
+        "title": "Verrückter Diamant",
+        "desc": "Schließe den Kampf gegen „Verderbender Schattengeist“ auf der Schwierigkeitsstufe Albtraum ab, ohne dass die LP-Überladung aller verbündeten Figuren 8000 überschreitet.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054810": {
+        "id": "4054810",
+        "series_id": "7",
+        "title": "Keine Zeit zu sterben",
+        "desc": "Löse in einem Kampf beliebiger Schwierigkeit gegen „Heroisches Duo“ 1-mal „Mit vereinten Kräften“ des Bossgegners aus.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054811": {
+        "id": "4054811",
+        "series_id": "7",
+        "title": "Sirenentränen",
+        "desc": "In einem Kampf beliebiger Schwierigkeit gegen „Sirene der Elegie“ erleidet eine verbündete Halluzinogene Meerjungfrau einen Todesstoß.",
+        "hide_desc": "",
+        "hide": false
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -10307,7 +10467,7 @@
         "id": "4074502",
         "series_id": "7",
         "title": "Westwinddrift",
-        "desc": "Nutze das Feld deiner verbündeten Figur Hysilens, um in einem Kampf zusätzlich 40-mal SCH zu verursachen.",
+        "desc": "Nutze das Kraftfeld deiner verbündeten Figur Hysilens, um in einem Kampf zusätzlich 40-mal SCH zu verursachen.",
         "hide_desc": "",
         "hide": true
     },
@@ -10486,6 +10646,46 @@
         "desc": "Wenn sich „Mutter des Wirbelsturms“ im Status „Brutrausch“ befindet, kann sie bei vorgezogener Aktion keine „Kinder des Trugbilds“ ausbrüten.",
         "hide_desc": "",
         "hide": false
+    },
+    "4074801": {
+        "id": "4074801",
+        "series_id": "7",
+        "title": "Lebwohl, für etwas Neues",
+        "desc": "Beim Kampfsieg ist der „Tanzpartner“ der Dahlie ein anderes Teammitglied als zu Beginn des Kampfes.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074802": {
+        "id": "4074802",
+        "series_id": "7",
+        "title": "Du bist so lächerlich wie deine Deckung",
+        "desc": "Besiege einen Gegner mit Super-Bruch-SCH, während er unter Widerstandsschutz steht.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074803": {
+        "id": "4074803",
+        "series_id": "7",
+        "title": "Tanz! Tanz! Tanz!",
+        "desc": "Setze in einem einzelnen Kampf den Ultimate von Trailblazer (Die Harmonie), Fugue und der Dahlie ein.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074804": {
+        "id": "4074804",
+        "series_id": "7",
+        "title": "Käfergewimmel",
+        "desc": "Besiege im Kampf gegen „Vorbote des Todes: Schwarm-Albtraum“ alle Jungen Treustacheln, um den Status „Genreplikation“ zu beenden.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074805": {
+        "id": "4074805",
+        "series_id": "7",
+        "title": "Fange die Heuschrecke, fange den Schwarm",
+        "desc": "Füge „Vorbote des Todes: Schwarm-Albtraum“ im Kampf Schwächebruch zu, bevor alle Jungen Treustacheln besiegt wurden. Vor dem Austritt aus dem Status „Genreplikation“ wird sein WDS wiederhergestellt.",
+        "hide_desc": "",
+        "hide": true
     },
     "4080101": {
         "id": "4080101",

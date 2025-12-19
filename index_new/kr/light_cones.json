@@ -1409,6 +1409,16 @@
         "preview": "image/light_cone_preview/23049.png",
         "portrait": "image/light_cone_portrait/23049.png"
     },
+    "23050": {
+        "id": "23050",
+        "name": "그녀의 불꽃을 잊지 말라",
+        "rarity": 5,
+        "path": "Warlock",
+        "desc": "「자, 내 곁으로 와…」\n한 줄기 생생한 기억이 화염에 이끌려 그녀의 몸과 마음을 감싼다.\n과거는 무덤 속으로 빠져들었다. 과연 그것이 진실일까?\n「쉿, 흐느끼지 말고, 거부하지도 마……」\n그녀는 자신을 타인의 마음에 새겼다. 낯선 눈빛이 점차 익숙해졌다.\n「기억났니?」\n오래된 기억의 잔재가 모두 흩어지고, 얼굴에 매혹적인 꽃향기가 스친다——\n「내가, 바로 너의 기억이야」",
+        "icon": "icon/light_cone/23050.png",
+        "preview": "image/light_cone_preview/23050.png",
+        "portrait": "image/light_cone_portrait/23050.png"
+    },
     "23051": {
         "id": "23051",
         "name": "끝없는 산과 강을 거치더라도",

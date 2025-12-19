@@ -1454,6 +1454,31 @@
         "title": "Cyrene",
         "desc": "Putri Aedes Elysiae, Anak Murni Anāsrava dari Amphoreus, dan \"Hati\" dari Tongkat Kuasa δ-me13, Demiurge.\nDi akhir epos, memori sang gadis bergerak melawan waktu, dan berubah menjadi \"PhiLia093\" di titik awal waktu yang melengkapi lingkaran sebab akibat."
     },
+    "10311": {
+        "id": "10311",
+        "title": "Constance sang \"The Dahlia\"",
+        "desc": "Seorang \"Cremator\" tamak yang pernah mengkhianati Path \"Destruction\" dan Garden of Recollection.\nDia berjalan sendiri di alam semesta dan berusaha menghabiskan segala kemungkinan dalam hidup."
+    },
+    "10312": {
+        "id": "10312",
+        "title": "Iron Cavalry Glamoth",
+        "desc": "Senjata yang terlahir untuk berperang, Pathstrider \"Propagation\".\nSejak lahir, mereka telah ditakdirkan untuk musnah bersama musuh bebuyutannya."
+    },
+    "10313": {
+        "id": "10313",
+        "title": "Terminus",
+        "desc": "Aeon yang menguasai Path \"Finality\", yang akan lahir ketika salah satu kemungkinan dari \"Teori Empat Kiamat\" tiba, lalu berjalan melawan arus waktu.\nKala itu, \"Dia\" akan mengubah seluruh kekuatan ilahi-Nya menjadi sekawanan kucing hitam yang melintasi alam semesta, sambil bergumam menyampaikan ramalan yang akan digenapi."
+    },
+    "10314": {
+        "id": "10314",
+        "title": "Pemilik Mimpi",
+        "desc": "Pemimpin sejati dari Family cabang Penacony. Tubuh fisiknya telah hancur, tetapi kesadarannya tersebar di dalam mimpi indah.\nDengan bantuan \"Stellaron\", dia berkorban demi Order dan membuat Aeon \"Ena\" yang telah gugur kembali ke dunia untuk sesaat."
+    },
+    "10315": {
+        "id": "10315",
+        "title": "Dream of Gnawing Oak",
+        "desc": "Mimpi indah yang tenggelam di dalam Memory Zone Primordial, kini diserbu oleh dengungan serangga \"Propagation\".\nDi sini, sebuah kebohongan melahirkan kebohongan lain, dan \"Yang Agung\" bangkit kembali di tengah ketakutan."
+    },
     "20000": {
         "id": "20000",
         "title": "Sedang kembali ke sudut pandang Trailblazer ....",
@@ -1714,6 +1739,11 @@
         "title": "Memori \"Khaslana\" datang menerjang seperti gelombang pasang ....",
         "desc": "Atas nama \"Penopang Dunia\", Kephale tidak akan pernah melupakan."
     },
+    "20079": {
+        "id": "20079",
+        "title": "Memori \"Robin\" perlahan muncul ....",
+        "desc": "Itu adalah pertama kalinya kamu masuk ke dalam mimpi, dan Robin yang menyambutmu sedang risau karena suaranya hilang ...."
+    },
     "20080": {
         "id": "20080",
         "title": "Sedang berganti ke sudut pandang \"Dan Heng\" ....",
@@ -1734,6 +1764,31 @@
         "title": "Sedang berganti ke sudut pandang \"Dan Heng\" ....",
         "desc": "Dan Heng telah kembali ke Amphoreus. Dia bertekad untuk menemukan {NICKNAME} dan berkumpul kembali dengan March 7th ...."
     },
+    "20084": {
+        "id": "20084",
+        "title": "Memori \"Robin\" perlahan muncul ....",
+        "desc": "Kembali ke sudut pandang Robin. Sebuah konspirasi yang tersembunyi di dalam sejarah Dreamflux Reef menanti untuk diungkap olehnya ...."
+    },
+    "20085": {
+        "id": "20085",
+        "title": "Memori \"The Dahlia\" perlahan muncul ....",
+        "desc": "Di dunia mimpi aneh yang belum pernah kamu kunjungi, The Dahlia akan memperlihatkan \"wujud aslinya\" ...."
+    },
+    "20088": {
+        "id": "20088",
+        "title": "Memori \"Firefly\" perlahan muncul ....",
+        "desc": "Dengan bantuan Silver Wolf, Firefly sedang bersiap untuk menyusup ke Penacony ...."
+    },
+    "20089": {
+        "id": "20089",
+        "title": "Memori \"Firefly\" perlahan muncul ....",
+        "desc": "Kamu dan Firefly terpisah akibat serangan \"Kematian\". Saat ini, dia bertemu dengan rekannya yang lain ...."
+    },
+    "20090": {
+        "id": "20090",
+        "title": "Memori \"Firefly\" perlahan muncul ....",
+        "desc": "Kembali ke sudut pandang Firefly. Tanpa sengaja, dia sedang memasuki akhir dari konspirasi Pemilik Mimpi ...."
+    },
     "20091": {
         "id": "20091",
         "title": "Sedang berganti ke sudut pandang \"Himeko\" ....",
@@ -1748,5 +1803,15 @@
         "id": "20093",
         "title": "Kisah \"Cyrene\" masih belum berakhir ....",
         "desc": "Irontomb telah terdiam, namun kisahnya belum berakhir ...."
+    },
+    "20094": {
+        "id": "20094",
+        "title": "Memori \"Firefly\" mulai bermunculan ....",
+        "desc": "Malam panjang akan segera berakhir, bagai ngengat yang terbang menuju api."
+    },
+    "20095": {
+        "id": "20095",
+        "title": "Memori \"Robin\" perlahan muncul ....",
+        "desc": "Kembali ke sudut pandang Robin. Setelah berhasil melepaskan diri dari Mimpi Ena, krisis yang dihadapinya belum berakhir ...."
     }
 }

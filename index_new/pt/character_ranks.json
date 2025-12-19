@@ -1745,7 +1745,7 @@
         "id": "111202",
         "name": "Aquisição Genuína",
         "rank": 2,
-        "desc": "Após Dinheirinho agir ou realizar um ataque, Topaz regenera 5 de Energia.",
+        "desc": "Após Dinheirinho agir e realizar um ataque, Topaz regenera 5 de Energia.",
         "materials": [
             { "id": "11112", "num": 1 }
         ],
@@ -4707,6 +4707,78 @@
         ],
         "level_up_skills": [],
         "icon": "icon/skill/1317_rank6.png"
+    },
+    "132101": {
+        "id": "132101",
+        "name": "Quando a Flor Desabrocha",
+        "rank": 1,
+        "desc": "O multiplicador do Super Dano de Quebra do Talento concedido aos \"Pares de Dança\" agora se aplica a todos os personagens aliados, com os \"Pares de Dança\" recebendo adicionalmente um bônus de 40%. Após os \"Pares de Dança\" usarem um Ataque, causa uma quantidade fixa adicional de Redução de Tenacidade igual a 25% da Tenacidade Máxima dos inimigos-alvo (mínimo de 10, máximo de 300). Este efeito só pode ser ativado uma vez por inimigo-alvo, e a contagem de ativação é redefinida após o inimigo-alvo receber um golpe fatal.",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1321_rank1.png"
+    },
+    "132102": {
+        "id": "132102",
+        "name": "Vida, Pureza e Carinho",
+        "rank": 2,
+        "desc": "Quando A Dália estiver no campo, reduz a RES a Todos os Tipos de todos os inimigos em 20%. Quando um inimigo-alvo entra em campo, ele é imediatamente infligido com \"Murchar\", durando por 3 rodada(s).",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1321_rank2.png"
+    },
+    "132103": {
+        "id": "132103",
+        "name": "Lamento das Pétalas Delicadas",
+        "rank": 3,
+        "desc": "Nv. da Perícia Suprema +2, até no máximo Nv. 15.\nNv. do ATQ Básico +1, até no máximo Nv. 10.",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "132103", "num": 2 },
+            { "id": "132101", "num": 1 }
+        ],
+        "icon": "icon/skill/1321_ultimate.png"
+    },
+    "132104": {
+        "id": "132104",
+        "name": "Lamento do Coração Corroído",
+        "rank": 4,
+        "desc": "Aumenta as instâncias de Dano causadas pelo Ataque Extra do Talento em 5. Ao ser usado, o Dano recebido por todos os inimigos-alvo aumenta em 12%, durando por 2 rodada(s).",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1321_rank4.png"
+    },
+    "132105": {
+        "id": "132105",
+        "name": "Queda, Podridão e Ódio",
+        "rank": 5,
+        "desc": "Nv. da Perícia +2, até no máximo Nv. 15.\nNv. do Talento +2, até no máximo Nv. 15.",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "132102", "num": 2 },
+            { "id": "132104", "num": 2 }
+        ],
+        "icon": "icon/skill/1321_skill.png"
+    },
+    "132106": {
+        "id": "132106",
+        "name": "Beleza Mortal, Hoje e Sempre",
+        "rank": 6,
+        "desc": "Aumenta o Efeito de Quebra do \"Par de Dança\" em 150%. Ao usar o Ataque Extra do Talento, Avança Adiante a próxima ação de todos os \"Pares de Dança\" em 20%.",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1321_rank6.png"
     },
     "140101": {
         "id": "140101",
