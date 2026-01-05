@@ -1,1 +1,1 @@
-{"id":"131303","name":"荊棘的靜修所","rank":3,"desc":"終結技等級+2，最多不超過15級，普通攻擊等級+1，最多不超過10級。","materials":[{"id":"11313","num":1}],"level_up_skills":[{"id":"131303","num":2},{"id":"131301","num":1}],"icon":"icon/skill/1313_ultimate.png"}
+{"id":"131303","name":"荊棘的靜修所","rank":3,"desc":"終結技等級+2，最多不超過15級；普通攻擊等級+1，最多不超過10級。","materials":[{"id":"11313","num":1}],"level_up_skills":[{"id":"131303","num":2},{"id":"131301","num":1}],"icon":"icon/skill/1313_ultimate.png"}

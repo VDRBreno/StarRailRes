@@ -1,0 +1,1 @@
+{"id":"1321207","name":"Bruch-Verstärkung","max_level":1,"desc":"","params":[],"anchor":"Point15","pre_points":["1321206"],"level_up_skills":[],"levels":[{"promotion":5,"level":0,"properties":[{"type":"BreakDamageAddedRatioBase","value":0.08}],"materials":[{"id":"2","num":45000},{"id":"110223","num":3},{"id":"114013","num":3}]}],"icon":"icon/property/IconBreakUp.png"}

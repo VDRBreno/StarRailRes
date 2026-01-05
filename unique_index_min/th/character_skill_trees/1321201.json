@@ -1,0 +1,1 @@
+{"id":"1321201","name":"เสริมการทำลาย","max_level":1,"desc":"","params":[],"anchor":"Point09","pre_points":[],"level_up_skills":[],"levels":[{"promotion":0,"level":1,"properties":[{"type":"BreakDamageAddedRatioBase","value":0.053}],"materials":[{"id":"2","num":2500},{"id":"114011","num":2}]}],"icon":"icon/property/IconBreakUp.png"}

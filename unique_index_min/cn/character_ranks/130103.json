@@ -1,1 +1,1 @@
-{"id":"130103","name":"逝者的新生","rank":3,"desc":"战技等级+2，最多不超过15级，普攻等级+1，最多不超过10级。","materials":[{"id":"11301","num":1}],"level_up_skills":[{"id":"130102","num":2},{"id":"130101","num":1},{"id":"130108","num":1}],"icon":"icon/skill/1301_skill.png"}
+{"id":"130103","name":"逝者的新生","rank":3,"desc":"战技等级+2，最多不超过15级；普攻等级+1，最多不超过10级。","materials":[{"id":"11301","num":1}],"level_up_skills":[{"id":"130102","num":2},{"id":"130101","num":1},{"id":"130108","num":1}],"icon":"icon/skill/1301_skill.png"}

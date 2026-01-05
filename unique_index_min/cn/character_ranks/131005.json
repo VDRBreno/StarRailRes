@@ -1,1 +1,1 @@
-{"id":"131005","name":"自无梦的长夜亮起","rank":5,"desc":"终结技等级+2，最多不超过15级，天赋等级+2，最多不超过15级。","materials":[{"id":"11310","num":1}],"level_up_skills":[{"id":"131003","num":2},{"id":"131004","num":2}],"icon":"icon/skill/1310_ultimate.png"}
+{"id":"131005","name":"自无梦的长夜亮起","rank":5,"desc":"终结技等级+2，最多不超过15级；天赋等级+2，最多不超过15级。","materials":[{"id":"11310","num":1}],"level_up_skills":[{"id":"131003","num":2},{"id":"131004","num":2}],"icon":"icon/skill/1310_ultimate.png"}

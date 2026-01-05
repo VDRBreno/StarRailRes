@@ -1,1 +1,1 @@
-{"id":"130805","name":"崇岩支离，千身飘零","rank":5,"desc":"战技等级+2，最多不超过15级，天赋等级+2，最多不超过15级。","materials":[{"id":"11308","num":1}],"level_up_skills":[{"id":"130802","num":2},{"id":"130804","num":2}],"icon":"icon/skill/1308_skill.png"}
+{"id":"130805","name":"崇岩支离，千身飘零","rank":5,"desc":"战技等级+2，最多不超过15级；天赋等级+2，最多不超过15级。","materials":[{"id":"11308","num":1}],"level_up_skills":[{"id":"130802","num":2},{"id":"130804","num":2}],"icon":"icon/skill/1308_skill.png"}

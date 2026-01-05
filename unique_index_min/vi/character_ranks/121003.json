@@ -1,1 +1,1 @@
-{"id":"121003","name":"Đập Đá Trên Ngực","rank":3,"desc":"Cấp Chiến Kỹ +2, tối đa không quá cấp 15, Cấp Tấn Công Thường +1, tối đa không quá cấp 10.","materials":[{"id":"11210","num":1}],"level_up_skills":[{"id":"121002","num":2},{"id":"121001","num":1}],"icon":"icon/skill/1210_skill.png"}
+{"id":"121003","name":"Đập Đá Trên Ngực","rank":3,"desc":"Cấp Chiến Kỹ +2, tối đa không quá cấp 15; Cấp Tấn Công Thường +1, tối đa không quá cấp 10.","materials":[{"id":"11210","num":1}],"level_up_skills":[{"id":"121002","num":2},{"id":"121001","num":1}],"icon":"icon/skill/1210_skill.png"}

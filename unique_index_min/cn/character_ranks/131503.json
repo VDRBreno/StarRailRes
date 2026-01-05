@@ -1,1 +1,1 @@
-{"id":"131503","name":"大理石果园守卫","rank":3,"desc":"终结技等级+2，最多不超过15级，普攻等级+1，最多不超过10级。","materials":[{"id":"11315","num":1}],"level_up_skills":[{"id":"131503","num":2},{"id":"131501","num":1},{"id":"131508","num":1}],"icon":"icon/skill/1315_ultimate.png"}
+{"id":"131503","name":"大理石果园守卫","rank":3,"desc":"终结技等级+2，最多不超过15级；普攻等级+1，最多不超过10级。","materials":[{"id":"11315","num":1}],"level_up_skills":[{"id":"131503","num":2},{"id":"131501","num":1},{"id":"131508","num":1}],"icon":"icon/skill/1315_ultimate.png"}

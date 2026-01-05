@@ -1,1 +1,1 @@
-{"id":"130903","name":"倒悬的弦宫","rank":3,"desc":"战技等级+2，最多不超过15级，终结技等级+2，最多不超过15级。","materials":[{"id":"11309","num":1}],"level_up_skills":[{"id":"130902","num":2},{"id":"130903","num":2}],"icon":"icon/skill/1309_skill.png"}
+{"id":"130903","name":"倒悬的弦宫","rank":3,"desc":"战技等级+2，最多不超过15级；终结技等级+2，最多不超过15级。","materials":[{"id":"11309","num":1}],"level_up_skills":[{"id":"130902","num":2},{"id":"130903","num":2}],"icon":"icon/skill/1309_skill.png"}

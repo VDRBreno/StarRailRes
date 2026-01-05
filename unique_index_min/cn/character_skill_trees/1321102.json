@@ -1,0 +1,1 @@
+{"id":"1321102","name":"致哀，故人","max_level":1,"desc":"施放天赋的追加攻击时，为我方恢复1个战技点，该效果每施放#1[i]次天赋的追加攻击可触发1次。","params":[[2]],"anchor":"Point07","pre_points":[],"level_up_skills":[],"levels":[{"promotion":4,"level":0,"properties":[],"materials":[{"id":"2","num":20000},{"id":"110222","num":5},{"id":"241","num":1},{"id":"110508","num":1}]}],"icon":"icon/skill/1321_skilltree2.png"}

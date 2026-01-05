@@ -1,1 +1,1 @@
-{"id":"131305","name":"紙筏漂流銀灣","rank":5,"desc":"戰技等級+2，最多不超過15級，天賦等級+2，最多不超過15級。","materials":[{"id":"11313","num":1}],"level_up_skills":[{"id":"131302","num":2},{"id":"131304","num":2}],"icon":"icon/skill/1313_skill.png"}
+{"id":"131305","name":"紙筏漂流銀灣","rank":5,"desc":"戰技等級+2，最多不超過15級；天賦等級+2，最多不超過15級。","materials":[{"id":"11313","num":1}],"level_up_skills":[{"id":"131302","num":2},{"id":"131304","num":2}],"icon":"icon/skill/1313_skill.png"}

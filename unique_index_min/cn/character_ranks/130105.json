@@ -1,1 +1,1 @@
-{"id":"130105","name":"午后之死","rank":5,"desc":"终结技等级+2，最多不超过15级，天赋等级+2，最多不超过15级。","materials":[{"id":"11301","num":1}],"level_up_skills":[{"id":"130103","num":2},{"id":"130104","num":2}],"icon":"icon/skill/1301_ultimate.png"}
+{"id":"130105","name":"午后之死","rank":5,"desc":"终结技等级+2，最多不超过15级；天赋等级+2，最多不超过15级。","materials":[{"id":"11301","num":1}],"level_up_skills":[{"id":"130103","num":2},{"id":"130104","num":2}],"icon":"icon/skill/1301_ultimate.png"}
