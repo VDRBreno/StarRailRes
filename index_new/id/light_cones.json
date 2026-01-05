@@ -1409,6 +1409,16 @@
         "preview": "image/light_cone_preview/23049.png",
         "portrait": "image/light_cone_portrait/23049.png"
     },
+    "23050": {
+        "id": "23050",
+        "name": "Never Forget Her Flame",
+        "rarity": 5,
+        "path": "Warlock",
+        "desc": "\"Mari, datanglah ke sisiku ....\"\nSegenggam memori yang masih segar dituntun oleh bara api, menyelimuti tubuh dan jiwanya.\nBenarkah masa lalu telah jatuh ke dalam liang kubur?\n\"Sst, jangan menangis, jangan menolak ....\"\nDia mematri dirinya di hati orang lain. Tatapan yang awalnya asing perlahan-lahan menjadi akrab.\n\"Kamu ingat sesuatu?\"\nSaat bara memori lawas menghilang, wajahnya menebarkan jejak aroma bunga yang memabukkan ....\n\"Akulah memorimu.\"",
+        "icon": "icon/light_cone/23050.png",
+        "preview": "image/light_cone_preview/23050.png",
+        "portrait": "image/light_cone_portrait/23050.png"
+    },
     "23051": {
         "id": "23051",
         "name": "Though Worlds Apart",

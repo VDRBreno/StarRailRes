@@ -1454,6 +1454,31 @@
         "title": "Cyrene",
         "desc": "Demiurge, daughter of Aedes Elysiae, Amphoreus's Pure Child of Anāsrava, and the \"Soul\" of Scepter δ-me13.\nAt the epic's end, this maiden's memories flow backwards through time, transforming into \"PhiLia093\" at the beginning of time, completing the cycle of causality."
     },
+    "10311": {
+        "id": "10311",
+        "title": "Constance \"The Dahlia\"",
+        "desc": "A Cremator, greedy by nature, who has betrayed both the Path of Destruction and the Garden of Recollection.\nAlone she traverses the cosmos, seeking to exhaust every possibility of being alive."
+    },
+    "10312": {
+        "id": "10312",
+        "title": "Glamoth's Iron Cavalry",
+        "desc": "Weapons born for war, Pathstriders of Propagation.\nFrom the moment they were born, they were destined to turn to ashes alongside their mortal enemy."
+    },
+    "10313": {
+        "id": "10313",
+        "title": "Terminus",
+        "desc": "The Aeon that presides over the Path of Finality shall be born whenever any one of the Theory of Four Apocalypses could possibly unfold, and move backward in time.\nAt that moment, THEY'll manifest THEIR entire divinity into a clutter of black cats that travels across the universe while murmuring a prophecy that is destined to be fulfilled."
+    },
+    "10314": {
+        "id": "10314",
+        "title": "Dreammaster",
+        "desc": "The true leader of the Penaconian branch of The Family. Though his physical form was destroyed, his soul essence permeates the sweet dream.\nUsing the Stellaron, he martyred himself to Order, briefly bringing the fallen Aeon Ena back into existence."
+    },
+    "10315": {
+        "id": "10315",
+        "title": "Dream of Gnawing Oak",
+        "desc": "Sweet dreams sunken in the Primordial Memory Zone now swarm with the drone of the Propagation. \nHere, one lie begets another, and the Great One returns from fear."
+    },
     "20000": {
         "id": "20000",
         "title": "Returning to the Trailblazer's POV...",
@@ -1714,6 +1739,11 @@
         "title": "The memory of \"Khaslana\" surges in, like tides...",
         "desc": "In the name of \"Worldbearing,\" Kephale will never forget this."
     },
+    "20079": {
+        "id": "20079",
+        "title": "Robin's memories are slowly emerging...",
+        "desc": "That was your first entrance to the dream, and Robin who welcomed you was plagued by the loss of her voice..."
+    },
     "20080": {
         "id": "20080",
         "title": "Switching to Dan Heng's POV...",
@@ -1734,6 +1764,31 @@
         "title": "Switching to Dan Heng's POV...",
         "desc": "Dan Heng returned to Amphoreus, determined to find {NICKNAME} and reunite with March 7th..."
     },
+    "20084": {
+        "id": "20084",
+        "title": "Robin's memories are slowly emerging...",
+        "desc": "Back to Robin's POV, where a conspiracy lay hidden in the history of Dreamflux Reef, waiting to be revealed..."
+    },
+    "20085": {
+        "id": "20085",
+        "title": "The Dahlia's memories are slowly emerging...",
+        "desc": "In an enigmatic dream you had yet to enter, The Dahlia wanted to show you her true appearance..."
+    },
+    "20088": {
+        "id": "20088",
+        "title": "Firefly's memories are slowly emerging...",
+        "desc": "With Silver Wolf's help, Firefly is preparing to sneak into Penacony..."
+    },
+    "20089": {
+        "id": "20089",
+        "title": "Firefly's memories are slowly emerging...",
+        "desc": "You and Firefly got separated because of \"Death.\" Now, she encountered her other companion..."
+    },
+    "20090": {
+        "id": "20090",
+        "title": "Firefly's memories are slowly emerging...",
+        "desc": "Back to Firefly's POV, she was entering the final stage of the Dreammaster's plot in an unexpected turn of events..."
+    },
     "20091": {
         "id": "20091",
         "title": "Switching to Himeko's POV...",
@@ -1748,5 +1803,15 @@
         "id": "20093",
         "title": "Cyrene's story continues...",
         "desc": "The Irontomb has gone quiet, but the story is far from over..."
+    },
+    "20094": {
+        "id": "20094",
+        "title": "Firefly's memories are slowly emerging...",
+        "desc": "The long night draws to a close, as moths dance into flames."
+    },
+    "20095": {
+        "id": "20095",
+        "title": "Robin's memories are slowly emerging...",
+        "desc": "Back to Robin's POV, even after breaking free from Ena's Dream, the crisis she faces is far from over..."
     }
 }

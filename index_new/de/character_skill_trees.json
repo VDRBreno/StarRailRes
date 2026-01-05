@@ -19334,7 +19334,7 @@
         "id": "1203102",
         "name": "Geheiligt",
         "max_level": 1,
-        "desc": "Wenn ein Gegner innerhalb des Felds von einem Verbündeten angegriffen wird, werden die LP aller Verbündeten außer dem Angreifer um #1[f1]% von Luochas ANG plus #2[i] wiederhergestellt.",
+        "desc": "Wenn ein Gegner innerhalb des Kraftfelds von einem Verbündeten angegriffen wird, werden die LP aller Verbündeten außer dem Angreifer um #1[f1]% von Luochas ANG plus #2[i] wiederhergestellt.",
         "params": [
             [0.07, 93]
         ],
@@ -29946,7 +29946,7 @@
         "id": "1218103",
         "name": "Röste das Aroma",
         "max_level": 1,
-        "desc": "Wenn Gegner in den Kampf eintreten, solange das Feld aktiv ist, werden sie mit „Aschenbrennen“ belegt. Die Anzahl der Stapelungen entspricht der höchsten Stapelzahl von Aschenbrennen, die ein Gegner während der Dauer des Felds besitzt, jedoch min. #1[i] Stapelung.",
+        "desc": "Wenn Gegner in den Kampf eintreten, solange das Kraftfeld aktiv ist, werden sie mit „Aschenbrennen“ belegt. Die Anzahl der Stapelungen entspricht der höchsten Stapelzahl von Aschenbrennen, die ein Gegner während der Dauer des Kraftfelds besitzt, jedoch min. #1[i] Stapelung.",
         "params": [
             [1]
         ],
@@ -46110,6 +46110,763 @@
         ],
         "icon": "icon/property/IconAttack.png"
     },
+    "1321001": {
+        "id": "1321001",
+        "name": "",
+        "max_level": 6,
+        "desc": "",
+        "params": [],
+        "anchor": "Point01",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "132101", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110221", "num": 3 },
+                    { "id": "114011", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110222", "num": 3 },
+                    { "id": "114012", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110222", "num": 5 },
+                    { "id": "114012", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110223", "num": 3 },
+                    { "id": "114013", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110223", "num": 8 },
+                    { "id": "114013", "num": 4 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1321_basic_atk.png"
+    },
+    "1321002": {
+        "id": "1321002",
+        "name": "",
+        "max_level": 10,
+        "desc": "",
+        "params": [],
+        "anchor": "Point02",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "132102", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 1,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "114011", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110221", "num": 3 },
+                    { "id": "114011", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110222", "num": 3 },
+                    { "id": "114012", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110222", "num": 5 },
+                    { "id": "114012", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 30000 },
+                    { "id": "110222", "num": 7 },
+                    { "id": "114012", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110223", "num": 3 },
+                    { "id": "114013", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 80000 },
+                    { "id": "110223", "num": 5 },
+                    { "id": "110508", "num": 1 },
+                    { "id": "114013", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110223", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110508", "num": 1 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 300000 },
+                    { "id": "110223", "num": 14 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110508", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1321_skill.png"
+    },
+    "1321003": {
+        "id": "1321003",
+        "name": "",
+        "max_level": 10,
+        "desc": "",
+        "params": [],
+        "anchor": "Point03",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "132103", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 1,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "114011", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110221", "num": 3 },
+                    { "id": "114011", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110222", "num": 3 },
+                    { "id": "114012", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110222", "num": 5 },
+                    { "id": "114012", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 30000 },
+                    { "id": "110222", "num": 7 },
+                    { "id": "114012", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110223", "num": 3 },
+                    { "id": "114013", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 80000 },
+                    { "id": "110223", "num": 5 },
+                    { "id": "110508", "num": 1 },
+                    { "id": "114013", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110223", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110508", "num": 1 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 300000 },
+                    { "id": "110223", "num": 14 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110508", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1321_ultimate.png"
+    },
+    "1321004": {
+        "id": "1321004",
+        "name": "",
+        "max_level": 10,
+        "desc": "",
+        "params": [],
+        "anchor": "Point04",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "132104", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            },
+            {
+                "promotion": 1,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "114011", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110221", "num": 3 },
+                    { "id": "114011", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110222", "num": 3 },
+                    { "id": "114012", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110222", "num": 5 },
+                    { "id": "114012", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 30000 },
+                    { "id": "110222", "num": 7 },
+                    { "id": "114012", "num": 6 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110223", "num": 3 },
+                    { "id": "114013", "num": 3 }
+                ]
+            },
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 80000 },
+                    { "id": "110223", "num": 5 },
+                    { "id": "110508", "num": 1 },
+                    { "id": "114013", "num": 4 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110223", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110508", "num": 1 }
+                ]
+            },
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 300000 },
+                    { "id": "110223", "num": 14 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110508", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1321_talent.png"
+    },
+    "1321007": {
+        "id": "1321007",
+        "name": "",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point05",
+        "pre_points": [],
+        "level_up_skills": [
+            { "id": "132107", "num": 1 }
+        ],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 0,
+                "properties": [],
+                "materials": []
+            }
+        ],
+        "icon": "icon/skill/1321_technique.png"
+    },
+    "1321101": {
+        "id": "1321101",
+        "name": "Noch eine Beerdigung",
+        "max_level": 1,
+        "desc": "Erhöht beim Kampfeintritt für #2[i] Rd. den Brucheffekt anderer Figuren um #1[i]% des Brucheffekts der Dahlie plus #3[i]%. Wenn die Dahlie Heilung oder einen Schild von Verbündeten erhält, wird dieser Effekt erneut für #4[i] Rd. ausgelöst. Dieser Effekt kann innerhalb einer Runde nicht wiederholt ausgelöst werden.",
+        "params": [
+            [0.24, 1, 0.5, 3]
+        ],
+        "anchor": "Point06",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110221", "num": 3 },
+                    { "id": "110508", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1321_skilltree1.png"
+    },
+    "1321102": {
+        "id": "1321102",
+        "name": "Beileid, alte Bekannte",
+        "max_level": 1,
+        "desc": "Stellt beim Ausführen des Folgeangriffs des Talents 1 Fertigkeitspunkt für Verbündete wieder her. Dieser Effekt kann pro #1[i] ausgeführte Folgeangriffe des Talents 1-mal ausgelöst werden.",
+        "params": [
+            [2]
+        ],
+        "anchor": "Point07",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110222", "num": 5 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110508", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1321_skilltree2.png"
+    },
+    "1321103": {
+        "id": "1321103",
+        "name": "Lebwohl, für etwas Neues",
+        "max_level": 1,
+        "desc": "Wenn ein Verbündeter einem Gegner eine Schwäche implantiert, wird seine GES für #4[i] Rd. um #3[i]% erhöht. Wenn eine Feuerfigur während eines Angriffs eine Schwäche implantiert, fügt sie nach dem Angriff jedem Ziel mit implantierter Schwäche zusätzlich eine feste Menge Feuer-WDS-Reduzierung in Höhe von #5[i] zu und stellt #2[i]% der max. Energie wieder her. Durch diesen Effekt können bis zu #1[i]% der max. Energie wiederhergestellt werden.",
+        "params": [
+            [0.5, 0.1, 0.3, 2, 20]
+        ],
+        "anchor": "Point08",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110223", "num": 8 },
+                    { "id": "241", "num": 1 },
+                    { "id": "110508", "num": 1 }
+                ]
+            }
+        ],
+        "icon": "icon/skill/1321_skilltree3.png"
+    },
+    "1321201": {
+        "id": "1321201",
+        "name": "Bruch-Verstärkung",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point09",
+        "pre_points": [],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 1,
+                "properties": [
+                    { "type": "BreakDamageAddedRatioBase", "value": 0.053 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 2500 },
+                    { "id": "114011", "num": 2 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconBreakUp.png"
+    },
+    "1321202": {
+        "id": "1321202",
+        "name": "Effekt-WDS-Verstärkung",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point10",
+        "pre_points": ["1321101"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 2,
+                "level": 0,
+                "properties": [
+                    { "type": "StatusResistanceBase", "value": 0.04 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 5000 },
+                    { "id": "110221", "num": 3 },
+                    { "id": "114011", "num": 6 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconStatusResistance.png"
+    },
+    "1321203": {
+        "id": "1321203",
+        "name": "Bruch-Verstärkung",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point11",
+        "pre_points": ["1321202"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [
+                    { "type": "BreakDamageAddedRatioBase", "value": 0.053 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110222", "num": 3 },
+                    { "id": "114012", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconBreakUp.png"
+    },
+    "1321204": {
+        "id": "1321204",
+        "name": "GES-Erhöhung",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point12",
+        "pre_points": ["1321203"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 3,
+                "level": 0,
+                "properties": [
+                    { "type": "SpeedDelta", "value": 2 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 10000 },
+                    { "id": "110222", "num": 3 },
+                    { "id": "114012", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconSpeed.png"
+    },
+    "1321205": {
+        "id": "1321205",
+        "name": "Bruch-Verstärkung",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point13",
+        "pre_points": ["1321102"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 4,
+                "level": 0,
+                "properties": [
+                    { "type": "BreakDamageAddedRatioBase", "value": 0.08 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 20000 },
+                    { "id": "110222", "num": 5 },
+                    { "id": "114012", "num": 4 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconBreakUp.png"
+    },
+    "1321206": {
+        "id": "1321206",
+        "name": "Effekt-WDS-Verstärkung",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point14",
+        "pre_points": ["1321205"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [
+                    { "type": "StatusResistanceBase", "value": 0.06 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110223", "num": 3 },
+                    { "id": "114013", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconStatusResistance.png"
+    },
+    "1321207": {
+        "id": "1321207",
+        "name": "Bruch-Verstärkung",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point15",
+        "pre_points": ["1321206"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 5,
+                "level": 0,
+                "properties": [
+                    { "type": "BreakDamageAddedRatioBase", "value": 0.08 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 45000 },
+                    { "id": "110223", "num": 3 },
+                    { "id": "114013", "num": 3 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconBreakUp.png"
+    },
+    "1321208": {
+        "id": "1321208",
+        "name": "GES-Erhöhung",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point16",
+        "pre_points": ["1321103"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 6,
+                "level": 0,
+                "properties": [
+                    { "type": "SpeedDelta", "value": 3 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110223", "num": 8 },
+                    { "id": "114013", "num": 8 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconSpeed.png"
+    },
+    "1321209": {
+        "id": "1321209",
+        "name": "Effekt-WDS-Verstärkung",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point17",
+        "pre_points": ["1321103"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 75,
+                "properties": [
+                    { "type": "StatusResistanceBase", "value": 0.08 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110223", "num": 8 },
+                    { "id": "114013", "num": 8 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconStatusResistance.png"
+    },
+    "1321210": {
+        "id": "1321210",
+        "name": "Bruch-Verstärkung",
+        "max_level": 1,
+        "desc": "",
+        "params": [],
+        "anchor": "Point18",
+        "pre_points": ["1321201"],
+        "level_up_skills": [],
+        "levels": [
+            {
+                "promotion": 0,
+                "level": 80,
+                "properties": [
+                    { "type": "BreakDamageAddedRatioBase", "value": 0.107 }
+                ],
+                "materials": [
+                    { "id": "2", "num": 160000 },
+                    { "id": "110223", "num": 8 },
+                    { "id": "114013", "num": 8 }
+                ]
+            }
+        ],
+        "icon": "icon/property/IconBreakUp.png"
+    },
     "1401001": {
         "id": "1401001",
         "name": "",
@@ -48231,7 +48988,7 @@
         "id": "1403102",
         "name": "Glasmurmeln mit Flügeln!",
         "max_level": 1,
-        "desc": "Während das Feld aktiv ist, wird Tribbies max. LP um #1[i]% der Summe der max. LP aller Verbündeten erhöht.",
+        "desc": "Während das Kraftfeld aktiv ist, wird Tribbies max. LP um #1[i]% der Summe der max. LP aller Verbündeten erhöht.",
         "params": [
             [0.09]
         ],
@@ -53802,7 +54559,7 @@
         "id": "1410101",
         "name": "Gladius der Eroberung",
         "max_level": 1,
-        "desc": "Zu Beginn des Kampfes erzeugt Hysilens ein Feld mit dem gleichen Effekt wie ihr Ultimate, das #1[i] Rd. anhält. Jedes Mal, wenn Hysilens ein Feld erzeugt, stellt sie #2[i] Fertigkeitspunkt wieder her.",
+        "desc": "Zu Beginn des Kampfes erzeugt Hysilens ein Kraftfeld mit dem gleichen Effekt wie ihr Ultimate, das #1[i] Rd. anhält. Jedes Mal, wenn Hysilens ein Kraftfeld erzeugt, stellt sie #2[i] Fertigkeitspunkt wieder her.",
         "params": [
             [3, 1]
         ],

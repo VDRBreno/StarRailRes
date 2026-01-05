@@ -1359,6 +1359,54 @@
         "hide_desc": "※ Tuliskan akhir untuk kisah epik ini",
         "hide": false
     },
+    "4034801": {
+        "id": "4034801",
+        "series_id": "3",
+        "title": "Epitaf Sang Agung",
+        "desc": "Harga yang harus dibayar untuk mempertahankan keyakinan adalah kehilangan jalan pulang",
+        "hide_desc": "※ Dari sudut pandang Firefly, bertemu kembali dengan AR-214",
+        "hide": false
+    },
+    "4034802": {
+        "id": "4034802",
+        "series_id": "3",
+        "title": "Masa Lalu adalah Cerminan Masa Depan",
+        "desc": "Waktu menari di ujung pisau, hanya cahaya yang dapat menghunus ke masa depan",
+        "hide_desc": "※ Saksikan pertemuan antara \"Finality\" dan \"Trailblaze\"",
+        "hide": false
+    },
+    "4034803": {
+        "id": "4034803",
+        "series_id": "3",
+        "title": "Terbang Tak Butuh Alasan",
+        "desc": "Walau sudah terlambat, kita masih bisa menyanyikan lagu yang bisa kita nyanyikan",
+        "hide_desc": "※ Saksikan Festival Charmony para pengejar mimpi",
+        "hide": false
+    },
+    "4034804": {
+        "id": "4034804",
+        "series_id": "3",
+        "title": "Kehidupan Itu Berpapasan dengan Kematian",
+        "desc": "Yang membakar semua makhluk adalah waktu, dan waktu pulalah yang memadamkannya",
+        "hide_desc": "※ Ungkap kebenaran tentang Terminus",
+        "hide": false
+    },
+    "4034805": {
+        "id": "4034805",
+        "series_id": "3",
+        "title": "Kenangan adalah Pembukaan dari Mimpi",
+        "desc": "※ Penuhi janji dengan Firefly",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4034806": {
+        "id": "4034806",
+        "series_id": "3",
+        "title": "Kelupaan adalah Upacara Penutupan Mimpi",
+        "desc": "※ Temukan sekumpulan memori yang ditinggalkan The Dahlia untukmu",
+        "hide_desc": "",
+        "hide": true
+    },
     "4040101": {
         "id": "4040101",
         "series_id": "4",
@@ -3302,6 +3350,30 @@
         "desc": "Mendapatkan semua dekorasi rumah dari Amphoreus",
         "hide_desc": "",
         "hide": true
+    },
+    "4044801": {
+        "id": "4044801",
+        "series_id": "4",
+        "title": "Pandangan Penghujung Jam",
+        "desc": "Memperbaiki semua Jam Dunia Mimpi yang rusak di \"Dream of Gnawing Oak\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044802": {
+        "id": "4044802",
+        "series_id": "4",
+        "title": "Dosa-Dosaku Selalu Terpampang di Hadapanku",
+        "desc": "Mendapatkan surat dari Pemilik Mimpi di The Road Not Taken di \"Dream of Gnawing Oak\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044803": {
+        "id": "4044803",
+        "series_id": "4",
+        "title": "Bayangan di Persimpangan",
+        "desc": "Berjalan mengikuti jalan lain di The Road Not Taken di \"Dream of Gnawing Oak\"",
+        "hide_desc": "",
+        "hide": false
     },
     "4051001": {
         "id": "4051001",
@@ -8063,6 +8135,94 @@
         "hide_desc": "",
         "hide": false
     },
+    "4054801": {
+        "id": "4054801",
+        "series_id": "5",
+        "title": "Igauan Mimpi Panjang",
+        "desc": "Menelusuri mimpi masa lalu di \"Dream of Gnawing Oak\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054802": {
+        "id": "4054802",
+        "series_id": "5",
+        "title": "Menang Besar",
+        "desc": "Memperoleh total 8 kemenangan dalam 1 pertandingan \"Kejuaraan Auu Chrysos\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054803": {
+        "id": "4054803",
+        "series_id": "5",
+        "title": "Master Chimera",
+        "desc": "Peringkat kejuaraan di \"Kejuaraan Auu Chrysos\" mencapai peringkat emas",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054804": {
+        "id": "4054804",
+        "series_id": "5",
+        "title": "Menang di Garis Awal",
+        "desc": "Di \"Kejuaraan Auu Chrysos\", selesaikan pertandingan penentu peringkat Kejuaraan Dunia Chimera",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054805": {
+        "id": "4054805",
+        "series_id": "5",
+        "title": "Penantang Legendaris",
+        "desc": "Meraih 8 kemenangan total dalam pertarungan melawan pemain di \"Kejuaraan Auu Chrysos\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054806": {
+        "id": "4054806",
+        "series_id": "5",
+        "title": "Juara Utama Area Okhema",
+        "desc": "Kalahkan semua pelatih Chimera dalam mode Duel Chrysos di \"Kejuaraan Auu Chrysos\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054807": {
+        "id": "4054807",
+        "series_id": "7",
+        "title": "Penghitung Anti Qlipoth",
+        "desc": "Dalam pertempuran melawan \"Greatsword Guardian\" dengan tingkat kesulitan apa pun, karakter tim memulihkan total 12 kali \"Perhitungan HP\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054808": {
+        "id": "4054808",
+        "series_id": "7",
+        "title": "Melampaui Tembakan",
+        "desc": "Dalam pertempuran melawan \"Earthshaker Leo\" dengan tingkat kesulitan apa pun, rekan tim mengalahkan total 15 \"Target Barisan Belakang\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054809": {
+        "id": "4054809",
+        "series_id": "7",
+        "title": "Berlian Sableng",
+        "desc": "Dalam pertempuran melawan \"Corrupting Shadowfiend\" tingkat kesulitan Mimpi Buruk, \"HP Beban\" seluruh karakter tim tidak lebih dari 8000 dan lolos stage",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054810": {
+        "id": "4054810",
+        "series_id": "7",
+        "title": "Terlalu Sibuk untuk Mati",
+        "desc": "Dalam pertempuran melawan \"Synergy Duo\" dengan tingkat kesulitan apa pun, memicu \"Fight in Unity\" milik Boss musuh 1 kali",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054811": {
+        "id": "4054811",
+        "series_id": "7",
+        "title": "Air Mata Siren",
+        "desc": "Dalam pertempuran melawan \"Elegy Siren\" dengan tingkat kesulitan apa pun, \"Hallucinogenic Mermaid\" rekan tim menerima DMG mematikan 1 kali",
+        "hide_desc": "",
+        "hide": false
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -10486,6 +10646,46 @@
         "desc": "Setelah Cyclonic Swarm Mother memasuki status \"Breeding Frenzy\", pendahuluan aksinya tidak dapat menetaskan \"Mirage Fizzle Kid\"",
         "hide_desc": "",
         "hide": false
+    },
+    "4074801": {
+        "id": "4074801",
+        "series_id": "7",
+        "title": "Tinggalkan yang Lama, Cintai yang Baru",
+        "desc": "Saat memenangkan pertempuran, rekan \"Dance Partner\" The Dahlia berbeda dengan saat pertempuran dimulai",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074802": {
+        "id": "4074802",
+        "series_id": "7",
+        "title": "Kamu dan Pelindungmu Sama-Sama Konyol",
+        "desc": "Kalahkan target musuh yang berstatus Toughness Protection menggunakan Super Break DMG",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074803": {
+        "id": "4074803",
+        "series_id": "7",
+        "title": "Joget! Joget! Joget!",
+        "desc": "Dalam satu pertempuran, Trailblazer Path \"Harmony\", Fugue, dan The Dahlia pernah melancarkan Ultimate",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074804": {
+        "id": "4074804",
+        "series_id": "7",
+        "title": "Gerombolan Serangga",
+        "desc": "Dalam pertempuran melawan \"Harbinger of Death: Swarm Nightmare\", mengalahkan semua \"Juvenile Sting\" untuk membuat mereka keluar dari status \"Gene Replication\".",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074805": {
+        "id": "4074805",
+        "series_id": "7",
+        "title": "Atasi Serangga dari Akarnya",
+        "desc": "Dalam pertempuran melawan \"Harbinger of Death: Swarm Nightmare\", mengakibatkan Break pada \"Harbinger of Death: Swarm Nightmare\" sebelum menghancurkan semua \"Juvenile Sting\", dan memulihkan Toughness tanpa keluar dari status \"Gene Replication\"",
+        "hide_desc": "",
+        "hide": true
     },
     "4080101": {
         "id": "4080101",

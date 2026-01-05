@@ -721,6 +721,11 @@
         "name": "케이트(근무 중)",
         "icon": "icon/avatar/UI_Message_Contacts_Anonymous.png"
     },
+    "202": {
+        "id": "202",
+        "name": "키메라 애호가 협회",
+        "icon": "icon/avatar/UI_Message_Group_Default.png"
+    },
     "203": {
         "id": "203",
         "name": "오늘은 쓰레기 케이크한테 뭘 먹일까",
@@ -789,6 +794,7 @@
     "1314": { "id": "1314", "name": "제이드", "icon": "icon/avatar/1314.png" },
     "1315": { "id": "1315", "name": "부트힐", "icon": "icon/avatar/1315.png" },
     "1317": { "id": "1317", "name": "라파", "icon": "icon/avatar/1317.png" },
+    "1321": { "id": "1321", "name": "달리아", "icon": "icon/avatar/1321.png" },
     "1401": { "id": "1401", "name": "더 헤르타", "icon": "icon/avatar/1401.png" },
     "1402": { "id": "1402", "name": "아글라이아", "icon": "icon/avatar/1402.png" },
     "1403": { "id": "1403", "name": "트리비", "icon": "icon/avatar/1403.png" },
@@ -1096,6 +1102,18 @@
         "rarity": 5,
         "icon": "icon/avatar/IconHead_200148.png"
     },
+    "200149": {
+        "id": "200149",
+        "name": "달리아•추억",
+        "rarity": 5,
+        "icon": "icon/avatar/IconHead_200149.png"
+    },
+    "200150": {
+        "id": "200150",
+        "name": "블랙 스완•추억",
+        "rarity": 5,
+        "icon": "icon/avatar/IconHead_200150.png"
+    },
     "201001": { "id": "201001", "name": "Mar. 7th•보존", "icon": "icon/avatar/1001.png" },
     "201002": { "id": "201002", "name": "단항", "icon": "icon/avatar/1002.png" },
     "201003": { "id": "201003", "name": "히메코", "icon": "icon/avatar/1003.png" },
@@ -1157,6 +1175,7 @@
     "201314": { "id": "201314", "name": "제이드", "icon": "icon/avatar/1314.png" },
     "201315": { "id": "201315", "name": "부트힐", "icon": "icon/avatar/1315.png" },
     "201317": { "id": "201317", "name": "라파", "icon": "icon/avatar/1317.png" },
+    "201321": { "id": "201321", "name": "달리아", "icon": "icon/avatar/1321.png" },
     "201401": { "id": "201401", "name": "더 헤르타", "icon": "icon/avatar/1401.png" },
     "201402": { "id": "201402", "name": "아글라이아", "icon": "icon/avatar/1402.png" },
     "201403": { "id": "201403", "name": "트리비", "icon": "icon/avatar/1403.png" },
@@ -1398,6 +1417,12 @@
         "name": "최후의 승자",
         "rarity": 4,
         "icon": "icon/avatar/IconHead_202041.png"
+    },
+    "202042": {
+        "id": "202042",
+        "name": "벽화 위",
+        "rarity": 4,
+        "icon": "icon/avatar/IconHead_202042.png"
     },
     "208001": { "id": "208001", "name": "{NICKNAME}•파멸", "icon": "icon/avatar/8001.png" },
     "208002": { "id": "208002", "name": "{NICKNAME}•파멸", "icon": "icon/avatar/8002.png" },

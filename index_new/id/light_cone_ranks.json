@@ -3623,6 +3623,35 @@
             ]
         ]
     },
+    "23050": {
+        "id": "23050",
+        "skill": "Immolation",
+        "desc": "Meningkatkan #1[i]% Break Effect pengguna. Saat memasuki pertempuran, meningkatkan #2[i]% Break DMG yang diakibatkan pengguna dan satu rekan lain yang memulai pertempuran. Jika tidak ada rekan pengguna yang memulai pertempuran, maka akan berlaku pada pengguna dan rekan pengguna dengan Break Effect tertinggi. Efek dengan jenis serupa tidak dapat ditumpuk. Saat pengguna menambahkan Weakness pada target musuh, akan memulihkan 1 Poin Skill, efek ini maksimal dapat dipicu 1 kali dan kesempatan pemicuan akan direset saat melancarkan Ultimate.",
+        "params": [
+            [0.6, 0.32],
+            [0.75, 0.42],
+            [0.9, 0.52],
+            [1.05, 0.62],
+            [1.2, 0.72]
+        ],
+        "properties": [
+            [
+                { "type": "BreakDamageAddedRatioBase", "value": 0.6 }
+            ],
+            [
+                { "type": "BreakDamageAddedRatioBase", "value": 0.75 }
+            ],
+            [
+                { "type": "BreakDamageAddedRatioBase", "value": 0.9 }
+            ],
+            [
+                { "type": "BreakDamageAddedRatioBase", "value": 1.05 }
+            ],
+            [
+                { "type": "BreakDamageAddedRatioBase", "value": 1.2 }
+            ]
+        ]
+    },
     "23051": {
         "id": "23051",
         "skill": "New Scale",

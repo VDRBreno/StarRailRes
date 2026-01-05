@@ -4708,6 +4708,78 @@
         "level_up_skills": [],
         "icon": "icon/skill/1317_rank6.png"
     },
+    "132101": {
+        "id": "132101",
+        "name": "Una flor por abrirse, morosa",
+        "rank": 1,
+        "desc": "El multiplicador del Daño de Ultrarruptura que el talento otorga a cada Pareja de baile pasa a tener efecto en todos los personajes aliados, y el multiplicador de cada Pareja de baile aumenta en un 40% adicional. Después de que una Pareja de baile ataque, los objetivos atacados reciben una reducción de Firmeza fija equivalente al 25% de su Firmeza máxima (10 puntos como mínimo y 300 como máximo). Este efecto solo puede activarse una vez en cada enemigo. Después de que un enemigo reciba un golpe letal, se restablece su contador de activaciones.",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1321_rank1.png"
+    },
+    "132102": {
+        "id": "132102",
+        "name": "Fresca, etérea y amada",
+        "rank": 2,
+        "desc": "Cuando la Dalia está en la batalla, la RES a todos los tipos de todos los enemigos se reduce en un 20%. Cuando un enemigo entra en combate, es afectado inmediatamente con el estado de Derrota marchita durante 3 turnos.",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1321_rank2.png"
+    },
+    "132103": {
+        "id": "132103",
+        "name": "Lástima de pétalos delicados",
+        "rank": 3,
+        "desc": "Niv. de habilidad definitiva +2 (máximo: nivel 15). Niv. de ATQ básico +1 (máximo: nivel 10).",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "132103", "num": 2 },
+            { "id": "132101", "num": 1 }
+        ],
+        "icon": "icon/skill/1321_ultimate.png"
+    },
+    "132104": {
+        "id": "132104",
+        "name": "Lástima de pistilo agusanado",
+        "rank": 4,
+        "desc": "El ataque adicional del talento inflige daño 5 veces más. Al lanzarse, aumenta en un 12% el daño que reciben todos los enemigos durante 2 turnos.",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1321_rank4.png"
+    },
+    "132105": {
+        "id": "132105",
+        "name": "Marchita, podrida y odiada",
+        "rank": 5,
+        "desc": "Niv. de habilidad básica +2 (máximo: nivel 15). Niv. de talento +2 (máximo: nivel 15).",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "132102", "num": 2 },
+            { "id": "132104", "num": 2 }
+        ],
+        "icon": "icon/skill/1321_skill.png"
+    },
+    "132106": {
+        "id": "132106",
+        "name": "Pero siempre mortalmente hermosa",
+        "rank": 6,
+        "desc": "El efecto de Ruptura de las Parejas de baile aumenta en un 150%. Al lanzar el ataque adicional del talento, adelanta un 20% la siguiente acción de todas las Parejas de baile.",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1321_rank6.png"
+    },
     "140101": {
         "id": "140101",
         "name": "Noche de estrellas fugaces",

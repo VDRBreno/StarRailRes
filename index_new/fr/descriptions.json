@@ -1454,6 +1454,31 @@
         "title": "Cyrène",
         "desc": "Le Démiurge, la fille de l'Élysée mystérieuse, l'Enfant pure de l'Anāsrava d'Amphoreus. Elle est également le noyau du sceptre δ-me13.\nÀ la fin de l'épopée, ses souvenirs voyagèrent à contre-courant du temps, jusqu'à renaître en PhiLia093 à l'aube des temps, complétant ainsi le cycle de la causalité."
     },
+    "10311": {
+        "id": "10311",
+        "title": "Constance, le Dahlia",
+        "desc": "Une Crématrice, avide par nature, qui a trahi à la fois la Voie de la Destruction et le Jardin de la mémoire.\nSeule, elle traverse le cosmos à la recherche de toutes les possibilités d'être en vie."
+    },
+    "10312": {
+        "id": "10312",
+        "title": "Chevaleresse de la Brigade de fer de Glamoth",
+        "desc": "Des armes nées pour la guerre, des Éclaireurs de la Propagation.\nDès leur naissance, ils étaient destinés à se réduire en cendres aux côtés de leur ennemi mortel."
+    },
+    "10313": {
+        "id": "10313",
+        "title": "Terminus",
+        "desc": "L'Aiôn qui préside la Voie de la Finalité naîtra lorsque l'une des théories des quatre apocalypses se déroulera, et remontera le temps.\nÀ cet instant, il transformera tout son pouvoir en une nuée de chats noirs qui traversera l'univers en murmurant une prophétie destinée à s'accomplir."
+    },
+    "10314": {
+        "id": "10314",
+        "title": "Maître des rêves",
+        "desc": "Le véritable chef de la branche pénaconienne de la Famille. Bien que son enveloppe corporelle ait été détruite, son essence spirituelle imprègne le doux rêve.\nUtilisant le Stellaron, il s'est sacrifié pour l'Ordre, ramenant brièvement l'Aiôn déchu Ena à la vie."
+    },
+    "10315": {
+        "id": "10315",
+        "title": "Rêve du Vieux-Chêne infesté",
+        "desc": "Les doux rêves enfouis dans la Zone de mémoire primordiale sont désormais envahis par le bourdonnement de la Propagation.\nIci, un mensonge en engendre un autre, et l'Éminence renaît de la peur."
+    },
     "20000": {
         "id": "20000",
         "title": "Adoption du point de vue {M#du pionnier}{F#de la pionnière}...",
@@ -1714,6 +1739,11 @@
         "title": "Les souvenirs de « Khaslana » surgissent en vous telle une marée montante...",
         "desc": "Au nom du « Porte-Monde », Képhale n'oubliera jamais ceci."
     },
+    "20079": {
+        "id": "20079",
+        "title": "Les souvenirs de Robin émergent lentement...",
+        "desc": "Vous entrez dans ce rêve pour la première fois, et Robin, qui vous accueille, est tourmentée par la perte de sa voix..."
+    },
     "20080": {
         "id": "20080",
         "title": "Adoption du point de vue de Dan Heng...",
@@ -1734,6 +1764,31 @@
         "title": "Adoption du point de vue de Dan Heng...",
         "desc": "Dan Heng retourne à Amphoreus, déterminé à retrouver {NICKNAME} et à reformer leur trio avec March 7th..."
     },
+    "20084": {
+        "id": "20084",
+        "title": "Les souvenirs de Robin émergent lentement...",
+        "desc": "De retour dans la peau de Robin, une conspiration se trame dans l'histoire du Bastion flonirique qui ne va pas tarder à être révélée..."
+    },
+    "20085": {
+        "id": "20085",
+        "title": "Les souvenirs du Dahlia émergent lentement...",
+        "desc": "Dans un rêve énigmatique où vous n'avez pas encore mis les pieds, le Dahlia souhaite vous révéler sa véritable apparence..."
+    },
+    "20088": {
+        "id": "20088",
+        "title": "Les souvenirs de Luciole émergent lentement...",
+        "desc": "Avec l'aide de Louve d'argent, Luciole se prépare à s'infiltrer dans Penacony..."
+    },
+    "20089": {
+        "id": "20089",
+        "title": "Les souvenirs de Luciole émergent lentement...",
+        "desc": "Luciole et vous avez été séparé{F#e}s par la Mort. À cet instant, elle croise la route d'une autre de ses camarades..."
+    },
+    "20090": {
+        "id": "20090",
+        "title": "Les souvenirs de Luciole émergent lentement...",
+        "desc": "Revenons à Luciole, qui abordait l'ultime étape du complot ourdi par le Maître des rêves, à la faveur d'un revirement imprévu..."
+    },
     "20091": {
         "id": "20091",
         "title": "Adoption du point de vue de Himeko...",
@@ -1748,5 +1803,15 @@
         "id": "20093",
         "title": "L'histoire de Cyrène est loin d'être terminée...",
         "desc": "Tombeau de fer s'est muré dans le silence, mais l'histoire attend encore son épilogue..."
+    },
+    "20094": {
+        "id": "20094",
+        "title": "Les souvenirs de Luciole émergent lentement...",
+        "desc": "La longue nuit touche à sa fin, tandis que les papillons de nuit se précipitent dans les flammes."
+    },
+    "20095": {
+        "id": "20095",
+        "title": "Les souvenirs de Robin émergent lentement...",
+        "desc": "Retour au point de vue de Robin. Même après s'être libérée du rêve d'Ena, la crise à laquelle elle fait face est loin d'être terminée..."
     }
 }

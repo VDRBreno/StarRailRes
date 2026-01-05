@@ -2624,7 +2624,7 @@
         "id": "121003",
         "name": "Đập Đá Trên Ngực",
         "rank": 3,
-        "desc": "Cấp Chiến Kỹ +2, tối đa không quá cấp 15, Cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
+        "desc": "Cấp Chiến Kỹ +2, tối đa không quá cấp 15; Cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
         "materials": [
             { "id": "11210", "num": 1 }
         ],
@@ -2649,7 +2649,7 @@
         "id": "121005",
         "name": "Nuốt Chửng Trường Kiếm",
         "rank": 5,
-        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15, Cấp Thiên Phú +2, tối đa không quá cấp 15.",
+        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15; Cấp Thiên Phú +2, tối đa không quá cấp 15.",
         "materials": [
             { "id": "11210", "num": 1 }
         ],
@@ -3641,7 +3641,7 @@
         "id": "130103",
         "name": "Corpse Reviver",
         "rank": 3,
-        "desc": "Cấp Chiến Kỹ +2, tối đa không quá cấp 15, Cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
+        "desc": "Cấp Chiến Kỹ +2, tối đa không quá cấp 15; Cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
         "materials": [
             { "id": "11301", "num": 1 }
         ],
@@ -3667,7 +3667,7 @@
         "id": "130105",
         "name": "Death In The Afternoon",
         "rank": 5,
-        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15, Cấp Thiên Phú +2, tối đa không quá cấp 15.",
+        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15; Cấp Thiên Phú +2, tối đa không quá cấp 15.",
         "materials": [
             { "id": "11301", "num": 1 }
         ],
@@ -4100,7 +4100,7 @@
         "id": "130705",
         "name": "Đường Bay Chim Di Trú",
         "rank": 5,
-        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15, cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
+        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15; Cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
         "materials": [
             { "id": "11307", "num": 1 }
         ],
@@ -4147,7 +4147,7 @@
         "id": "130803",
         "name": "Lạnh Giá Vĩnh Hằng",
         "rank": 3,
-        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15, cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
+        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15; Cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
         "materials": [
             { "id": "11308", "num": 1 }
         ],
@@ -4295,7 +4295,7 @@
         "id": "131003",
         "name": "Ngủ Say Trong Thiên Hà Lặng Thinh",
         "rank": 3,
-        "desc": "Cấp Chiến Kỹ +2, tối đa không vượt quá cấp 15; Cấp Tấn Công Thường +1, tối đa không vượt quá cấp 10.",
+        "desc": "Cấp Chiến Kỹ +2, tối đa không quá cấp 15; Cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
         "materials": [
             { "id": "11310", "num": 1 }
         ],
@@ -4322,7 +4322,7 @@
         "id": "131005",
         "name": "Sáng Lên Từ Đêm Không Mộng Mị",
         "rank": 5,
-        "desc": "Cấp Tuyệt Kỹ +2, tối đa không vượt quá cấp 15; Cấp Thiên Phú +2, tối đa không vượt quá cấp 15.",
+        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15; Cấp Thiên Phú +2, tối đa không quá cấp 15.",
         "materials": [
             { "id": "11310", "num": 1 }
         ],
@@ -4369,7 +4369,7 @@
         "id": "131203",
         "name": "Hình Bóng Tháng Ngày Hạnh Phúc",
         "rank": 3,
-        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15, cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
+        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15; Cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
         "materials": [
             { "id": "11312", "num": 1 }
         ],
@@ -4441,7 +4441,7 @@
         "id": "131303",
         "name": "Viện Tịnh Tu Của Bụi Gai",
         "rank": 3,
-        "desc": "Cấp Tuyệt Kỹ +2, tối đa không vượt quá cấp 15; Cấp Tấn Công Thường +1, tối đa không vượt quá cấp 10.",
+        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15; Cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
         "materials": [
             { "id": "11313", "num": 1 }
         ],
@@ -4466,7 +4466,7 @@
         "id": "131305",
         "name": "Thuyền Giấy Lênh Đênh Vịnh Bạc",
         "rank": 5,
-        "desc": "Cấp Chiến Kỹ +2, tối đa không vượt quá cấp 15; Cấp Thiên Phú +2, tối đa không vượt quá cấp 15.",
+        "desc": "Cấp Chiến Kỹ +2, tối đa không quá cấp 15; Cấp Thiên Phú +2, tối đa không quá cấp 15.",
         "materials": [
             { "id": "11313", "num": 1 }
         ],
@@ -4513,7 +4513,7 @@
         "id": "131403",
         "name": "Bộc Trực? Chỉ Chờ Đem Cầm",
         "rank": 3,
-        "desc": "Cấp Chiến Kỹ +2, tối đa không vượt quá cấp 15; Cấp Thiên Phú +2, tối đa không vượt quá cấp 15.",
+        "desc": "Cấp Chiến Kỹ +2, tối đa không quá cấp 15; Cấp Thiên Phú +2, tối đa không quá cấp 15.",
         "materials": [
             { "id": "11314", "num": 1 }
         ],
@@ -4538,7 +4538,7 @@
         "id": "131405",
         "name": "Hy Vọng? Đã Bán Quyền Sở Hữu",
         "rank": 5,
-        "desc": "Cấp Tuyệt Kỹ +2, tối đa không vượt quá cấp 15; Cấp Tấn Công Thường +1, tối đa không vượt quá cấp 10.",
+        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15; Cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
         "materials": [
             { "id": "11314", "num": 1 }
         ],
@@ -4585,7 +4585,7 @@
         "id": "131503",
         "name": "Người Bảo Vệ Vườn Cẩm Thạch",
         "rank": 3,
-        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15, cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
+        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15; Cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
         "materials": [
             { "id": "11315", "num": 1 }
         ],
@@ -4658,7 +4658,7 @@
         "id": "131703",
         "name": "Đền Miếu Bao La, Cũng Không Đẩy Lùi Địa Ngục",
         "rank": 3,
-        "desc": "Cấp Chiến Kỹ +2, tối đa không vượt quá cấp 15; Cấp Thiên Phú +2, tối đa không vượt quá cấp 15.",
+        "desc": "Cấp Chiến Kỹ +2, tối đa không quá cấp 15; Cấp Thiên Phú +2, tối đa không quá cấp 15.",
         "materials": [
             { "id": "11317", "num": 1 }
         ],
@@ -4683,7 +4683,7 @@
         "id": "131705",
         "name": "Nhất Tâm Bất Loạn, Mũi Tên Không Chệch Hướng",
         "rank": 5,
-        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15, cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
+        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15; Cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
         "materials": [
             { "id": "11317", "num": 1 }
         ],
@@ -4707,6 +4707,78 @@
         ],
         "level_up_skills": [],
         "icon": "icon/skill/1317_rank6.png"
+    },
+    "132101": {
+        "id": "132101",
+        "name": "Khi Nụ Hoa Chờ Nở Rộ",
+        "rank": 1,
+        "desc": "Bội số Siêu Sát Thương Phá Vỡ mà Thiên Phú cung cấp cho \"Bạn Nhảy\" có hiệu lực với toàn bộ nhân vật phe ta, trong đó bội số của \"Bạn Nhảy\" tăng thêm 40%. Sau khi \"Bạn Nhảy\" thi triển tấn công, gây thêm cho mục tiêu phe địch bị tấn công một lượng Giảm Sức Bền cố định bằng 25% Giới Hạn Sức Bền của kẻ đó (Tối thiểu 10 điểm, tối đa 300 điểm). Hiệu ứng này mỗi mục tiêu phe địch chỉ có thể kích hoạt 1 lần, sau khi mục tiêu phe địch chịu tấn công chí tử sẽ làm mới số lần có thể kích hoạt của mục tiêu này.",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1321_rank1.png"
+    },
+    "132102": {
+        "id": "132102",
+        "name": "Tái Sinh, Tươi Mới, Yêu Thương",
+        "rank": 2,
+        "desc": "Khi Dahlia có mặt trên sân, Kháng Toàn Thuộc Tính của toàn bộ phe địch giảm 20%. Khi mục tiêu phe địch vào trận, lập tức rơi vào trạng thái \"Tàn Bại\", duy trì 3 hiệp.",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1321_rank2.png"
+    },
+    "132103": {
+        "id": "132103",
+        "name": "Tiếc Thay Cánh Hoa Mỏng Như Cánh Ve",
+        "rank": 3,
+        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15; Cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "132103", "num": 2 },
+            { "id": "132101", "num": 1 }
+        ],
+        "icon": "icon/skill/1321_ultimate.png"
+    },
+    "132104": {
+        "id": "132104",
+        "name": "Tiếc Thay Cánh Hoa Bị Sâu Bọ Bào Mòn",
+        "rank": 4,
+        "desc": "Số lần gây sát thương của Đòn Đánh Theo Sau từ Thiên Phú tăng 5 lần, khi thi triển khiến sát thương toàn phe địch phải chịu tăng 12%, duy trì 2 hiệp.",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1321_rank4.png"
+    },
+    "132105": {
+        "id": "132105",
+        "name": "Tàn Lụi, Mục Nát, Căm Hận",
+        "rank": 5,
+        "desc": "Cấp Chiến Kỹ +2, tối đa không quá cấp 15; Cấp Thiên Phú +2, tối đa không quá cấp 15.",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "132102", "num": 2 },
+            { "id": "132104", "num": 2 }
+        ],
+        "icon": "icon/skill/1321_skill.png"
+    },
+    "132106": {
+        "id": "132106",
+        "name": "Tuy Nhiên Nó Vẫn Luôn, Đẹp Đến Chết Người",
+        "rank": 6,
+        "desc": "Tấn Công Kích Phá của \"Bạn Nhảy\" tăng 150%. Khi thi triển Đòn Đánh Theo Sau của Thiên Phú, sẽ khiến tất cả \"Bạn Nhảy\" lần sau Ưu Tiên Hành Động 20%.",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1321_rank6.png"
     },
     "140101": {
         "id": "140101",
@@ -4734,7 +4806,7 @@
         "id": "140103",
         "name": "Cánh Cổng Bước Vào Mùa Hè",
         "rank": 3,
-        "desc": "Cấp Chiến Kỹ +2, tối đa không vượt quá cấp 15; Cấp Thiên Phú +2, tối đa không vượt quá cấp 15.",
+        "desc": "Cấp Chiến Kỹ +2, tối đa không quá cấp 15; Cấp Thiên Phú +2, tối đa không quá cấp 15.",
         "materials": [
             { "id": "11401", "num": 1 }
         ],
@@ -4760,7 +4832,7 @@
         "id": "140105",
         "name": "Chân Lý Như Thuốc Đắng",
         "rank": 5,
-        "desc": "Cấp Tuyệt Kỹ +2, tối đa không vượt quá cấp 15; Cấp Tấn Công Thường +1, tối đa không vượt quá cấp 10.",
+        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15; Cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
         "materials": [
             { "id": "11401", "num": 1 }
         ],
@@ -4885,7 +4957,7 @@
         "id": "140303",
         "name": "Kho Tàng Ngập Ánh Bình Minh",
         "rank": 3,
-        "desc": "Cấp Tuyệt Kỹ +2, tối đa không vượt quá cấp 15, cấp Tấn Công Thường +1, tối đa không vượt quá cấp 10.",
+        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15; Cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
         "materials": [
             { "id": "11403", "num": 1 }
         ],
@@ -4910,7 +4982,7 @@
         "id": "140305",
         "name": "Đồng Hồ Kích Hoạt Kỳ Tích",
         "rank": 5,
-        "desc": "Cấp Chiến Kỹ +2, tối đa không vượt quá cấp 15; Cấp Thiên Phú +2, tối đa không vượt quá cấp 15.",
+        "desc": "Cấp Chiến Kỹ +2, tối đa không quá cấp 15; Cấp Thiên Phú +2, tối đa không quá cấp 15.",
         "materials": [
             { "id": "11403", "num": 1 }
         ],
@@ -5031,7 +5103,7 @@
         "id": "140503",
         "name": "Mắt, Khắc Ghi Vào Vũ Trụ",
         "rank": 3,
-        "desc": "Cấp Tuyệt Kỹ +2, tối đa không vượt quá cấp 15, cấp Tấn Công Thường +1, tối đa không vượt quá cấp 10.",
+        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15; Cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
         "materials": [
             { "id": "11405", "num": 1 }
         ],
@@ -5056,7 +5128,7 @@
         "id": "140505",
         "name": "Hạt Giống, Bên Ngoài Vòng Xoáy Ly Tâm",
         "rank": 5,
-        "desc": "Cấp Chiến Kỹ +2, tối đa không vượt quá cấp 15; Cấp Thiên Phú +2, tối đa không vượt quá cấp 15.",
+        "desc": "Cấp Chiến Kỹ +2, tối đa không quá cấp 15; Cấp Thiên Phú +2, tối đa không quá cấp 15.",
         "materials": [
             { "id": "11405", "num": 1 }
         ],
@@ -5103,7 +5175,7 @@
         "id": "140603",
         "name": "Gian Ngôn Tráo Thật Giả Bày",
         "rank": 3,
-        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15, cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
+        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15; Cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
         "materials": [
             { "id": "11406", "num": 1 }
         ],
@@ -5128,7 +5200,7 @@
         "id": "140605",
         "name": "Trốn Thoát Tinh Vi, Giăng Kế Dày",
         "rank": 5,
-        "desc": "Cấp Chiến Kỹ +2, tối đa không vượt quá cấp 15; Cấp Thiên Phú +2, tối đa không vượt quá cấp 15.",
+        "desc": "Cấp Chiến Kỹ +2, tối đa không quá cấp 15; Cấp Thiên Phú +2, tối đa không quá cấp 15.",
         "materials": [
             { "id": "11406", "num": 1 }
         ],

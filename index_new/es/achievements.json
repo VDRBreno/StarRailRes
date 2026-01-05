@@ -1359,6 +1359,54 @@
         "hide_desc": "※Escribe el punto final de la epopeya.",
         "hide": false
     },
+    "4034801": {
+        "id": "4034801",
+        "series_id": "3",
+        "title": "Epitafio de la nobleza",
+        "desc": "El precio de mantener las convicciones siempre es perder el camino de regreso.",
+        "hide_desc": "※Vuelve a encontrarte con AR-214 desde la perspectiva de Luciérnaga.",
+        "hide": false
+    },
+    "4034802": {
+        "id": "4034802",
+        "series_id": "3",
+        "title": "El pasado es el reflejo del futuro",
+        "desc": "El tiempo baila sobre el filo de la navaja, solo la luz puede ir como un rayo hacia el futuro.",
+        "hide_desc": "※Sé testigo de la convergencia entre la Conclusión y la Vía Trazacaminos.",
+        "hide": false
+    },
+    "4034803": {
+        "id": "4034803",
+        "series_id": "3",
+        "title": "No se necesitan razones para volar",
+        "desc": "Incluso si es demasiado tarde para todo, aún podemos cantar las canciones que nos sabemos.",
+        "hide_desc": "※Presencia el Festival Carismonía de quienes persiguen sus sueños.",
+        "hide": false
+    },
+    "4034804": {
+        "id": "4034804",
+        "series_id": "3",
+        "title": "La vida y la muerte siempre se están cruzando",
+        "desc": "El tiempo es quien quema a todos los seres vivos, y también quien los extingue.",
+        "hide_desc": "※Revela la verdad sobre Terminus.",
+        "hide": false
+    },
+    "4034805": {
+        "id": "4034805",
+        "series_id": "3",
+        "title": "Los recuerdos son el preludio de los sueños",
+        "desc": "※Cumple la promesa que le hiciste a Luciérnaga.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4034806": {
+        "id": "4034806",
+        "series_id": "3",
+        "title": "El olvido es el telón final de los sueños",
+        "desc": "※Encuentra un recuerdo que te dejó la Dalia.",
+        "hide_desc": "",
+        "hide": true
+    },
     "4040101": {
         "id": "4040101",
         "series_id": "4",
@@ -3302,6 +3350,30 @@
         "desc": "Obtén todas las decoraciones del hogar de Amphoreus.",
         "hide_desc": "",
         "hide": true
+    },
+    "4044801": {
+        "id": "4044801",
+        "series_id": "4",
+        "title": "El final del tiempo",
+        "desc": "Repara todos los Minuteros oníricos rotos en el Sueño del roble carcomido.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044802": {
+        "id": "4044802",
+        "series_id": "4",
+        "title": "Mi pecado siempre va por delante",
+        "desc": "Recibe la carta del maestro de los sueños en el camino no tomado del Sueño del roble carcomido.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044803": {
+        "id": "4044803",
+        "series_id": "4",
+        "title": "Las rutas secundarias solo dejan reflejos",
+        "desc": "Avanza por una ruta diferente en el camino no tomado del Sueño del roble carcomido.",
+        "hide_desc": "",
+        "hide": false
     },
     "4051001": {
         "id": "4051001",
@@ -8063,6 +8135,94 @@
         "hide_desc": "",
         "hide": false
     },
+    "4054801": {
+        "id": "4054801",
+        "series_id": "5",
+        "title": "Susurros del sueño eterno",
+        "desc": "Revive los sueños del pasado en el Sueño del roble carcomido.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054802": {
+        "id": "4054802",
+        "series_id": "5",
+        "title": "Grand Slam",
+        "desc": "Consigue 8 victorias en una solo torneo durante el Gran Torneo Auuuu de Crisos.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054803": {
+        "id": "4054803",
+        "series_id": "5",
+        "title": "Entrenado{F#ra}{M#r} de quimeras",
+        "desc": "Alcanza el rango Oro en el Gran Torneo Auuuu de Crisos.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054804": {
+        "id": "4054804",
+        "series_id": "5",
+        "title": "Ganar desde la línea de salida",
+        "desc": "Completa los encuentros de clasificación de la Copa mundial de quimeras en el Gran Torneo Auuuu de Crisos.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054805": {
+        "id": "4054805",
+        "series_id": "5",
+        "title": "Contendiente legendari{F#a}{M#o}",
+        "desc": "Consigue 8 victorias perfectas en las batallas contra otros jugadores en el Gran Torneo Auuuu de Crisos.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054806": {
+        "id": "4054806",
+        "series_id": "5",
+        "title": "Campe{F#ona}{M#ón} de la región de Oqueima",
+        "desc": "Vence a todos los entrenadores de quimeras en el modo duelo dorado del Gran Torneo Auuuu de Crisos.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054807": {
+        "id": "4054807",
+        "series_id": "7",
+        "title": "Contador cabalístico inverso",
+        "desc": "Los personajes aliados recuperan 12 veces el Contador de PV durante el combate contra Guarda del Espadón en cualquier dificultad.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054808": {
+        "id": "4054808",
+        "series_id": "7",
+        "title": "Disparo trascendental",
+        "desc": "Los aliados eliminan un total de 15 objetivos de fila trasera durante el combate contra León Sísmico en cualquier dificultad.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054809": {
+        "id": "4054809",
+        "series_id": "7",
+        "title": "Diamante loco",
+        "desc": "Supera la etapa sin que la Sobrecarga de PV de ningún personaje aliado supere 8000 en una batalla contra la Sombra Erosiva en dificultad pesadilla.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054810": {
+        "id": "4054810",
+        "series_id": "7",
+        "title": "Sin tiempo para morir",
+        "desc": "Activa una vez el estado \"Unidos con un mismo propósito\" del jefe enemigo durante el combate contra Guerreros Binarios en cualquier dificultad.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054811": {
+        "id": "4054811",
+        "series_id": "7",
+        "title": "Lágrimas de sirena",
+        "desc": "La Sirena Alucinógena aliada recibe daño letal durante el combate contra la Sirena del Epicedio en cualquier dificultad.",
+        "hide_desc": "",
+        "hide": false
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -10486,6 +10646,46 @@
         "desc": "Cuando la Madre Ciclón entra en estado de Furor reproductor, no puede incubar Cría de Ilusión Vacía al adelantar su acción.",
         "hide_desc": "",
         "hide": false
+    },
+    "4074801": {
+        "id": "4074801",
+        "series_id": "7",
+        "title": "Afuera lo viejo, venga lo nuevo",
+        "desc": "Al final de la batalla, el compañero de equipo que sea Pareja de baile de la Dalia no es el mismo personaje que al inicio del combate.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074802": {
+        "id": "4074802",
+        "series_id": "7",
+        "title": "¿A eso lo llamas protección?",
+        "desc": "Usa Daño de Ultrarruptura para eliminar a un enemigo en el estado de Protección de Firmeza.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074803": {
+        "id": "4074803",
+        "series_id": "7",
+        "title": "¡A bailar!",
+        "desc": "En una sola batalla, {F#la}{M#el} Trazacaminos de la Vía de Armonía, Fugue y la Dalia han lanzado sus habilidades definitivas.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074804": {
+        "id": "4074804",
+        "series_id": "7",
+        "title": "Reunión de insectos",
+        "desc": "Durante el combate contra Precursor de la Muerte: Plaga de las Pesadillas, haz que salga del estado \"Réplica genética\" eliminando a todos los Insectos Aguijoneadores Inmaduros.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074805": {
+        "id": "4074805",
+        "series_id": "7",
+        "title": "Para atrapar insectos, primero atrapa langostas",
+        "desc": "Durante el combate contra Precursor de la Muerte: Plaga de las Pesadillas, rompe su Debilidad sin haber eliminado a todos los Insectos Aguijoneadores Inmaduros y con Precursor de la Muerte: Plaga de las Pesadillas recuperando su Firmeza sin haber salido del estado de Réplica genética.",
+        "hide_desc": "",
+        "hide": true
     },
     "4080101": {
         "id": "4080101",

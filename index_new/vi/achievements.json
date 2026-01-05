@@ -1359,6 +1359,54 @@
         "hide_desc": "※ Viết dấu chấm cuối cùng cho thiên sử thi",
         "hide": false
     },
+    "4034801": {
+        "id": "4034801",
+        "series_id": "3",
+        "title": "Bia Mộ Người Cao Thượng",
+        "desc": "Cái giá của việc kiên định với niềm tin, luôn là lạc mất đường về",
+        "hide_desc": "※Dưới góc nhìn của Firefly, gặp lại AR-214",
+        "hide": false
+    },
+    "4034802": {
+        "id": "4034802",
+        "series_id": "3",
+        "title": "Quá Khứ Là Hình Bóng Phản Chiếu Tương Lai",
+        "desc": "Thời gian nhảy múa trên mũi kiếm, chỉ ánh sáng mới có thể đâm xuyên đến tương lai",
+        "hide_desc": "※Chứng kiến sự giao thoa giữa \"Tuyệt Diệt\" và \"Khai Phá\"",
+        "hide": false
+    },
+    "4034803": {
+        "id": "4034803",
+        "series_id": "3",
+        "title": "Bay Lượn Không Cần Lý Do",
+        "desc": "Cho dù mọi thứ đã quá muộn màng, chúng ta vẫn có thể hát, hát những bài ca mà bản thân có thể hát",
+        "hide_desc": "※Chứng kiến Đại Nhạc Hội Hòa Hợp của Người Theo Đuổi Giấc Mơ",
+        "hide": false
+    },
+    "4034804": {
+        "id": "4034804",
+        "series_id": "3",
+        "title": "Sống Và Chết Chỉ Cách Nhau Trong Gang Tấc",
+        "desc": "Thời gian thiêu đốt vạn vật, và cũng chính thời gian dập tắt tất cả",
+        "hide_desc": "※Tiết lộ sự thật về Terminus",
+        "hide": false
+    },
+    "4034805": {
+        "id": "4034805",
+        "series_id": "3",
+        "title": "Ký Ức Là Mở Màn Của Giấc Mộng",
+        "desc": "※Thực hiện lời hứa với Firefly",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4034806": {
+        "id": "4034806",
+        "series_id": "3",
+        "title": "Lãng Quên Là Màn Kết Của Giấc Mơ",
+        "desc": "※Tìm thấy một mảnh ký ức mà Dahlia để lại cho bạn",
+        "hide_desc": "",
+        "hide": true
+    },
     "4040101": {
         "id": "4040101",
         "series_id": "4",
@@ -3302,6 +3350,30 @@
         "desc": "Nhận tất cả đồ trang trí nội thất từ Amphoreus",
         "hide_desc": "",
         "hide": true
+    },
+    "4044801": {
+        "id": "4044801",
+        "series_id": "4",
+        "title": "Tầm Nhìn Tận Cùng Đồng Hồ",
+        "desc": "Sửa chữa tất cả Đồng Hồ Mộng Mị bị hỏng trong \"Giấc Mộng Gỗ Sồi Sâu Mọt\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044802": {
+        "id": "4044802",
+        "series_id": "4",
+        "title": "Tội Lỗi Của Tôi Luôn Ở Trước Mắt Tôi",
+        "desc": "Trong con đường chưa đi của \"Giấc Mộng Gỗ Sồi Sâu Mọt\", nhận được thư của Chủ Nhân Cõi Mộng",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044803": {
+        "id": "4044803",
+        "series_id": "4",
+        "title": "Bóng Hình Duy Nhất Nơi Ngã Rẽ",
+        "desc": "Trong con đường chưa đi của \"Giấc Mộng Gỗ Sồi Sâu Mọt\", men theo một con đường khác để tiến lên",
+        "hide_desc": "",
+        "hide": false
     },
     "4051001": {
         "id": "4051001",
@@ -8063,6 +8135,94 @@
         "hide_desc": "",
         "hide": false
     },
+    "4054801": {
+        "id": "4054801",
+        "series_id": "5",
+        "title": "Lời Thì Thầm Từ Giấc Mộng Dài",
+        "desc": "Trong \"Giấc Mộng Gỗ Sồi Sâu Mọt\", ôn lại giấc mộng xưa",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054802": {
+        "id": "4054802",
+        "series_id": "5",
+        "title": "Grand Slam",
+        "desc": "Trong \"Giải Đấu Bậc Thầy Gào Gào Chrysos\", một trận đấu tích lũy giành 8 lần chiến thắng",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054803": {
+        "id": "4054803",
+        "series_id": "5",
+        "title": "Bậc Thầy Chimera",
+        "desc": "Trong \"Giải Đấu Bậc Thầy Gào Gào Chrysos\", cấp bậc giải đấu đạt Vàng",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054804": {
+        "id": "4054804",
+        "series_id": "5",
+        "title": "Chiến Thắng Ngay Từ Vạch Xuất Phát",
+        "desc": "Trong \"Giải Đấu Bậc Thầy Gào Gào Chrysos\", hoàn thành Đấu Phân Hạng của Giải Vô Địch Thế Giới Chimera",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054805": {
+        "id": "4054805",
+        "series_id": "5",
+        "title": "Người Khiêu Chiến Huyền Thoại",
+        "desc": "Trong \"Giải Đấu Bậc Thầy Gào Gào Chrysos\", giành 8 trận toàn thắng khi chiến đấu với người chơi",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054806": {
+        "id": "4054806",
+        "series_id": "5",
+        "title": "Nhà Vô Địch Khu Vực Okhema",
+        "desc": "Trong \"Giải Đấu Bậc Thầy Gào Gào Chrysos\", đánh bại tất cả huấn luyện viên Chimera trong chế độ Quyết Đấu Vàng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054807": {
+        "id": "4054807",
+        "series_id": "7",
+        "title": "Bộ Đếm Qliphoth",
+        "desc": "Trong trận chiến với \"Hộ Vệ Cự Kiếm\" độ khó bất kỳ, nhân vật phe ta tích lũy hồi phục 12 lần \"Thống Kê HP\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054808": {
+        "id": "4054808",
+        "series_id": "7",
+        "title": "Xạ Kích Siêu Việt",
+        "desc": "Trong trận chiến với \"Sư Tử Oanh Tạc\" độ khó bất kỳ, mục tiêu phe ta tích lũy tiêu diệt 15 \"Mục Tiêu Hàng Sau\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054809": {
+        "id": "4054809",
+        "series_id": "7",
+        "title": "Crazy Diamond",
+        "desc": "Trong trận chiến với \"Bóng Ma Xâm Chiếm\" độ khó Ác Mộng, \"HP Phụ Tải\" của toàn bộ nhân vật phe ta đều không vượt quá 8000 và vượt ải",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054810": {
+        "id": "4054810",
+        "series_id": "7",
+        "title": "Không Rảnh Để Chết",
+        "desc": "Trong trận chiến với \"Song Hùng Hiệp Lực\" độ khó bất kỳ, kích hoạt 1 lần \"Đồng Tâm Hiệp Lực\" của thủ lĩnh phe địch",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054811": {
+        "id": "4054811",
+        "series_id": "7",
+        "title": "Nước Mắt Siren",
+        "desc": "Trong trận chiến với \"Siren Bi Ca\" độ khó bất kỳ, \"Tiên Cá Ảo Giác\" phe ta nhận 1 lần sát thương chí tử",
+        "hide_desc": "",
+        "hide": false
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -10486,6 +10646,46 @@
         "desc": "Sau khi \"Mẫu Thần Bão Táp\" bước vào trạng thái \"Thủy Triều Sinh Sôi\", sẽ không thể sinh ra \"Đứa Trẻ Bọt Bóng\" trong lúc Ưu Tiên Hành Động",
         "hide_desc": "",
         "hide": false
+    },
+    "4074801": {
+        "id": "4074801",
+        "series_id": "7",
+        "title": "Bỏ Cũ, Đón Mới",
+        "desc": "Khi chiến thắng trận đấu, đồng đội \"Bạn Nhảy\" của Dahlia không giống với người khi bắt đầu chiến đấu",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074802": {
+        "id": "4074802",
+        "series_id": "7",
+        "title": "Ngươi Và Lá Chắn Của Ngươi Đều Thật Nực Cười",
+        "desc": "Khi mục tiêu phe địch đang ở trạng thái Bảo Vệ Sức Bền, sử dụng Siêu Sát Thương Phá Vỡ để tiêu diệt chúng",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074803": {
+        "id": "4074803",
+        "series_id": "7",
+        "title": "Múa! Múa! Múa!",
+        "desc": "Trong một trận chiến, Nhà Khai Phá vận mệnh Hòa Hợp, Fugue và Dahlia đều đã thi triển Tuyệt Kỹ.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074804": {
+        "id": "4074804",
+        "series_id": "7",
+        "title": "Sâu Bọ Ô Hợp",
+        "desc": "Trong trận chiến với \"Ngọn Nguồn Cái Chết: Ác Mộng Đàn Côn Trùng\", tiêu diệt tất cả Bọ Gai Lớn để khiến nó thoát khỏi trạng thái \"Sao Chép Gen\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074805": {
+        "id": "4074805",
+        "series_id": "7",
+        "title": "Bắt Bọ Phải Bắt Con Đầu Đàn Trước",
+        "desc": "Trong trận chiến với \"Ngọn Nguồn Cái Chết: Ác Mộng Đàn Côn Trùng\", khi chưa tiêu diệt tất cả Bọ Gai Lớn, đánh bại \"Ngọn Nguồn Cái Chết: Ác Mộng Đàn Côn Trùng\", và khi chưa thoát khỏi trạng thái Sao Chép Gen, hồi Sức Bền",
+        "hide_desc": "",
+        "hide": true
     },
     "4080101": {
         "id": "4080101",

@@ -2097,7 +2097,7 @@
         "id": "120301",
         "name": "Taufe der Lebenden",
         "rank": 1,
-        "desc": "Ist das Feld aktiv, wird der ANG aller Verbündeten um 20% erhöht.",
+        "desc": "Ist das Kraftfeld aktiv, wird der ANG aller Verbündeten um 20% erhöht.",
         "materials": [
             { "id": "11203", "num": 1 }
         ],
@@ -2133,7 +2133,7 @@
         "id": "120304",
         "name": "Urteil der Dornenkrone",
         "rank": 4,
-        "desc": "Ist das Feld aktiv, werden Gegner geschwächt und sie verursachen 12% weniger SCH.",
+        "desc": "Ist das Kraftfeld aktiv, werden Gegner geschwächt und sie verursachen 12% weniger SCH.",
         "materials": [
             { "id": "11203", "num": 1 }
         ],
@@ -3146,7 +3146,7 @@
         "id": "121804",
         "name": "Innerer Frieden, blühende Lebenskraft",
         "rank": 4,
-        "desc": "Solange das Feld aktiv ist, wird der ANG der Gegner um 15% reduziert.",
+        "desc": "Solange das Kraftfeld aktiv ist, wird der ANG der Gegner um 15% reduziert.",
         "materials": [
             { "id": "11218", "num": 1 }
         ],
@@ -3765,7 +3765,7 @@
         "id": "130301",
         "name": "Neuralstickerei",
         "rank": 1,
-        "desc": "Während das Feld des Ultimates aktiv ist, ignoriert der von Verbündeten verursachte SCH 20% der VTD des Zieles.",
+        "desc": "Während das Kraftfeld des Ultimates aktiv ist, ignoriert der von Verbündeten verursachte SCH 20% der VTD des Zieles.",
         "materials": [
             { "id": "11303", "num": 1 }
         ],
@@ -3826,7 +3826,7 @@
         "id": "130306",
         "name": "Vom Schleier halb bedeckt",
         "rank": 6,
-        "desc": "Verlängert die aktive Dauer des vom Ultimate erzeugten Felds um 1 Rd. Der Multiplikator vom Bruch-SCH ihres Talents wird zusätzlich um 200% erhöht.",
+        "desc": "Verlängert die aktive Dauer des vom Ultimate erzeugten Kraftfelds um 1 Rd. Der Multiplikator vom Bruch-SCH ihres Talents wird zusätzlich um 200% erhöht.",
         "materials": [
             { "id": "11303", "num": 1 }
         ],
@@ -4708,6 +4708,78 @@
         "level_up_skills": [],
         "icon": "icon/skill/1317_rank6.png"
     },
+    "132101": {
+        "id": "132101",
+        "name": "Wenn eine Knospe zum Erblühen bereit ist",
+        "rank": 1,
+        "desc": "Der vom Talent gewährte Multiplikator des Super-Bruch-SCH gilt für alle verbündeten Figuren, wobei der Multiplikator für „Tanzpartner“ zusätzlich um 40% erhöht wird. Nachdem ein Tanzpartner angegriffen hat, erleiden getroffene Gegner eine zusätzliche feste WDS-Reduzierung in Höhe von 25% ihres max. WDS (mindestens 10 Pkt., bis zu 300 Pkt.). Dieser Effekt kann pro Gegner nur 1-mal ausgelöst werden. Die Auslösungsanzahl wird zurückgesetzt, nachdem der Gegner einen Todesstoß erlitten hat.",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1321_rank1.png"
+    },
+    "132102": {
+        "id": "132102",
+        "name": "Neugeboren, frisch, lieblich",
+        "rank": 2,
+        "desc": "Wenn die Dahlie auf dem Kampffeld ist, wird der WDS aller Typen aller Gegner um 20% reduziert. Wenn ein Gegner das Kampffeld betritt, tritt er sofort für 3 Rd. in den Status „Verwelken“.",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1321_rank2.png"
+    },
+    "132103": {
+        "id": "132103",
+        "name": "Ach, die Blütenblätter, so zart wie Gaze",
+        "rank": 3,
+        "desc": "Ultimate-Stufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10.",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "132103", "num": 2 },
+            { "id": "132101", "num": 1 }
+        ],
+        "icon": "icon/skill/1321_ultimate.png"
+    },
+    "132104": {
+        "id": "132104",
+        "name": "Weh, der Blütenkern, von Insekten zerfressen",
+        "rank": 4,
+        "desc": "Erhöht die Trefferzahl des Folgeangriffs des Talents um 5. Erhöht beim Einsatz den erlittenen SCH aller Gegner für 2 Rd. um 12%.",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1321_rank4.png"
+    },
+    "132105": {
+        "id": "132105",
+        "name": "Verwelken, Verwesen, voller Hass",
+        "rank": 5,
+        "desc": "Fertigkeitsstufe +2 bis max. St. 15. Talentstufe +2 bis max. St. 15.",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "132102", "num": 2 },
+            { "id": "132104", "num": 2 }
+        ],
+        "icon": "icon/skill/1321_skill.png"
+    },
+    "132106": {
+        "id": "132106",
+        "name": "Doch bleibt sie stets so schön und tödlich",
+        "rank": 6,
+        "desc": "Erhöht den Brucheffekt der „Tanzpartner“ um 150%. Beim Ausführen des Folgeangriffs des Talents wird die nächste Aktion beider Tanzpartner um 20% vorgezogen.",
+        "materials": [
+            { "id": "11321", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1321_rank6.png"
+    },
     "140101": {
         "id": "140101",
         "name": "Nacht der fallenden Sterne",
@@ -4863,7 +4935,7 @@
         "id": "140301",
         "name": "Ritual des Streuzuckers",
         "rank": 1,
-        "desc": "Nachdem Verbündete während der Dauer des Feldes Gegner angegriffen haben, wird bei dem Ziel, dem das Feld zusätzlichen SCH zufügt, zusätzlich Tatsächlicher SCH in Höhe von 24% der gesamten Schadenmenge dieses Angriffs verursacht.",
+        "desc": "Nachdem Verbündete während der Dauer des Kraftfelds Gegner angegriffen haben, wird bei dem Ziel, dem das Kraftfeld zusätzlichen SCH zufügt, zusätzlich Tatsächlicher SCH in Höhe von 24% der gesamten Schadenmenge dieses Angriffs verursacht.",
         "materials": [
             { "id": "11403", "num": 1 }
         ],
@@ -4874,7 +4946,7 @@
         "id": "140302",
         "name": "Guide zum süßen Traum",
         "rank": 2,
-        "desc": "Erhöht den durch das Feld verursachten zusätzlichen SCH auf 120% des ursprünglichen SCH. Wenn das Feld zusätzlichen SCH verursacht, wird noch 1-mal zusätzlicher SCH verursacht.",
+        "desc": "Erhöht den durch das Kraftfeld verursachten zusätzlichen SCH auf 120% des ursprünglichen SCH. Wenn das Kraftfeld zusätzlichen SCH verursacht, wird noch 1-mal zusätzlicher SCH verursacht.",
         "materials": [
             { "id": "11403", "num": 1 }
         ],
@@ -5395,7 +5467,7 @@
         "id": "141002",
         "name": "Du willst wissen, warum die Wellen so rauschen",
         "rank": 2,
-        "desc": "Während das Feld aktiv ist, wirkt die SCH-Erhöhung der Spur „Saiten der Perlen“ auf alle Verbündeten.",
+        "desc": "Während das Kraftfeld aktiv ist, wirkt die SCH-Erhöhung der Spur „Saiten der Perlen“ auf alle Verbündeten.",
         "materials": [
             { "id": "11410", "num": 1 }
         ],
@@ -5420,7 +5492,7 @@
         "id": "141004",
         "name": "Sieh nur, warum die Zeit dahinfließt",
         "rank": 4,
-        "desc": "Während das Feld aktiv ist, wird der WDS aller Typen aller Gegner um 20% reduziert.",
+        "desc": "Während das Kraftfeld aktiv ist, wird der WDS aller Typen aller Gegner um 20% reduziert.",
         "materials": [
             { "id": "11410", "num": 1 }
         ],
@@ -5445,7 +5517,7 @@
         "id": "141006",
         "name": "Versunkene, wann kehrst du zurück",
         "rank": 6,
-        "desc": "Während das Feld aktiv ist, wird zu Beginn jeder Runde oder nach einem Einzelangriff eines Verbündeten die max. Auslösungszahl von Hysilens’ physischem DoT-Effekt auf 12 und der SCH-Multiplikator des verursachten SCH um 20% erhöht.",
+        "desc": "Während das Kraftfeld aktiv ist, wird zu Beginn jeder Runde oder nach einem Einzelangriff eines Verbündeten die max. Auslösungszahl von Hysilens’ physischem DoT-Effekt auf 12 und der SCH-Multiplikator des verursachten SCH um 20% erhöht.",
         "materials": [
             { "id": "11410", "num": 1 }
         ],
@@ -5759,7 +5831,7 @@
         "id": "141506",
         "name": "Erinnerungen, verwandelt in Wellen ♪",
         "rank": 6,
-        "desc": "Wenn Cyrene zum ersten Mal ihren Ultimate einsetzt, wird die Aktion aller Verbündeten um 100% vorgezogen. Jedes Mal, wenn der Demiurg die Memogeist-Technik „Gedicht an das Ego“ auslöst und „Walzer von Blumen und Pfeilen“ einsetzt, werden basierend auf der Auslösungsanzahl die folgenden Effekte erhalten:\n1-mal: Reduziert die VTD aller Gegner um 20%, wenn sich der Demiurg auf dem Kampffeld befindet.\n2-mal oder mehr: Die Aktion aller Verbündeten wird um 24% vorgezogen.",
+        "desc": "Wenn Cyrene zum ersten Mal ihren Ultimate einsetzt, wird die Aktion aller Verbündeten um 100% vorgezogen. Jedes Mal, wenn der Demiurg die Memogeist-Technik „Gedicht an das Ego“ auslöst und „Walzer von Blumen und Pfeilen“ einsetzt, werden basierend auf der Auslösungsanzahl in diesem Kampf die folgenden Effekte erhalten:\n1-mal: Reduziert die VTD aller Gegner um 20%, wenn sich der Demiurg auf dem Kampffeld befindet.\n2-mal oder mehr: Die Aktion aller Verbündeten wird um 24% vorgezogen.",
         "materials": [
             { "id": "11415", "num": 1 }
         ],

@@ -550,7 +550,7 @@
         "type": "Material",
         "sub_type": "Material",
         "rarity": 5,
-        "icon": null,
+        "icon": "icon/item/821.png",
         "come_from": []
     },
     "11001": {
@@ -1096,6 +1096,15 @@
     "11317": {
         "id": "11317",
         "name": "[라파]의 성혼",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11321": {
+        "id": "11321",
+        "name": "[달리아]의 성혼",
         "type": "Material",
         "sub_type": "Eidolon",
         "rarity": 5,
@@ -9361,6 +9370,24 @@
         "sub_type": "Mission",
         "rarity": 3,
         "icon": "icon/item/140577.png",
+        "come_from": []
+    },
+    "140597": {
+        "id": "140597",
+        "name": "꿈의 커튼콜",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140597.png",
+        "come_from": []
+    },
+    "140598": {
+        "id": "140598",
+        "name": "꿈의 커튼콜",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140598.png",
         "come_from": []
     },
     "140599": {
@@ -18895,6 +18922,60 @@
         "icon": "icon/item/190017.png",
         "come_from": []
     },
+    "191952": {
+        "id": "191952",
+        "name": "≪다크 플레임 나이트 라이즈≫ 시사회 인터뷰",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190013.png",
+        "come_from": []
+    },
+    "191953": {
+        "id": "191953",
+        "name": "배교자의 편지",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/140236.png",
+        "come_from": []
+    },
+    "191954": {
+        "id": "191954",
+        "name": "스텔라론에 관한 송가",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "191955": {
+        "id": "191955",
+        "name": "≪곤충 떼 재난 속 세계: 질서 회복≫ 시리즈 전단지",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190015.png",
+        "come_from": []
+    },
+    "191956": {
+        "id": "191956",
+        "name": "「꿈의 주인」의 답장",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/140236.png",
+        "come_from": []
+    },
+    "191957": {
+        "id": "191957",
+        "name": "전하지 못한 기도서",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
     "191958": {
         "id": "191958",
         "name": "δ-me13 실험 기록 (3부)",
@@ -18902,6 +18983,24 @@
         "sub_type": "Book",
         "rarity": 1,
         "icon": "icon/item/190018.png",
+        "come_from": []
+    },
+    "191959": {
+        "id": "191959",
+        "name": "꿈의 커튼콜",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "191960": {
+        "id": "191960",
+        "name": "꿈의 커튼콜",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
         "come_from": []
     },
     "210001": {
@@ -20346,7 +20445,7 @@
     },
     "210410": {
         "id": "210410",
-        "name": "≪NAME==미소스≫",
+        "name": "≪NAME == 미소스≫",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -20355,7 +20454,7 @@
     },
     "210411": {
         "id": "210411",
-        "name": "≪NAME==로고스≫",
+        "name": "≪NAME == 로고스≫",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -20470,6 +20569,42 @@
         "icon": "icon/item/210001.png",
         "come_from": []
     },
+    "210424": {
+        "id": "210424",
+        "name": "≪꿈을 기억하는 회랑≫",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210425": {
+        "id": "210425",
+        "name": "≪신의 강림≫",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210426": {
+        "id": "210426",
+        "name": "≪좀먹은 꿈≫",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210427": {
+        "id": "210427",
+        "name": "≪악몽의 징조≫",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
     "220000": {
         "id": "220000",
         "name": "언어의 예술",
@@ -20550,6 +20685,15 @@
         "rarity": 4,
         "icon": "icon/item/220008.png",
         "come_from": ["「아옹아옹 사무소」 이벤트로 획득한 채팅 말풍선"]
+    },
+    "220009": {
+        "id": "220009",
+        "name": "우리는 챔피언!",
+        "type": "Usable",
+        "sub_type": "ChatBubble",
+        "rarity": 4,
+        "icon": "icon/item/220009.png",
+        "come_from": ["「아옹 황금 챔피언십」 이벤트로 획득한 채팅 말풍선"]
     },
     "221000": {
         "id": "221000",
@@ -23096,7 +23240,7 @@
         "sub_type": "PlayerOutfit",
         "rarity": 5,
         "icon": "icon/item/227003.png",
-        "come_from": ["「꿈을 줍는 청춘」 이벤트 참여 후 획득한 개척 코디"]
+        "come_from": ["이전 「꿈을 줍는 청춘」 이벤트 참여 후 획득한 개척 코디"]
     },
     "250001": {
         "id": "250001",
@@ -27328,6 +27472,438 @@
         "icon": "icon/item/HipplenDecoItemIcon1.png",
         "come_from": []
     },
+    "265001": {
+        "id": "265001",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 1,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265002": {
+        "id": "265002",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 1,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265003": {
+        "id": "265003",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 1,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265004": {
+        "id": "265004",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 1,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265005": {
+        "id": "265005",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 2,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265006": {
+        "id": "265006",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 2,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265007": {
+        "id": "265007",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 2,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265008": {
+        "id": "265008",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 2,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265009": {
+        "id": "265009",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265010": {
+        "id": "265010",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265011": {
+        "id": "265011",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265012": {
+        "id": "265012",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265013": {
+        "id": "265013",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265014": {
+        "id": "265014",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265015": {
+        "id": "265015",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265016": {
+        "id": "265016",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265017": {
+        "id": "265017",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265018": {
+        "id": "265018",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265019": {
+        "id": "265019",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265020": {
+        "id": "265020",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265021": {
+        "id": "265021",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265022": {
+        "id": "265022",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265023": {
+        "id": "265023",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265024": {
+        "id": "265024",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265025": {
+        "id": "265025",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265026": {
+        "id": "265026",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265027": {
+        "id": "265027",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265028": {
+        "id": "265028",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265029": {
+        "id": "265029",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265030": {
+        "id": "265030",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 2,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265031": {
+        "id": "265031",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 2,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265032": {
+        "id": "265032",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 2,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265033": {
+        "id": "265033",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 2,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265034": {
+        "id": "265034",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 2,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265035": {
+        "id": "265035",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 2,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265036": {
+        "id": "265036",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265037": {
+        "id": "265037",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265038": {
+        "id": "265038",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265039": {
+        "id": "265039",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265040": {
+        "id": "265040",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265041": {
+        "id": "265041",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265042": {
+        "id": "265042",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265043": {
+        "id": "265043",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265044": {
+        "id": "265044",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265045": {
+        "id": "265045",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265046": {
+        "id": "265046",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265047": {
+        "id": "265047",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "265048": {
+        "id": "265048",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
     "270000": {
         "id": "270000",
         "name": "오늘도 스마일",
@@ -27625,6 +28201,15 @@
         "icon": "icon/item/140150.png",
         "come_from": []
     },
+    "281037": {
+        "id": "281037",
+        "name": "골드 초대권",
+        "type": "Virtual",
+        "sub_type": "Virtual",
+        "rarity": 3,
+        "icon": "icon/item/281037.png",
+        "come_from": []
+    },
     "281038": {
         "id": "281038",
         "name": "통통 디저트",
@@ -27776,6 +28361,15 @@
         "sub_type": "Gift",
         "rarity": 3,
         "icon": "icon/item/300041.png",
+        "come_from": []
+    },
+    "300057": {
+        "id": "300057",
+        "name": "보물 탐색권",
+        "type": "Usable",
+        "sub_type": "Gift",
+        "rarity": 4,
+        "icon": "icon/item/300057.png",
         "come_from": []
     },
     "300101": {

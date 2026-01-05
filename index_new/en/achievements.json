@@ -1359,6 +1359,54 @@
         "hide_desc": "※ Write the final sentence of this epic",
         "hide": false
     },
+    "4034801": {
+        "id": "4034801",
+        "series_id": "3",
+        "title": "Virtuous's Epitaph",
+        "desc": "The cost of holding onto beliefs is always losing your way back",
+        "hide_desc": "※ In Firefly's POV, reunite with AR-214",
+        "hide": false
+    },
+    "4034802": {
+        "id": "4034802",
+        "series_id": "3",
+        "title": "The Past Is the Future's Reflection",
+        "desc": "Time dances on a blade's edge, only light can pierce through to the future",
+        "hide_desc": "※ Witness the convergence of \"Finality\" and \"Trailblaze\"",
+        "hide": false
+    },
+    "4034803": {
+        "id": "4034803",
+        "series_id": "3",
+        "title": "Flying Requires No Reason",
+        "desc": "Even if it's too late, we still have the choice to sing whatever we can",
+        "hide_desc": "※ Witness the Charmony Festival of Dreamchasers",
+        "hide": false
+    },
+    "4034804": {
+        "id": "4034804",
+        "series_id": "3",
+        "title": "Life Is a Near Miss With Death",
+        "desc": "Time is what ignites all living things, yet time, too, extinguishes them",
+        "hide_desc": "※ Reveal the truth about Terminus",
+        "hide": false
+    },
+    "4034805": {
+        "id": "4034805",
+        "series_id": "3",
+        "title": "Memories are the Prelude to Dreams",
+        "desc": "※ Fulfill the promise with Firefly",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4034806": {
+        "id": "4034806",
+        "series_id": "3",
+        "title": "Oblivion is the Curtain Call of Dreams",
+        "desc": "※ Find a fragment of Remembrance left to you by The Dahlia",
+        "hide_desc": "",
+        "hide": true
+    },
     "4040101": {
         "id": "4040101",
         "series_id": "4",
@@ -3302,6 +3350,30 @@
         "desc": "Acquire all home decorations from Amphoreus",
         "hide_desc": "",
         "hide": true
+    },
+    "4044801": {
+        "id": "4044801",
+        "series_id": "4",
+        "title": "Ticker's Vision",
+        "desc": "Repair all broken Dream Tickers in the Dream of Gnawing Oak",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044802": {
+        "id": "4044802",
+        "series_id": "4",
+        "title": "My Sin Is Ever Before Me",
+        "desc": "Receive a letter from the Dreammaster in The Road Not Taken of Dream of Gnawing Oak",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044803": {
+        "id": "4044803",
+        "series_id": "4",
+        "title": "Only Reflection Remains at the Crossroads",
+        "desc": "Follow another road in The Road Not Taken of Dream of Gnawing Oak",
+        "hide_desc": "",
+        "hide": false
     },
     "4051001": {
         "id": "4051001",
@@ -8063,6 +8135,94 @@
         "hide_desc": "",
         "hide": false
     },
+    "4054801": {
+        "id": "4054801",
+        "series_id": "5",
+        "title": "Murmurs of the Long Slumber",
+        "desc": "Relive past dreams in the Dream of Gnawing Oak",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054802": {
+        "id": "4054802",
+        "series_id": "5",
+        "title": "Grand Slam",
+        "desc": "Win 8 matches in total during a single Chrysos Awoo Championship",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054803": {
+        "id": "4054803",
+        "series_id": "5",
+        "title": "Chimera Master",
+        "desc": "Reach Gold rank in the Chrysos Awoo Championship",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054804": {
+        "id": "4054804",
+        "series_id": "5",
+        "title": "Winning from the Outset",
+        "desc": "Complete the placement matches in the Chimera World Tournament during the Chrysos Awoo Championship",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054805": {
+        "id": "4054805",
+        "series_id": "5",
+        "title": "Legendary Challenger",
+        "desc": "Win 8 matches in the Chrysos Awoo Championship against other players",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054806": {
+        "id": "4054806",
+        "series_id": "5",
+        "title": "Okhema Regional Champion",
+        "desc": "Defeat all chimera trainers in Chrysos Showdown Mode during the Chrysos Awoo Championship",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054807": {
+        "id": "4054807",
+        "series_id": "7",
+        "title": "Qliphoth Counter",
+        "desc": "In a battle of any difficulty against the Greatsword Guardian, ally characters must restore \"HP Count\" a total of 12 times.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054808": {
+        "id": "4054808",
+        "series_id": "7",
+        "title": "Transcendent Shot",
+        "desc": "In any difficulty against Earthshaker Leo, ally targets defeat \"Back Row Target\" 15 times",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054809": {
+        "id": "4054809",
+        "series_id": "7",
+        "title": "Crazy Diamond",
+        "desc": "Clear the Nightmare difficulty combat against Corrupting Shadowfiend with all ally characters' \"HP Overload\" not exceeding 8000",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054810": {
+        "id": "4054810",
+        "series_id": "7",
+        "title": "No Time to Die",
+        "desc": "Trigger the enemy boss's \"Fight in Unity\" once in combat against Synergy Duo on any difficulty",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054811": {
+        "id": "4054811",
+        "series_id": "7",
+        "title": "Siren Tears",
+        "desc": "Ally \"Hallucinogenic Mermaid\" takes fatal damage in a battle against Elegy Siren at any difficulty",
+        "hide_desc": "",
+        "hide": false
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -8443,7 +8603,7 @@
         "id": "4070803",
         "series_id": "7",
         "title": "Mozambique Drill",
-        "desc": "Defeat 3 enemies with Follow-up ATK in a single battle",
+        "desc": "Defeat 3 enemies with Follow-Up ATK in a single battle",
         "hide_desc": "",
         "hide": false
     },
@@ -8451,7 +8611,7 @@
         "id": "4070804",
         "series_id": "7",
         "title": "Follow-Up Breaker (I)",
-        "desc": "Defeat 80 enemies with Follow-up ATK",
+        "desc": "Defeat 80 enemies with Follow-Up ATK",
         "hide_desc": "",
         "hide": false
     },
@@ -8459,7 +8619,7 @@
         "id": "4070805",
         "series_id": "7",
         "title": "Follow-Up Breaker (II)",
-        "desc": "Defeat 240 enemies with Follow-up ATK",
+        "desc": "Defeat 240 enemies with Follow-Up ATK",
         "hide_desc": "",
         "hide": false
     },
@@ -9363,7 +9523,7 @@
         "id": "4072907",
         "series_id": "7",
         "title": "Chain Peoplebreaker",
-        "desc": "In a single battle, trigger the Follow-up ATK effect from Dr. Ratio's Talent, \"Cogito, Ergo Sum,\" for 4 consecutive turns",
+        "desc": "In a single battle, trigger the Follow-Up ATK effect from Dr. Ratio's Talent, \"Cogito, Ergo Sum,\" for 4 consecutive turns",
         "hide_desc": "",
         "hide": false
     },
@@ -9787,7 +9947,7 @@
         "id": "4073510",
         "series_id": "7",
         "title": "Bloodless Blade",
-        "desc": "Win a battle without triggering the Follow-up ATK from Moze's Talent",
+        "desc": "Win a battle without triggering the Follow-Up ATK from Moze's Talent",
         "hide_desc": "",
         "hide": true
     },
@@ -10059,7 +10219,7 @@
         "id": "4074108",
         "series_id": "7",
         "title": "Saturated Covering Fire",
-        "desc": "Use ally character Tribbie to trigger 10 Follow-up ATK(s) from her Talent in a single battle",
+        "desc": "Use ally character Tribbie to trigger 10 Follow-Up ATK(s) from her Talent in a single battle",
         "hide_desc": "",
         "hide": true
     },
@@ -10486,6 +10646,46 @@
         "desc": "After Cyclonic Swarm Mother enters the \"Breeding Frenzy\" state, prevent it from spawning \"Mirage Fizzle Kid\" when its action is advanced",
         "hide_desc": "",
         "hide": false
+    },
+    "4074801": {
+        "id": "4074801",
+        "series_id": "7",
+        "title": "Outgrow the Old, Espouse the New",
+        "desc": "When winning a battle, the teammate who is The Dahlia's \"Dance Partner\" is different from who it was at the start of combat",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074802": {
+        "id": "4074802",
+        "series_id": "7",
+        "title": "You're as Laughable as Your Cover",
+        "desc": "Defeat an enemy target with Super Break DMG while it's under Toughness Protection",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074803": {
+        "id": "4074803",
+        "series_id": "7",
+        "title": "Dance! Dance! Dance!",
+        "desc": "Have Trailblazer (Harmony), Fugue, and The Dahlia all use their Ultimates in a single battle",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074804": {
+        "id": "4074804",
+        "series_id": "7",
+        "title": "Ragtag Swarm",
+        "desc": "In combat with Harbinger of Death: Swarm Nightmare, defeat all Juvenile Stings to force it out of the \"Gene Duplication\" state",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074805": {
+        "id": "4074805",
+        "series_id": "7",
+        "title": "Catch the Locust, Catch the Swarm",
+        "desc": "During the battle with Harbinger of Death: Swarm Nightmare, break the Harbinger of Death: Swarm Nightmare before defeating all Juvenile Stings, and it recovers Toughness before exiting \"Gene Duplication\" state",
+        "hide_desc": "",
+        "hide": true
     },
     "4080101": {
         "id": "4080101",
@@ -11450,7 +11650,7 @@
     "4092342": {
         "id": "4092342",
         "series_id": "9",
-        "title": "A 4-Star Rarity Daydream",
+        "title": "A 4-Star Daydream",
         "desc": "Have 0 or less Cosmic Fragment(s) when clearing Simulated Universe",
         "hide_desc": "",
         "hide": false

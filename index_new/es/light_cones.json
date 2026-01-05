@@ -1409,6 +1409,16 @@
         "preview": "image/light_cone_preview/23049.png",
         "portrait": "image/light_cone_portrait/23049.png"
     },
+    "23050": {
+        "id": "23050",
+        "name": "No olvides su fuego",
+        "rarity": 5,
+        "path": "Warlock",
+        "desc": "\"Ven, acércate a mí...\".\nUn recuerdo muy vívido encendido por las llamas envuelve su cuerpo y su alma.\n¿Es verdad que el pasado ya descansa en su tumba?\n\"Shhh, no llores, no te resistas\".\nSe graba a sí misma en los corazones ajenos, y las miradas extrañas se vuelven familiares.\n\"¿Ahora lo recuerdas?\".\nLas ascuas de los viejos recuerdos se dispersan y su rostro desprende una embriagadora fragancia floral.\n\"Yo soy tus recuerdos\".",
+        "icon": "icon/light_cone/23050.png",
+        "preview": "image/light_cone_preview/23050.png",
+        "portrait": "image/light_cone_portrait/23050.png"
+    },
     "23051": {
         "id": "23051",
         "name": "A través de montañas y ríos",

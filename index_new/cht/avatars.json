@@ -705,6 +705,11 @@
         "name": "凱特（值班中）",
         "icon": "icon/avatar/UI_Message_Contacts_Anonymous.png"
     },
+    "202": {
+        "id": "202",
+        "name": "奇美拉愛好者協會",
+        "icon": "icon/avatar/UI_Message_Group_Default.png"
+    },
     "203": {
         "id": "203",
         "name": "垃圾糕今天吃什麼",
@@ -773,6 +778,7 @@
     "1314": { "id": "1314", "name": "翡翠", "icon": "icon/avatar/1314.png" },
     "1315": { "id": "1315", "name": "波提歐", "icon": "icon/avatar/1315.png" },
     "1317": { "id": "1317", "name": "亂破", "icon": "icon/avatar/1317.png" },
+    "1321": { "id": "1321", "name": "大理花", "icon": "icon/avatar/1321.png" },
     "1401": { "id": "1401", "name": "大黑塔", "icon": "icon/avatar/1401.png" },
     "1402": { "id": "1402", "name": "阿格萊雅", "icon": "icon/avatar/1402.png" },
     "1403": { "id": "1403", "name": "緹寶", "icon": "icon/avatar/1403.png" },
@@ -1080,6 +1086,18 @@
         "rarity": 5,
         "icon": "icon/avatar/IconHead_200148.png"
     },
+    "200149": {
+        "id": "200149",
+        "name": "大理花•追憶",
+        "rarity": 5,
+        "icon": "icon/avatar/IconHead_200149.png"
+    },
+    "200150": {
+        "id": "200150",
+        "name": "黑天鵝•追憶",
+        "rarity": 5,
+        "icon": "icon/avatar/IconHead_200150.png"
+    },
     "201001": { "id": "201001", "name": "三月七•存護", "icon": "icon/avatar/1001.png" },
     "201002": { "id": "201002", "name": "丹恆", "icon": "icon/avatar/1002.png" },
     "201003": { "id": "201003", "name": "姬子", "icon": "icon/avatar/1003.png" },
@@ -1141,6 +1159,7 @@
     "201314": { "id": "201314", "name": "翡翠", "icon": "icon/avatar/1314.png" },
     "201315": { "id": "201315", "name": "波提歐", "icon": "icon/avatar/1315.png" },
     "201317": { "id": "201317", "name": "亂破", "icon": "icon/avatar/1317.png" },
+    "201321": { "id": "201321", "name": "大理花", "icon": "icon/avatar/1321.png" },
     "201401": { "id": "201401", "name": "大黑塔", "icon": "icon/avatar/1401.png" },
     "201402": { "id": "201402", "name": "阿格萊雅", "icon": "icon/avatar/1402.png" },
     "201403": { "id": "201403", "name": "緹寶", "icon": "icon/avatar/1403.png" },
@@ -1382,6 +1401,12 @@
         "name": "最後的贏家",
         "rarity": 4,
         "icon": "icon/avatar/IconHead_202041.png"
+    },
+    "202042": {
+        "id": "202042",
+        "name": "壁畫之上",
+        "rarity": 4,
+        "icon": "icon/avatar/IconHead_202042.png"
     },
     "208001": { "id": "208001", "name": "{NICKNAME}•毀滅", "icon": "icon/avatar/8001.png" },
     "208002": { "id": "208002", "name": "{NICKNAME}•毀滅", "icon": "icon/avatar/8002.png" },

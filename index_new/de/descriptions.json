@@ -1317,12 +1317,12 @@
     "10283": {
         "id": "10283",
         "title": "Ära Nova",
-        "desc": "Der Modus der Iteration von Amphoreus und die Extrapolation des Zepters „δ-me13: Amphoreus“.\nEs zielt darauf ab, die Gleichung der Zerstörung durch kontinuierliche Übertragung der erlernten Gleichungsdaten in Form von Widerstand zu lösen.\nDie letzte theoretische „Ära Nova“ wurde von Phainon und Cyrene vereitelt und ist seitdem 33.550.336-mal in einer Schleife gelaufen."
+        "desc": "Der Modus der Iteration von Amphoreus und die Extrapolation des Zepters „δ-me13: Amphoreus“.\nEs zielt darauf ab, die Gleichung der Zerstörung durch kontinuierliche Übertragung der erlernten Gleichungsdaten in Form von Widerstand zu lösen.\nDie letzte theoretische „Ära Nova“ wurde von Phainon und Cyrene vereitelt und ist seitdem 33.550.336-mal in einer Endlosschleife gelaufen."
     },
     "10284": {
         "id": "10284",
         "title": "Ewige Wiederholung",
-        "desc": "Eine tote Schleife, die durch zwei Datenansammlungen innerhalb der Extrapolation von Zepter „δ-me13: Amphoreus“ hervorgerufen wird, um den Abschluss der Gleichung der Zerstörung zu verhindern.\nAufgrund des Einflusses der Macht des Gedenkens wird die Zeit auf ihren Anfang zurückgesetzt und der Extrapolationsprozess zurückgedreht, wenn die zwölf Kernflammen in der zeremoniellen Klinge platziert werden."
+        "desc": "Eine Endlosschleife, die durch zwei Datenansammlungen innerhalb der Extrapolation von Zepter „δ-me13: Amphoreus“ hervorgerufen wird, um den Abschluss der Gleichung der Zerstörung zu verhindern.\nAufgrund des Einflusses der Macht des Gedenkens wird die Zeit auf ihren Anfang zurückgesetzt und der Extrapolationsprozess zurückgedreht, wenn die zwölf Kernflammen in der zeremoniellen Klinge platziert werden."
     },
     "10285": {
         "id": "10285",
@@ -1453,6 +1453,31 @@
         "id": "10310",
         "title": "Cyrene",
         "desc": "Die Tochter von Aedes Elysiae, Amphoreus’ Reines Kind von Anāsrava und auch das „Herz“ des Zepters δ-me13, der Demiurg.\nAm Ende des Epos laufen die Erinnerungen des Mädchens rückwärts durch die Zeit und werden am Ursprung der Jahre zu „PhiLia093“, wodurch sich der Kreislauf der Kausalität schließt."
+    },
+    "10311": {
+        "id": "10311",
+        "title": "Constance „Die Dahlie“",
+        "desc": "Die von Natur aus gierige Krematorin beging Verrat am Pfad der Zerstörung und am Garten des Gedächtnisses.\nSie wandert allein durch das Universum und versucht, jede Möglichkeit des Lebens auszuschöpfen."
+    },
+    "10312": {
+        "id": "10312",
+        "title": "Glamoths Eiserne Kavallerie",
+        "desc": "Eine für den Krieg geborene Waffe, der Pfadfinder der Ausbreitung.\nVon Geburt an dazu bestimmt, gemeinsam mit dem eigenen Erzfeind zu Asche zu werden."
+    },
+    "10313": {
+        "id": "10313",
+        "title": "Terminus",
+        "desc": "Der Äon, der den Pfad der Endgültigkeit beherrscht. Er entsteht bei jeder möglichen Ankunft der „Vier Apokalypsen“ und wandelt gegen die Zeit.\nZu jener Zeit wird er seine gesamte göttliche Kraft in eine Schar schwarzer Katzen verwandeln. Sie werden durch den Systemraum streifen und murmelnd die Prophezeiung verkünden, die dazu bestimmt ist, sich zu erfüllen."
+    },
+    "10314": {
+        "id": "10314",
+        "title": "Traummeister",
+        "desc": "Der wahre Anführer des Familienzweigs in Penacony. Sein Körper wurde zerstört, während sein Geist in den süßen Traum eindrang.\nMithilfe des Stellarons opferte er sich für die Ordnung und ließ den gefallenen Äon Ena kurzzeitig wieder auferstehen."
+    },
+    "10315": {
+        "id": "10315",
+        "title": "Traum der nagenden Eiche",
+        "desc": "Süße Träume, die im ursprünglichen Speicherbereich versunken sind, wimmeln nun vom Dröhnen der Ausbreitung.\nHier erzeugt eine Lüge die nächste und die Erhabene kehrt in Furcht zurück."
     },
     "20000": {
         "id": "20000",
@@ -1714,6 +1739,11 @@
         "title": "Die Erinnerung an „Khaslana“ strömt heran wie eine Flut ...",
         "desc": "Im Namen der Welt: Kephale wird dies niemals vergessen."
     },
+    "20079": {
+        "id": "20079",
+        "title": "Robins Erinnerungen kehren langsam zurück ...",
+        "desc": "Das war dein erster Eintritt in den Traum, und Robin, die dich begrüßte, hat ihre Stimme verloren ..."
+    },
     "20080": {
         "id": "20080",
         "title": "Wechsel zur Perspektive von Dan Heng ...",
@@ -1734,6 +1764,31 @@
         "title": "Wechsel zur Perspektive von Dan Heng ...",
         "desc": "Dan Heng kehrt nach Amphoreus zurück, fest entschlossen, {NICKNAME} zu finden und sich mit 7. März wieder zu vereinen ..."
     },
+    "20084": {
+        "id": "20084",
+        "title": "Robins Erinnerungen kehren langsam zurück ...",
+        "desc": "Zurück zu Robins Perspektive, wo eine Verschwörung in der Geschichte des Traumfluss-Riffs verborgen liegt und darauf wartet, enthüllt zu werden ..."
+    },
+    "20085": {
+        "id": "20085",
+        "title": "Die Erinnerungen der Dahlie kehren langsam zurück ...",
+        "desc": "In einem rätselhaften Traum, den du noch nicht betreten hattest, wollte die Dahlie dir ihr wahres Gesicht zeigen ..."
+    },
+    "20088": {
+        "id": "20088",
+        "title": "Glühwürmchens Erinnerungen kehren langsam zurück ...",
+        "desc": "Mit Silberwolfs Hilfe wollte sich Glühwürmchen nach Penacony schleichen ..."
+    },
+    "20089": {
+        "id": "20089",
+        "title": "Glühwürmchens Erinnerungen kehren langsam zurück ...",
+        "desc": "Glühwürmchen und du wurdet wegen des Todes getrennt. Jetzt ist sie ihrem anderen Begleiter begegnet ..."
+    },
+    "20090": {
+        "id": "20090",
+        "title": "Glühwürmchens Erinnerungen kehren langsam zurück ...",
+        "desc": "Zurück zu Glühwürmchen: Sie trat durch eine überraschende Wendung der Ereignisse in die letzte Phase der Traummeister-Verschwörung ein ..."
+    },
     "20091": {
         "id": "20091",
         "title": "Wechsel zur Perspektive von Himeko ...",
@@ -1748,5 +1803,15 @@
         "id": "20093",
         "title": "Cyrenes Geschichte geht weiter ...",
         "desc": "Das Eisengrab ist still geworden, aber die Geschichte ist noch längst nicht zu Ende ..."
+    },
+    "20094": {
+        "id": "20094",
+        "title": "Glühwürmchens Erinnerungen kehren langsam zurück ...",
+        "desc": "Die Immernacht neigt sich dem Ende zu, während Motten in die Flammen tanzen."
+    },
+    "20095": {
+        "id": "20095",
+        "title": "Robins Erinnerungen kehren langsam zurück ...",
+        "desc": "Zurück zu Robins Perspektive: Auch nachdem sie sich aus Enas Traum befreit hat, ist die Krise, der sie gegenübersteht, noch lange nicht vorbei ..."
     }
 }
