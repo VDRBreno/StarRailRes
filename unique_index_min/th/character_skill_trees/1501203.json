@@ -1,0 +1,1 @@
+{"id":"1501203","name":"เสริมพลังระดับปิติสุข","max_level":1,"desc":"","params":[],"anchor":"Point11","pre_points":["1501101"],"level_up_skills":[],"levels":[{"promotion":3,"level":0,"properties":[{"type":"ElationDamageAddedRatioBase","value":0.04}],"materials":[{"id":"2","num":10000},{"id":"110262","num":4},{"id":"116002","num":2}]}],"icon":"icon/property/IconJoy.png"}

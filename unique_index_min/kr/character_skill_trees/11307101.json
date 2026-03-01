@@ -1,0 +1,1 @@
+{"id":"11307101","name":"요동치는 내장","max_level":1,"desc":"적이 블랙 스완에게 피격된 후, #1[i]%의 기본 확률로 [아르카나] #2[i]스택에 빠진다","params":[[0.65,5]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110221","num":3},{"id":"110504","num":1}]}],"icon":"icon/skill/1307_skilltree1.png"}

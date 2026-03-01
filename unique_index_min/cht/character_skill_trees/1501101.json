@@ -1,0 +1,1 @@
+{"id":"1501101","name":"甜蜜！笑點簽售會","max_level":1,"desc":"若火花攻擊力高於#1[i]點，則每超過#2[i]點攻擊力可使自身歡愉度提高#3[f1]%，最多提高#4[f1]%。","params":[[2000,100,0.05,0.8]],"anchor":"Point06","pre_points":[],"level_up_skills":[],"levels":[{"promotion":2,"level":0,"properties":[],"materials":[{"id":"2","num":5000},{"id":"110261","num":2},{"id":"110508","num":1}]}],"icon":"icon/skill/1501_skilltree1.png"}

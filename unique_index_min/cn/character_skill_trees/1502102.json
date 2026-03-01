@@ -1,0 +1,1 @@
+{"id":"1502102","name":"神闲意满","max_level":1,"desc":"自身暴击伤害提高#4[i]%，施放欢愉技后，为我方恢复#1[i]个战技点。","params":[[1,0.25,0.4,0.6]],"anchor":"Point07","pre_points":[],"level_up_skills":[],"levels":[{"promotion":4,"level":0,"properties":[],"materials":[{"id":"2","num":20000},{"id":"110262","num":4},{"id":"241","num":1},{"id":"110508","num":1}]}],"icon":"icon/skill/1502_skilltree2.png"}
